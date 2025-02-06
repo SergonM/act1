@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Neurovascularization inhibiting dual responsive hydrogel for alleviating the progression of osteoarthritis</title>
+				<funder ref="#_WpV4w2J">
+					<orgName type="full">National Nature Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_cRTfxNP">
+					<orgName type="full">National Key Research and Development Program</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Wenpin</forename><surname>Qin</surname></persName>
+							<idno type="ORCID">0000-0003-3669-8095</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Stomatology</orgName>
+								<orgName type="institution" key="instit1">Tangdu Hospital</orgName>
+								<orgName type="institution" key="instit2">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhangyu</forename><surname>Ma</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Stomatology</orgName>
+								<orgName type="institution" key="instit1">Tangdu Hospital</orgName>
+								<orgName type="institution" key="instit2">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guo</forename><surname>Bai</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Oral Surgery</orgName>
+								<orgName type="institution" key="instit1">Shanghai Ninth People&apos;s Hospital</orgName>
+								<orgName type="institution" key="instit2">Shanghai Jiao Tong University School of Medicine</orgName>
+								<address>
+									<postCode>200011</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">College of Stomatology</orgName>
+								<orgName type="institution">Shanghai Jiao Tong University</orgName>
+								<address>
+									<postCode>200011</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">National Center for Stomatology</orgName>
+								<orgName type="department" key="dep2">Center for Oral Diseases</orgName>
+								<orgName type="institution" key="instit1">National Clinical Research</orgName>
+								<orgName type="institution" key="instit2">Shanghai Key Laboratory of Stomatology</orgName>
+								<orgName type="institution" key="instit3">Shanghai Research Institute of Stomatology</orgName>
+								<orgName type="institution" key="instit4">Research Unit of Oral and Maxillofacial Regenerative Medicine</orgName>
+								<orgName type="institution" key="instit5">Chinese Academy of Medical Sciences</orgName>
+								<address>
+									<postCode>200011</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ling</forename><surname>Li</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dongxiao</forename><surname>Hao</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuzhu</forename><surname>Wang</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jianfei</forename><surname>Yan</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiaoxiao</forename><surname>Han</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Stomatology</orgName>
+								<orgName type="institution" key="instit1">Tangdu Hospital</orgName>
+								<orgName type="institution" key="instit2">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wen</forename><surname>Niu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lina</forename><surname>Niu</surname></persName>
+							<idno type="ORCID">0000-0002-6653-0819</idno>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Kai</forename><surname>Jiao</surname></persName>
+							<email>kjiao1@163.com</email>
+							<idno type="ORCID">0000-0002-1901-8329</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Stomatology</orgName>
+								<orgName type="institution" key="instit1">Tangdu Hospital</orgName>
+								<orgName type="institution" key="instit2">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="laboratory">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">National Clinical Research Center for Oral Diseases</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Stomatology</orgName>
+								<orgName type="laboratory">Shaanxi Key Laboratory of Stomatology</orgName>
+								<orgName type="institution">The Fourth Military Medical University</orgName>
+								<address>
+									<postCode>710000</postCode>
+									<settlement>Xi&apos;an Shaanxi</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Neurovascularization inhibiting dual responsive hydrogel for alleviating the progression of osteoarthritis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DBD4C6254373A8B8700F3817C8A1E92F</idno>
+					<idno type="DOI">10.1038/s41467-025-56727-8</idno>
+					<note type="submission">Received: 22 May 2024 Accepted: 28 January 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:25+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Treating osteoarthritis (OA) associated pain is a challenge with the potential to significantly improve patients lives. Here, we report on a hydrogel for extracellular RNA scavenging and releasing bevacizumab to block neurovascularization at the osteochondral interface, thereby mitigating OA pain and disease progression. The hydrogel is formed by cross-linking aldehyde-phenylboronic acid-modified sodium alginate/polyethyleneimine-grafted protocatechuic acid (OSAP/PPCA) and bevacizumab sustained-release nanoparticles (BGN@Be), termed OSPPB. The dynamic Schiff base bonds and boronic ester bonds allow for injectability, self-healing, and pH/reactive oxygen species dual responsiveness. The OSPPB hydrogel can significantly inhibit angiogenesis and neurogenesis in vitro. In an in vivo OA model, intraarticular injection of OSPPB accelerates the healing process of condyles and alleviates chronic pain by inhibiting neurovascularization at the osteochondral interface. The injectable hydrogel represents a promising technique to treat OA and OA associated pain.</p><p>Osteoarthritis (OA) is the most common musculoskeletal disorder, with significantly high morbidity 1 . It affects more than 595 million people worldwide, leading to a significant health-system burden 1 . Osteoarthritis commonly causes pain, disability, and loss of function. To treat OA, pharmacotherapy, physiotherapy, and exercise are widely used. Pharmacotherapy often serves as an initial therapeutic intervention, aiming to promptly mitigate acute symptoms, while the latter two modalities play a complementary and sustaining role in the overall treatment strategy for OA. Pharmacotherapy includes non-steroidal anti-inflammatory drugs, paracetamol, opioids, and corticosteroids, focusing on the inhibition of inflammation and alleviating pain, but not addressing the pathological changes. Inevitably, the ultimate outcome is joint replacement surgery 1 . Currently, the most compelling evidence for pain and pathological changes centers on neurovascularization at the osteochondral interface 2 ; however, therapeutic and analgesic strategies specifically targeting neurovascularization have been notably underutilized 3 . A large number of nerves and vessels bud from the subchondral bone, penetrate the osteochondral interface, and invade avascular cartilage through vertical microcracks 4 . This penetration transports inflammatory mediators to the cartilage and accelerates</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>degradation and mineralization of the matrix, leading to condylar osteophyte formation and aggravation of OA-related pain <ref type="bibr" target="#b4">5</ref> . It also promotes mechanical and chemical osteoclast-chondrocyte crosstalk, which prompts abnormal subchondral bone remodeling and pain <ref type="bibr" target="#b2">3</ref> . Thus, neurovascularization at the osteochondral interface is a potential target for OA intervention.</p><p>Currently, several cytokines, such as tumor necrosis factor α and interleukin-1β, as well as growth factors, including nerve growth factor <ref type="bibr" target="#b5">6</ref> , vascular endothelial growth factor (VEGF) <ref type="bibr" target="#b6">7</ref> , and plateletderived growth factor BB <ref type="bibr" target="#b7">8</ref> , have been found to promote OA neurovascularization. In addition, previous research revealed that extracellular RNA (exRNA) serves as an organic polyanionic recruiter <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> that binds to and potentiates the function of polycationic neurovascular factors in OA <ref type="bibr" target="#b10">11</ref> . Further research also verified that intra-articular injection of nucleic acids can induce arthritis via pannus formation <ref type="bibr" target="#b11">12</ref> , and that controllable release of RNA can promote angiogenesis and osteogenesis <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> . Similarly, the pivotal role of exRNA in neurovascularization is also found in cardiovascular diseases <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> , which can modify the function of VEGF <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> . Based on these facts, an exRNA-scavenging strategy might outperform mere inhibition of neurovascular factors in OA pain management. To date, exRNA scavenging strategies have been widely used to cure diseases <ref type="bibr" target="#b18">19</ref> such as periodontitis <ref type="bibr" target="#b19">20</ref> , inflammatory bowel disease <ref type="bibr" target="#b20">21</ref> , obesity <ref type="bibr" target="#b21">22</ref> , severe sepsis <ref type="bibr" target="#b22">23</ref> , psoriasis <ref type="bibr" target="#b23">24</ref> , acute kidney injury <ref type="bibr" target="#b24">25</ref> , and rheumatoid arthritis <ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> . Despite the demonstrated effectiveness of this strategy in various diseases, the challenge of designing and realizing the responsive release of polycationic agents that can bind exRNA to mitigate toxicity remains a subject for further investigation.</p><p>Responsive hydrogels, which facilitate environmentally triggered drug release, have been extensively studied in OA treatment, promising to realize the responsive release of polycationic agents and mitigate toxicity <ref type="bibr" target="#b29">30</ref> . The substantial changes to the osteochondral microenvironment in OA are regarded as an ideal condition to realize controlled drug delivery. Specifically, the reactive oxygen species (ROS) level is significantly increased in the joints of patients with OA, and the pH of the synovial fluid and articular cartilage is as low as 6.0 or 6.3, respectively <ref type="bibr" target="#b30">31</ref> . When subjected to acidic and oxidative stress, stimulus-responsive bonds, exemplified by Schiff base bonds and boronic ester bonds <ref type="bibr" target="#b31">32</ref> , undergo cleavage, leading to the disintegration of hydrogel networks and the subsequent release of encapsulated drugs. We anticipate that a dual responsive hydrogel will facilitate the release of polycationic agents and inhibit neurovascularization at the osteochondral interface, which remains a significant challenge.</p><p>The temporomandibular joint (TMJ) is particularly vulnerable to OA, with an observed incidence rate of 14.56% in individuals under 30 years old, increasing to 28-32% in people aged between 30 and 80 <ref type="bibr" target="#b32">33</ref> . Previous research confirmed that pathological neurovascularization at the osteochondral interface of condyles in TMJOA <ref type="bibr" target="#b10">11</ref> is closely associated with maxillofacial pain. To inhibit TMJOA and alleviate pathological neurovascularization, we construct the OSPPB hydrogel system, formed by aldehyde-phenylboronic acid-modified sodium alginate/ polyethyleneimine-grafted protocatechuic acid (OSAP/PPCA) with bioactive glass nanoparticles (BGN) loaded with bevacizumab (BGN@Be). The OSPPB hydrogel has the following advantages: (1) The polycationic OSPPB hydrogel could scavenge polyanionic exRNA; (2) its pH/ROS dual responsiveness realizes the on-demand release of active ingredients; and (3) sequential delivery of active ingredients promotes structural restoration (Fig. <ref type="figure" target="#fig_0">1</ref>). Subsequently, we evaluate its inhibitory function on neurons and endothelial cells in vitro, and investigate its impact on condylar neurovascularization and continuously aggravated pain in a mouse unilateral-anterior-crossbite TMJOA model <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref> . This investigation posits that OSPPB hydrogel scavenges exRNA, inhibits neurovascularization, and rescues the progression of TMJOA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Preparation and characterization of OSAP, PPCA, and BGN@Be The fabrication process of the OSPPB hydrogel is shown in Fig. <ref type="figure" target="#fig_1">2a</ref>. To construct the OSPPB hydrogel, we cross-linked the aldehydephenylboronic acid-modified sodium alginate (OSAP) to the polyethyleneimine-grafted protocatechuic acid (PPCA) molecular backbone via the formation of dynamic boronic ester bonds and Schiff base bonds, and added BGN@Be through coordination interactions. The boronic ester bonds were established by crosslinking of the OSAP boronic acid groups with the PPCA catechol groups. Concurrently, the PPCA amino groups were crosslinked with the OSAP aldehyde groups to form Schiff base bonds.</p><p>3-aminobenzeneboronic acid was grafted onto sodium alginate to yield the SAP polymers (Fig. <ref type="figure" target="#fig_1">2a</ref>). Subsequently, sodium periodate was used to oxidize the hydroxyl groups of SAP to obtain the OSAP polymers, with boronic acid groups and aldehyde groups. Attenuated total reflection-Fourier transform infrared spectroscopy (ATR-FTIR) (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>) confirmed the construction of the OSAP polymers. The peaks at 708 cm -1 , 1485 cm -1 , 1339 cm -1 , and 1735 cm -1 indicated the C-H bending vibration of m-substituted benzene, phenyl groups, B-O vibration, and the aldehyde group, respectively <ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38</ref> . The PPCA polymer was synthesized via an amidation reaction, which involved the conjugation of carboxyl groups from protocatechuic acid with amino groups present in polyethyleneimine (Fig. <ref type="figure" target="#fig_1">2a</ref>). The chemical structures of the PPCA polymers were tested using ATR-FTIR spectroscopy (Supplementary Fig. <ref type="figure" target="#fig_1">2</ref>). The band at 1556 cm -1 was attributed to N-H bending of amine, and a new absorption peak at 1643 cm -1 represented the carboxamide I band. The as-prepared BGN exhibited a uniform and spherical morphology, with a relatively homogeneous particle size (~240 nm) (Supplementary Fig. <ref type="figure" target="#fig_2">3a,</ref><ref type="figure">b</ref>). Subsequently, BGN@Be was fabricated based on the coordination interactions between Ca 2+ and bevacizumab. The transmission electron microscopy images clearly revealed the beads-on-a-string structure of BGN@Be, indicating that bevacizumab was successfully wrapped onto BGN (Supplementary Fig. <ref type="figure" target="#fig_2">3a</ref>). Nanoparticle tracking analysis revealed its bigger size (approximately 424 nm) and X-ray diffraction confirmed that bevacizumab grafting did not affect the structure of BGN (Supplementary Fig. <ref type="figure" target="#fig_2">3b,</ref><ref type="figure">c</ref>). After soaking in phosphate-buffered saline (PBS) for 21 days, the BGN@Be became very loose (Supplementary Fig. <ref type="figure" target="#fig_2">3a</ref>), indicating its degradability. The amounts of Si (89% within 10 days, followed by a plateau phase) and bevacizumab (90% within 7 days, followed by a plateau phase) from BGN@Be increased significantly with soaking time, confirming its slow release performance (Supplementary Fig. <ref type="figure" target="#fig_2">3d,</ref><ref type="figure">e</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OSPPB hydrogel preparation and characterization</head><p>To obtain the OSPPB hydrogel, BGN@Be-dispersed OSAP solution and BGN@Be-dispersed PPCA solution were mixed by vortexing. The hydrogel formed within 3 s, due to the formation of dynamic boronic ester bonds and Schiff base bonds (Fig. <ref type="figure" target="#fig_1">2b</ref>). The chemical structure of the hydrogel was confirmed using ATR-FTIR spectroscopy. The new peak at 1431 cm -1 of the hydrogel was attributed to the boronic ester bonds <ref type="bibr" target="#b38">39</ref> , and the disappearance of the characteristic peak at 1735 cm -1 indicated that the aldehyde groups were involved in Schiff base reactions (Fig. <ref type="figure" target="#fig_1">2c</ref>) <ref type="bibr" target="#b37">38</ref> . Next, the hydrogel microstructure and the distribution pattern of BGN@Be in the hydrogel were assessed using scanning electron microscopy and energy-dispersive spectroscopy. Both the OSPP (composed of OSAP polymers and PPCA polymers) and OSPPB hydrogels exhibited a homogeneous porous three-dimensional structure, with approximately 200 μm micropores (Fig. <ref type="figure" target="#fig_1">2d</ref>). However, they differed in their surface morphology, wherein the OSPPB hydrogel was uniquely marked by scattered distribution of BGN on its surface (The red circles in Fig. <ref type="figure" target="#fig_1">2d</ref>). In other words, the incorporation of BGN@Be did not influence the porous structure of the hydrogel. Moreover, the presence of elemental Si, Ca, and P in the red circles (areas with BGN@Be distribution), besides the absence of them out of red circles of OSPPB hydrogel (areas without BGN@Be distribution) and OSPP hydrogel, further confirmed BGN@Be incorporation into the OSPPB hydrogel (Fig. <ref type="figure" target="#fig_1">2e</ref> and Supplementary Fig. <ref type="figure" target="#fig_3">4</ref>).</p><p>The dynamic Schiff base bonds and boronic ester bonds endowed the OSPPB hydrogel with multiple favorable characteristics, e.g., remolding, injectability, self-healing, and pH/ROS dualresponsiveness. As shown in Fig. <ref type="figure" target="#fig_1">2b</ref> 1-2, the OSPPB hydrogel exhibited excellent remodeling properties and injectability. To demonstrate this, the hydrogel was injected using a 26G needle to write the letter "J".</p><p>As depicted in Fig. <ref type="figure" target="#fig_1">2b</ref> 3-6, we tested its self-healing property. Before the OSPPB hydrogel was cut into two equal parts, it was formed into a cylindrical shape. Then, the tears were reattached for 10 min in 37 °C. The two parts of the hydrogel gradually merged together to form a monolithic hydrogel, which had sufficient mechanical stiffness to be picked up readily using tweezers, without any fractures along the contact interface. Furthermore, we examined the versatile rheological properties of the hydrogels using a rheometer (Fig. <ref type="figure" target="#fig_1">2f,</ref><ref type="figure">g</ref>). Both the OSPP and OSPPB hydrogels showed a steady storage modulus (G') and loss modulus (G") in the frequency sweep sequence and time sweep  sequence. G' &gt; G" confirmed the successful formation of the hydrogel (Fig. <ref type="figure" target="#fig_1">2f</ref>). Compared with the lower G' observed in the OSPP hydrogel (129.46 ± 3.09 Pa), the higher G' in the OSPPB (354.42 ± 3.97 Pa) confirmed its augmented gel formation characteristics, indicative of a more robust and structurally resilient gel network. The incorporation of BGN@Be into the hydrogel increased its linear viscoelastic zone (Fig. <ref type="figure" target="#fig_1">2f</ref>). Besides, the viscosity curves of the two hydrogels were comparable, exhibiting a non-Newtonian shear thinning behavior because the viscosity decreased with increasing shear rate (Fig. <ref type="figure" target="#fig_1">2g</ref>). These properties facilitated intra-articular injection, without influencing the hydrogel structure.</p><p>Considering its potential pH/ROS dual-responsiveness, we examined the hydrogel pH-and ROS-response variation. Low pH and high ROS environments were simulated using HCl and H 2 O 2 , respectively (Fig. <ref type="figure" target="#fig_2">3a-d</ref>). Low pH or high ROS stimulation induced rapid hydrogel collapse and transformation into a liquid-like state (Fig. <ref type="figure" target="#fig_2">3a</ref>). The rheological results revealed that there were marked drop in the G' of the OSPPB hydrogel after low pH (76.76 Pa at 0.1 Hz) or high ROS stimulation (74.53 Pa at 0.1 Hz). And this drop was much more pronounced with both stimuli, with G' reducing to 17.133 Pa at 0.1 Hz (Fig. <ref type="figure" target="#fig_2">3b</ref>). And the SEM results revealed that, while there were still visible pores in the groups subjected to either ROS (31.50% porosity) or pH (37.04% porosity) stimulation alone, the pores in the ROS + pH group (13.08% porosity) had collapsed, indicating network disintegration (Fig. <ref type="figure" target="#fig_2">3c,</ref><ref type="figure">d</ref>). These results provided strong evidence that the OSPPB hydrogel exhibited pH/ROS dual-responsiveness. This pH/ROS dual-responsiveness allowed it to disintegrate completely within 6 days (Fig. <ref type="figure" target="#fig_2">3e</ref>). Moreover, the progressive elevation of the sulfur content in the supernatant, exclusively attributed to bevacizumab within the hydrogel, signified a controlled and gradual release of bevacizumab from the hydrogel matrix (Fig. <ref type="figure" target="#fig_2">3f</ref>). The dissociation of Schiff base bonds and boronic ester bonds imparted its pH/ROS dualresponsiveness.</p><p>To test its hemocompatibility, different concentrations of extracts were incubated with red blood cells. The optical results were similar among the different concentration groups (0 μg/mL to 300 μg/ mL), indicating that a safe hemolysis rate (below 5%) was obtained when the concentration was lower than 300 μg/mL (Supplementary Fig. <ref type="figure" target="#fig_4">5</ref>). The hydrogel's antioxidant effect was verified using a 2,2diphenyl-1-picrylhydrazyl (DPPH) scavenging assay. The DPPH scavenging rate of the low-concentration extract was comparable to that of Vitamin C (positive control) (Fig. <ref type="figure" target="#fig_2">3g</ref>). Low concentrations were chosen for this experiment because of the inherent dark coloration of both the hydrogel and extracts, thereby minimally impacting the results. However, in the 50 μg/mL group, a marked darkening occurred, which could not be definitively attributed to either an increase in the OSPPB concentration or a decrease in antioxidant capacity. Hence, this experiment only qualitatively confirmed the antioxidant properties of the OSPPB hydrogel. This property might help to reduce the inflammatory response and alleviate oxidative stress in vivo, thus treating OA.</p><p>Positive charge and nucleic acid scavenging property are important parameters for this hydrogel. The electrostatic charge determines its nucleic acid scavenging property, since their binding depends on electrostatic interactions <ref type="bibr" target="#b25">26</ref> . The zeta potential of OSPPB confirmed its positive charge (Fig. <ref type="figure" target="#fig_2">3h</ref>). The binding test showed that little Cy3 remained on the dishes after OSPPB treatment, which verified that the OSPPB hydrogel disturbed the binding between VEGF and RNA (Fig. <ref type="figure" target="#fig_2">3i-k</ref>). Furthermore, molecular dynamics simulations validated that, within the same system at pH 6.5, PEI exhibited an enhanced propensity for RNA interaction relative to VEGF (Fig. <ref type="figure" target="#fig_2">3l</ref>). This notable nucleic acid scavenging property would enable the OSPPB hydrogel to capture the exRNA in osteoarthritic condyles, with the potential to inhibit abnormal neurovascularization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>OSPPB hydrogel-mediated inhibitory effects on neurovascularization in vitro</head><p>Inhibiting the function of peripheral nerves and endothelial cells is the crucial criteria for the OSPPB hydrogel. Hence, the effects of the OSPPB hydrogel on trigeminal ganglion (TG) cells and endothelial progenitor cells (EPCs) were tested in vitro. The LIVE-DEAD staining of EPCs (Supplementary Fig. <ref type="figure" target="#fig_5">6</ref>) and the cell counting kit-8 results (Supplementary Fig. <ref type="figure" target="#fig_6">7</ref>) showed no variations in cell viability after co-culture with the OSPPB hydrogel. We then evaluated angiogenesis by EPC migration and tube formation, and evaluated neurogenesis by the morphology and axonal growth of TG cells (Fig. <ref type="figure" target="#fig_3">4a,</ref><ref type="figure">b</ref>). Specifically, EPC migration was analyzed by a wound scratch experiment and a Transwell assay. RNA-VEGF treatment shortened the scratch and increased the migrated cell counts. However, treatment with PPCA and BGN@Be displayed a slight inhibitory effect on this process, whereas the OSPPB hydrogel demonstrated a stronger suppressive function (Fig. <ref type="figure" target="#fig_3">4a,</ref><ref type="figure">c,</ref><ref type="figure">d</ref>). Additionally, treatment with hydrogel caused a blockade of RNA-VEGF-stimulated EPC tube-formation in Matrigel (Fig. <ref type="figure" target="#fig_3">4a</ref>). The morphology and axonal growth of TG cells were measured by crystal violet staining and immunofluorescence staining of β3-tubulin. Compared with RNA-VEGF-treated TG cells, cells treated with PPCA, BGN@Be and OSPPB hydrogel exhibited a shorter dendritic length, fewer interactions, and a much less elaborate morphology (Fig. <ref type="figure" target="#fig_3">4b,</ref><ref type="figure">e,</ref><ref type="figure">f</ref>). Experiments with the hydrogel's diverse components revealed that OSAP lacked inhibitory activity, with PPCA and BGN@Be identified as the key bioactive constituents. Despite PPCA and BGN@Be's inhibitory effects on neurovascularization, their efficacy is surpassed by the better inhibitory capacity of the OSPPB hydrogel. These results suggest that the OSPPB hydrogel could inhibit angiogenesis and neurogenesis in vitro.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of the OSPPB hydrogel on TMJOA progression in vivo</head><p>Next, we constructed a unilateral crossbite (UAC) mouse model <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref> to evaluate the hydrogel's function on TMJOA in vivo (Fig. <ref type="figure" target="#fig_4">5a</ref>). The UAC procedure and intra-articular OSPPB hydrogel injection were conducted in 1 day. Since nonsteroidal anti-inflammatory drugs serve as a first-line treatment for relieving arthritis pain, we used celecoxib administered daily by oral gavage as a positive control. During the whole experiment, all mice survived well without infection. Three weeks after injection, the mice were sacrificed and the condyles and major organs were harvested. Histological analysis showed no inflammatory infiltration or obvious damage in the major organs, including the heart, liver, spleen, lungs, and kidneys (Supplementary Fig. <ref type="figure" target="#fig_7">8</ref>). Immunofluorescence showed that the rhodamine B-stained OSPPB hydrogel was distributed to both cartilage and subchondral bone in the UAC group after intra-articular injection (Supplementary Fig. <ref type="figure">9</ref>). These data proved that the positively-charged OSPPB hydrogel was biocompatible and could overcome the "joint barrier" <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b39">40</ref> to target the osteochondral interface.</p><p>Stereomicroscopic observation identified randomly scattered new vessels in the UAC + Veh and UAC + Celecoxib group, but not in the UAC + OSPPB group (Fig. <ref type="figure" target="#fig_4">5b</ref>). The results of hematoxylin and eosin (H&amp;E) and Safranin O/fast green staining further showed the healing effect on TMJ condyles in the OSPPB-treated group, with a lower Osteoarthritis Research Society International (OARSI) score, fewer capillaries, a thicker cartilage layer, and more proteoglycan in the condyles (Fig. <ref type="figure" target="#fig_4">5c1,</ref><ref type="figure" target="#fig_1">c2,</ref>). Silver staining revealed fewer nerve fibers after OSPPB treatment (Fig. <ref type="figure" target="#fig_4">5c3,</ref><ref type="figure">h</ref>). In addition, the total length of micro-fractures increased in the UAC mice, decreased notably with OSPPB hydrogel treatment, and marginally reduced in the UAC + Celecoxib group (Fig. <ref type="figure" target="#fig_4">5c4,</ref><ref type="figure">i</ref>). Through these fractures, the nerves, vessels, inflammatory factors, and enzymes invade cartilage to establish the "osteoclast-chondrocyte crosstalk", eventually accelerating OA <ref type="bibr" target="#b2">3</ref> . Three-dimensional reconstruction from micro-computed tomography scans indicated smoother articular surfaces in the OSPPB group, without erosion or irregularities (Fig. <ref type="figure" target="#fig_4">5c5</ref>). The quantitative results further confirmed the increment of bone mineral density following the application of OSPPB, with Celecoxib showing a less pronounced effect (Fig. <ref type="figure" target="#fig_4">5j,</ref><ref type="figure">k</ref>). Quantitative real-time reverse transcription polymerase chain reaction also proved that injection of the OSPPB hydrogel altered the pro-angiogenic and pro-neurogenic microenvironment in osteoarthritic condyles (Fig. <ref type="figure" target="#fig_4">5l</ref>).</p><p>The osteochondral interface (approximately 50 μm thick) ensures a smooth transition from condyle cartilage to the subchondral bone physiologically <ref type="bibr" target="#b40">41</ref> . However, its microstructural, micromechanical, nanocompositional, and biomolecular features change remarkably in OA <ref type="bibr" target="#b41">42</ref> . Consequently, we checked the remodeling of the osteochondral interface by atomic force microscopy and SEM-energy-dispersive X-ray spectroscopy (SEM-EDS) (Fig. <ref type="figure" target="#fig_5">6</ref>). The atomic force microscopy results showed that the Young's modulus of the osteochondral interface increased gradually, from 0.72 ± 0.22 MPa to 9.06 ± 0.53 MPa in the Control condyles. However, the gradation in tissue modulus was misarranged in UAC group, with a stiffer matrix (up to 17.04 MPa), which was restored after treatment with OSPPB but not Celecoxib (Fig. <ref type="figure" target="#fig_5">6a</ref>). As illustrated in Fig. <ref type="figure" target="#fig_5">6b</ref>, the Ca and P distributions were notably extended into the condylar cartilage in the UAC group and UAC+Celecoxib group. By contrast, condyles treated with the OSPPB hydrogel displayed Ca and P elemental mappings that closely mimicked those of the Control group. We distinguished the condylar cartilage from subchondral bone based on backscattered electron imaging (Supplementary Fig. <ref type="figure" target="#fig_0">10</ref>), because of their differences on inorganic and organic components <ref type="bibr" target="#b41">42</ref> . Neurovascularization at the osteochondral interface ultimately leads to alterations in its microstructure and micromechanical properties, which are intimately associated with the progression of arthritis <ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44</ref> . We substantiated that the OSPPB hydrogel could alleviate the microstructural and micromechanical changes induced by TMJOA. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effect of the OSPPB hydrogel on osteoarthritic pain in vivo</head><p>Through histological and microstructural characterizations, the restorative effect of OSPPB on TMJOA was confirmed; however, whether this treatment could alleviate osteoarthritic pain remained unknown. Pain cannot be measured directly in rodents; therefore, "pain-like behavior" was tested. Spontaneous behavioral responses (the Elevated Plus Maze (EPM) and Open Field Test (OFT)) and evoked behavioral responses (von Frey and electroencephalography) were assessed. Classically, the EPM and OFT were developed to evaluate anxiety in rodents <ref type="bibr" target="#b44">45</ref> . Given that persistent pain can eventually lead to anxiety <ref type="bibr" target="#b45">46</ref> , we employed these two behavioral tests before sacrifice to indirectly decipher the analgesic effectiveness of the OSPPB hydrogel and Celecoxib on TMJOA-induced pain. Increased open arm entries, the open arm time, and total arm entries in EPM substantiated the alleviation of anxiety-like behavior by the Celecoxib and OSPPB hydrogel (Fig. <ref type="figure" target="#fig_6">7a, c-e</ref>). The results from the OFT were consistent with this observation (Fig. <ref type="figure" target="#fig_6">7b, f-h</ref>). Based on these observations, it was speculated that the Celecoxib and OSPPB hydrogel administration might relieve the persistent pain-induced anxiety. To evaluate the maxillofacial pain intuitively, mechanical allodynia caused by the von Frey fiber was tested. The withdrawal threshold decreased significantly in UAC + Veh group, but returned to control levels after treatment with the Celecoxib and OSPPB hydrogel (Fig. <ref type="figure" target="#fig_6">7i</ref>). In addition, an electroencephalogram of the primary sensory cortex S1BF <ref type="bibr" target="#b46">47</ref> was captured immediately following small brush stimulation (Fig. <ref type="figure" target="#fig_6">7j</ref>). The low timestamp precision meant that some interference occurred around the intended timestamps. Nonetheless, we observed lower spectral energy after Celecoxib and OSPPB treatment in the low frequency band (0-20 Hz), which was similar to that of the Control group. These preliminary results indicated that mice exhibited significant alleviation of maxillofacial pain after receiving Celecoxib and OSPPB hydrogel treatment.</p><p>Additional experiments were performed to validate the significant anatomical changes related to pain relief. The co-staining of SYTO RNASelect Green Fluorescent Cell Stain (an RNA-specific stain) and E-cadherin (cytomembrane) was used to identify exRNA at the osteochondral interface. The extracellular flocculently-arranged RNA far away from E-cadherin-positive area was defined as exRNA in immunofluorescence staining <ref type="bibr" target="#b10">11</ref> . As shown in Fig. <ref type="figure" target="#fig_7">8a,</ref><ref type="figure">d</ref>, the amount of exRNA decreased after OSPPB hydrogel but not Celecoxib treatment. The anterograde tracing exhibited a reduced distribution of trigeminal ganglion derived-axon endings in the UAC + OSPPB group (Fig. <ref type="figure" target="#fig_7">8b,</ref><ref type="figure">e</ref>). Besides, the results from confocal laser scanning microscopy of protein gene product 9.5 (PGP 9.5) and calcitonin gene-related peptide Data are shown as the means and standard deviations. Kruskal-Wallis (KW) test is followed by Dunn's test for post hoc multiple comparisons in (d, g, h). One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons in (e, f, i-l). (CGRP) were consistent with the aforementioned findings (Fig. <ref type="figure" target="#fig_7">8b,</ref><ref type="figure">f,</ref><ref type="figure">g</ref>). Also, compared with UAC + Celecoxib group, the platelet and endothelial cell adhesion molecule 1 (PECAM1, also known as CD31) positive vessels and the neurovascular factor VEGF levels diminished after OSPPB hydrogel treatment (Fig. <ref type="figure" target="#fig_7">8c,</ref><ref type="figure">h</ref>). The expression of several factors closely related to skeletal interoception and pain <ref type="bibr" target="#b47">48</ref> , including Cyclooxygenase 2, DCC netrin 1 receptor (DCC), and substance P (SP), were further scrutinized, and the results revealed the reduction in pain mediators after OSPPB hydrogel treatment (Fig. <ref type="figure" target="#fig_7">8c, i-k</ref>). Taken altogether, these data indicated that Celecoxib demonstrated therapeutic efficacy primarily in pain alleviation, yet its influence on regenerative microenvironment was found to be substantially limited. However, the OSPPB hydrogel effectively hampered neurovascularization at the osteochondral interface and alleviated osteoarthritic pain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this study, we fabricated a dual-responsive OSPPB hydrogel to inhibit neurovascularization at the osteochondral interface in OA. This multifunctional hydrogel comprised an OSAP polymer, a PPCA polymer, and BGN@Be. The OSPPB hydrogel was formed through a reversible Schiff base bonds and boronic ester bonds between OSAP and PPCA, and Ca 2+ coordination between BGN and OSAP. The presence of the Schiff base bonds and borate ester bonds meant that the OSPPB hydrogel exhibited self-healing, injectability, dual-responsiveness, and could realize sequential and on-demand delivery of drugs. It scavenged exRNA via polycationic PPCA and neutralized the function of VEGF via BGN@Be. Consequently, it not only directly suppressed the activity of neurovascular factors, but also interfered with their recruitment process, ultimately resulting in significant inhibition of neurovascularization at the osteochondral interface.</p><p>This study builds on the previous mechanistic research and extends into the exploration of biomaterials. The previous data have shown that exRNAs have the ability to recruit polycationic neurovascular factors, which further amplified abnormal neurovascularization in the osteoarthritic condylar joint and resulted in unbearable pain <ref type="bibr" target="#b10">11</ref> . Besides, given that the osteochondral microenvironment in OA exhibits elevated levels of ROS and a decreased pH <ref type="bibr" target="#b30">31</ref> , we have designed this unique material to achieve precise intervention in the neurovascularization in OA. This article follows a logical sequence from material synthesis, through in vitro experiments, to in vivo testing, systematically validating the efficacy of the hydrogel. Firstly, we fabricated OSPPB hydrogel, following synthesization and characterization of three functional components, OSAP, PPCA and BGN@Be. To validate its gelation, injectability, self-healing, ROS-pH responsiveness, antioxidant properties, positive charge, and biocompatibility, we employed various methods and presented the results in Figs. <ref type="figure" target="#fig_0">1</ref> and<ref type="figure" target="#fig_1">2</ref>. Secondly, we demonstrated in vitro that the hydrogel inhibits the function of EPC and TG cells, confirming that the primary active components are PPCA and BGN@Be. Thirdly, we compared the OSPPB hydrogel with the commonly-used celecoxib in in vivo experiments, and confirmed its effectiveness in inhibiting OA disease progression and alleviating OA pain. This research further supports the mechanism that exRNA promotes neurovascularization and leads to OA disease progression, and provides a new therapeutic approach and offers insights into the development of inorganic-organic composite materials.</p><p>There is a growing consensus that neurovascularization at the osteochondral interface represents a pivotal pathological change underpinning the chronic pain and progressive articular degradation in OA. Consequently, mechanistic research and therapeutic interventions targeting this pathological change in OA have gained increasing attention. On the one hand, mechanistic research has primarily focused on neurovascular factors. Research has demonstrated that the knockout of Ntn1 (encoding Netrin1) in tartrate-resistant acid phosphatase positive osteoclasts effectively inhibited aberrant subchondral bone remodeling, sensory nerve sprouting, and reduced osteoarthritic pain behavior <ref type="bibr" target="#b48">49</ref> . Moreover, nerve growth factor directly activated nociceptive sensory nerves and induced immune activation, thereby impacting the subchondral bone environment and leading to osteoarthritic pain <ref type="bibr" target="#b49">50</ref> . Notably, anti-nerve growth factor antibodies preliminarily exerted anti-inflammatory properties and pain control capabilities; however, they are associated with certain side effects and safety concerns <ref type="bibr" target="#b49">50</ref> . Ma established the distinct roles of VEGF in promoting joint pathogenesis via VEGF Receptor 1 and exacerbating jointrelated nociception via VEGF Receptor 2 <ref type="bibr" target="#b50">51</ref> , and innovatively utilized nanotechnology-based particles for OA treatment <ref type="bibr" target="#b51">52</ref> . On the other hand, there is also compelling evidence underscoring the importance of the recruitment of neurovascular factors. Polyanionic exRNA could facilitate the mobilization of positively charged neurovascular factors, thereby contributing to the induction of neurovascularization <ref type="bibr" target="#b10">11</ref> . Moreover, exRNA could also directly induce angiogenesis, which was inhibited by RNase <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b52">53</ref> . The present study fabricated an OSPPB hydrogel incorporating positively charged PPCA and bevacizumab-loaded BGN, which was capable of concurrently scavenging exRNA and blocking VEGF. The in vitro findings revealed a pronounced functional suppression of both TG cells and EPCs. Celecoxib, a nonsteroidal antiinflammatory drug widely employed in OA management, served as first-line treatment in in vivo studies <ref type="bibr" target="#b4">5</ref> . Results indicated that celecoxib efficaciously alleviated pain yet exerted minimal impact on optimizing the OA microenvironment, including OARSI scores, neurovascular patterns and bone density. Conversely, OSPPB hydrogel treatment matched celecoxib's analgesic efficacy and demonstrably ameliorated OA conditions. This underscored OSPPB intervention manifested remarkable efficacy in inhibiting neurovascularization, suppressing joint destruction, and ameliorating the persistent pain associated with OA.</p><p>Compared with Ma's research, which used nano-particles to deliver anti-VEGF antibodies <ref type="bibr" target="#b51">52</ref> , our study utilized a hydrogel incorporated with bevacizumab-loaded BGN, with enhanced biocompatibility and an on-demand release ability. Over recent decades, the strategy of treating OA has evolved from mono-component, mono-function to multi-component, multi-function strategies <ref type="bibr" target="#b53">54</ref> . The responsiveness and targetability of hydrogels are essential attributes to optimize precise drug delivery and minimize off-target effects <ref type="bibr" target="#b30">31</ref> . The OSPPB hydrogel incorporated Schiff base bonds and boronic ester bonds, endowing it with superior sensitivity to high ROS levels and acidic environments, thus allowing for stimuli-responsiveness and the controlled release of bioactive payloads. Moreover, the incorporation of positively charged PPCA allowed accumulation at the osteochondral interface through passive targeting <ref type="bibr" target="#b30">31</ref> . The above two characteristics (responsiveness and specificity) determined the applicability of the hydrogel, whereas the embedded active ingredients fundamentally dictated its overall effectiveness. Currently, hydrogels mainly contribute to OA treatment through three principal modalities: lubrication, drug delivery, and tissue repair <ref type="bibr" target="#b53">54</ref> . From the aspect of lubrication, hydrogels typically enhance lubrication by forming a viscoelastic hydration layer on the cartilage surface through hydrogen bonding, coordination interactions, and electrostatic interactions. In this study, we selected sodium alginate, a widely recognized and naturally sourced polysaccharide extracted from marine algae, as the foundational component, leveraging its established lubricating properties <ref type="bibr" target="#b54">55</ref> . Regarding drug delivery, a hydrogel should exhibit a remarkable capacity for sustained and efficient drug release, to mitigate potential adverse effects often associated with immediate release. Specifically, the OSPPB hydrogel realized the responsive release of the active constituents, including PPCA and BGN@Be. The later one possessed a controllable nanostructure, which allowed for the effective slow release of the loaded drug, bevacizumab. In the context of tissue repair, the endeavor to fully reconstruct and reconstitute the intricate architecture and physiological functionality of articular cartilage and osteochondral tissues remains a significant scientific challenge. In this study, we employed BGN@Be, characterized by their excellent biodegradability, straightforward synthesis process, and effective tissue repair capabilities <ref type="bibr" target="#b55">56,</ref><ref type="bibr" target="#b56">57</ref> . BGN@Be realized that its early release of bevacizumab effectively inhibited pathological neurovascularization, followed by a subsequent slow release of bioactive ions, which has been proven to facilitate tissue repair <ref type="bibr" target="#b55">56,</ref><ref type="bibr" target="#b56">57</ref> . This dual functionality ensured the structural restoration and functional rehabilitation of arthritic tissues, thereby embodying a sophisticated approach to therapeutic intervention. These key functional aspects have been meticulously considered in the OSPPB hydrogel, further substantiating its superiority in addressing OA treatment challenges.</p><p>Despite the auspicious therapeutic outcomes observed in TMJOA treatment using the OSPPB hydrogel, several limitations require explanation and further refinement. Firstly, the therapeutic effectiveness of the OSPPB hydrogel was only substantiated using murine OA models; thus, the validity of these findings necessitates further exploration in larger animal models. Secondly, the present study only investigated the suppressive capability of the OSPPB hydrogel concerning vessels and sensory nerves; however, its potential impact on sympathetic nerves is unknown. This is particularly pertinent because of the function of sympathetic nerves in skeletal interoception, and the well-established anatomical and functional interdependence between sympathetic nerves and the vascular network <ref type="bibr" target="#b47">48,</ref><ref type="bibr" target="#b57">58,</ref><ref type="bibr" target="#b58">59</ref> . Thirdly, the synthesis and storage of hydrogels incorporating Schiff base bonds and boronic ester bonds requires a sophisticated methodology, which might limit the large-scale reproducibility and widespread practical deployment of such hydrogels. Fourthly, the real-time monitoring of ROS and pH changes within the joint, as well as the real-time degradation of the hydrogel, has not yet been achieved. This will require further investigation in future studies. Additionally, the reactivity of the degradation products with other cells in the OA microenvironment also warrants further investigation. For example, whether the degraded hydrogel components are phagocytosed by macrophages and lead to their polarization, and how this affects OA tissue repair and pain <ref type="bibr" target="#b59">60</ref> , remains to be explored. Nevertheless, this newly developed OSPPB hydrogel, a kind of inorganic-organic composite materials, might also have the potential to treat diseases characterized by aberrant neurovascularization, such as tumors and heterotopic ossification, which requires further exploration and validation.</p><p>In conclusion, we synthesized an injectable, self-healing, pH/ROS dual-responsive, and polycationic hydrogel that reversed osteoarthritic changes and alleviated chronic pain by inhibiting neurovascularization at the osteochondral interface. The positive charged OSPPB hydrogel overcomes the "joint barrier", penetrates the cartilage matrix, and functions at the osteochondral interface. Stimulated by low pH and high ROS, the dynamic Schiff base bonds and boronic ester bonds rapidly cleave, leading to degradation of the hydrogel network, exposure of positively charged PPCA polymers, and the detachment of BGN@Be. Furthermore, exRNA scavenging and controlled release of bevacizumab directly inhibit neurovascularization, relieve pain, and restore the anatomical changes caused by OA. Although the results are preliminary, the reported OSPPB hydrogel-based strategy demonstrates noteworthy therapeutic efficacy in addressing TMJOA, thereby paving the way for development of an inspirational panacea for OA in other joints.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of OSPPB hydrogels</head><p>Preparation of OSAP. One gram of sodium alginate (S278630, Aladdin, Shanghai, China) was dissolved in 100 mL deionized water. After it was completely dissolved, 0.985 g of 1-(3-Dimethylaminopropyl)-3ethylcarbodiimide hydrochloride (EDC•HCl, E8170, Solarbio, Beijing, China) was added. Fifteen minutes later, 0.49 g of 3-aminophenyl boronic acid (924879, Jkchemical, Beijing, China) was added. The mixture was stirred for 24 h, and then dialyzed against water (molecular weight cut-off: 3500 Da, changed every 8 h) for 7 days at room temperature to remove the unreacted substance. After lyophilization, sodium alginate phenylboronic acid (SAP) was obtained. Then, 1 g of SAP was dissolved in 100 mL of deionized water for 2-3 h. Five milliliters of deionized water dispersed with 210 mg of NaIO 4 (S104093, Aladdin) was dripped into the SAP solution in the dark. Two and a half hours later, 1 mL of ethylene glycol (E808735, Macklin, Shanghai, China) was added and incubated for 1 h to neutralize the unreacted NaIO 4 . Dialysis and lyophilization were conducted as mentioned above to obtain OSAP. Until further use, SAP and OSAP were stored at 4 °C. The characterization of SAP and OSAP were conducted using ATR-FTIR.</p><p>Preparation of PPCA. Polyethyleneimine (4.5 g, E808879, Macklin) was dissolved in 20 mL of MES buffer solution (M301885, Macklin). Protocatechuic acid (308.24 mg, 367266, Jkchemical) and EDC•HCl (1.54 g) were dissolved in 80 mL of MES buffer solution under ice bath conditions for 0.5 h. Then, 920.72 mg of N-Hydroxysuccinimide (6066-82-6, Solarbio) was added and stirred for 12 h to active the carboxyl groups in the dark. This solution was then added into the previously prepared polyethyleneimine solution. After the reaction was stirred at room temperature in the dark for 24 h, dialysis was conducted for 7 days (molecular weight cut-off: 1800 Da, changed every 8 h). The dialysate was lyophilized to obtain PPCA and PPCA was stored at 4 °C for further analysis. The characterization of PPCA was conducted using ATR-FTIR.</p><p>Preparation of BGN@Be. The synthesis of BGN was performed according to Niu et al. <ref type="bibr" target="#b56">57</ref> , with a slight adjustment. In brief, the BGN nanoparticles, comprising SiO 2 -CaO-P 2 O 5 (mol.%) = 80:16:4, were synthesized by a sol-gel method and obtained by freeze-drying and high temperature calcination. Then, 20 mg of BGN was dispersed in 20 mL of PBS using ultrasonic treatment. Bevacizumab (50 μg; A2006, Selleck, Shanghai, China) was added, the mixture was stirred for 24 h in an ice bath, and centrifuged (4 °C, 11,433 × g, 15 min) to obtain the precipitate, and then washed with PBS three times. The BGN@Be powder was obtained by lyophilization and stored at 4 °C until further use. The morphology, size distribution, and phase structure were investigated using TEM, nanoparticle tracking analysis, and XRD, respectively. Degradation was detected using inductively coupled plasma-mass spectrometry (Agilent 7800, Agilent Technologies, Santa Clara, USA) and ultraviolet-visual (UV-Vis) spectrophotometry. The supernatant obtained after centrifugation (4 °C, 11,433 × g, 15 min) was processed daily and analyzed according to the instrument's instructions.</p><p>Synthesis of OSPPB hydrogels. For OSPPB hydrogel preparation, BGN@Be was dispersed in PBS at 1 mg/mL to obtain Solution A. Solution B was created by dissolving 100 mg of OSAP in 2 mL of Solution A. Solution C was prepared by dissolving 100 mg of PPCA in 2 mL Solution A. Then Solution B and Solution C were thoroughly blended to obtain the OSPPB hydrogel.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physiochemical characterization of the OSPPB hydrogels</head><p>Morphological characterization. To characterize the morphology of the hydrogel, the specimens were lyophilized, sputter-coated with gold, and examined by field-emission scanning electron microscopy (FE-SEM, S-4800, Hitachi, Tokyo, Japan) at a 5 kV accelerating voltage. Additionally, energy-dispersive X-ray spectroscopy (Element EDS System, Ametek, PA, USA) was used to characterize the mineral elemental composition and BGN@Be distribution in the OSPPB hydrogels.</p><p>ATR-FTIR. Specimens were scanned by ATR-FTIR (FTIR-8400S, Shimadzu, Tokyo, Japan) from 4000 to 400 cm -1 , with 32 scans averaged at a resolution of 4 cm -1 . Spectral analysis was performed using IR solution software (Shimadzu, Kyoto, Japan). Rheology measurements. A rheometer (NETZSCH Kinexus Lab+, Bayern, Germany) was used to measure the rheological properties of the OSPP and OSPPB hydrogels using 3 mL hydrogel for each test, which was carried out at 25 °C. The time sweep sequence of the OSPP and OSPPB hydrogels was performed at a fixed frequency (1 Hz) and fixed strain (1%). Besides, the frequency sweep sequence was conducted between 0.1 and 10 Hz under a fixed strain (2%). In the shearthinning test, the shear rate ranged from 0 to 100 s -1 , and the frequency and strain were maintained at 10 rad s -1 and 1%, respectively.</p><p>In vitro degradation of the hydrogel. Degradation of the OSPP and OSPPB hydrogels in vitro was investigated in PBS at 37 °C. Hydrogel samples were immersed by PBS after weighting and recording (M0, mg). Then, samples were taken out at specific times (1, 2, 3, 4, 5, and 6 days), dried with filter paper, weighed, and recorded (Mt, mg). The degradation ratio was calculated: Remaining hydrogel (%) = (Mt/M0) × 100%.</p><p>Response of the OSPPB hydrogel to pH and ROS change. Twenty microliters of HCl (pH = 5) were used to adjust the pH of the medium and apply pH stimulation. In addition, 20 μL of H 2 O 2 (1 mM) was used to increase the ROS of the medium and apply ROS stimulation. The OSPPB hydrogel stimulated using 1 mL of PBS + HCl + H 2 O 2 was placed at 37 °C for 4 h before photographing. Then, the stimulated hydrogels were conducted rheology measurements using rheometer (NETZSCH Kinexus Lab+, Bayern, Germany). The frequency sweep sequence was conducted between 0.1 and 10 Hz under a fixed strain (2%). After lyophilizing the samples, we used SEM for morphological examination.</p><p>Anti-inflammatory evaluation. We conducted a DPPH radical scavenging activity assay. Aqueous extracts of different concentrations were obtained by complete dissolution of the OSPPB hydrogel in PBS. Hydrogel extracts of different concentrations were dispersed in 3 mL of DPPH methanol solution (0.1 mg/mL). The DPPH methanol solution without materials and Vitamin C were chosen as antioxidant negative and positive controls, respectively. After photography, the mixture was shaken vigorously and allowed to stand at 37 °C for 30 min. The absorbance of the mixture was then measured at 528 nm.</p><p>Zeta potential. The OSPP and OSPPB extracts were tested initially for transmittance. The zeta potential was tested when the transmittance reached 80% using a Litesizer 500 particle analyzer (Anton Paar, Graz, Austria).</p><p>Binding test. VEGF pre-coated microtiter plate wells were obtained and blocked using Tris-buffered saline supplemented with 3% bovine serum albumin (821006, MilliporeSigma, Burlington, MA, USA). For group 1, Cy3-RNA (50 μL, 150 μg/mL, CY3-AAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, Sangon, Shanghai, China) and diethyl pyrocarbonate water (50 μL) were incubated in the wells at 22 °C for 2 h. For group 2, 50 μL of the OSPPB hydrogel replaced the diethyl pyrocarbonate water. For group 3, the wells obtained in group 1 were then incubated with 50 μL of the OSPPB hydrogel at 22 °C for another 2 h. The wells were then observed using CLSM (Nikon A1R, Nikon Corporation, Minato-ku, Tokyo, Japan), in which the residual Cy3 fluorescence referred to the bound RNA <ref type="bibr" target="#b10">11</ref> .</p><p>Molecular dynamics (MD) simulations. RNA structure was modeled based on our previous work <ref type="bibr" target="#b10">11</ref> . Initial coordinates of VEGF were taken from the global Protein Data Bank (PDB: 1VPF). The PEI was modeled using Charmm-gui (<ref type="url" target="https://charmm-gui.org">https://charmm-gui.org</ref>). Ten VEGF and ten PEI and a 50nt RNA were placed into a 260 × 242 × 235 Å3 rectangle box using packmol. Then 448805 TIP3P water molecules and 99 Na + were placed into the box using tleap module of AmberTools. The ff14SB, OL3, GAFF2 force field was used for the protein, RNA and PEI, respectively. The solvated system were energy minimized with 5000 step steepestdescent and 5000 step conjugate gradient algorithms. The system was then heated from 0 K to 300 K over 500 ps. Next, the system was further relaxed by restrained MD simulation with the force constant of 5.0 kcal/(mol Å2) in the canonical ensemble (NVT) ensemble and then constant number, pressure and temperature (NPT) ensemble for 500 ps for each until the energy, pressure and temperature reached equilibrium. T. Finally, 200 ns MD simulation was performed in the NPT ensemble (constant number of atoms, pressure, and temperature). The binding free energy is calculated by MM-GBSA method.</p><p>Hemolysis evaluation. One milliliter of heparinized mouse blood was suspended in 9 mL of PBS, and centrifuged to separate the red blood cells (257 × g, 5 min). Then, we repeated this process three times until the supernatant became clear. The RBC pellet was incubated with extracts at different concentrations for 1 h at 37 °C, followed by centrifugation (714 × g, 5 min, 4 °C). PBS and Triton X-100 (112298, Milli-poreSigma) were employed as the negative and positive controls, respectively. The photos were taken, and the absorbance of the supernatant was measured 540 nm.</p><p>In vitro experiments EPC culture. We cultured and treated EPCs according to the previous study <ref type="bibr" target="#b10">11</ref> . After sterilization with 75% ethanol for 24 h, the hydrogel was washed with PBS thoroughly to eliminate residual ethanol. The EPCs (Jennio Biotech, Guangdong, China) were obtained and the control medium was prepared by adding 1% penicillin/streptomycin (516106-20MLCN, MilliporeSigma) and 10% fetal bovine serum (Gibco, Thermo Fischer Scientific, Waltham, MA, USA) to Dulbecco's modified Eagle's medium (Hyclone, Logan, UT, USA). The EPCs were cultured at 37 °C in 5% CO 2 on the hydrogel at a density of 5 × 10 4 cells/mL, changing the medium every other day. The EPCs were divided into different groups: No treatment, VEGF (2.5 ng/mL), RNA-VEGF complex (2.5 ng/mL), and RNA-VEGF (2.5 ng/mL)-OSAP, RNA-VEGF (2.5 ng/mL)-PPCA, RNA-VEGF (2.5 ng/mL)-BGN@Be, and RNA-VEGF (2.5 ng/mL)-OSPPB. The EPCs were analyzed using a cell counting kit-8 assay (Dojindo, Tokyo, Japan) and live/dead cell staining according to the kit's instructions. For the cell scratch test, EPCs in monolayers were cultured in different conditioned media for 24 h after scratching. For the Transwell cell migration assay, the underside of the Transwell inserts was stained with crystal violet after 24 h of incubation. For the tube formation assay, the Matrigel matrix (Corning Inc., Corning, NY, USA) were used according to manufacturer's protocols. ImageJ software (National Institute of Health, Bethesda, MD, USA) was used to analyze the data.</p><p>TG neuron culture. The TG cells were isolated from neonatal Sprague-Dawley rats (1-5 days old) using a previously published protocol <ref type="bibr" target="#b10">11</ref> . In brief, after decapitation, the trigeminal ganglia were aseptically dissected and digested in an enzymatic cocktail (0.1% collagenase and 0.25% trypsin, Thermo Fisher Scientific). Following centrifugation, the pellet was resuspended and plated on poly-d-lysine hydrobromide (50 ng/mL, Thermo Fisher Scientific)-coated cell culture plates in Neurobasal media (Invitrogen, Waltham, MA, USA) containing 0.5 mM L-glutamine, 1% penicillin-streptomycin, and 2% B-27 (Gibco). The cells were incubated in 5% CO 2 at 37 °C, changing the medium every other day. Four hours later, the TG neurons were divided into seven groups as mentioned in section "EPC culture". The immunofluorescence staining of β3-tubulin (1:300, ab18207, Abcam, Cambridge, UK) and crystal violet were used to reveal its axonal morphology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Animal experiments</head><p>Animals and ethics statement. Forty-eight female C57BL/6J mice (8 weeks old, 17-19 g) and thirty Sprague-Dawley rats (1-5 days old) were purchased from the Laboratory Animal Center of the Forth Military Medical University. Animals were housed in a controlled environment set at 24 °C and 55% humidity, with a 12-h light/dark cycle. Females show a high morbidity rate of TMJOA 61 ; therefore, only female animals were used. The animal protocols were approved by the Institutional Animal Care and Use Committee of the Forth Military Medical University (IACUC-20240011) and were caried out according to the "Animal Research: Reporting of In Vivo Experiments" guidelines for preclinical animal studies.</p><p>Murine OA model and in vivo injection. Mice were randomly divided into four groups: the sham-operated control group (CON), the unilateral anterior crossbite + vehicle group (UAC + Veh, Veh meant PBS), the unilateral anterior crossbite + Celecoxib gavage (UAC + Celecoxib) and the unilateral anterior crossbite + OSPPB injection group (UAC + OSPPB). Mice treated with UAC were anesthetized with 1% intraperitoneal sodium pentobarbital and the UAC procedure was applied by adhering a metal tube to the left incisor <ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref> . Mice in the CON group went through a similar procedure, but without metal tube fixation.</p><p>For TMJ injection, mice were anesthetized and placed on one side. A needle with a custom-designed Hamilton syringe was inserted from the zygomatic arch between the corners of the eye and ear, along the bony wall, to finally reach the TMJ. Vehicle (PBS, 20 μL) and OSPPB hydrogel (20 μL) were injected into UAC + Veh group and UAC + OSPPB group, respectively. The injection was carried out immediately after the UAC device was pasted. The mice in UAC + Celecoxib group were simultaneously orally administered with celecoxib (80 mg/kg). The dosage of 80 mg kg -1 day -1 in mice is equivalent to the dose of 400 mg day -1 for a 60 kg person <ref type="bibr" target="#b61">62</ref> .</p><p>A stereotaxic apparatus (68018, RWD, Shenzhen, China) was used for anterograde tracing and electroencephalography. For trigeminal ganglion injection and anterograde tracing, rAAV-hSyn-EGFP-WPRE-hGH polyA (BrainVTA, Wuhan, China; 2 × 10 12 viral genomes/mL), a recombinant self-fluorescent adeno-associated virus, was used. The injection process was the same as previously reported <ref type="bibr" target="#b10">11</ref> . The coordinates of trigeminal ganglion injection were Medial-Lateral (ML): ±1.45, Anterior-Posterior (AP): -1.34, Dorsal-Ventral (DV): -5.65 (bregma). For implantation of the electroencephalography electrodes, monopolar insulated stainless-steel electrodes (QZY-2, Jingong, Wenzhou, China) were used <ref type="bibr" target="#b37">38</ref> . The coordinates of the primary sensory cortex S1BF were ML: ±2.6, AP: -1.6, DV: -1.23, and the cerebellum coordinates were ML: 0, AP: -15.5, DV: -2.5. One week after operation, the UAC procedure and TMJ injection were carried out.</p><p>Three weeks later, pentobarbital overdose was used to euthanize all the mice. The major organs and condyles were harvested and subsequently subjected to further processing in accordance with the experimental protocol. The major organs were then sectioned, and histologically stained with H&amp;E to detect the toxicity of the hydrogels after 3 weeks.</p><p>In vivo distribution. Rhodamine B-stained BGN@Be was doped in the OSPPB hydrogel, which was injected into the TMJ. Upon reaching 30 instances of passive mouth opening, the mouse was humanely euthanized by pentobarbital overdose. The condyles were collected, decalcified, dehydrated, sectioned, and observed under CLSM (Nikon A1R, Nikon).</p><p>Characterization of TMJOA anatomical changes. Some condyles were collected, fixed in 4% paraformaldehyde for 24 h, immersed in 30% sucrose for 3 days, embedded in optimal cutting temperature compound (Leica, Wetzlar, Germany) and stored at -80 °C. The 5 µmthick central sagittal sections were obtained and stained with H&amp;E, safranin O/fast green, glycine silver, and immunofluorescence. For immunofluorescence, the primary antibodies used recognized protein gene product 9.5 (PGP 9.5; 1:300, ab8189, Abcam), CGRP (1:400, 14959, Cell Signaling Technology, Danvers, MA, USA), VEGF (1:300, sc-7269, Santa Cruz Biotechnology CA, USA), CD31 (1:300, sc-376764, Santa Cruz Biotechnology, Santa Cruz, CA, USA), E-cadherin (1:300, ab231303, Abcam), cyclooxygenase 2 (COX2; 1:300, sc-376861, Santa Cruz Biotechnology), DCC (1:300, sc-515834, Santa Cruz Biotechnology), and SP (1:300, sc-21715, Santa Cruz Biotechnology). The chemical dye used was SYTO® RNASelect™ Green Fluorescent Stain (S32703, Invitrogen).</p><p>For scanning electron microscopy and energy-dispersive X-ray spectroscopy (SEM-EDS), the condyles were fixed in 2.5% glutaraldehyde, followed by ethanol gradient dehydration and immersion in hexamethyldisilane (Electron Microscopy Sciences, PA, USA). After fixation on sample holders, the specimens were imaged using a fieldemission scanning electron microscope (FE-SEM, S-4800, Hitachi, Tokyo, Japan) and Energy-dispersive X-ray spectroscopy (Element EDS System, Ametek, PA, USA). Some condyles were immediately used for morphological observation, followed by micro-CT, and then cut into 500-μm-thick samples for atomic force microscope (AFM) testing. The harvested specimens were scanned using a micro-CT scanner (Inveon, Siemens AG, Munich, Germany) at a resolution of 8 μm. Image acquisition was performed at 80 keV and 500 mA and a 0.3 × 0.3 × 0.3 mm region was analyzed. For the AFM test, AFM-based nanoindentation (Keysight 5500, Keysight Technologies, Santa Rosa, CA, USA) was used to measure the mechanical properties (force constant = 7.6 N/m, a conical tip).</p><p>The remain condyles were used for quantitative real-time polymerase chain reaction. Complementary DNA was synthesized and used as the template in the real-time polymerase chain reaction as previously reported <ref type="bibr" target="#b62">63</ref> . Gene expression levels were estimated using the 2 -ΔΔCt method <ref type="bibr" target="#b63">64</ref> with the Gapdh (encoding glyceraldehyde 3-phosphate dehydrogenase) expression level as the internal control. The primer sequences are presented in the Supplementary Table . 
+
+Pain-like behavioral analyses. Before sacrifice, the mice underwent behavioral analyses and electroencephalography. For the von Frey test, each mouse was placed individually in a metal mesh chamber in a quiet laboratory with a stable temperature (22 ± 1 °C) and allowed to acclimate for at least 30 min before testing. A hard-plastic tip was used to stimulate the midpoint of the connection between the eyes and ears of the mouse. During the experiment, the mechanical stimulation intensity increased in turn, and mouse behavior was observed at the same time. When reactions such as rubbing the mouth or scratching the head were observed, the stimulus intensity (g) was recorded. The operation was repeated five times every 30 s, and the head withdrawal threshold was recorded according to the up and down method. Subsequently, the average value was taken as the TMJ pain threshold <ref type="bibr" target="#b64">65</ref> .</p><p>For the open field test (OFT), a mouse was placed in a wallenclosed square with bright light and imaged for 15 min using video recording equipment. The distance traveled, time spent in the center, and the move time were analyzed. For the elevated plus-maze test (EPM), a maze placed 60 cm above the floor was used, with a central platform, two closed arms, and two open arms. A mouse was placed on the central platform and imaged for 5 min using video recording equipment. The open arm entry, open arm time, and total number of entries were analyzed <ref type="bibr" target="#b65">66</ref> .</p><p>For electroencephalography, the maxillofacial regions were stimulated using a small brush 10 times, with each stimulation lasting for 5 s and an interval of 30 s. After 5 s of stimulation, the electroencephalography activity of S1BF was amplified, filtered, and recorded using an electroencephalography monitoring system (SOLAR3000N, Beijing, China).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics and reproducibility</head><p>All the data we have presented originates from distinct samples. No statistical method was used to predetermine the sample size, and all data were included in the analyses. Six biological replicates were used for statistical analysis, and representative experiments (e.g., micrographs) were from three consistent repetitions. Quantifications were performed independently and blindly by two investigators during both data collection and analysis. ImageJ software v1.48v (National Institute of Health, Bethesda, MD, USA) was used for semi-quantitative analysis. All of them were tested for normality (Shapiro-Wilk test) and equal variance assumptions (modified Levene test). If either assumption was not met, the relevant data sets were subjected to non-linear transformations. Differences among the values in more than two groups were evaluated using one-way ANOVA analysis (Tukey's post hoc test). For ordinal data, such as those obtained from experiments like the von Frey filament test, Kruskal-Wallis (KW) test followed by Dunn's test was used. All data are presented as the means ± standard deviation. p &lt; 0.05 was considered statistically significant. Analyses were performed using GraphPad Prism 8.0 (GraphPad Inc., La Jolla, CA, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | The injectable, self-healing, pH/ROS dual-responsive, polycationic hydrogel reversed TMJOA and alleviated chronic pain by inhibiting neurovascularization at osteochondral interface. Be bevacizumab, VEGF vascular</figDesc><graphic coords="3,60.40,48.74,480.28,522.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | Preparation and characterization of the OSPPB hydrogel. a The facile fabrication route of the OSPPB hydrogel. b The gelation, injectability, and selfhealing property of the OSPPB hydrogel. c ATR-FTIR of PPCA, OSAP, OSPP, and OSPPB, showing the Schiff base bonds and boronic ester bonds leading to gelation. d SEM of OSPP and OSPPB, showing the uniformly distributed BGN@Be on the surface of OSPPB hydrogel. The red circle represents the BGN. Scale bars = 200 μm (left) and 5 μm (right). e SEM-EDS of OSPPB hydrogel (areas with BGN distribution), showing the Ca, P and Si elements on OSPPB hydrogel. f Frequency-sweep, Timesweep sequence, and g Shear-thinning test of the OSPP and OSPPB hydrogels. G' means storage modulus and G" means loss modulus.</figDesc><graphic coords="4,96.73,535.10,407.56,113.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | pH/ROS dual responsiveness, degradation, antioxidation property and positive electrical property of the OSPPB hydrogel. a-d Images, frequencysweep, and SEM (Scale bars = 200 μm) of the OSPPB hydrogel after incubation with PBS (pH = 5) and/or H 2 O 2 (n = 6, F(3, 20) = 140.7, p &lt; 0.0001). e Degradation of OSPP and OSPPB hydrogels in PBS. f Characteristics of the S concentration changes over 14 days. g Photographs of DPPH after culture with OSPPB for 30 min, with the corresponding statistical results (n = 6, F(4, 25) = 567.7, p &lt; 0.0001). h Zeta potential of OSPP and OSPPB hydrogels. i-k Characteristics of the binding test, showing the binding between OSPPB and RNA (n = 6, F(2, 15) = 930.3, p &lt; 0.0001). Created in BioRender. Scale bar = 50 μm. l Molecular dynamic modulation and its quantification for RNA (light blue), VEGF (red) and PEI (Polyethyleneimine, purple). Data are shown as the means and standard deviations. One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons.</figDesc><graphic coords="6,86.68,49.85,427.24,596.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 |</head><label>4</label><figDesc>Fig. 4 | The OSPPB hydrogel inhibits angiogenesis and neurogenesis. a, b Representative microscopy images of EPCs and TG cells showing cell migration, tube formation, and morphology after 24 h of treatment. Scale bars = 100 μm. c, d Quantification of migrated cells and the migration distance of EPCs after treatment. n = 6, F(6, 35) = 45.9, p &lt; 0.0001 in (c). n = 6, F(6, 35) = 89.54, p &lt; 0.0001 in (d). e, f Quantification of the interactions and dendritic length of TG cells after treatment. n = 6, F(6, 35) = 39.66, p &lt; 0.0001 in (e). n = 6, F(6, 35) = 85.86, p &lt; 0.0001 in (f). Data are shown as the means and standard deviations. One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons.</figDesc><graphic coords="7,79.99,66.26,460.70,425.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | The OSPPB hydrogel alleviates TMJOA in mice. a The facile fabrication route depicting the design and the results of the in vivo experiment. Reproduced under the terms of a Creative Commons Attribution license (CC-BY-4.0) 20 . b Illustrative macroscopic views above the condyles at 3 weeks after intra-articular injection, depicting comparative morphology in the control (CON) and experimental (unilateral anterior crossbite, UAC) groups. c Representative images of H&amp;E staining, SF staining, sliver staining, SEM (arrows indicate micro-fractures), and micro-CT. d-k OARSI score and semi-statistical analysis of the images in (c). n = 6, H(3) = 16.12, p = 0.0011 in (d). n = 6, F(3, 20) = 28.63, p &lt; 0.0001 in (e). n = 6, F(3, 20) = 43.48, p &lt; 0.0001 in (f). n = 6, H(3) = 14.56, p = 0.0022 in (g). n = 6, H(3) = 14.92, p = 0.0019 in (h). n = 6, F(3, 20) = 27.57, p &lt; 0.0001 in (i). n = 6, F(3, 20) = 16.42, p &lt; 0.0001 in (j). n = 6, F(3, 20) = 38.22, p &lt; 0.0001 in (k). l qRT-PCR analysis of the gene expression of neurovascular factors (Vegf, Pdgfb, Ngf, Ntn1, Ntn3, Ntn4) in the condyles. Scale bars = 200 μm (b), 100 μm (c1-3), 10 μm (c4), and 500 μm (c5).Data are shown as the means and standard deviations. Kruskal-Wallis (KW) test is followed by Dunn's test for post hoc multiple comparisons in (d, g, h). One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons in (e, f, i-l).</figDesc><graphic coords="9,79.42,172.67,457.00,362.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 6 |</head><label>6</label><figDesc>Fig. 6 | The OSPPB hydrogel ameliorates changes at the osteochondral interface caused by TMJOA. a Mechanical characterization of the TMJ osteochondral interface by AFM at 3 weeks after different treatments in the CON and UAC groups. b SEM-EDS micrographs of osteochondral interface. Scale bars = 20 μm.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 7 |</head><label>7</label><figDesc>Fig. 7 | Celecoxib and OSPPB hydrogel exhibit remarkable pain-alleviating functionality. a Representative tracks of mice at 3 weeks in the CON and UAC groups, as documented in the EPM test, with the corresponding statistical results (c-e). One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons in (c, d). n = 6, F(3, 20) = 16.83, p &lt; 0.0001 in (c). n = 6, F(3, 20) = 3.696, p = 0.0289 in (d). n = 6, H(3) = 11.6, p = 0.0089 in (e). b Representative tracks of mice in the OFT, with the corresponding statistical results (f-h). One-way ANOVA accompanied by the Tukey-Kramer method is used for post hoc multiple comparisons. n = 6, F(3, 20) = 19.4, p &lt; 0.0001 in (f). n = 6, F(3, 20) = 31.85, p &lt; 0.0001 in (g). n = 6, F(3, 20) = 13.68, p &lt; 0.0001 in (h). i Results of the von Frey test revealing the pain relief after different treatments (n = 6, H(3) = 10.21, p = 0.0168). Reproduced under the terms of a Creative Commons Attribution license (CC-BY-4.0)<ref type="bibr" target="#b19">20</ref> . j EEG spectrograms of the stimulus before and after small brush stimulation. Created in BioRender. Data are shown as the means and standard deviations. One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons in (c, d, f-h). Kruskal-Wallis (KW) test is followed by Dunn's test for post hoc multiple comparisons in (e, i).</figDesc><graphic coords="10,66.70,55.82,473.80,290.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 8 |</head><label>8</label><figDesc>Fig. 8 | The OSPPB hydrogel effectively attenuates neurovascularization at the osteochondral interface. a Representative images of the distribution of exRNA at the osteochondral interface of condyles in the CON and UAC groups at 3 weeks after different treatments. b Representative images of the trigeminal ganglion anterograde tracing and immunofluorescence staining of nerves (PGP9.5 and CGRP), vessels (CD31), and VEGF. c Representative images of the distribution of pain-related factors (COX2, DCC, and SP). d The semi-statistical analysis of (a). e-h The semistatistical analysis of (b). i-k The semi-statistical analysis of (c). n = 6, F(3, 20) = 213.6, p &lt; 0.0001 in (d). n = 6, F(3, 20) = 66.07, p &lt; 0.0001 in (e). n = 6, F(3, 20) = 146.4, p &lt; 0.0001 in (f). n = 6, F(3, 20) = 96.29, p &lt; 0.0001 in (g). n = 6, F(3, 20) = 57.17, p &lt; 0.0001 in (h). n = 6, F(3, 20) = 130.5, p &lt; 0.0001 in (i). n = 6, F(3, 20) = 159.9, p &lt; 0.0001 in (j). n = 6, F(3, 20) = 143.9, p &lt; 0.0001 in (k). Scale bars = 50 μm (left in a), 10 μm (right in a), 30 μm (b, c). Data are shown as the means and standard deviations. One-way ANOVA is followed by the Tukey-Kramer method for post hoc multiple comparisons.</figDesc><graphic coords="11,85.45,48.74,455.08,549.40" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Nature Communications | (2025) 16:1390</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was sponsored by funding from <rs type="funder">National Nature Science Foundation of China</rs> (<rs type="grantNumber">82471000</rs> to K.J., 82325012 to L.N.) and <rs type="funder">National Key Research and Development Program</rs> (<rs type="grantNumber">2023YFC2509100</rs> to K.J.). We thank <rs type="funder">State Key Laboratory of Oral and Maxillofacial Reconstruction and Regeneration</rs> for technical support.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_WpV4w2J">
+					<idno type="grant-number">82471000</idno>
+				</org>
+				<org type="funding" xml:id="_cRTfxNP">
+					<idno type="grant-number">2023YFC2509100</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Source Data are provided with this paper. Source data is available for Figs. 2c, e-g, 3b, d-h, j, l, 4c-f, 5d-l, 6b, 7c-i, 8d-k and Supplementary Figs. <ref type="figure">1,</ref><ref type="figure">2</ref>, 3b-e, 4, 5, 7.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>K.J., L.N., and W.N. designed the study and provided funding and supervision; W.P.Q., Z.Y.M., and G.B. performed most experiments and wrote the manuscript; W.Q. and L.L. performed material preparation; D.X.H. performed Molecular dynamics simulations; Y.Z.W. prepared illustrations; J.F.Y. and X.X.H. provided technical assistance and supervision. All authors contributed to the interpretation of experiments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41467-025-56727-8">https://doi.org/10.1038/s41467-025-56727-8</ref>.</p><p>Correspondence and requests for materials should be addressed to Wen Niu, Lina Niu or Kai Jiao.</p><p>Peer review information Nature Communications thanks the anonymous reviewers for their contribution to the peer review of this work. A peer review file is available.</p><p>Reprints and permissions information is available at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref> Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ref type="url" target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/ licenses/by/4.0/</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global, regional, and national burden of osteoarthritis, 1990-2020 and projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021</title>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="508" to="e522" />
+			<date type="published" when="2023">2023</date>
+			<publisher>GBD Osteoarthritis Collaborators</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Peripheral pain mechanisms in osteoarthritis</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Vincent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="138" to="S146" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Microenvironment in subchondral bone: predominant regulator for the treatment of osteoarthritis</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rheum. Dis</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="413" to="422" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Pathological mechanism of chondrocytes and the surrounding environment during osteoarthritis of temporomandibular joint</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cell. Mol. Med</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="4902" to="4911" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Nanoparticle-cartilage interaction: pathology-based intra-articular drug delivery for osteoarthritis therapy</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomicro Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">149</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The evolution of nerve growth factor inhibition in clinical medicine</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Seidel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Lane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Rheumatol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="34" to="46" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Targeting strategies for bone diseases: signaling pathways and clinical studies</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Signal Transduct. Target. Ther</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">202</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Endothelial PDGF-BB/PDGFR-beta signaling promotes osteoarthritis by enhancing angiogenesis-dependent abnormal subchondral bone formation</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">58</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Biomimetic self-maturation mineralization system for enamel repair</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">2311659</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">An inorganic biopolymer polyphosphate controls positively charged protein phase transitions</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="2679" to="2683" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Effect of extracellular ribonucleic acids on neurovascularization in osteoarthritis</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Qin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">2301763</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Endogenously oxidized mitochondrial DNA induces in vivo and in vitro inflammatory responses</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hajizadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Holme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tarkowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Leukoc. Biol</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="995" to="1000" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Multifunctional nanomachinery for enhancement of bone healing</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">2107924</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The immunomodulatory effects of DNA-conjugated collagen scaffolds on bone healing</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Song</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eng. J</title>
+		<imprint>
+			<biblScope unit="volume">474</biblScope>
+			<biblScope unit="page">145318</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Stimulation of vasculogenesis and leukopoiesis of embryonic stem cells by extracellular transfer RNA and ribosomal RNA. Free Radic</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sharifpanah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Med</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="1203" to="1217" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Extracellular RNA released due to shear stress controls natural bypass growth by mediating mechanotransduction in mice</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lasch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="1469" to="1479" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Extracellular RNA mediates endothelial-cell permeability via vascular endothelial growth factor</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blood</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="2457" to="2465" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Signaling mechanism of extracellular RNA in endothelial cells</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FASEB J</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2100" to="2109" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Design of therapeutic biomaterials to control inflammation</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="557" to="574" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Nanoparticulate cell-free DNA scavenger for treating inflammatory bone loss in periodontitis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">5925</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A nanoparticulate dual scavenger for targeted therapy of inflammatory bowel disease</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">2372</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Selective targeting of visceral adiposity by polycation nanomedicine</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1311" to="1321" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A cationic metal-organic framework to scavenge cellfree DNA for severe sepsis management</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="2461" to="2469" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Topical nanoparticles interfering with the DNA-LL37 complex to alleviate psoriatic inflammation in mice and monkeys</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">5274</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Polyglycerol-amine covered nanosheets target cellfree DNA to attenuate acute kidney injury</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">2300604</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Targeting lymph nodes for systemic immunosuppression using cell-free-DNA-scavenging and cGAS-inhibiting nanomedicine-in-hydrogel for rheumatoid arthritis immunotherapy</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">2302575</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Cationic block copolymer nanoparticles with tunable DNA affinity for treating rheumatoid arthritis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">2000391</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Cationic nanoparticle as an inhibitor of cell-free DNAinduced inflammation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">4291</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Nanoparticulate DNA scavenger loading methotrexate targets articular inflammation to enhance rheumatoid arthritis treatment</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">286</biblScope>
+			<biblScope unit="page">121594</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Injectable drug delivery systems for osteoarthritis and rheumatoid arthritis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Bruno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="2022">19665-19690 (2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Targeted and responsive biomaterials in osteoarthritis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theranostics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="931" to="954" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A spatiotemporal release platform based on pH/ROS stimuli-responsive hydrogel in wound repairing</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Control. Release</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="page" from="147" to="165" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Molecular signaling in temporomandibular joint osteoarthritis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Orthop. Translat</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="21" to="27" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">MicroRNA-29b promotes subchondral bone loss in TMJ osteoarthritis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Dent. Res</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="1469" to="1477" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Conditional deletion of Adrb2 in mesenchymal stem cells attenuates osteoarthritis-like defects in temporomandibular joint</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page">115229</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Lysosomal destabilization: a missing link between pathological calcification and osteoarthritis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioact. Mater</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="37" to="50" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">V. pH-regulated interaction modes between cyanidin-3-glucoside and phenylboronic acid-modified alginate</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mateus</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De Freitas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbohydr. Polym</title>
+		<imprint>
+			<biblScope unit="volume">280</biblScope>
+			<biblScope unit="page">119029</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Effects of electric field-modulated conductive hydrogel on osseoperception and osseointegration of dental implants</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Qin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">2400256</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Wound microenvironment self-adaptive hydrogel with efficient angiogenesis for promoting diabetic wound healing</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioact. Mater</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="561" to="573" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Charge-guided micro/ nano-hydrogel microsphere for penetrating cartilage matrix</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">2107678</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Osteochondral interface: regenerative engineering and challenges</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yildirim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Amanzhanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kulzhanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mukasheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Erisken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Biomater. Sci. Eng</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1205" to="1223" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Understanding the mechanics of the temporomandibular joint osteochondral interface from micro-and nanoscopic perspectives</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="11702" to="11709" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Identification of an ultrathin osteochondral interface tissue with specific nanostructure at the human knee joint</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2309" to="2319" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Stage-specific and location-specific cartilage calcification in osteoarthritis development</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Rheum. Dis</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="393" to="402" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Behavioral and cognitive animal models in headache research</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Vuralli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Wattiez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bolay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Headache Pain</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Acute orofacial pain leads to prolonged changes in behavioral and affective pain components</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">I</forename><surname>Araya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="2830" to="2840" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Somatosensory ECoG-based brain-machine interface with electrical stimulation on medial forebrain bundle</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">K</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed. Eng. Lett</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="85" to="95" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Skeletal interoception in bone homeostasis and pain</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Cao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Metab</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1914" to="1931" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">PGE2 activates EP4 in subchondral bone osteoclasts to regulate osteoarthritis</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Mechanisms of bone pain: progress in research from bench to bedside</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zhen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Targeting vascular endothelial growth factor receptors as a therapeutic strategy for osteoarthritis and associated pain</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="675" to="690" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Nanoparticle-based inhibition of vascular endothelial growth factor receptors alleviates osteoarthritis pain and cartilage damage</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">5501</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Extracellular mitochondrial DNA and oxidatively damaged DNA in synovial fluid of patients with rheumatoid arthritis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hajizadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Degroot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tekoppele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tarkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Collins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Res. Ther</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="234" to="R240" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Hydrogels for ameliorating osteoarthritis: mechanical modulation, anti-inflammation, and regeneration</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Jiang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">12078</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Mussel-inspired naturally derived double-network hydrogels and their application in 3D printing: from soft, injectable bioadhesives to mechanically strong hydrogels</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Biomater. Sci. Eng</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1798" to="1808" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Current development in biomaterials-hydroxyapatite and bioglass for applications in biomedical field: a review</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Filip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Surdu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Paduraru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Andronescu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Funct. Biomater</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">248</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">A multifunctional bioactive glass-ceramic nanodrug for post-surgical infection/cancer therapy-tissue regeneration</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Niu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="14323" to="14337" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Skeletal interoception in osteoarthritis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Effect of regional crosstalk between sympathetic nerves and sensory nerves on temporomandibular joint osteoarthritic pain</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">TRPV1 alleviates osteoarthritis by inhibiting M1 macrophage polarization via Ca2+/CaMKII/Nrf2 signaling pathway</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lv</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Death Dis</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">504</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Differential effects of high-physiological oestrogen on the degeneration of mandibular condylar cartilage and subchondral bone</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="9" to="22" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">PGE2/EP4 skeleton interoception activity reduces vertebral endplate porosity and spinal pain with low-dose celecoxib</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Xue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bone Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">36</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Autophagic LC3(+) calcified extracellular vesicles initiate cartilage calcification in osteoarthritis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">1556</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) method</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Livak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Schmittgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="402" to="408" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The expression of Netrin-1 in the MIA-induced osteoarthritic temporomandibular joint in mice</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Xiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">15695</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Intestinal activating transcription factor 4 regulates stress-related behavioral alterations via paraventricular thalamus in male mice</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Yuan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page">2215590120</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nature-inspired platform nanotechnology for RNA delivery to myeloid cells and their bone marrow progenitors</title>
+				<funder ref="#_JDyqSwH">
+					<orgName type="full">NWO</orgName>
+				</funder>
+				<funder ref="#_wnJSEJK">
+					<orgName type="full">Dutch Research Council (NWO)</orgName>
+				</funder>
+				<funder ref="#_ycbBUKs">
+					<orgName type="full">European Research Council</orgName>
+					<orgName type="abbreviated">ERC</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-04">April 2023</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nature</forename><surname>Nanotechnology</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Stijn</forename><forename type="middle">R J</forename><surname>Hofstra</surname></persName>
+							<idno type="ORCID">0009-0003-6474-1959</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Anbergen</surname></persName>
+							<idno type="ORCID">0000-0002-7155-7709</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Robb</forename><surname>Zwolsman</surname></persName>
+							<idno type="ORCID">0000-0001-6059-2982</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jeroen</forename><surname>Deckers</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuri</forename><surname>Van Elsas</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mirre</forename><forename type="middle">M</forename><surname>Trines</surname></persName>
+							<idno type="ORCID">0009-0003-6474-1959</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Iri</forename><surname>Versteeg</surname></persName>
+							<idno type="ORCID">0000-0003-2035-7579</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniek</forename><surname>Hoorn</surname></persName>
+							<idno type="ORCID">0009-0006-5274-883X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gijs</forename><forename type="middle">B</forename><surname>Ros</surname></persName>
+							<idno type="ORCID">0000-0002-6564-8516</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Branca</forename><forename type="middle">M</forename><surname>Bartel</surname></persName>
+							<idno type="ORCID">0000-0003-1521-3116</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Merel</forename><forename type="middle">M A</forename><surname>Hendrikx</surname></persName>
+							<idno type="ORCID">0009-0000-3553-5927</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Biotrip B.V</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Youssef</forename><forename type="middle">B</forename><surname>Darwis</surname></persName>
+							<idno type="ORCID">0009-0004-2670-509X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Teun</forename><surname>Kleuske</surname></persName>
+							<idno type="ORCID">0000-0002-7059-8920</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Francisca</forename><surname>Borge</surname></persName>
+							<idno type="ORCID">0000-0002-5952-9617</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rianne</forename><forename type="middle">J F</forename><surname>Maas</surname></persName>
+							<idno type="ORCID">0000-0003-1521-3116</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lars</forename><forename type="middle">M</forename><surname>Verhalle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Willem</forename><surname>Tielemans</surname></persName>
+							<idno type="ORCID">0009-0004-2670-509X</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pieter</forename><surname>Vader</surname></persName>
+							<idno type="ORCID">0000-0002-7059-8920</idno>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Experimental Cardiology</orgName>
+								<orgName type="laboratory">CDL Research &amp;</orgName>
+								<orgName type="institution">University Medical Center Utrecht</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Olivier</forename><forename type="middle">G</forename><surname>De Jong</surname></persName>
+							<idno type="ORCID">0000-0002-5952-9617</idno>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Pharmaceutics</orgName>
+								<orgName type="institution" key="instit1">Utrecht Institute of Pharmaceutical Sciences (UIPS)</orgName>
+								<orgName type="institution" key="instit2">Utrecht University</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tommas</forename><surname>Tabaglio</surname></persName>
+							<idno type="ORCID">0000-0002-2588-846X</idno>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Institute of Molecular and Cell Biology (IMCB)</orgName>
+								<orgName type="department" key="dep2">Agency for Science, Technology and Research (A*STAR)</orgName>
+								<address>
+									<settlement>Singapore</settlement>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dave</forename><surname>Keng</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Boon</forename><surname>Wee</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Institute of Molecular and Cell Biology (IMCB)</orgName>
+								<orgName type="department" key="dep2">Agency for Science, Technology and Research (A*STAR)</orgName>
+								<address>
+									<settlement>Singapore</settlement>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Abraham</forename><forename type="middle">J P</forename><surname>Teuniss</surname></persName>
+							<idno type="ORCID">0000-0002-2177-4836</idno>
+							<affiliation key="aff7">
+								<orgName type="department">Icahn School of Medicine at Mount</orgName>
+								<orgName type="institution">BioMedical Engineering and Imaging Institute</orgName>
+								<address>
+									<settlement>Sinai New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department" key="dep1">Department of Diagnostic, Molecular, and Interventional Radiology</orgName>
+								<orgName type="department" key="dep2">Icahn School of Medicine at Mount Sinai</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="department">Icahn School of Medicine at Mount</orgName>
+								<orgName type="institution">Cardiovascular Research Institute</orgName>
+								<address>
+									<settlement>Sinai New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="department">Icahn School of Medicine at Mount</orgName>
+								<orgName type="institution">Icahn Genomics Institute</orgName>
+								<address>
+									<settlement>Sinai New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eliane</forename><surname>Brechbühl</surname></persName>
+							<idno type="ORCID">0000-0003-1386-4601</idno>
+							<affiliation key="aff7">
+								<orgName type="department">Icahn School of Medicine at Mount</orgName>
+								<orgName type="institution">BioMedical Engineering and Imaging Institute</orgName>
+								<address>
+									<settlement>Sinai New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hen</forename><forename type="middle">M</forename><surname>Janssen</surname></persName>
+							<idno type="ORCID">0000-0002-2588-846X</idno>
+							<affiliation key="aff11">
+								<orgName type="department">SyMO-Chem B.V</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><surname>Michel Franse</surname></persName>
+							<idno type="ORCID">0000-0003-2421-6052</idno>
+							<affiliation key="aff11">
+								<orgName type="department">SyMO-Chem B.V</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anne</forename><surname>De Dreu</surname></persName>
+							<idno type="ORCID">0000-0001-6538-009X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">P</forename><surname>Schrijver</surname></persName>
+							<idno type="ORCID">0000-0002-2177-4836</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bram</forename><surname>Priem</surname></persName>
+							<idno type="ORCID">0000-0001-8665-3878</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yohan</forename><forename type="middle">C</forename><surname>Toner</surname></persName>
+							<idno type="ORCID">0000-0001-5309-6366</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thijs</forename><forename type="middle">J</forename><surname>Beldma</surname></persName>
+							<idno type="ORCID">0000-0002-2200-7946</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mihai</forename><forename type="middle">G</forename><surname>Netea</surname></persName>
+							<idno type="ORCID">0000-0003-2421-6052</idno>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Immunology and Metabolism, Life and Medical Sciences Institute</orgName>
+								<orgName type="institution">University of Bonn</orgName>
+								<address>
+									<settlement>Bonn</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Willem</forename><forename type="middle">J M</forename><surname>Mulder</surname></persName>
+							<email>willem.mulder@radboudumc.nl</email>
+							<idno type="ORCID">0000-0001-8665-3878</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI)</orgName>
+								<orgName type="institution">Radboud University Medical Center</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ewelina</forename><surname>Kluza</surname></persName>
+							<idno type="ORCID">0000-0002-7040-0427</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Roy</forename><surname>Van Der Meel</surname></persName>
+							<idno type="ORCID">0000-0002-2200-7946</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biomedical Engineering</orgName>
+								<orgName type="laboratory">Laboratory of Chemical Biology</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Institute for Complex Molecular Systems (ICMS)</orgName>
+								<orgName type="institution">Eindhoven University of Technology</orgName>
+								<address>
+									<settlement>Eindhoven</settlement>
+									<country key="NL">the Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stijn</forename><forename type="middle">R J</forename><surname>Hofstraat</surname></persName>
+						</author>
+						<title level="a" type="main">Nature-inspired platform nanotechnology for RNA delivery to myeloid cells and their bone marrow progenitors</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2023-04">April 2023</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D659C6E633D0A3EC29B389951CBB25F8</idno>
+					<idno type="DOI">10.1038/s41565-024-01847-3</idno>
+					<note type="submission">Received: 17 October 2023 Accepted: 6 December 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:24+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Ex vivo -counting LNP-siCtrl LNP-siLAMP1 aNP-siLAMP1 aNP-siCtrl siRNA LNP-siRNA aNP-siRNA</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nucleic acid therapeutics are used for silencing, expressing or editing genes in vivo. However, their systemic stability and targeted delivery to bone marrow resident cells remains a challenge. In this study we present a nanotechnology platform based on natural lipoproteins, designed for delivering small interfering RNA (siRNA), antisense oligonucleotides and messenger RNA to myeloid cells and haematopoietic stem and progenitor cells in the bone marrow. We developed a prototype apolipoprotein nanoparticle (aNP) that stably incorporates siRNA into its core. We then created a comprehensive library of aNP formulations and extensively characterized their physicochemical properties and in vitro performance. From this library, we selected eight representative aNP-siRNA formulations and evaluated their ability to silence lysosomal-associated membrane protein 1 (Lamp1) expression in immune cell subsets in mice after intravenous administration. Using the most effective aNP identified from the screening process, we tested the platform's potential for therapeutic gene silencing in a syngeneic murine tumour model. We also demonstrated the aNP platform's suitability for splice-switching with antisense oligonucleotides and for protein production with messenger RNA by myeloid progenitor cells in the bone marrow. Our data indicate that the aNP platform holds translational potential for delivering various types of nucleic acid therapeutics to myeloid cells and their progenitors.</p><p>Genetic drugs' real-life potential is critically dependent on delivery technologies that prevent the nucleic acid payload's premature degradation while actively delivering it to the cells of interest 1 . In past decades, lipid nanoparticle (LNP) technology emerged that enabled the first small interfering RNA (siRNA) therapeutic's clinical translation, involving gene silencing in hepatocytes to treat hereditary transthyretin amyloidosis 2,3 . Furthermore, LNP technology was essential for the COVID-19 messenger RNA (mRNA) vaccines 4,5 , and facilitates in vivo gene editing approaches currently undergoing clinical evaluation 6,7 . To enable targeting of tissues and cells beyond the liver 8 , several LNP modification and screening strategies have been developed and evaluated preclinically. These include incorporating charged phospholipids 9,10 , antibody surface modification of LNPs <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref> and DNA barcoding strategies <ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> . However, platform technologies that possess biocompatible and tunable biodistribution features must be developed to unlock RNA therapeutics' full potential for systemic delivery.</p><p>Here we introduce a nanodelivery strategy based on lipoprotein trafficking, designed for extrahepatic delivery to immune cells. Lipoproteins are endogenous, nanosized transport systems composed of apolipoproteins and aggregates of fatty molecules 20 . They inherently interact with various cells and exhibit compelling features for RNA</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> </p><p>diameter of approximately 91 nm with a uniform size distribution (Fig. <ref type="figure" target="#fig_0">1j</ref>), cryo-EM (Fig. <ref type="figure" target="#fig_0">1k</ref>) showed the same spherical core-shell structure as the non-labelled aNP (Fig. <ref type="figure" target="#fig_0">1f</ref>). In addition to unformulated 89   Zr-labelled siRNA ( 89 Zr-siRNA), we intravenously administered LNP-89 Zr-siRNA and aNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA to mice (Fig. <ref type="figure" target="#fig_0">1l,</ref><ref type="figure">m</ref>). After 24 h, PET imaging uncovered unformulated <ref type="bibr" target="#b55">89</ref> Zr-siRNA to be renally cleared (Fig. <ref type="figure" target="#fig_0">1l</ref>), whereas aNP-formulated <ref type="bibr" target="#b55">89</ref> Zr-siRNA accumulated much stronger in the spleen and bone marrow as compared with LNP delivery. Quantitative ex vivo gamma counting corroborated these in vivo PET imaging findings (Fig. <ref type="figure" target="#fig_0">1m</ref>).</p><p>We next evaluated the prototype aNP's silencing potential in leukocytes. To achieve this, we first ex vivo-screened eight siRNA constructs targeting Lamp1 mRNA (Extended Data Fig. <ref type="figure" target="#fig_4">3a</ref> and Supplementary Table <ref type="table">4</ref>). LAMP1 is expressed on the cell surface and can be quantified by flow cytometry <ref type="bibr" target="#b17">18</ref> . We formulated the most potent anti-LAMP1 siRNA (siLAMP1) into the prototype aNP formulation and administered four intravenous aNP-siLAMP1 doses (0.5 mg kg -1 siLAMP1, injected 36 h apart) to mice. Aside from the liver's Kupffer cells and endothelial cells, we observed significant LAMP1 knockdown in leukocytes in the spleen (P &lt; 0.0001) and bone marrow (P = 0.0004) as compared with an aNP containing scrambled siRNA (siCtrl), which is mainly attributed to LAMP1 silencing in myeloid cells (Fig. <ref type="figure" target="#fig_0">1n</ref>). The in vivo aNP-siLAMP1 silencing potency was on par with an LNP-siLAMP1 formulation used as a positive control (Supplementary Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aNP library screening</head><p>After prototyping the aNP-siRNA concept, we designed an aNP optimization strategy involving an iterative design process that resulted in a library of 72 compositionally distinct aNP-siRNA formulations (Supplementary Table <ref type="table">1</ref>). Within the library, we kept siRNA and apoA1 levels constant while varying the amount of cholesterol, tricaprylin and the MC3 ionizable cationic lipid (Fig. <ref type="figure" target="#fig_2">2a</ref>). MC3 <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> complexes negatively charged siRNA to enable its integration into an aNP's lipophilic core, whereas cholesterol and tricaprylin provide structural features that are essential for an aNP's supramolecular organization and structural stability. Amphiphilic phospholipids are required to disperse the lipophilic supramolecular nanoaggregates of siRNA, MC3, tricaprylin and cholesterol in an aqueous environment and, together with apoA1, stabilize the aNP. We selected three phospholipids that are known to properly interact with apoA1 <ref type="bibr" target="#b30">31</ref> , namely, DMPC, 1-palmitoyl-2-oleoyl-glycero-3-phosphocholine (POPC), and 1,2-dipalmitoyl-sn-glycero-3-phosphocholine (DPPC). After formulating over two dozen DPPC-based aNPs, we did not identify stable formulations with adequate in vitro silencing features (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>) and decided to exclude these formulations from the library and further testing.</p><p>The different aNP compositions and quality features are schematically depicted in Fig. <ref type="figure" target="#fig_2">2b</ref>. We observed that increased tricaprylin improved DMPC-based formulations, but not aNPs containing POPC. Cryo-EM (Fig. <ref type="figure" target="#fig_2">2c</ref>) revealed that tricaprylin inclusion promoted the delivery <ref type="bibr" target="#b20">21</ref> . The widely studied apolipoprotein A1 (apoA1) is high-density lipoprotein's (HDL) main protein constituent <ref type="bibr" target="#b21">22</ref> . Capitalizing on apoA1's natural function, we developed platform nanotechnology <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> to deliver RNA to myeloid cells and haematopoietic stem and progenitor cells (HSPCs) in the bone marrow <ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref> (Fig. <ref type="figure" target="#fig_0">1a</ref>). After establishing a prototype apolipoprotein nanoparticle (aNP) that stably incorporates siRNA in its core, we established a comprehensive aNP-siRNA library and characterized the in vitro properties of individual formulations. We subsequently selected eight aNP-siRNA formulations that are representative of the library's diversity, and in vivo screened their capacity to silence lysosomal-associated membrane protein 1 (Lamp1) expression in diverse immune cell subsets in mice. We also studied a lead aNP-siRNA candidate's physicochemical properties, tissue biodistribution and its potential for therapeutic gene silencing in a syngeneic murine tumour model. Finally, we demonstrate the aNP platform's suitability for splice-switching with antisense oligonucleotides (ASOs) and for in vivo protein production with mRNA by myeloid progenitor cells in the bone marrow.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Prototyping aNPs for siRNA delivery</head><p>First, we developed a two-step flow manufacturing process for an aNP prototype containing siRNA using a T-junction mixer <ref type="bibr" target="#b27">28</ref> (Extended Data Fig. <ref type="figure" target="#fig_0">1</ref>). The prototype aNP components depicted in Fig. <ref type="figure" target="#fig_0">1b</ref> include 1,2-dimyristoyl-sn-glycero-3-phosphocholine (DMPC), cholesterol, tricaprylin, a triglyceride that makes up the core matrix accomodating siRNA complexed with the ionizable lipid (6Z,9Z,28Z,31Z)-heptatriacont-6,9,28,31-tetraene-19-yl-4-(dimethylamino)butanoate (MC3) <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> , and apoA1. Importantly, we found siRNA recovery, entrapment and retention to be higher than 80% (Fig. <ref type="figure" target="#fig_0">1c</ref>), which is indicative of efficient siRNA incorporation. The prototype aNPs contained consistent quantities of apoA1 (Fig. <ref type="figure" target="#fig_0">1d</ref>), and had a mean hydrodynamic diameter of approximately 80 nm (Fig. <ref type="figure" target="#fig_0">1e</ref>), with a size dispersity of 0.1, as measured by dynamic light scattering (DLS). We qualitatively corroborated both size and size distribution by cryogenic electron microscopy (cryo-EM, Fig. <ref type="figure" target="#fig_0">1f</ref>), which revealed spherical core-shell structures. Using a gold nanoparticle antibody-labelling method, we visualized apoA1's integration in the aNP by negative staining transmission electron microscopy (TEM, Fig. <ref type="figure" target="#fig_0">1g</ref>).</p><p>In an in vitro silencing assay using RAW 264.7 murine macrophages that stably express firefly-and Renilla luciferase, we determined an IC 50 value of 14.5 nM (Fig. <ref type="figure" target="#fig_0">1h</ref>), which was considerably better than 154.3 nM for a clinically approved MC3-based LNP control formulation (Supplementary Table <ref type="table">1</ref>). We then developed a unique siRNA radiolabelling strategy (Fig. <ref type="figure" target="#fig_0">1i</ref> and Extended Data Fig. <ref type="figure" target="#fig_2">2</ref>) to quantitatively measure siRNA biodistribution by in vivo positron emission tomography (PET) and ex vivo gamma counting. Using azide-alkyne click chemistry, we functionalized siRNA with desferrioxamine B (DFO) to enable radiolabelling with zirconium-89 ( 89 Zr; Fig. <ref type="figure" target="#fig_0">1i</ref> and Extended Data Fig. <ref type="figure" target="#fig_2">2</ref>). Although DLS disclosed a slightly increased hydrodynamic e, Hydrodynamic diameter presented as the number mean average, and the associated dispersity (n = 12 formulation batches). f, Cryo-EM. g, Transmission electron microscopy and apoA1-immunogold staining (IGS). h, Firefly luciferase (Fluc) reporter gene silencing in RAW 264.7 cells stably expressing Fluc and Renilla luciferase of prototype aNP compared with LNPs containing Fluc siRNA (n = 3 formulation batches). i, Complexation of zirconium-89 ( 89 Zr) to DFO-siRNA. j, aNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA physicochemical analysis (n = 2 formulation batches). d.nm, diameter (nm). k, aNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA cryo-EM analysis. l, Positron emission tomography-computed tomography (PET-CT) imaging of mice 24 h after intravenous administration of unformulated <ref type="bibr" target="#b55">89</ref> Zr-siRNA, LNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA and aNP-89 Zr-siRNA. m, Quantitative biodistribution of unformulated <ref type="bibr" target="#b55">89</ref> Zr-siRNA, LNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA and aNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA 24 h after intravenous administration in mice (8 µCi per mouse) as determined by ex vivo gamma counting. Radioactivity is expressed as the percentage injected dose per gram of tissue (%ID per gram). Data represent mean ± s.d. of one experiment, each data point represents one animal (n = 3, 5 or 6 mice). The data were analysed by one-way ANOVA with a Bonferroni post-hoc test. n, Functional gene silencing of lysosomal-associated membrane protein 1 (Lamp1) expression in liver Kupffer cells and endothelial cells, as well as splenic and bone marrow leukocytes and myeloid cells following intravenous administration (4 × 0.5 mg kg -1 in six days, readout 36 h after the last injection) of LNP or aNP containing siCtrl or siLAMP1, as determined by flow cytometry. Data represent mean ± s.d. of one experiment (n = 6 mice) and analysed by one-way ANOVA using a Bonferroni post-hoc test. *P ≤ 0.05, ***P ≤ 0.001, ****P ≤ 0.0001. <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> formation of spherical structures, but we also found other morphologies such as aNP 39 . In the absence of tricaprylin (aNP 1-24 ), cryo-EM revealed an array of different morphologies, ranging from spherical (for example, aNP 4,7,10,11 ), to multilamellar (for example, aNP 3,6,15 ), to elliptical (for example, aNP 30 ); there were also less well defined shapes such as aNP 18 and aNP 21 (Supplementary Fig. <ref type="figure" target="#fig_2">2</ref> and Supplementary Table <ref type="table">2</ref>).   <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> </p><p>As a critical quality feature, we measured aNP aggregation directly after production by semi-quantitative assessment of cryo-EM images (Supplementary Fig. <ref type="figure" target="#fig_1">3</ref>). We found 55 formulations to pass our predefined threshold of &lt;15%. Using DLS, we also determined the size dispersity and stability of the aNPs when stored at 4 °C for up to 28 days. Interestingly, we observed little correlation between initial aggregation (Fig. <ref type="figure" target="#fig_2">2d</ref>) and shelf-life stability (Fig. <ref type="figure" target="#fig_2">2e</ref>). Finally, we measured the gene silencing capacity of all 72 aNP formulations in vitro (Fig. <ref type="figure" target="#fig_2">2f</ref>). We observed diverse gene knockdown capabilities at a fixed concentration of 100 nM siRNA, ranging from no silencing to nearly complete gene silencing. As nanoparticles' silencing capacity in vitro is a poor predictor of in vivo silencing following intravenous administration <ref type="bibr" target="#b31">32</ref> , we primarily used this silencing metric as a quality control for aNP-siRNA functionality.</p><p>By setting the quality control limits to 15% for aggregation, a maximum increase of 40% in the polydispersity index (PDI) at 28 days, and at least 30% silencing in vitro, we identified 30 aNPs with potentially favourable in vivo features. From those 30 formulations, we selected eight functional aNPs representative of the library's diversity (Fig. <ref type="figure" target="#fig_2">2b</ref>, in bold) to be included in the ensuing in vivo gene silencing experiments in mice. We included three POPC-based formulations-one of which did not contain tricaprylin-and five DMPC-based formulations with varying quantities of tricaprylin. The morphologies, compositions and nitrogen-to-phosphate ratios of    <ref type="table">3</ref>. Data represent mean ± s.d. of one experiment (n = 3 donors). b, Schematic screening workflow involving mice receiving repeated intravenous administrations of aNP containing siCtrl or siLAMP1 (0.5 mg kg -1 per administration, cumulative dose of 2 mg kg -1 ). LAMP1 expression was determined six days after the first administration by flow cytometry <ref type="bibr" target="#b17">18</ref> . c, Schematic overview of haematopoietic stem cells, myeloid progenitor cells and mature myeloid cells. d, Flow cytometry gating strategy (refer to Supplementary Fig. <ref type="figure" target="#fig_5">4</ref> for an extended overview of the gating strategy).</p><p>Antibodies used for flow cytometry studies are listed in Supplementary Tables <ref type="table">5</ref><ref type="table">6</ref><ref type="table">7</ref><ref type="table">8</ref>. e,f, Relative LAMP1 levels indicated by normalized expression levels (%) in haematopoietic stem cells (e) and myeloid progenitors (f) in the bone marrow. Data represent mean ± s.d. of one experiment (n = 4-6 mice) and analysed by one-way ANOVA with a Bonferroni post-hoc test. Statistically significant differences between aNP-siLAMP1 versus aNP-siCtrl formulations are indicated by: *P ≤ 0.05, **P ≤ 0.01, ***P ≤ 0.001. g, Heatmap representing relative LAMP1 silencing of selected aNP-siLAMP1 versus aNP-siCtrl formulations in haematopoietic stem and progenitor cells. Colour indicates the measure of silencing and statistically significant differences (P ≤ 0.05) are indicated by a hash (#). The data were analysed by one-way ANOVA with a Bonferroni's post-hoc test.</p><p><ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> the formulations vary throughout this selection of eight aNPs (Fig. <ref type="figure" target="#fig_2">2</ref> and Supplementary Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Functionally screening aNPs in vivo</head><p>Following aNP library characterization and in vitro screening, we selected eight representative aNPs for in vivo testing in mice, including the aNP prototype (aNP 72 ). Similar to the experiments we conducted with the aNP prototype, we encapsulated siLAMP1 in the selected aNPs. We first assessed the knockdown functionality of these eight aNP-siLAMP1 formulations using bone-marrow-derived macrophages (BMDM) from mice ex vivo. At 100 nM siLAMP1, reverse transcription-quantitative polymerase chain reaction (RT-qPCR) measurements disclosed that all eight aNPs substantially reduced LAMP1 expression compared with the untreated cells (Fig. <ref type="figure" target="#fig_4">3a</ref> and Extended Data Fig. <ref type="figure" target="#fig_4">3b</ref>). After establishing their functionality, we intravenously administered the eight different aNP-siLAMP1 formulations to mice four times at 36 h intervals, with a siLAMP1 dose of 0.5 mg kg -1 (Fig. <ref type="figure" target="#fig_4">3b</ref>). Following this aNP-siLAMP1 treatment regimen, we sacrificed the mice and collected bone marrow cells. These cells were stained with flow cytometry antibody panels that we optimized for the detection of haematopoietic stem cells, myeloid progenitors and mature myeloid cells (Fig. <ref type="figure" target="#fig_4">3c,</ref><ref type="figure">d</ref> and Supplementary Fig. <ref type="figure" target="#fig_5">4</ref>). Within the aNP selection, we found substantial variability in LAMP1 silencing features in immune cells (Fig. <ref type="figure" target="#fig_4">3e</ref>,f and Extended Data Figs. <ref type="figure" target="#fig_5">4</ref><ref type="figure" target="#fig_7">5</ref><ref type="figure">6</ref>). Although a clinically approved MC3-based LNP formulation did not induce significant (P &gt; 0.9999) LAMP1 knockdown in HSPCs, we observed significant LAMP1 silencing when using aNP 8 (P = 0.0107), aNP 18 (P = 0.0117) and aNP 67 (P = 0.0306). Although aNP 8 (P = 0.0084) and aNP 18 (P = 0.0038) also significantly silenced LAMP1 in myeloid progenitor cells, we did not observe significant LAMP1 knockdown in this progenitor subset using aNP 67 (P = 0.5506). Refer to Fig. <ref type="figure" target="#fig_4">3g</ref> for a comprehensive overview of the in vivo silencing features of the different aNP-siLAMP1 formulations. On the basis of these data, aNP 8 and aNP 18 formulations showed potential for broad gene silencing of stem and progenitor populations. At the same time, aNP 67 displays a silencing bias towards stem cells. In light of aNP 18 's broad silencing features, we selected this formulation for further studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aNP-siRNA profiling and application</head><p>After identifying broad gene silencing features (Figs. <ref type="figure" target="#fig_2">2</ref> and<ref type="figure" target="#fig_1">3</ref>), we selected aNP 18 for in-depth analysis. aNP 18 is a DMPC-based formulation that does not contain tricaprylin (Fig. <ref type="figure" target="#fig_5">4a</ref>). It demonstrates siRNA recovery, entrapment and retention values of over 80% (Fig. <ref type="figure" target="#fig_5">4b</ref>) while maintaining consistent apoA1 levels (Fig. <ref type="figure" target="#fig_5">4c</ref>) across multiple batches. aNP 18 has a hydrodynamic diameter of approximately 50 nm, with a narrow size distribution (PDI &lt; 0.2; Fig. <ref type="figure" target="#fig_5">4d</ref>), and zeta potential of -20 mV (Fig. <ref type="figure" target="#fig_5">4e</ref>).</p><p>Notable, its siRNA entrapment, hydrodynamic diameter and dispersity remained stable for eight weeks when stored in phosphate-buffered saline (PBS) at 4 °C (Extended Data Fig. <ref type="figure">9a</ref>). Furthermore, cryo-EM data revealed that aNP 18 -siRNA predominantly consists of multilamellar, elliptical structures, which was consistent across six independently produced batches (Fig. <ref type="figure" target="#fig_5">4f</ref>).</p><p>Using the same method that we applied for the prototype aNP 72 (Fig. <ref type="figure" target="#fig_0">1i</ref>), we integrated <ref type="bibr" target="#b55">89</ref> Zr-siRNA into aNP 18 to assess its biodistribution in mice at various time points following intravenous administration using ex vivo gamma counting (Fig. <ref type="figure" target="#fig_5">4g</ref>). For aNP 18 , we observed considerable bone marrow accumulation and approximately twofold-higher uptake in the spleen compared with LNPs after 24 h (Fig. <ref type="figure" target="#fig_0">1m</ref> and Extended Data Fig. <ref type="figure">7a</ref>). As the spleen also contains myeloid and progenitor cells, the high uptake in this organ is beneficial. The liver uptake-which we found to be slightly lower than for LNPs 24 h after administration (Fig. <ref type="figure" target="#fig_0">1m</ref>)-and kidney accumulation must be considered and carefully monitored. We therefore measured liver enzymes and kidney toxicity markers, and did not observe substantial differences after PBS or aNP 18 -siRNA injections (Extended Data Fig. <ref type="figure">7b</ref>). Furthermore, a single aNP 18 -siRNA administration resulted in tumour necrosis factor alpha (TNFα) and interleukin-6 (IL-6) concentrations comparable with mice that received intravenous PBS, and significantly lower concentrations (P = 0.0432 for TNFα and P &lt; 0.0001 for IL-6) than mice receiving intraperitoneal LPS, used as positive control (Extended Data Fig. <ref type="figure">7c</ref>).</p><p>We next evaluated aNP 18 's therapeutic potential by silencing C-C chemokine receptor type 2 (Ccr2) expression in a syngeneic tumour mouse model. LNP-siRNA targeting Ccr2 mRNA (siCCR2) treatment has previously been shown to decrease influx of myeloid cells in tumours, affecting the immunosuppressive tumour microenvironment <ref type="bibr" target="#b32">33</ref> (Fig. <ref type="figure" target="#fig_5">4h</ref>). We therefore formulated aNP 18 with two siCCR2 constructs that induced CCR2 knockdown in murine BMDMs ex vivo compared with aNP-siCtrl (Extended Data Fig. <ref type="figure">8a</ref>). Finally, using the most potent siCCR2 construct, we administered aNP 18 -siCCR2 intravenously to MC38 tumour-bearing C57/BL6 mice (Fig. <ref type="figure" target="#fig_5">4i</ref>). Treatment with aNP 18 -siCCR2 induced significant CCR2 knockdown in ly6C lo monocytes of the bone marrow (P = 0.005), spleen (P = 0.0056) and blood (P = 0.0007) (Fig. <ref type="figure" target="#fig_5">4j-l</ref>). Simultaneously, and in line with previous findings <ref type="bibr" target="#b32">33</ref> , we observed a considerable decrease of tumour-resident CCR2 + myeloid cells (Extended Data Fig. <ref type="figure">8b,</ref><ref type="figure">c</ref>) and macrophages following aNP 18 -siCCR2 treatment compared with aNP 18 -siCtrl (Fig. <ref type="figure" target="#fig_5">4m</ref>,n), without impacting tumour size (Extended Data Fig. <ref type="figure">8d</ref>). As these myeloid cells are generally immunosuppressive <ref type="bibr" target="#b33">34</ref> , their reduced presence indicates a decreased influx of monocytes from the haematopoietic organs, indicative of the aNP platform's potential for immunotherapy. Furthermore, we did not observe notable changes in body weight (Extended Data Fig. <ref type="figure">8e</ref>), liver enzyme levels, kidney toxicity markers (Fig. <ref type="figure" target="#fig_5">4o</ref>), or damage using histological analyses of liver i, Schematic treatment regimen involving MC38-tumour-bearing mice (n = 5 mice per group) receiving repeated intravenous administrations of aNP 18 containing scrambled siRNA (aNP 18 -siCtrl) or CCR2 siRNA (aNP 18 -siCCR2) (0.5 mg kg -1 per administration, cumulative dose of 3.5 mg kg -1 ). CCR2 expression was determined 14 days after the first administration by flow cytometry. j-l, CCR2 levels indicated by mean fluorescence intensity (MFI) in ly6C lo monocytes in the bone marrow (j), spleen (k) and blood (l). Data represent mean ± s.d. of one experiment (n = 5 mice) and were analysed using Student's t-test. Statistically significant differences between aNP 18 -siCCR2 versus aNP 18 -siCtrl formulations are indicated by: **P ≤ 0.01, ***P ≤ 0.001. m, Number of CCR2 + macrophages per gram of tumour tissue as determined by flow cytometry. Data represent mean ± s.d. of one experiment (n = 5 mice) n, Fraction of CCR2 + macrophages within tumour tissue expressed as percentage (%) of myeloid cells. Data represent mean ± s.d. of one experiment (n = 5 mice) and analysed using Student's t-test. Statistically significant differences between aNP 18 -siCCR2 versus aNP 18 -siCtrl formulations are indicated by: **P ≤ 0.01. o, Biocompatibility of siRNA-aNP 18 -siCCR2 as determined by serum levels of alanine aminotransferase (ALAT, left), aspartate aminotransferase (ASAT, middle left), creatinine (middle right) and urea (right) two days following treatment (cumulative dose of 3.5 mg kg -1 ). Data represent mean ± s.d. of one experiment (n = 3 or 4 mice). LLOQ, lower limit of quantification. p, Representative liver sections stained with haematoxylin and eosin from mice treated with aNP 18 -siCtrl (left) and aNP 18 -siCCR2 (right). sections, following treatment with aNP 18 -siCtrl and aNP 18 -siCCR2 (Fig. <ref type="figure" target="#fig_5">4p</ref> and Supplementary Fig. <ref type="figure" target="#fig_7">5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aNPs functionally deliver ASO and mRNA</head><p>Aside from gene silencing, we explored the aNP platform's capacity for delivering other types of nucleic acid therapeutics. Using the approach we established for the prototype aNP 72 -siRNA, we first conducted pilot experiments to identify stable aNP formulations containing the ionizable cationic lipid ALC-0315 (refs. 4,35). Using a tailored formulation containing POPC, cholesterol and ALC-0315, we incorporated an ASO that induces splice-switching <ref type="bibr" target="#b35">36</ref> at an N/P ratio of 9 (Fig. <ref type="figure" target="#fig_7">5a</ref>). The aNP-ASO formulation's mean hydrodynamic diameter was approximately 120 nm with a narrow size distribution (PDI &lt; 0.1; Extended Data Fig. <ref type="figure" target="#fig_0">10b</ref>). Cryo-EM corroborated this finding and uncovered coreshell structures (Fig. <ref type="figure" target="#fig_7">5b</ref>). In line with aNP-siRNA formulations, ASO was stably incorporated, with entrapment and recovery values of around 80% (Extended Data Fig. <ref type="figure" target="#fig_0">10c</ref>). To determine the aNP-ASO's functional splice-switching effects in vitro, we transfected RAW 264.7 cells with the NATURA reporter <ref type="bibr" target="#b36">37</ref> . These cells stably express enhanced green fluorescent protein (eGFP), which changes to turbo red fluorescent protein expression (tRFP) upon successful blocking of a frameshift exon by a specific ASO (Fig. <ref type="figure" target="#fig_7">5c</ref> and Extended Data Fig. <ref type="figure" target="#fig_0">10a</ref>). Following the reporter cells' exposure to aNPs containing frameshift-targeted ASO, we observed dose-dependent splice-switching effects (Fig. <ref type="figure" target="#fig_7">5d</ref>). We observed no splice-switching for the control aNP.</p><p>To evaluate the aNP platform's ability to encapsulate and deliver mRNAs, we designed an aNP containing DMPC, cholesterol, triglycerides and ALC-0315 using an N/P ratio of 6 (Fig. <ref type="figure" target="#fig_7">5e</ref>). Cryo-EM revealed aNP-mRNA had a spherical morphology and a diameter of about 70 nm (Fig. <ref type="figure" target="#fig_7">5f</ref>), which was confirmed by DLS (Fig. <ref type="figure" target="#fig_7">5g</ref>). We also found mRNA entrapment to be efficient (&gt;80%) and constant between various aNP-mRNA batches (Fig. <ref type="figure" target="#fig_7">5h</ref>). Importantly, the aNP formulation's mRNA entrapment, hydrodynamic diameter and dispersity remained stable for eight weeks when stored in PBS at 4 °C (Extended Data Fig. <ref type="figure">9b</ref>). The aNP-mRNA's zeta potential of approximately -17 mV was comparable with aNP 18 -siRNA (Figs. <ref type="figure" target="#fig_7">5iand 4e</ref>). To evaluate mRNA translation in vitro, <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> </p><p>we treated RAW 264.7 cells with aNPs containing mRNA-encoding GFP. Flow cytometry analysis revealed efficient and dose-dependent transfection efficiency (Extended Data Fig. <ref type="figure" target="#fig_0">10d,</ref><ref type="figure">e</ref>). Finally, we evaluated aNP-mRNA's functional effects in vivo by intravenously administering aNPs and LNPs containing mRNA-encoding mCherry. Flow cytometry analyses of bone marrow myeloid progenitors (Fig. <ref type="figure" target="#fig_7">5j</ref>,k) revealed significantly more mCherry + cells (P = 0.0241) and higher expression levels (P = 0.0407) following treatment with aNP-mRNA when compared to LNP-mRNA (Fig. <ref type="figure" target="#fig_7">5l</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Lipid molecules such as cholesterol are transported throughout the body via endogenous nanoparticles known as lipoproteins <ref type="bibr" target="#b19">20</ref> . For example, HDL can accept cholesterol from myeloid cells such as macrophages in inflammatory tissues-a process mediated by passive diffusion and via ATP-binding cassette transporters and scavenger receptors <ref type="bibr" target="#b37">38</ref> . Aside from interacting with mature myeloid cells, HDL has been shown to directly interact with HSPCs <ref type="bibr" target="#b38">39</ref> . Although lipoproteins fulfill many important tasks in lipid metabolism <ref type="bibr" target="#b39">40,</ref><ref type="bibr" target="#b40">41</ref> , HDL has also been implicated in transporting RNAs in the human body <ref type="bibr" target="#b20">21</ref> . Owing to these diverse features, HDL and its trafficking in the human body provide a compelling framework for RNA delivery to immune cells and their progenitors in the bone marrow. Although reconstituted HDL or HDL-mimicking nanoparticles have been developed for delivering cholesterol-conjugated siRNA, this strategy results in hydrophilic siRNA's surface-integration through the lipophilic cholesterol anchor that is incorporated in the phospholipid layer <ref type="bibr" target="#b41">42</ref> . This approach has been explored for hepatic delivery via scavenger receptor type B1 (SR-B1) <ref type="bibr" target="#b42">43</ref> and vaccine purposes <ref type="bibr" target="#b43">44,</ref><ref type="bibr" target="#b44">45</ref> . Others have used apolipoproteins containing cationic lipoplexes for RNA delivery, inevitably exposing the payload to the outside environment <ref type="bibr" target="#b45">46</ref> . Here we presented the development and evaluation of the aNP platform that stably incorporates a variety of nucleic acid payloads in its core. By varying the aNP composition (Supplementary Table <ref type="table">1</ref>), we can finetune properties to optimize RNA delivery to diverse myeloid cells, as well as HSPCs in the bone marrow. Although LNPs have been shown to reach bone marrow endothelial cells <ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref> , compositional modifications <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b49">50</ref> or antibody conjugation strategies <ref type="bibr" target="#b50">51,</ref><ref type="bibr" target="#b51">52</ref> are generally required for efficient HSPC targeting. Importantly, it should be considered that LNP technology was not explicitly designed for immune cell targeting. Conversely, we specifically designed the aNP platform with immune cell and HSPC targeting in mind and achieved gene regulation in these cell subsets. On the basis of our previous studies <ref type="bibr" target="#b52">53</ref> , we assume aNP interactions with myeloid cells and their bone marrow progenitors are primarily mediated via apoA1. However, we cannot exclude aNPs containing a small fraction of other apolipoproteins due to the apoA1 isolation protocol we have used for this study. Besides gene silencing using siRNA, aNPs are suitable for delivering functional ASOs and mRNA. We foresee aNP delivery technology progressing into a designer platform for therapeutic immunoregulation in a wide range of immune-mediated diseases, for diverse vaccination applications, and for gene HSPC editing in certain hereditary diseases. The aNP platform's natural features ensure high biocompatibility and allow for repeated dosing, which, in conjunction with its modularity and the ability to scale production, make it attractive for clinical translation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online content</head><p>Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref>.</p><p><ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aNP production</head><p>Apolipoprotein nanoparticles containing nucleic acids were formulated by rapid T-junction mixing as previously described in ref. 28. The lipid molecules (POPC; DMPC or DSPC; cholesterol; tricaprylin (PEG-DMG for LNP particles); and DLin-MC3-DMA) were dissolved in ethanol at ratios specified in Supplementary Table <ref type="table">1</ref>. siRNA, mRNA or ASO were dissolved in 25 mM sodium acetate (pH 4). Next, organic and aqueous phases were mixed through a T-junction at a flow rate ratio of 1:3 (organic-to-aqueous) and collected in a 12-14 kDa MWCO dialysis membrane (Spectra/Por). Nanoparticle formulations were dialysed against 1× PBS (pH 7.4) for 4 h and refreshed for dialysis overnight at 4 °C while stirred at 150 r.p.m. Excess organic and aqueous phases were stored at 4 °C for physicochemical analysis. On the next day, samples were collected from the dialysis bags and the volume was determined. For the aNP particles, the appropriate amount of apolipoprotein A1 (apoA1) in PBS was diluted to one-third of the nanoparticle sample volume. ApoA1 was introduced to the nanoparticle formulations by rapid T-junction mixing at a flow rate ratio of 1:3 (apoA1 solution/nanoparticle solution). After apoA1 addition, samples were incubated at room temperature for 1 h for aNP-siRNA and aNP-ASO, and 20 min for aNP-mRNA. The resulting product was filtered through a 0.2 µm filter, and concentrated and purified by centrifugal filtration using a 100 kDa MWCO filter. Samples were diluted to the desired siRNA, ASO or mRNA concentration and stored at 4 °C until further use. Aseptic techniques were used after 0.2 µm filtration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>aNP physicochemical analysis</head><p>The nanoparticle hydrodynamic diameter (expressed as the number-weighted mean diameter) and zeta potential were determined by DLS using a Zetasizer Nano ZS (Malvern Instruments) equipped with a Zetasizer NanoSampler (Malvern Instruments). Size dispersity was measured as the PDI. For DLS measurements, 100 µl of the formulation sample was diluted into 700 µl of 1× PBS and equilibrated at room temperature before analysis. Each sample was measured five times (10 runs of 10 s) without fixing the attenuator and measurement position. For zeta potential measurements, the sample was diluted 50 times in MilliQ water, and 700 µl of diluted sample was loaded in a disposable folded capillary cuvette (DTS1070, Malvern Panalytical). Five measurements were performed at intervals of 300 s, and each measurement comprised 40 runs with 40 V applied. The Quant-iT RiboGreen assay (Thermo Fisher Scientific) was used to quantify the amount of RNA loaded inside of the formulated particles. A standard formulation sample with a theoretical RNA concentration of 133.3 µg ml -1 , was diluted 200 times in TE buffer both with and without 2% Triton X-100 in a black 96-well plate to a total volume of 100 µl. The Triton detergent disrupts the lipid-based nanoparticles; therefore, total RNA (retained and unretained) becomes accessible for the Quant-iT RiboGreen reagent. Known RNA controls, stored during formulation, were diluted 53.3 times in TE buffer both with and without 2% Triton to a total volume of 100 µl. Next, RiboGreen reagent was 200-fold diluted using TE buffer both with and without Triton X-100; 100 µl of this dilution was added to each well containing sample or control to bring the total volume to 200 µl. The fluorescence of the samples was then measured on a Tecan Spark microplate reader at an excitation wavelength of 480 nm and emission wavelength of 520 nm. RNA recovery was determined as: (amount of RNA (retained + unretained))/(total amount of RNA (used in the formulation)) × 100%. The entrapment of RNA was defined as: (1-((amount of RNA (retained + unretained))/(total amount of RNA (used in the formulation)))) × 100%. RNA retention was determined as: recovery × entrapment. Cholesterol was quantified using the cholesterol FS assays (DiaSYS). Briefly, 240 µl of buffer containing colour reagent was added to 10 µl of sample in a transparent 96-well plate and incubated at 37 °C for 5 min. Absorbance was measured at 500 nm using a Tecan Spark plate reader. Phospholipids were quantified using the LabAssay Phospholipid (FUJIFILM). For this assay, 190 µl of buffer containing colour reagent is added to 10 µl of the sample in a transparent 96-well plate and incubated at 37 °C for 30 min. The absorbance was measured at 600 nm using a Tecan Spark plate reader. The amount of apoA1 was quantified using the Apolipoprotein A1 FS assay (DiaSYS). In short, 200 µl of Reagent 1 was added to 5 µl sample or control in a transparent 96-well plate. After incubating the plate at 37 °C for 5 min, the absorbance was measured using a Tecan Spark microplate reader at 580 nm. Next, 50 µl of Reagent 2 containing an anti-apoA1 antibody was added and the solution was incubated at 37 °C for 5 min before measuring the absorbance at the same setting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ApoA1 isolation from human plasma</head><p>Human HDL plasma fraction was purchased from Medix Biochemica (Maryland Heights). Using KBr salt, the density was adjusted to 1.22-1.24 g ml <ref type="bibr">-1</ref> , and the solution was centrifuged for 48 h, 250,000 × g at 4 °C. The gel-like pellets were carefully collected and dissolved overnight in Milli-Q on a roller at 400 r.p.m. and 4 °C to a concentration of 37.5 mg ml -1 . Next, the HDL solution was dripped at a 0.4 ml min -1 into methanol/chloroform (50/50 vol%) on dry ice to separate the lipids from the protein. About 50 mg of HDL precipitated in 240 ml solvent. The solvent containing the protein precipitate was decanted and centrifuged at 300 × g for 10 min at 4 °C. The supernatant was carefully discarded, and the whitish apoA1 pellets collected. The pellets were dried in the vacuum oven at 37 °C for 2-3 h to remove residual solvent. The resulting white-yellowish flakes were redissolved in 6 M guanidine solution (5 ml per 50 mg of protein). Finally, isolated protein was dialysed against PBS at 4 °C for one week. Phosphate-buffered saline was refreshed daily (dialysis ratio = 1:100) and 3,500 Da MWCO SnakeSkin dialysis membranes (Thermo Fisher Scientific). The dialysate was collected and quality was assessed via SDS-page, Nanodrop and Apolipoprotein FS assay. ApoA1 was aliquoted, snap-frozen, and stored at -80 °C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In vitro gene silencing</head><p>In vitro silencing experiments were performed in a RAW 264.7 (ATCC TIB-71) cell line transfected with the pmirGLO plasmid (containing Renilla and firefly luciferases expressing gene sequences). Cells were <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> cultured until 80% confluency, detached with trypsin, counted and seeded at 25,000 cells per well in a 96-well plate. After overnight recovery, the cells were transfected with nanoparticles containing either scrambled siRNA (Integrated DNA Technologies, IDT) or anti-firefly luciferase siRNA at the desired concentration. After incubating for 48 h, the medium was washed off with 1× PBS and lysate phosphate buffer (Dual-Luciferase Reporter Assay System, Promega) was added to lyse the cells; 10 µl of the cell lysate was transferred to a white 96-well flat-bottomed plate. Subsequently, 40 µl of ONE-Glo reagent (Dual-Luciferase Reporter Assay System, Promega) was added and luminescence was measured with a Tecan Spark microplate reader at an integration time of 500 ms and settle time of 1,000 ms. A luminescence scan was performed to validate the intensity peak at 560 nm for firefly luciferase; 40 µl of Stop and Glo reagent (Dual-Luciferase Reporter Assay System, Promega) was then added to each well and the luminescence was measured again in the same way. The firefly luminescence was normalized to the Renilla luminescence and subsequently expressed as a percentage of the untreated sample signal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In vitro exon skipping</head><p>Exon skipping experiments were performed on NATURA reporter cells <ref type="bibr" target="#b36">37</ref> . Upon ASO-induced exon skipping, the reporter cells switch expression from eGFP to tRFP thereby giving quantitative information about the degree of skipping. In short, RAW 264.7_PC2 cells (ATCC TIB-71) were seeded in a 96-well plate at a density of 30,000 cells per well. Cells were left to attach overnight. Next, the cells were transfected with aNPs containing either target or scrambled ASOs at concentrations ranging from 12.5-200 nM ASO; 48 h after transfection, cells were harvested, washed, stained with DRAQ7 (Thermo Fisher Scientific) and resuspended in FACS buffer (1x PBS + 0.5% BSA + 2 mM EDTA). All data were acquired using the BD FACSAria III Cell Sorter (BD biosciences), eGFP (FITC), tRFP (PE) and DRAQ7 (APC). As a positive control, RAW 264.7_PCT cells that continuously express tRFP <ref type="bibr" target="#b36">37</ref> were utilized. The protein percentage spliced is calculated according to the following formula: pPSI = (0.558 × MFI tRFP)/(MFI eGFP + (0.558 × MFI tRFP)). The relative brightness of tRFP in relation to eGFP is adjusted by multiplying by a factor of 0.558.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In vitro mRNA expression</head><p>RAW 264.7 (ATCC TIB-71) cells were seeded in a 96-well plate at a density of 30,000 cells per well. The cells were left to attach overnight. Cells were then transfected with aNPs containing eGFP-mRNA (RiboPro) at a concentration range of 0-100 ng per well. Cells were harvested 24 h later and prepared for flow cytometry by washing and staining with DRAQ7 (Thermo Fisher Scientific). Finally, cells were resuspended in FACS buffer (1x PBS + 0.5% BSA + 2 mM EDTA). All data were acquired using the BD FACSAriaTM III Cell Sorter (BD biosciences), eGFP (FITC) and DRAQ7 (APC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cryogenic transmission electron microscopy</head><p>Just before the vitrification, the surface of 200-mesh lacey carbon supported copper grids (Electron Microscopy Sciences) was exposed to plasma for 40 s using a Cressington 208 carbon coater. Subsequently, 3 µl of aNP sample was applied on a grid and vitrified into a thin film by plunge vitrification in liquid ethane using an automated robot (FEI Vitrobot Mark IV). Cryo-EM imaging was performed on the cryoTITAN (Thermo Fisher Scientific), equipped with a field emission gun, a post column Gatan imaging filter (model 2002), and a post-GIF 2k × 2k Gatan CCD camera (model 794). The micrographs were acquired at either 6,500× (electron dose of 1.64 electrons Å -2 s -1 ) or 24,000× magnification (electron dose of 11.8 Å -2 s -1 ) at 300 kV acceleration voltage in the bright-field TEM mode with zero-loss energy filtering and a 1 s acquisition time. The size was quantified by measuring the nanoparticle diameter using ImageJ (NIH). At least 150 particles were analysed for each formulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ApoA1-immunogold labelling of apoA1 on siRNA-aNPs</head><p>Thirty minutes before staining, a copper grid (carbon support film, 200 mesh, Electron Microscopy Sciences) was plasma-discharged and placed on a 20 µl droplet of the aNP sample (dilution 1:20) for 3 s with the carbon film facing down. The grid was washed five times by incubating it on a 20 µl droplet of PBS for 2 min each time. Next, it was placed on 20 µl of 1% BSA in PBS for 3 min and then on 20 µl of mouse anti-human monoclonal apoA1 antibody in 1% BSA (dilution 1:200, clone: B10, Santa Cruz Biotechnology) for 45 min. After washing, the grid was incubated on 20 µl of the bridging antibody in 1% BSA (1:200 dilution, polyclonal rabbit anti-mouse IgG, Jackson Immunoresearch) for 20 min, washed and placed on 20 µl of 10 nm protein-A-coated gold nanoparticles (1:25 dilution, Cell Microscopy Core, Department of Cell Biology, Utrecht University Medical Center) for 20 min. Finally, the grids were washed six times in PBS and ten times in demi water (each wash was 20 µl and a 3 min incubation). The grid was then placed on a 20 µl droplet of 2% uranyl acetate in water for 5 min. After these steps, the TEM grids were air-dried overnight. The gold-labelled nanoparticles were visualized at room temperature by electron microscopy. The acquisition parameters were the same as for cryo-EM described above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cryo-EM analysis of lipid aggregation</head><p>Lipid aggregates were defined on cryo-EM images at 6,500-times magnification as either spherical lipid structures, larger than the main population nanoparticles and displaying different electron densities, or clusters of nanoparticles (Supplementary Fig. <ref type="figure" target="#fig_1">3</ref>). The aggregate area was manually delineated by using a bare-hand drawing tool in ImageJ. The lipid aggregation was expressed as the percentage of aggregates in the total image area. At least ten images were analysed for each formulation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Radiolabelling of aNP-siRNA</head><p>The siRNA-azide had the following sequence: 5′-rArCrCrCrUrGrArArGrUrUrCrArUrCrUrGrCrArCrCrArCCG/ 3AzideN/-3′. 5′-rCrGrGrUrGrGrUrGrGrArGrArUrGrArArCrUrUrCrArGrGr GrUrCrA-3′. siRNA-azide and DFO-DBCO were separately dissolved in Milli-Q water containing 5 vol% DMSO to reach concentrations of 0.5 mg ml -1 . The siRNA-azide solution (270 µl, 8 nmol) was mixed with the DFO-DBCO solution (129 µl, 7.6 nmol) and incubated in the dark and at room temperature for 16 h. The solution was dialysed (2 kDa MWCO dialysis tube, Sigma-Aldrich) against PBS (1 l). The product was freeze-dried, and product formulation was confirmed by MALDI-TOF-MS. The siRNA-DFO remained stable for at least a year when stored at -80 °C. Next, a <ref type="bibr" target="#b55">89</ref> Zr oxalate solution in 1 M oxalic acid was neutralized using a 1 M sodium carbonate solution until a pH between 6.8-7.4 was reached (total volume &lt; 25 µl). The neutralized <ref type="bibr" target="#b55">89</ref> Zr solution was added to DFO-siRNA dissolved in Milli-Q water (0.5 ml) and the mixture was incubated at 37 °C using a thermomixer (300 r.p.m.) for 60 min. Completion of the reaction was confirmed by radio-TLC (Typhoon 7000IP plate reader, GE Healthcare). The 89 Zr-siRNA was directly used to formulate the aNP-89 Zr-siRNA, which resulted in radiochemical yields of &gt;80%, assessed by radio-TLC. Next, the aNP- <ref type="bibr" target="#b55">89</ref> Zr-siRNA were analysed by Cryo-EM and DLS, to assess their morphology, size and dispersity, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biodistribution over time</head><p>Female C57BL/6 mice were intravenously administered with aNP-89 Zr-siRNA (8 µCi <ref type="bibr" target="#b55">89</ref> Zr correlating to 1-1.5 mg kg -1 siRNA) in 150-200 µl PBS via tail-vein injection. At various time points after injection (15 m, 1 h, 4 h and after 24 h), mice were euthanized, perfused with PBS, and tissues (bone marrow, spleen, heart, lung, muscle, tail, blood, brain, liver and kidneys) were collected and weighed. Next, the emitted ɣ radiation was measured by a gamma counter (2480 WIZARD2 Automatic Gamma Counter, PerkinElmer). Radioactivity values were corrected for decay <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> and normalized to tissue weight to express radioactivity concentration as %ID per gram.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PET-CT imaging acquisition and analysis</head><p>Positron emission tomography imaging was performed 24 h after aNP-89 Zr-siRNA injection using an IRIS PET-CT (Inviscan). Mice were anesthetized with a gas mixture of 2% isoflurane and 5% oxygen. A 10 min static whole-body PET scan was conducted using an energy window between 250-750 keV followed by a 20 s whole-body CT scan (energy 80 kV, 0.9 mA, 576 projections, voxel size 160 µm). Reconstruction of the PET images was achieved with the 3D Ordered Subsets Expectation Maximization (3D-OSEM-MC) algorithm (eight subsets and eight iterations) using decay, random and dead-time correction. All PET and CT data were processed using OsiriX Medical Imaging software (v.13.0.3) as described before <ref type="bibr" target="#b52">53</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RNA isolation and RT-qPCR</head><p>Bone-marrow-derived macrophages cultured in RPMI 1640 medium containing sodium pyruvate (1% P/S, 15% L929 conditioned medium) were incubated for 24 h with aNP-siRNA. The NucleoSpin kit (Machery Nagel) was used to isolate RNA from 750,000 BMDMs 48 h after incubation. The RNA was reverse transcribed using the iScript cDNA Synthesis Kit (Biorad) at 300 ng per reaction. The resulting cDNA was diluted tenfold and amplified in a PowerUp SYBR Green mastermix (Applied Biosystems) using a QuantStudio 3 (Applied Biosystems) thermocycler. A final concentration of 100 nM for the reverse and forward primer was used (primer (IDT) details are listed in Supplementary Table <ref type="table">2</ref>). Thermocycling was performed for 2 min at 95 °C followed by forty 15 s amplification cycles at 95 °C, and a further forty 30 s amplification cycles at 60 °C, with fluorescence acquisition at the end of each cycle. Reactions were performd in duplicate and each plate included an NTC and a reverse transcriptase control. To verify the amplification of the intended product a melting curve analysis was performed from 65 °C to 95 °C. All amplification data were normalized to the ROX dye before further processing. Each gene of interest was normalized to two housekeeping genes and RT-qPCR, whereas the ΔCq-expression was normalized to aNP-siCtrl at an equivalent concentration. The percentage knockdown is calculated according to the following formula: %KD = (1 - ∆∆Cq) × 100.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preparing single-cell suspensions and staining for flow cytometry</head><p>Single-cell suspensions comprised whole blood, spleen and bone marrow tissue retrieved from euthanized female C57BL/6J mice. The entire spleen was directly minced on a Corning 70 µm cell strainer using a syringe plunger and flow buffer (DPBS, 0.5% BSA, 2 mM EDTA). Single-cell suspensions of the bone marrow were made by flushing the femurs with 10 ml flow buffer. The bone marrow was then immediately filtered using a 70 µm cell strainer and centrifugated at 400 × g for 5 min at 4 °C, aspirating the supernatant. The cell pellets from the whole blood, spleen and bone marrow were resuspended in 1× red blood cell lysis (catalogue no. 420302, Biolegend). The samples were then incubated for 3 × 7 min on ice (blood), or at room temperature for 4 min (spleen) or 1 min (bone marrow). Quenching was achieved with flow buffer and cells were centrifuged at 400 × g for 5 min at 4 °C. Next, the single cells were transferred to a Corning V-bottom 96-well plate and incubated with 50 µl viakrome 808 (catalogue no. C36628, Beckman Coulter) diluted in PBS for 20 min in the dark at room temperature. The cells were then washed, centrifuged again and incubated with CD16/32 (Fc-block, 101302, BioLegend) antibodies (except for the progenitor staining group) for 10 min on ice. The cells were washed, centrifuged, and brilliant stain buffer (Invitrogen) containing antibodies were added (total volume of 50 µl). The sample was then incubated on ice for 30 min in the dark. All data were acquired using a 21-colour CytoFLEX LX (Beckman Coulter). The antibodies used for the myeloid cells panel and progenitor cells panel are listed in Supplementary Tables <ref type="table">5</ref><ref type="table">6</ref><ref type="table">7</ref><ref type="table">8</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Clinical chemistry and cytokine measurements</head><p>Female C57BL/6J mice were intravenously administrated with 0.5 mg kg -1 aNP-siRNA or PBS (n = 4 per group). After 4 h, serum was collected, and cytokine (IL-6 and TNF-α) levels were measured using enzyme-linked immunosorbent assay (ELISA) kits (ELISA MAX Deluxe Set Mouse IL-6 (Biolegend) and ELISA MAX Deluxe Set Mouse TNF-α, Biolegend) according to the manufacturer's instructions. After 24 h and 72 h, whole blood was collected in BD Vacutainer Heparin Tubes (Becton Dickinson) and the serum was separated. The liver function (ASAT and ALAT) and renal function (urea and creatinine) were measured at the Radboudumc Laboratorium voor Diagnostiek core facility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Liver histology</head><p>Mice were euthanized and perfused with PBS. Whole livers were collected and fixed in 10% formalin for 24 h. The tissue was subsequently processed and embedded in paraffin wax at the diagnostic pathology department. Paraffin sections (5 µm thickness) were cut using a Leica RM2235 microtome, mounted on Superfrost Plus Microscope slides (VWR), and stained with haematoxylin and eosin. The slides were scanned and visualized using CaseViewer software (3DHISTECH).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inbred mice strain</head><p>All animal experiments were conducted in compliance with European Union and Dutch guidelines according to the care and use of laboratory mice after approval by the Radboud University Medical Center's Dierexperimentencommissie (DEC) (CCD License = AVD10300 2021 15550); 8-12 weeks old female C57BL/6J mice (Mus musculus) obtained from Charles River were co-housed in climate-controlled conditions (20-24 °C and a humidity level of 45-65% RV). An acclimatization period of one week was used and mice had access to food and water ad libitum. Mice were randomized and assigned to control and treatment groups. Studies were conducted in a blinded manner.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tumour inoculation and treatment regimen</head><p>Female C57BL/6J mice were inoculated with 5 × 10 5 MC38 cells in 100 µl PBS via subcutaneous injection in the right flank on day -10. Treatment for all experiments consisted of intravenous administration (7 × 0.5 mg kg -1 in 14 days, 48 h apart) of aNP 18 -siCtrl or aNP 18 -siCCR2. Treatment started on day 0 and lasted until day 14. The study was stopped at day 14 while tumour volumes were &lt;2,000 mm 3 (humane endpoint) to comply with Dutch regulations on animal welfare. Minimum group sizes were determined by statistical power calculations (Piface) while keeping rates for type I and II errors &lt;5% and a power of 80%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All data are presented as mean ± s.d. or standard error of mean and analysed using GraphPad Prism v.10.0 by one-way ANOVA or Student's t-test, as detailed in the figure captions. P-values &lt; 0.05 were considered significant, with levels of significance indicated as: *P &lt; 0.05; **P &lt; 0.01; ***P &lt; 0.001; ****P &lt; 0.0001. Data distribution was assumed to be normal but this was not formally tested.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure design</head><p>Schematic figures were prepared using BioRender (BioRender.com) and Servier Medical Art (smart.servier.com).</p><p><ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> </p><p>Source Data of the cryo-EM analysis and liver histology are available for research purposes from the corresponding authors on reasonable request. Source Data are provided with this paper. <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref> Extended Data Fig. <ref type="figure" target="#fig_1">3</ref> | Ex vivo LAMP1 silencing in bone marrow-derived macrophages. a. Ex vivo screening of siLAMP1 constructs (Supplementary Table <ref type="table">4</ref>) using bone marrow-derived macrophages (BMDMs). Cells were transfected with siRNA formulated with Lipofectamine RNAiMAX at a concentration of 10 and 100 nM for 24 h. 72 h transfections, cells were harvested and prepared for flow cytometry. LAMP1 mean fluorescence intensity was measured by flow cytometry. For further experiments, siLAMP1e was selected (dark orange bar). Data represents mean ± SD of one experiment (minimal of n = 2 biological replicates). b. Ex vivo LAMP1 silencing in BMDMs after transfection with aNP-siLAMP1. Cells were incubated for 24 h with aNP-siRNAs. 48 h after incubation, the cells were processed for RT-qPCR. Lamp1 expression levels were determined by RT-qPCR and the ΔΔCq-values are displayed. The primers are listed in Supplementary Table <ref type="table">3</ref>. Data represent mean ± SD of one experiment (n = 3 donors). c. Ex vivo Lamp1 silencing in bone marrow-derived macrophages aNP 18 dose response. Lamp1 expression was determined 48 h after incubation with RT-qPCR and the ΔCq-expression normalized to siCtrl-aNP 18 at an equivalent concentration. The % knockdown is calculated according to the following formula: %KD = (1 -∆∆Cq) × 100. The absolute IC50 value is 1.9 nM. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extended</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Prototyping aNP platform technology for siRNA delivery to the myeloid cell compartment. a, Schematic representation of siRNA apolipoprotein nanoparticle (aNP-siRNA) platform technology. b, Prototype aNP composition (wt%). c, siRNA recovery, entrapment and retention (n = 12 formulation batches). d, Apolipoprotein A1 (apoA1) content (n = 11 formulation batches).e, Hydrodynamic diameter presented as the number mean average, and the associated dispersity (n = 12 formulation batches). f, Cryo-EM. g, Transmission electron microscopy and apoA1-immunogold staining (IGS). h, Firefly luciferase (Fluc) reporter gene silencing in RAW 264.7 cells stably expressing Fluc and Renilla luciferase of prototype aNP compared with LNPs containing Fluc siRNA (n = 3 formulation batches). i, Complexation of zirconium-89 ( 89 Zr) to DFO-siRNA. j, aNP-<ref type="bibr" target="#b55">89</ref> Zr-siRNA physicochemical analysis (n = 2 formulation batches). d.nm, diameter (nm). k, aNP-<ref type="bibr" target="#b55">89</ref> Zr-siRNA cryo-EM analysis. l, Positron emission tomography-computed tomography (PET-CT) imaging of mice 24 h after intravenous administration of unformulated<ref type="bibr" target="#b55">89</ref> Zr-siRNA, LNP-<ref type="bibr" target="#b55">89</ref> Zr-siRNA and</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>3 siRNA</head><label>3</label><figDesc>https://doi.org/10.1038/s41565-024-01847-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | Establishing and screening a library of aNP-siRNA with diverse compositions. a, aNP-siRNA library design space. N, nitrogen; P, phosphate. b, Compositions, identifiers, and characteristics of the aNP-siRNA formulations in the library. Formulations in bold and indicated by an asterisk (*) were selected for in vivo evaluation. c, Morphology and size were determined by cryo-EM analysis (see Supplementary Fig. 2 for extended cryo-EM data).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Haematopoietic stem cells, HSCs (Lin -cKit + Sca1 + ) (LSK) Relative LAMP1 expression (%)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Screening aNP-siRNA functional gene silencing in vivo. a, Ex vivo LAMP1 silencing in BMDMs via transfection with aNP-siLAMP1. The normalized, relative gene expression levels of Lamp1 RNA (ΔΔCq) were determined by RT-qPCR. The primers are listed in Supplementary Table3. Data represent mean ± s.d. of one experiment (n = 3 donors). b, Schematic screening workflow involving mice receiving repeated intravenous administrations of aNP containing siCtrl or siLAMP1 (0.5 mg kg -1 per administration, cumulative dose of 2 mg kg -1 ). LAMP1 expression was determined six days after the first administration by flow cytometry<ref type="bibr" target="#b17">18</ref> . c, Schematic overview of haematopoietic stem cells, myeloid progenitor cells and mature myeloid cells. d, Flow cytometry gating strategy (refer to Supplementary Fig.4for an extended overview of the gating strategy).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 |</head><label>4</label><figDesc>Fig. 4 | In-depth analysis of lead siRNA-aNP physicochemical properties, in vivo behaviour and therapeutic application. a, Lead aNP-siRNA (aNP 18 ) composition (wt%). b, siRNA recovery, entrapment and retention, data represent mean ± s.d. of one experiment (n = 12 formulation batches). c, Apolipoprotein A1 (apoA1) content. Data represent mean ± s.d. of one experiment (n = 9 formulation batches). d, Hydrodynamic diameter represented as the number mean and dispersity. Data represent mean ± s.d. of one experiment (n = 12 formulation batches). e, Zeta potential. Data represent mean ± s.d. of one experiment (n = 6 formulation batches). f, Cryo-EM analysis of six individual aNP 18 -siRNA batches.g, Quantitative biodistribution of aNP 18 -89 Zr-siRNA 15 min, 1 h, 4 h and 24 h after intravenous administration in mice (8 µCi per mouse) determined by ex vivo gamma counting. Radioactivity is expressed as %ID per gram. Data represent mean ± s.d. of one experiment, and each data point represents one animal (n = 3 mice). h, Schematic showing therapeutic effect of CCR2 silencing by inhibiting immunosuppressive monocyte migration to the tumour microenvironment. i, Schematic treatment regimen involving MC38-tumour-bearing mice (n = 5 mice per group) receiving repeated intravenous administrations of aNP 18 containing scrambled siRNA (aNP 18 -siCtrl) or CCR2 siRNA (aNP 18 -siCCR2) (0.5 mg kg -1 per administration, cumulative dose of 3.5 mg kg -1 ). CCR2 expression</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>https://doi.org/10.1038/s41565-024-01847-3 aNP 18 -89 Zr-siRNA, 15 min aNP 18 -89 Zr-siRNA, 1h aNP 18 -89 Zr-siRNA, 24h aNP 18 -89 Zr-siRNA, https://doi.org/10.1038/s41565-024-01847-3</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | aNP formulations for ASO and messenger RNA delivery to immune cells. a, aNP-ASO composition (wt%). b, Cryo-EM image. c, Schematic of NATURA reporter cells that alter the expression of eGFP to tRFP upon ASO-mediated splice-switching 37 . d, Splice-switching in RAW 264.7 reporter cells in vitro. Data represent mean ± s.d. of two experiments with two formulation batches (n = 2). e, aNP-mRNA composition (wt%). f, Cryo-EM image. g, Hydrodynamic diameter represented as the number mean and dispersity. Data represent mean ± s.d. of one experiment with 14 formulation batches (n = 14). h, mRNA recovery, entrapment and retention data represent mean ± s.d. of one experiment (n = 14 formulation batches). i, Zeta potential data represent mean ± s.d. of one experiment with three individual formulations (n = 3 formulations). j,k, Schematic workflow of intravenously (i.v.) administering aNPs containing mCherry mRNA (aNP-mRNA-mCherry) (j) at a dose of 0.5 mg kg -1 mRNA to C57/BL6 mice and determining expression in bone marrow cells by flow cytometry analysis (k). l, mCherry expression in bone marrow myeloid progenitors indicated by geometric mean fluorescence intensity (gMFI, left panel) and percentage of mCherry + cells (right panel) 12 h after intravenous administration with LNP and aNP containing mCherry mRNA. Data represent mean ± s.d. of one experiment (n = 3 mice) and analysed by student t-test. Statistically significant differences between LNP-mRNA versus aNP-mRNA formulations are indicated by: *P ≤ 0.1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>•</head><label></label><figDesc>POPC (Avanti Polar Lipids, 850457) • DMPC (Avanti Polar Lipids, 850345) • DSPC (Avanti Polar Lipids, 850365) • Cholesterol (Sigma-Aldrich) • Tricaprylin (Sigma-Aldrich) • PEG(2K)-DMG (Avanti Polar Lipids, 880151) • DLin-MC3-DMA (SymoChem) • Sodium acetate (Sigma-Aldrich) • 12-14 kDa molecular weight cut-off (MWCO) dialysis membrane, Spectra/Por • Quant-iT RiboGreen reagent (Thermo Fisher Scientific) • TE buffer (10 mM Tris-HCl, 1 mM, EDTA, pH 7.5 in DEPC-treated water) • Apolipoprotein A1 FS assay (DiaSYS) • Spin filters 100,000 Da MWCO (Amicon) • LabAssay phospholipids (Fujifilm, Wako) • Cholesterol FS assay (Diasys) • Dual-Luciferase Reporter Assay System (Promega) • HDL plasma fraction (Medix Biochemica) • RAW 264.7 murine macrophages (ATCC TIB-71) • Lipofectamine RNAiMAX (Thermo Fisher Scientific) • Deferoxamine-DBCO (Macrocyclics) • 2 kDa MWCO Dialysis tubing (Sigma-Aldrich) • Corning 70 µm cell strainer (Merck) • CD11b MicroBeads (Miltenyi Biotec)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Data Fig. 4 |Extended Data Fig. 5 |</head><label>45</label><figDesc>In vivo aNP-induced LAMP1 knockdown effect in bone marrow progenitor cells. Relative LAMP1 expression levels measured by flow cytometry in various cell populations in the bone marrow including HSCs, LT-HSCs, MPPs, MyPs, CMPs &amp; GMPs. The gating strategy utilized in this experiment is displayed in Supplementary Fig.4a. The knockdown effect compared to a negative control formulation is displayed. Data represent mean ± SD of one experiment (n = 6 animals) and analyzed by one-way ANOVA with Bonferroni post-hoc test. Statistically significant differences between aNP-siLAMP1 versus aNP-siCtrl formulations are indicated by: * indicates statistical significance (p ≤ 0.05), ** indicates statistical significance (p ≤ 0.01). In vivo aNP-induced LAMP1 knockdown effect in bone marrow myeloid cells. Relative LAMP1 expression levels measured by flow cytometry in various cell populations in the bone marrow among which leukocytes, myeloid cells, dendritic cells, macrophages, monocytes, monocytes Ly6C high, neutrophils &amp; monocytes Ly6C low. The gating strategy is displayed in Supplementary Fig. 4b. Data represent mean ± SD of one experiment (n = 6 animals) and analyzed by one-way ANOVA with Bonferroni post-hoc test. Statistically significant differences between aNP-siLAMP1 versus aNP-siCtrl formulations are indicated by: * indicates statistical significance (p ≤ 0.05), ** indicates statistical significance (p ≤ 0.01), *** indicates statistical significance (p ≤ 0.001), **** indicates statistical significance (p ≤ 0.0001). https://doi.org/10.1038/s41565-024-01847-3 Extended Data Fig. 7 | aNP biodistribution and tolerability following single i.v. injection. a. Quantitative biodistribution of aNP 18 -89 Zr-siRNA 24 h following intravenous administration in mice (8 µCi/mouse) determined by gamma counting. Radioactivity is expressed as the percentage injected dose per gram of tissue (%ID/g). Data represent mean ± SD of one experiment, each data point represents one animal (n = 9 mice). b. Biocompatibility of siRNA-aNP 18 as determined by serum levels of alanine aminotransferase (ALAT), aspartate aminotransferase (ASAT), creatinine, and urea one day (top) and 3 days (bottom) after intravenous administration (0.5 mg/kg) (n = 1-4 mice). Data represent mean ± SD of one experiment (n = 1-4 mice). c. Cytokine levels were determined by ELISA 4 h after intravenous administration of siRNA-aNP 18 and intraperitoneal administration of LPS (0.5 mg/kg). Data represent mean ± SD of one experiment (n = 3-4 mice) and analyzed by one-way ANOVA with Bonferroni post-hoc test. Extended Data Fig. 9 | aNP-siRNA and aNP-mRNA shelf-life. a. aNP 18 -siLAMP1's RNA entrapment (left), hydrodynamic diameter presented as the number mean (middle), and associated dispersity (right) over a period of 8 weeks while stored at 4 °C. Data represents mean ± SD of one experiment with 3 formulation batches (n = 3 formulation batches). b. aNP-mRNA's RNA entrapment (left), hydrodynamic diameter presented as the number mean (middle), and associated dispersity (right) over a period of 8 weeks while stored at 4 °C. Data represents mean ± SD of one experiment with 3 formulation batches (n = 3 formulation batches). Extended Data Fig. 10 | aNP-ASO physicochemical properties and aNP-mRNA in vitro eGFP expression. a. Schematic of the NATURA reporter system 37 . NATURA reporter cells express eGFP, and switch to tRFP after ASO-induced splice-switching. aNP-ASO's physicochemical characterization: b. Hydrodynamic diameter presented as number mean and associated dispersity, data represent mean ± SD of one experiment (n = 6 formulation batches). c. ASO recovery, entrapment and retention, data represent mean ± SD of one experiment (n = 6 formulation batches). In vitro transfection of RAW 264.7 macrophages with aNP-mRNA-encoding eGFP. d. eGFP MFI as characterized by flow cytometry. Data represent mean ± SD of 4 experiments with 4 individual batches of aNPs(n = 4). e. Percentage (%) eGFP positive cells as characterized by flow cytometry. Data represent mean ± SD of 4 experiments with 4 individual batches of aNPs (n = 4).</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was supported by a <rs type="funder">Dutch Research Council (NWO)</rs> <rs type="grantName">Vidi grant</rs> (no. <rs type="grantNumber">19681</rs>) to R.v.d.M., and an <rs type="funder">NWO</rs> <rs type="grantName">Vici grant</rs> (no. <rs type="grantNumber">91818622</rs>) and <rs type="funder">ERC</rs> Advanced grant (no. <rs type="grantNumber">101019807</rs>) to W.J.M.M.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_wnJSEJK">
+					<idno type="grant-number">19681</idno>
+					<orgName type="grant-name">Vidi grant</orgName>
+				</org>
+				<org type="funding" xml:id="_JDyqSwH">
+					<idno type="grant-number">91818622</idno>
+					<orgName type="grant-name">Vici grant</orgName>
+				</org>
+				<org type="funding" xml:id="_ycbBUKs">
+					<idno type="grant-number">101019807</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data supporting the results in this study are available within the main text, the Extended Data and the Supplementary Information. The</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>M.G.N. and W.J.M.M. are scientific co-founders of and have equity in Trained Therapeutix Discovery. W.J.M.M. is CSO of Trained Therapeutix Discovery. M.G.N. and W.J.M.M. are scientific co-founders of and have equity in BioTrip. S.R.J.H., T.A., R.Z., H.M.J., P.M.F., W.J.M.M., E.K., and R.v.d.M. are listed as inventors on patent application WO2022268913A1 related to this manuscript. The other authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Extended data is available for this paper at <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41565-024-01847-3">https://doi.org/10.1038/s41565-024-01847-3</ref>.</p><p>Correspondence and requests for materials should be addressed to Willem J. M. Mulder or Roy van der Meel.</p><p>Peer review information Nature Nanotechnology thanks Alexandre Detappe and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.</p><p>Reprints and permissions information is available at www.nature.com/reprints. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting Summary</head><p>Nature Portfolio wishes to to improve the reproducibility of of the work that we we publish. This form provides structure for consistency and transparency in in reporting. For further information on on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist Statistics For all statistical analyses, confirm that the following items are present in in the figure legend, table legend, main text, or or Methods section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>n/a Confirmed</head><p>The exact sample size (n) for each experimental group/condition, given as as a discrete number and unit of of measurement A statement on on whether measurements were taken from distinct samples or or whether the same sample was measured repeatedly</p><p>The statistical test(s) used AND whether they are one-or or two-sided</p><p>Only common tests should be described solely by name; describe more complex techniques in the Methods section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A description of of all covariates tested</head><p>A description of of any assumptions or or corrections, such as as tests of of normality and adjustment for multiple comparisons A full description of of the statistical parameters including central tendency (e.g. means) or or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or or associated estimates of of uncertainty (e.g. confidence intervals) For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of of freedom and P value noted Give P values as exact values whenever suitable.</p><p>For Bayesian analysis, information on on the choice of of priors and Markov chain Monte Carlo settings For hierarchical and complex designs, identification of of the appropriate level for tests and full reporting of of outcomes Estimates of of effect sizes (e.g. Cohen's d, Pearson's r), ), indicating how they were calculated Our web collection on statistics for biologists contains articles on many of the points above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Software and code</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Policy information about availability of of computer code Data collection</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>For manuscripts utilizing custom algorithms or or software that are central to to the research but not yet described in published literature, software must be be made available to to editors and reviewers. We We strongly encourage code deposition in in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code &amp; software for further information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Policy information about availability of of data</head><p>All manuscripts must include a data availability statement This statement should provide the following information, where applicable:</p><p>-Accession codes, unique identifiers, or or web links for publicly available datasets -A description of of any restrictions on on data availability -For clinical datasets or or third party data, please ensure that the statement adheres to to our policy Willem J.M. Mulder (willem.mulder@radboudumc.nl) Roy van der Meel (r.v.d.meel@tue.nl) Nov 12, 2024</p><p>The data supporting the results in in this study are available within the main text, the Extended Data, and the Supplementary Information. The source data of of the cryo-EM EM analysis and liver histology are available for research purposes from the corresponding authors upon reasonable request.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting on sex and gender</head><p>Reporting on race, ethnicity, or other socially relevant groupings</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Population characteristics</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Recruitment</head><p>Ethics oversight</p><p>Note that full information on the approval of the study protocol must also be provided in the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Field-specific reporting</head><p>Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Life sciences Behavioural &amp; social sciences Ecological, evolutionary &amp; environmental sciences</head><p>For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Life sciences study design</head><p>All studies must disclose on these points even when the disclosure is negative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample size</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data exclusions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Replication</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Randomization</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blinding</head><p>Reporting for specific materials, systems and methods</p><p>We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read appropriate section before selecting a response. Mimimum group sizes were determined by statistical power calculations (Piface) while keeping rates for type I and II errors &lt;5% and a power of 80%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials &amp; experimental systems</head><p>No data points were excluded from the analyses.</p><p>All experiments in this study were replicated, except the in vivo library screening and the tumor experiments.</p><p>Randomization was always performed. Regarding the tumor experiments: treatment group allocation based on tumor size was performed randomly by dividing mice randomly between cages.</p><p>Blinding was always implemented. Regarding the tumor experiments: Researcher 1 was responsible for treatment injections, while researcher 2 was responsible for monitoring tumor sizes. This ensures that researcher 2 measures tumor volumes without knowledge of the treatment group assignments.</p><p>All antibodies used for flow cytometry studies are provided in Supplementary The axis labels state the marker and fluorochrome used (e.g. CD4-FITC).</p><p>The axis scales are clearly visible. Include numbers along axes only for bottom left plot of group (a 'group' is an analysis of identical markers).</p><p>All plots are contour plots with outliers or pseudocolor plots.</p><p>A numerical value for number of cells or percentage statistics) is provided.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology Sample preparation</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instrument</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Software</head><p>Cell population abundance RAW264.7 murine macrophages were obtained from ATCC (TIB-71).</p><p>The cell line was not authenticated .</p><p>The cell line tested negatively for mycoplasma contamination.</p><p>No commonly misidentified lines were used in this study.</p><p>8-12 weeks old female C57BL/6J mice (Mus musculus) obtained from Charles River Laboratories Germany.</p><p>The study did not involve wild animals.</p><p>The study was conducted with female mice.</p><p>The study did not involve field-collected samples.</p><p>All animal experiments were conducted in compliance with European and Dutch guidelines according to the care and use of laboratory mice after approval by the Radboud University Medical Center's Dierexperimentencommissie (DEC) (CCD License: AVD10300 2021 15550).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>N/A</head><p>N/A N/A Sample preparation is specified in the Methods section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>21-color CytoFLEX LX (Beckman Coulter).</head><p>FlowJo.</p><p>Sorting was not performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>April 2023</head><p>Gating strategy Tick this box to to confirm that a figure exemplifying the gating strategy is is provided in in the Supplementary Information.</p><p>Gating Strategy is is presented in in Supplementary Figure <ref type="figure">4</ref>. 4.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The current landscape of nucleic acid therapeutics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kulkarni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="630" to="643" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Onpattro story and the clinical translation of nanomedicines containing nucleic acid-based drugs</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akinc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1084" to="1087" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Patisiran, an RNAi therapeutic, for hereditary transthyretin amyloidosis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="11" to="21" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Polack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">383</biblScope>
+			<biblScope unit="page" from="2603" to="2615" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Baden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">384</biblScope>
+			<biblScope unit="page" from="403" to="416" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">CRISPR-Cas9 in vivo gene editing for transthyretin amyloidosis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Gillmore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">385</biblScope>
+			<biblScope unit="page" from="493" to="502" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">CRISPR-Cas9 in vivo gene editing of KLKB1 for hereditary angioedema</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Longhurst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">390</biblScope>
+			<biblScope unit="page" from="432" to="441" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticle technology for therapeutic gene regulation in the liver</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Witzigmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Drug Deliv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="344" to="363" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Selective organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery and CRISPR-Cas gene editing</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="313" to="320" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">On the mechanism of tissue-specific mRNA delivery by selective organ targeting nanoparticles</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Dilliard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Siegwart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page">2109256118</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A modular platform for targeted RNAi therapeutics</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kedmi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="214" to="219" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cell specific delivery of modified mRNA expressing therapeutic proteins to leukocytes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Veiga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">4493</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Delivery of therapeutic RNA to the bone marrow in multiple myeloma using CD38-targeted lipid nanoparticles</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tarab-Ravski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">2301377</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Highly efficient CD4 + T cell targeting and genetic recombination using engineered CD4 + cell-homing mRNA-LNPs</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tombácz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ther</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="3293" to="3304" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">PECAM-1 directed re-targeting of exogenous mRNA providing two orders of magnitude enhancement of vascular delivery and expression in lungs independent of apolipoprotein E-mediated uptake</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Parhiz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Control. Release</title>
+		<imprint>
+			<biblScope unit="volume">291</biblScope>
+			<biblScope unit="page" from="106" to="115" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">CAR T cells produced in vivo to treat cardiac injury</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Rurik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">375</biblScope>
+			<biblScope unit="page" from="91" to="96" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Constrained nanoparticles deliver siRNA and sgRNA to T cells in vivo without targeting ligands</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Lokugamage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Sago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Gan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Krupczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Dahlman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1902251</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Universal barcoding predicts in vivo ApoE-independent lipid nanoparticle delivery</title>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Silva Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="4822" to="4830" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticle-mediated mRNA delivery to CD34 + cells in rhesus monkeys</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41587-024-02470-2</idno>
+		<idno>41587-024-02470-2</idno>
+		<ptr target="https://doi.org/10.1038/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biotechnol</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Impact of lipoproteins on the biological activity and disposition of hydrophobic drugs: implications for drug discovery</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Brocks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sachs-Barrable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Thornton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="84" to="99" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">MicroRNAs are transported in plasma and delivered to recipient cells by high-density lipoproteins</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Vickers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Palmisano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Shoucri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Shamburek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Remaley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Cell Biol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="423" to="433" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Apolipoprotein A-I structural organization in high-density lipoproteins isolated from human plasma</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Struct. Mol. Biol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="416" to="423" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">High-density lipoprotein nanobiologics for precision medicine</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J M</forename><surname>Mulder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="127" to="137" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Nanoengineering apolipoprotein A1-based immunotherapeutics</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Schrijver</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41565-024-01847-3</idno>
+		<ptr target="https://doi.org/10.1038/s41565-024-01847-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Ther</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">2100083</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Therapeutic targeting of trained immunity</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J M</forename><surname>Mulder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ochando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A B</forename><surname>Joosten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">A</forename><surname>Fayad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Netea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="553" to="566" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Regulating trained immunity with nanomedicine</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M T</forename><surname>Van Leent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="465" to="481" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Resolving sepsis-induced immunoparalysis via trained immunity by targeting interleukin-4 to myeloid cells</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Schrijver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biomed. Eng</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1097" to="1112" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A scalable, extrusion-free method for efficient liposomal encapsulation of plasmid DNA</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Jeffs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pharm. Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="362" to="372" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Rational design of cationic lipids for siRNA delivery</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Semple</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="172" to="176" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Maximizing the potency of siRNA lipid nanoparticles for hepatic gene silencing in vivo</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jayaraman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="8529" to="8533" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Reaction of discoidal complexes of apolipoprotein A-I and various phosphatidylcholines with lecithin cholesterol acyltransferase. Interfacial effects</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jonas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Zorich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kézdy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Trick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">262</biblScope>
+			<biblScope unit="page" from="3969" to="3974" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A direct comparison of in vitro and in vivo nucleic acid delivery mediated by hundreds of nanoparticles reveals a weak correlation</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Paunovska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2148" to="2157" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Therapeutic siRNA silencing in inflammatory monocytes in mice</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Leuschner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1005" to="1010" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The role of CCL2/CCR2 axis in cancer and inflammation: the next frontier in nanomedicine</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Satchi-Fainaro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Drug Deliv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">209</biblScope>
+			<biblScope unit="page">115318</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A route to lipid ALC-0315: a key component of a COVID-19 mRNA vaccine</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Saadati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cammarone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ciufolini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. A Eur. J</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">202200906</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Antisense technology: an overview and prospectus</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Crooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Crooke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="427" to="453" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Unveiling sequence-agnostic mixed-chemical modification patterns for splice-switching oligonucleotides using the NATURA platform</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tabaglio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ther. Nucleic Acids</title>
+		<imprint>
+			<biblScope unit="page">102422</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">ATP-binding cassette transporters and HDL suppress haematopoietic stem cell proliferation</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yvan-Charvet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">328</biblScope>
+			<biblScope unit="page" from="1689" to="1693" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Neutrophils as regulators of cardiovascular inflammation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Silvestre-Roig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Braster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ortega-Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Soehnlein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="327" to="340" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Lipids and lipoproteins in cardiovascular diseases: a classification</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhargava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>De La Puente-Secades</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schurgers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jankowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Endocrinol. Metab</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="409" to="423" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">High-density lipoproteins, reverse cholesterol transport and atherogenesis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Pownall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rosales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Gillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gotto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="712" to="723" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Efficient cytosolic delivery of siRNA using HDL-mimicking nanoparticles</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="568" to="573" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Mechanisms and optimization of in vivo delivery of lipophilic siRNAs</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wolfrum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1149" to="1157" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Colocalized delivery of adjuvant and antigen using nanolipoprotein particles enhances the immune response to recombinant antigens</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">O</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="2044" to="2047" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Designer vaccine nanodiscs for personalized cancer immunotherapy</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kuai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Ochyl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Bahjat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schwendeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Moon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="489" to="498" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Cationic HDL mimetics enhance in vivo delivery of self-replicating mRNA</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>He</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomedicine</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">102154</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Nanoparticle-encapsulated siRNAs for gene silencing in the haematopoietic stem-cell niche</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Krohn-Grimberghe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biomed. Eng</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1076" to="1089" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Nanoparticles that deliver RNA to bone marrow identified by in vivo directed evolution</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Sago</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="17095" to="17105" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">In vivo bone marrow microenvironment siRNA delivery using lipid-polymer nanoparticles for multiple myeloma therapy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P G</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page">2215711120</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Bone-marrow-homing lipid nanoparticles for genome editing in diseased and malignant haematopoietic stem cells</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1409" to="1417" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">In vivo RNA delivery to haematopoietic stem and progenitor cells via targeted lipid nanoparticles</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Toyonaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2938" to="2944" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">In vivo haematopoietic stem cell modification by mRNA delivery</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Breda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<biblScope unit="page" from="436" to="443" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">A modular approach toward producing nanotherapeutics targeting the innate immune system</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M T</forename><surname>Van Leent</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41565-024-01847-3</idno>
+		<ptr target="https://doi.org/10.1038/s41565-024-01847-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">7853</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">The resulting intermediate product is then dialysed against PBS buffer (pH 7.4). Next, the intermediate product is rapidly mixed with apoA1 dissolved in PBS. The final product is filtered</title>
+		<idno type="DOI">10.1038/s41565-024-01847-3</idno>
+		<ptr target="https://doi.org/10.1038/s41565-024-01847-3" />
+		<imprint/>
+	</monogr>
+	<note>Lipid molecules dissolved in ethanol are rapidly mixed via a T-junction with siRNA dissolved in sodium acetate buffer (25 mM, pH 4)</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Extended Data Fig. 2 | Radio-thin layer chromatography (radio-TLC) of aNP-89 Zr-siRNA. a. MALDI spectra indicating conjugation of DFO to the siRNA sense strand b. Radio-TLC analysis of free 89 Zr (top left) showing a peak at 15 mm. The peak shifts when 89 Zr is chelated to DFO-siRNA to yield 89 Zr-siRNA</title>
+		<imprint/>
+	</monogr>
+	<note>top right</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Zr-siRNA was used for formulation of the prototype aNP (bottom right) and a control LNP</title>
+		<imprint/>
+	</monogr>
+	<note>bottom left</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">ON-OFF nanopores for optical control of transmembrane ionic communication</title>
+				<funder ref="#_Ea9YJG4">
+					<orgName type="full">European Research Council</orgName>
+				</funder>
+				<funder ref="#_F25yMmu">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_2P2ATet">
+					<orgName type="full">German Federal Ministry of Education and Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Examination</orgName>
+				</funder>
+				<funder ref="#_udJWaXM">
+					<orgName type="full">Friedrich Naumann Foundation for Freedom</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Nature</forename><surname>Nanotechnology</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Xingzao</forename><surname>Wang</surname></persName>
+							<idno type="ORCID">0000-0003-1555-3479</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Aid</forename><surname>Kerckhoffs</surname></persName>
+							<idno type="ORCID">0000-0003-2499-6116</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Jor</forename><surname>Riexinger</surname></persName>
+							<idno type="ORCID">0000-0002-2110-4269</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Matthe</forename><surname>Cornall</surname></persName>
+							<idno type="ORCID">0000-0002-5204-5425</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Matthew</forename><forename type="middle">J</forename><surname>Langton</surname></persName>
+							<email>matthew.langton@chem.ox.ac.uk</email>
+							<idno type="ORCID">0000-0003-1555-3479</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Hagan</forename><surname>Bayley</surname></persName>
+							<email>hagan.bayley@chem.ox.ac.uk</email>
+							<idno type="ORCID">0000-0003-2499-6116</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Yujia</forename><surname>Qing</surname></persName>
+							<email>yujia.qing@chem.ox.ac.uk</email>
+							<idno type="ORCID">0000-0002-2110-4269</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Chemistry</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Oxford University Innovation</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">ON-OFF nanopores for optical control of transmembrane ionic communication</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1BDC5B71D8236053B2F166DB6FDBEFA3</idno>
+					<idno type="DOI">10.1038/s41565-024-01823-x</idno>
+					<note type="submission">Received: 13 March 2024 Accepted: 9 September 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:25+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Peer review information Nature Nanotechnology thanks Armagan Koçer, Andrew Woolley and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.</p><p>Reprints and permissions information is available at www.nature.com/reprints.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nanoscale photoswitchable proteins could facilitate precise spatiotemporal control of transmembrane communication and support studies in synthetic biology, neuroscience and bioelectronics. Here, through covalent modification of the α-haemolysin protein pore with arylazopyrazole photoswitches, we produced 'photopores' that transition between iontronic resistor and diode modes in response to irradiation at orthogonal wavelengths. In the diode mode, a low-leak OFF-state nanopore exhibits a reversible increase in unitary conductance of more than 20-fold upon irradiation at 365 nm. A rectification ratio of &gt;5 was achieved with photopores in the diode state by either direct or alternating voltage input. Unlike conventional electronic phototransistors with intensity-dependent photoelectric responses, the photopores regulated current output solely based on the wavelength(s) of monochromatic or dual-wavelength irradiation. Dual-wavelength irradiation at various relative intensities allowed graded adjustment of the photopore conductance. By using these properties, photonic signals encoding text or graphic messages were converted into ionic signals, highlighting the potential applications of photopores as components of smart devices in synthetic biology.</p><p>The remote control of transmembrane ionic communication can be facilitated by various molecular tools that respond to external stimuli (for example, light <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> , temperature <ref type="bibr" target="#b5">6</ref> , magnetic <ref type="bibr" target="#b6">7</ref> or electrical fields <ref type="bibr" target="#b7">8</ref> ). Among them, optically activated devices fitted with photoresponsive functional groups that leverage light inputs to achieve spatiotemporal modulation of ionic signalling across membranes have garnered attention <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> .</p><p>In top-down synthetic biology, ion fluxes across cell membranes can be modulated by nanodevices containing photoswitchable chromophores. For example, natural light-driven ion transporters, such as microbial rhodopsins <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> , generate or dissipate electrochemical gradients through chromophore isomerization. This enables regulation of the electrical activities of rhodopsin-expressing cells, thereby manipulating basic biological activities such as calcium signalling <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> and neuronal firing <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17</ref> . These optogenetic tools can also function as integral parts of miniaturized bioelectronic systems <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> . Optical control can also be introduced into natural ion channels through the use of synthetic photoisomerizable allosteric ligands that regulate the opening (ON) and closing (OFF) of ligand-gated receptors, such as ionotropic glutamate receptors <ref type="bibr" target="#b19">20</ref> , transient receptor potential channels <ref type="bibr" target="#b20">21</ref> and voltage-gated K + or Ca 2+ channels <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b21">22</ref> .</p><p>In bottom-up synthetic biology, to modulate transmembrane ionic signalling, there is a high demand for photoresponsive devices featuring modular design, ease of assembly, immediate and reversible ON-OFF responses, sustained ON and complete OFF states and the potential to respond to additional input stimuli. Fully synthetic systems offer broad design and application scopes, but face challenges in affording efficient, real-time and light-actuated ion movements across membranes. For example, DNA nanopores equipped with a photoisomerizable lid strand were optically activated before inserting into lipid bilayers <ref type="bibr" target="#b22">23</ref> and synthetic ion transporters with built-in photoswitches moved ions down a transmembrane gradient one at a <ref type="url" target="https://doi.org/10.1038/s41565-024-01823-x">https://doi.org/10.1038/s41565-024-01823-x</ref> side of the pore to the cis side (that is, from the bottom of the barrel towards the vestibule). The transmembrane potential (V m ) was given as the potential on the trans side relative to the cis side.</p><p>Interconversion between a high-current level (I ON ) and a low-current level (I OFF ) was recorded at +100 mV with pores equipped with fAzo, pzH or pzMe under alternating wavelengths (365 nm/530 nm for pzH and pzMe, or 405 nm/530 nm for fAzo) (Fig. <ref type="figure" target="#fig_1">2a</ref> and Supplementary Figs. <ref type="figure" target="#fig_0">1</ref> and<ref type="figure" target="#fig_1">2</ref>). We refer to the lower-current state as the OFF state, in which the ionic flow is partially or almost completely restricted, in comparison with the highest obtainable current level, which is the ON state. In general, the photoreversible nanopores switched to the ON state after irradiation at the shorter wavelength (photoswitches in the Z state) and to the OFF state following irradiation at the longer wavelength (photoswitches in the E state).</p><p>Of the homoheptamers modified at position 111 with fAzo, pzH or pzMe, (E111C-pzMe) 7 produced the largest per cent gated current (I gate% = (1 - I OFF /I ON ) × 100%) of 85% at the ensemble level, whereas the other two photoswitches produced low I gate% values of ~20% (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). When the pzMe modification was moved to positions 115, 125 or 129, a decreased I gate% was recorded. Without further investigating the mechanism underlying the position-and photoswitch-dependent magnitude of current gating, we proceeded to characterize the (E111C-pzMe) 7 photopore and explore its applications.</p><p>We investigated the photochemistry underlying the ON-OFF behaviour of (E111C-pzMe) 7 photopores at the single-channel level (Fig. <ref type="figure" target="#fig_1">2b-f</ref>). Sequential insertions of pre-formed heptamers, pre-irradiated at 365 nm, revealed that the ON-state conductance of individual photopores ranged from 0.12 to 1.27 nS. The average conductance of a pore (0.62 ± 0.30 nS, N = 42 pores) was three times smaller than the wild-type αHL pore (1.81 ± 0.17 nS, N = 17 pores) (Supplementary Figs. <ref type="figure">8</ref> and<ref type="figure">9</ref>). An I gate% of 95 ± 2.5% (N = 21) was consistently recorded at the single-channel level across all the (E111C-pzMe) 7 photopores (Supplementary Figs. <ref type="figure" target="#fig_0">10</ref> and<ref type="figure" target="#fig_0">11</ref>). Reversible photogating was observed by voltage-clamping individual single photopores and exposing them to ten repeats of UV (365 nm) → dark → green (530 nm) → dark (Fig. <ref type="figure" target="#fig_1">2b</ref> and Supplementary Fig. <ref type="figure" target="#fig_1">12</ref>). Upon UV irradiation, a photopore switched from ON to OFF with a mean response time of 1.8 ± 0.8 s (N = 9 transitions), and the OFF-to-ON transition occurred on average within 31.4 ± 7.7 s (N = 9 transitions) under the green light. The LED irradiance values (365 nm: 36.2 mW cm -2 and 530 nm: 30.3 mW cm -2 ) were derived from measurements of light intensities through a 300-µm-diameter pinhole in place of the bilayer (Supplementary Fig. <ref type="figure">7</ref>).</p><p>The intermediate current levels between I ON and I OFF were probably produced by the stepwise isomerization of individual pzMe molecules (Fig. <ref type="figure" target="#fig_1">2c</ref>). Based on the number of pzMe switches in the E or Z state within a photopore, we designated the configuration of an ON-state photopore as (0 E , 7 Z ), the photopore at the maximum OFF state as (7 E , 0 Z ) and a partially OFF pore as one ranging from (1 E , 6 Z ) to (6 E , 1 Z ) (Fig. <ref type="figure" target="#fig_1">2b</ref>). Notably, the intermediate current levels recorded with a single photopore during its ON-to-OFF or OFF-to-ON transitions differed from one transition to another. For example, during the stepwise reduction of the current recorded through an (E111C-pzMe) 7 photopore under 530 nm irradiation, over ten distinct current levels were recorded across multiple transitions (Supplementary Fig. <ref type="figure" target="#fig_2">13a</ref>). The complexity was attributed to both the combinatorial possibilities of the E/Z configurations of seven photoswitches <ref type="bibr" target="#b31">32</ref> and the possible conformations of the photoswitches. For example, in the (5 E , 2 Z ) state, there are three possible arrangements of the two Z-state pzMe photoswitches around the central axis of the pore (Supplementary Fig. <ref type="figure" target="#fig_2">13b</ref>). Once a single photopore reached a terminal ON or OFF state, the current level exhibited fluctuations under continuous irradiation, while remaining relatively stable in the dark (Fig. <ref type="figure" target="#fig_1">2d-f</ref>). This was expected as continuous irradiation would drive the reversible isomerization of photoswitches within a photopore: for example, switching between (0 E , 7 Z ) and (1 E , 6 Z ) time <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> . Semi-synthetic approaches are also pursued to leverage the natural ON-OFF machinery of protein channels. Chemical engineering of proteins with photoswitches enabled the transient light-activated opening of mechanosensitive channels <ref type="bibr" target="#b3">4</ref> or the timed irreversible formation of protein nanopores <ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b26">27</ref> . New designs are required to achieve prolonged activation and reversible ionic responses to light.</p><p>Here, we describe reversible ON-OFF photopores, which exhibit a long open lifetime in the ON state and a low background current in the OFF state. The ON-OFF machinery was engineered into a protein construct not originally evolved to open and collapse, and can be activated in real time when embedded in membranes. This was achieved by covalent modification of α-haemolysin (αHL) monomers with arylazopyrazoles that exhibit almost quantitative photoswitching between E and Z isomers and high thermal stability in both states. The photopores were characterized at both the single-molecule and ensemble levels to showcase their ability to permit or restrict transmembrane ionic current in response to light. The pores exhibit behaviours analogous to both electronic diodes (that is, one-way current flow) and light-tunable resistors (that is, current modulation) depending on the irradiation wavelength. The properties of the photopores were exploited to generate light-to-ionic signal conversion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Construction of photoreversible nanopores</head><p>To construct the photopores, we functionalized αHL, a heptameric protein nanopore, with photoisomerizable chemical groups on the interior of the channel (Fig. <ref type="figure" target="#fig_0">1</ref>). The αHL monomers containing a single cysteine residue at position 111, 115, 125 or 129 were separately modified with one of the three types of photoswitches-o-fluoroazobenzene (fAzo) <ref type="bibr" target="#b27">28</ref> , arylazopyrazole (pzH) <ref type="bibr" target="#b28">29</ref> or methyl arylazopyrazole (pzMe) <ref type="bibr" target="#b29">30</ref> by using thiol-specific chemistry (Fig. <ref type="figure" target="#fig_0">1a</ref>,b and Supplementary Figs. <ref type="figure" target="#fig_0">1</ref> and<ref type="figure" target="#fig_1">2</ref>). Upon assembly into heptamers, the side chains of these residues project into the lumen of the transmembrane β barrel <ref type="bibr" target="#b30">31</ref> (Supplementary Fig. <ref type="figure" target="#fig_2">3</ref>). The modification of αHL monomers with one molecule of either fAzo, pzH or pzMe was confirmed by liquid chromatography-mass spectrometry (Fig. <ref type="figure" target="#fig_0">1c</ref> and Supplementary Figs. <ref type="figure">4</ref> and<ref type="figure" target="#fig_5">5</ref>). Modified monomers self-assembled to form homoheptameric pores when introduced into a synthetic lipid bilayer consisting of 1,2-diphytanoyl-sn-glycero-3-phosphocholine or in the presence of sodium deoxycholate (Fig. <ref type="figure" target="#fig_0">1a</ref>).</p><p>The fAzo, pzH and pzMe photoswitches were reported to exhibit high E/Z or Z/E isomer ratios at photostationary states (PSSs) and thermal stability in the Z state <ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b28">29</ref> . As determined by ultraviolet-visible (UVvis) and proton nuclear magnetic resonance ( 1 H NMR) spectroscopy, the bromoacetamide derivative of pzMe (Br-pzMe) demonstrated the highest isomer ratios at PSSs generated by 'orthogonal' wavelengths (Fig. <ref type="figure" target="#fig_0">1d,</ref><ref type="figure">e</ref>). Upon light-emitting diode (LED) irradiation at 365 nm, Br-pzMe was converted primarily to the Z isomer (PSS 365 of 96% Z), while when irradiated at 530 nm, Br-pzMe was present predominantly as the E isomer (PSS 530 of 93% E) (Fig. <ref type="figure" target="#fig_0">1e</ref> and Supplementary Fig. <ref type="figure">6</ref>). By contrast, Br-fAzo was 85% in the E form at PSS 405 and 91% in the Z form at PSS 530 , while Br-pzH was 65% E at PSS 365 and 85% Z at PSS 530 (Supplementary Fig. <ref type="figure">6</ref>). High isomer ratios were expected to produce tight control of ionic communication through modified nanopores.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reversible ON-OFF photopores</head><p>The photoreversible modulation of ionic current passing through αHL nanopores containing fAzo, pzH or pzMe photoswitches was first characterized by ensemble electrical recordings in planar lipid bilayers, that is, in bilayers containing hundreds or thousands of pores. A bespoke poly(methyl methacrylate) chamber was made, equipped with a collimated fibre-coupled LED for electrical recording under illumination over a range of intensities from the grounded side (trans) of the bilayer (Fig. <ref type="figure" target="#fig_0">1f</ref> and Supplementary Fig. <ref type="figure">7</ref>). To align with the convention of reporting current through αHL pores, we defined a positive current as one in which positive ions moved through the bilayer from the trans states under 365 nm or (7 E , 0 Z ) and (6 E , 1 Z ) states under 530 nm. In the dark, (E111C-pzMe) 7 was locked in a single configuration, and no Z-to-E thermal relaxation was observed for over 1 h after irradiation ceased (Supplementary Fig. <ref type="figure" target="#fig_0">14</ref>).</p><p>The behaviour of the (E111C-pzMe) 7 photopores at the ensemble level was compared with that at the single-channel level (Fig. <ref type="figure" target="#fig_1">2g</ref>). The I gate% value was ~10% lower with multiple pores compared with that of a single pore. This was probably caused by the presence of photopores in partially ON configurations as predicted by the single-channel photoswitching kinetics under continuous irradiation (Supplementary Fig. <ref type="figure" target="#fig_5">15</ref>). The incorporation of in-line bandpass filters to reduce the LED bandwidths to 10 nm did not improve the I gate% value. By employing an asymmetric KCl concentration across a membrane to establish a physiologically relevant membrane potential (Supplementary Fig. <ref type="figure" target="#fig_0">16</ref>), the photoswitching behaviour was reproduced without an externally applied transmembrane potential (Fig. <ref type="figure" target="#fig_1">2h</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Switchable iontronic diode properties of (E111C-pzMe) 7</head><p>The ON-OFF behaviour of the (E111C-pzMe) 7 photopore was further demonstrated over a broader range of applied potentials by ramping the voltage from -200 mV to +200 mV in 10 mV steps. We characterized the current-voltage (I-V) behaviour of a single (E111C-pzMe) 7 in the dark after reaching the ON state at 365 nm or the OFF state at 530 nm (Fig. <ref type="figure" target="#fig_2">3a</ref>). After irradiation at 530 nm, the photopore exhibited a diode-like non-linear I-V response; almost no current passed through the pore at positive potentials (0 to +200 mV, V m applied to trans; Fig. <ref type="figure" target="#fig_0">1f</ref>), whereas the current demonstrated resistor-like behaviour at negative potentials (G = I/V = 0.32 ± 0.11 nS at -100 mV, N = 3 pores) (Fig. <ref type="figure" target="#fig_2">3a</ref>). After irradiation at 365 nm, a less obvious rectification was observed (G = I/V = 0.46 ± 0.06 nS at +100 mV and 0.58 ± 0.12 nS at -100 mV, N = 3 pores) (Fig. <ref type="figure" target="#fig_2">3a</ref>). In other words, the photopore functioned as a photoresistor after irradiation at 365 nm and as an iontronic diode after ) was defined as one in which positive charge moved through the bilayer from the trans side of the pore to the cis side. LED light was collimated and projected onto the bilayer from the trans side. Irradiation at 530 nm or 365 nm isomerized arylazopyrazole groups within pores, thereby populating photopores in either predominantly E or Z states. When all seven arylazopyrazoles adopted the E or Z configuration, such configurations were named as (7 E , 0 Z ) or (0 E , 7 Z ).</p><p><ref type="url" target="https://doi.org/10.1038/s41565-024-01823-x">https://doi.org/10.1038/s41565-024-01823-x</ref> irradiation at 530 nm. We speculate that the voltage-dependent behaviour of (E111C-pzMe) 7 photopores arises from the biased orientation of photoswitches confined within an asymmetric nanopore. The orientation of these charge-neutral photoswitches could be influenced by electro-osmotic flow, which is directionally dependent on the applied voltage. Depending on their orientations, the seven photoswitches could adopt various configurations promoted by the surrounding protein environment, thereby altering the ionic flow. <ref type="url" target="https://doi.org/10.1038/s41565-024-01823-x">https://doi.org/10.1038/s41565-024-01823-x</ref> </p><p>The dual-mode feature (that is, diode and photoresistor) demonstrated with single pores was reproduced with hundreds of pores in ensemble experiments (N = 8 experiments, 100-600 pores per experiment) under 365 nm and 530 nm irradiation (Fig. <ref type="figure" target="#fig_2">3b</ref>). Irradiation at 405 nm and 455 nm was also tested; these wavelengths generated current levels between those produced by 365 nm and 530 nm at all applied potentials (Fig. <ref type="figure" target="#fig_2">3b</ref>). To give an overview of the voltage-dependent behaviour in the ensemble, the I gate% was calculated following I gate% = (1 - I OFF /I ON ) × 100%, where the current level after 365 nm irradiation was I ON and that after 405 nm, 455 nm or 530 nm was I OFF (that is, I gate%(405 nm) = (1 - I 405 /I 365 ) × 100%) (Fig. <ref type="figure" target="#fig_2">3c</ref>). Between -150 mV and +100 mV, I gate% increased with decreasing negative potential and increasing positive potential for all three wavelengths. The difference in PSS ratios associated with irradiation wavelengths was the primary reason for the wavelength dependence of I gate% . The rectification ratio of (E111C-pzMe) 7 (I -/I + , the ratio of currents recorded under opposite polarities at the same potential) scaled almost linearly with the amplitude of the applied potential up to ±150 mV (Fig. <ref type="figure" target="#fig_2">3d</ref>), and was 5.5 ± 0.7 at ±100 mV in the diode mode after 530 nm irradiation (Fig. <ref type="figure" target="#fig_2">3d</ref>).</p><p>Nanopore diodes can be used in soft devices as half-wave rectifiers <ref type="bibr" target="#b32">33</ref> to convert alternating current to direct current. We tested our  <ref type="figure">I-V</ref>) curves of a single (E111C-pzMe) 7 after 365 nm or 530 nm irradiation reveal photoswitchable resistor and diode behaviours. The mean current levels are shown with 95% confidence intervals (N = 3 separate pores). b, The I-V responses of ensembles of (E111C-pzMe) 7 recorded after irradiation at four wavelengths (365 nm, 405 nm, 455 nm and 530 nm) and normalized according to the number of pores. Each pore was assumed to contribute +64 pA at +100 mV after 365 nm irradiation. The number of pores in each experiment ranged from 60 to 904 (N = 7 experiments). The mean current levels are shown with 95% confidence intervals. c, Voltage and wavelength dependences of the per cent gated current (I gate% = (1 - I OFF /I ON ) × 100%), where I ON is the current after 365 nm irradiation and I OFF is the current at the wavelength of interest. The error bands are 95% confidence intervals. The right schematic shows estimated distributions of intermediate states at PSS for four wavelengths. d, The voltage-dependent rectification ratio (I -/I + , the ratio of currents recorded under the same magnitude of potential in the opposite polarity) of a single or multiple (E111C-pzMe) 7 photopores (N = 3 experiments; data are mean I -/I + with s.d. shown as error bars). e, Current passing through an ensemble of (E111C-pzMe) 7 photopores in response to an alternating potential. The curves from the top to bottom are the applied voltage and the current responses at 365 nm and at 530 nm. f, A truth table for NAND logic achieved using photopores. High and low current levels are achieved by combinations of the input wavelength and the applied potential. The I-V curves were recorded with a 5 kHz in-line Bessel filter at 25 kHz sampling frequency. A 20 Hz digital Bessel filter was used for data analysis. Recording conditions: 2 M KCl, 10 mM Tris-HCl, 0.1 mM EDTA, pH 8.5, 24 ± 1 °C.</p><p><ref type="url" target="https://doi.org/10.1038/s41565-024-01823-x">https://doi.org/10.1038/s41565-024-01823-x</ref> photopore as a switchable iontronic diode to effect a unidirectional current across a synthetic bilayer under an alternating voltage at 0.03 Hz (Fig. <ref type="figure" target="#fig_2">3e</ref>). After 530 nm irradiation, ~900 (E111C-pzMe) 7 photopores collectively conducted currents only under a negative potential. After 365 nm irradiation, the current flow replicated the sinusoidal shape of the alternating voltage input, albeit weakly rectified. At higher input frequencies, the capacitive current associated with the bilayer would override the resistive current through the pore, diminishing the rectification. The ionic current output through (E111C-pzMe) 7 photopores was therefore determined by both the wavelength and the applied potential, resembling the NAND Boolean function. This NAND logic gate leveraged the irradiation wavelength as input 1 (365 nm for 0, 530 nm for 1) and the applied potential as input 2 (-100 mV for 0, +100 mV for 1). A low current output only occurs at +100 mV after irradiation at 530 nm (Fig. <ref type="figure" target="#fig_2">3f</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Light-to-ionic signal conversion with (E111C-pzMe) 7</head><p>The rate of photoisomerization of a photoswitch is typically proportional to the light intensity <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b33">34,</ref><ref type="bibr" target="#b34">35</ref> . Accordingly, 365 nm irradiation of more than 600 (E111C-pzMe) 7 pores at 36.2, 28.2 and 13.4 mW cm -2 (Supplementary Fig. <ref type="figure">7</ref>) increased the duration of the OFF-ON transition from 5.8 ± 0.5 s to 7.1 ± 0.6 s, and then to 11.4 ± 2.6 s (N = 4 ensembles; Fig. <ref type="figure">4a</ref>). After the equilibrium current level was reached under a given wavelength of irradiation, reducing the light intensity led to no current change (Fig. <ref type="figure">4b</ref>). In contrast, common electronic components and optogenetic tools often exhibit transient current responses that vary with light intensity.</p><p>An ionic signal conducted by multiple (E111C-pzMe) 7 photopores at an intermediate current level between I ON and I OFF could be accessed by switching off the irradiation immediately after reaching the desired current level during an ON-OFF transition at a given wavelength. However, it was challenging to reproducibly capture a transient current level of interest during rapid ON-OFF transitions. An alternative strategy was devised using polychromic light to produce equilibrium current levels as determined by the PSS of photoswitches (Fig. <ref type="figure">4c,</ref><ref type="figure">d</ref>), which would be unattainable by continuous irradiation at either one of the wavelengths. Light from 365 nm and 455 nm LEDs was combined through a fibre coupler. The graded modulation of ionic signal was demonstrated by varying the relative intensity of the 365 nm and 455 nm irradiation projected onto the multiple (E111C-pzMe) 7 pores in 3 min steps. Ionic signal levels between those recorded at PSS 365 and PSS 455 were obtained (Fig. <ref type="figure">4d</ref>). This approach allowed for finer control over the graded modulation of ionic current through (E111C-pzMe) 7 photopores.</p><p>Inspired by the slow thermal relaxation of arylazopyrazole and the graded modulation of the ionic signal, we investigated light-to-ionic signal conversion by an ensemble of iontronic photopores. We first encrypted information-bearing binary data within light sequences that alternated between 365 nm and 455 nm radiation (Fig. <ref type="figure" target="#fig_5">5a</ref>). Functioning as a light-to-current converter, the (E111C-pzMe) 7 photopores translated the light sequences into two-level current patterns (Fig. <ref type="figure" target="#fig_5">5a</ref>), as illustrated by a representative segment of a trace with an input rate of 20 s per bit (Fig. <ref type="figure" target="#fig_5">5b</ref>). Higher input rates were achieved with increased light intensities, reaching 1.5 s per bit at 365 nm and 1.9 s per bit at 455 nm using the maximum LED outputs. Over a 90 min experiment, no photobleaching was observed. By associating the ON state with a black pixel and the OFF state with a white pixel, a pixel art spelling 'OXFORD' was reconstructed from a binary light message. Furthermore, the addition of mixed irradiation at both 365 nm (36.2 mW cm -2 ) and 455 nm (56.3 mW cm -2 ) expanded the alphabet to a three-state system, which was applied to demodulate a pixel art representation of a protein nanopore and a text message written in Morse code (Fig. <ref type="figure" target="#fig_5">5c,</ref><ref type="figure">d</ref>). In principle, by using mixed-wavelength irradiation, the (E111C-pzMe) 7 photopores could output a series of current levels, between the levels at PSS 365 and PSS 530 , as the basis of complex encoding systems. With our equipment, the current levels fluctuate ±0.3% in the dark after a 20 Hz digital filter, and the I gate% was ~0-85%. Thus, an upper-level estimate for the number of assignable levels would be ~300. Fig. <ref type="figure">4</ref> | Effects of light intensity and wavelength on the conductance of (E111C-pzMe) 7 ensembles. a, Reduced rate of transition from the low-conductance state (I OFF ) to the high-conductance state (I ON ) due to reductions in the intensity of 365 nm irradiation (purple). The light irradiance (Q) is shown above the light sequence. The baseline drift is caused by the degradation of Ag/AgCl electrodes when recording for minutes at the nA level. b, Insensitivity of the output current to light intensity after an equilibrium state is reached. When photopores reached equilibrium states of I ON = 11.4 nA (530 nm, green) or I OFF = 1.8 nA (365 nm, purple), reductions in the light intensity from high to low Q did not cause further changes in the current. c, At equilibrium, continuous irradiation result in an ON state at 365 nm (purple), partially OFF states at 405 nm (violet) and 455 nm (blue) and a fully OFF state at 530 nm (green). d, Intermediate current levels can be accessed by polychromic light. Mixed-wavelength irradiation over 3-min intervals with various ratios of 365 nm and 455 nm light allowed fine control of the PSS ratios with &gt;200 photopores. The current traces were recorded at +100 mV using a 5 kHz in-line Bessel filter at 25 kHz sampling frequency. A 20 Hz digital Bessel filter was used for data analysis. Recording conditions: 2 M KCl, 10 mM Tris-HCl, 0.1 mM EDTA, pH 8.5, 24 ± 1 °C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In this work, we constructed protein nanopores with unitary conductance values that changed under light control. Among the tested photopores, we achieved quantitative, prolonged and reversible modulation of ionic currents carried by (E111C-pzMe) 7 pores following irradiation at 365 nm (ON, high conductance) and 530 nm (OFF, low conductance). Notably, when an ON state (E111C-pzMe) 7 was switched OFF at +100 mV, the unitary conductance reduced by &gt;95%. Similarly, a current reduction of &gt;85% occurred when multiple (E111C-pzMe) 7 pores were used in ensemble experiments. This sustained ON state and the almost complete OFF state are highly advantageous for real-time control over transmembrane ionic communication in nanotechnology or synthetic biology applications.</p><p>The photopores described here differ from previously described photoregulated nanopores in two aspects. First, the photoswitches controlled the conductance of a fully assembled nanopore reversibly, rather than the process of irreversible nanopore assembly <ref type="bibr" target="#b26">27</ref> . Second, the current-voltage characteristics of (E111C-pzMe) 7 exhibited two switchable states: a resistor-like ON state, after 365 nm irradiation, and a diode-like OFF state, after 530 nm irradiation. In the diode mode, there is no delay in the rectification of (E111C-pzMe) 7 after the reversal of the polarity of the applied potential, in contrast to the previous (non-photoswitchable) arginine-rich αHL diode <ref type="bibr" target="#b32">33</ref> .</p><p>One impact of photopores in the field of nanoscale iontronics might be in light-to-ionic current signalling. In the case of the (E111C-pzMe) 7 pore, we have used the ability to produce multiple output current levels, such as the three-state system (blue, mixed and UV), to demonstrate the ability to reconstruct images or text encoded in light pulses. It follows that by hosting light-modulated nanopores in a two-dimensional array of lipid bilayers, an artificial retina might be created to detect coloured images. Our previous work on droplet-hydrogel bilayer biopixels reported a related approach for monochromic 530 nm light <ref type="bibr" target="#b35">36</ref> .</p><p>The photopores might also be incorporated into threedimensional-printed droplet-based synthetic tissues where the The secret of a happy life is to know when to stop, and then go that bit further. {1, 2, 0, 0, 0, 0, 2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 2, 1, 0, 1, 0, 2, 0, 1, 0, 2, 0, 2, 1, 2, 2, 2, 1, 1, 1, 2, 0, 0, 1, 0, ..., 0, 0, 2, 0, 2, 0, 1, Image or text data were encoded as light sequences that produced ionic current responses from (E111C-pzMe) 7 . By using pre-determined keys to assign the current levels, the ionic currents were deciphered to reconstruct the original data. b, Transmission of a binary pixel pattern with monochromic 365 nm and 455 nm irradiation. c, Transmission of a three-state pixel art in a light sequence. The image of the αHL pore was generated from PDB 7AHL and converted to three-colour pixel art. Each pixel was assigned to 0, 1 or 2 based on the colour. The matrix of pixels was flattened to 1D to produce the light sequence. d, Transmission of three-state Morse code. The blue box is the Morse code from the deciphered current trace and the purple box is the translated text. The light sequence was the input at wavelengths of 365 nm, 455 nm or mixed 365/455 nm at a rate of 20 s per bit to generate a current pattern consisting of three levels. The current traces were recorded at +100 mV using a 5 kHz in-line Bessel filter at 25 kHz sampling frequency. A 20 Hz digital Bessel filter was used for data analysis. Currents from (E111C-pzMe) 7 ensembles were recorded in 150 mM KCl, 20 mM Tris-HCl, 0.1 mM EDTA, pH 8.5, 24 ± 1 °C. <ref type="url" target="https://doi.org/10.1038/s41565-024-01823-x">https://doi.org/10.1038/s41565-024-01823-x</ref> spatiotemporal control of communication between compartments is key to the control of tissue-like behaviour <ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b37">38</ref> . There, they could be used, among other things, to trigger the release of ions or small molecules <ref type="bibr" target="#b37">38</ref> , mediate shape changes <ref type="bibr" target="#b36">37</ref> or produce motion <ref type="bibr" target="#b38">39</ref> . We further envisage the development of additional photopores by the conjugation protocol reported here to gain control over additional properties such as selectivity in the transport of small molecules and the ability to mediate the translocation of biopolymers. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Encrypted data</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conjugation of photoswitches</head><p>Br-pzMe, Br-pzH or Br-fAzo (the photoswitches) were dissolved at 3 mM in dimethylsulfoxide (DMSO). Purified monomers of the αHL cysteine mutants were buffer exchanged and diluted to 0.5 mg ml -1 in low TE buffer (10 mM Tris-HCl, pH 8.0, and 0.1 mM EDTA). A photoswitch was added to a monomer solution stepwise over 18 h to a final concentration of 750 µM at 20 °C. The extent of reaction was assessed by liquid chromatography-mass spectrometry. The conjugated protein solution was passed through a desalting spin column (Thermo Fisher) equilibrated in the low TE buffer to remove excess photoswitch and the eluent was stored at -80 °C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Single-channel and ensemble experiments</head><p>The aperture in the Teflon partition of the recording chamber was pre-treated with hexadecane (~5 µl, 1% in pentane). After 10 min, recording buffer (1 ml, 10 mM Tris-HCl pH 8.5, 2 M KCl and 0.1 mM EDTA) was added to both the cis and trans compartments (Supplementary Fig. <ref type="figure">7</ref>). A lipid bilayer was formed on the aperture by using the Müller-Montal method with 1,2-diphytanoyl-3-sn-phosphatidylcholine (Avanti Polar Lipids). A pair of Ag/AgCl electrodes was placed in each compartment through a salt bridge (3 M KCl in 2% (w/v) agarose). The electrodes were covered with black tape to avoid exposure to light from the LED.</p><p>To insert a single pore into the bilayer (Supplementary Fig. <ref type="figure" target="#fig_0">10a</ref>), homoheptamer (0.1 µl, 0.2 mg ml -1 ) was added to the cis compartment. Once a pore had inserted and showed a photoresponse, the buffer was perfused five times to prevent further insertions. To achieve the stepwise insertion of multiple pores, more homoheptamer (10 µl, 0.2 mg ml -1 ) was used (Supplementary Fig. <ref type="figure">9a</ref>).</p><p>The characterization of the photopore ensemble was recorded using photopore monomers pre-irradiated at 530 nm for 30 min before use to ensure that the monomers were in the E state prior to assembly (Supplementary Fig. <ref type="figure" target="#fig_0">10c</ref>). The monomers (~5 µl, ~0.2-0.5 mg ml -1 ) were added to the cis compartment while the 530 nm LED was switched on. Pore insertion occurred under an alternating applied potential of ±20 mV, and the insertion rate slowed down over 15 min. Excess monomers were removed by perfusion of the cis compartment.</p><p>Ionic currents were recorded through Ag/AgCl electrodes connected to a patch clamp amplifier (Axopatch 200B, Axon Instruments). The signal was filtered with an in-line four-pole low-pass Bessel filter (80 dB per decade, 5 kHz). A Digidata 1322 A digitizer (Molecular Devices) was used to convert the analogue signal to digital form. The data were analysed with the pCLAMP 10.3 software suite (Molecular Devices). Electrical traces were plotted with Python (3.8.8), Pyabf (2.3.5), Matplotlib (3.3.4) and Seaborn (0.11.1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transmembrane signal transmission by light-to-current conversion</head><p>To achieve the light-to-current signal conversion, three steps are required. First, the encrypted digital data, as pixel art or text, were converted into a monochromatic or polychromatic one-dimensional (1D) light sequence. In the second step, the 1D light sequence was sent to an Arduino UNO microcontroller to trigger the 365 nm and 455 nm LEDs accordingly. Due to the switching rate of the photopore, each unit of irradiation (a bit) was optimized to last for 20 s to produce rectangular signals. The final step was to process the electrical recording to visualize and analyse the output signal. The electrical recording trace was processed in reverse from the current signal to give the pixel image or text.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics and reproducibility</head><p>Quantitative analysis related to photopore currents was performed with a minimum of three replicates. For the single-molecule experiment, each replicate means an individual nanopore. For the ensemble experiment, each replicate refers to a lipid bilayer with multiple pores. No statistical method was used to pre-determine sample size. No data were excluded from the analyses.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Construction and characterization of the (E111C-pzMe) 7 photopore. a, The αHL monomer containing a cysteine at position 111 was modified with (E)-bromoacetyl arylazopyrazole (Br-pzMe) before oligomerization to form the (E111C-pzMe) 7 photopore. b, Br-pzMe exists either as the E isomer (green) or the Z isomer (purple). c, The deconvoluted masses of the E111C and E111C-pzMe monomers, confirming the quantitative modification of the αHL monomer with pzMe. d, UV-vis spectra of E isomer (green) or Z isomer (purple) of Br-pzMe in DMSO at room temperature. e, The PSS of Br-pzMe examined by the 1 H NMR chemical shifts of the aromatic protons in DMSO-d6. f, The modulation of ionic</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc>Fig.2| Reversible ON-OFF switching of the (E111C-pzMe) 7 photopore. a, Optical control of the ionic flow through an ensemble of ~1,839 photopores. Irradiation at 365 nm (purple) converted photopores to an ON state, while irradiation at 530 nm (green) produced an OFF state. The current trace demonstrates ON-OFF switching of the photopore ensemble effected by cycles of UV (365 nm) → dark → green (530 nm) → dark. b, Optical control through a single photopore switching between (0 E , 7 Z ) and (7 E , 0 Z ) states. The same light cycle as in a was applied. The moving average of the ionic current (grey) is shown in black, which was smoothed with a Savitzky-Golay filter (400 ms window length). During 365 nm irradiation, the photopore switched constantly, causing the black downwards events. By contrast, in the dark, these events stopped. c, A zoom-in of the dashed-line box in b. Each stepwise decrease in the current was attributed to the isomerization of one or more pzMe photoswitches. d,e, The ionic current under continuous irradiation, in which the current fluctuated due to switching between the (7 E , 0 Z ) and neighbouring (6 E , 1 Z ) states at 530 nm (d) or between the (0 E , 7 Z ) and neighbouring (1 E , 6 Z ) states at 365 nm (e). f, The ionic current in the dark.The current remained stable with occasional upwards bursts of seconds in duration. g, The mean per cent gated current (I gate% ) in bilayers containing one pore (N = 11 separate pores), two pores (N = 4 experiments) or an ensemble of pores (N = 4 experiments). Two tailed t-tests were performed among the I gate% values. In-line filters (355 nm filter for 365 nm LED and 532 nm filter for 530 nm LED) were applied to an ensemble of pores with little effect on I gate% . h, ON-OFF switching of an ensemble of photopores under the electrochemical driving force generated by an asymmetrical KCl concentration across the membrane. The current traces were recorded at +100 mV with an exception of h at 25 kHz sampling frequency and filtered using a 5 kHz in-line Bessel filter and a 20 Hz digital Bessel filter. The current trace in h was recorded in the absence of an externally applied transmembrane potential. Recording conditions: 2 M KCl (a-f), 0.2 M KCl (cis)/2 M KCl (trans) (h), 10 mM Tris-HCl, 0.1 mM EDTA, pH 8.5, 24 ± 1 °C. The number of pores in ensemble experiments was estimated, assuming each (0 E , 7 Z ) pore contributed +64 pA at +100 mV.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 |</head><label>3</label><figDesc>Fig.3| Diode properties of (E111C-pzMe) 7 photopore. a, The current-voltage (I-V) curves of a single (E111C-pzMe) 7 after 365 nm or 530 nm irradiation reveal photoswitchable resistor and diode behaviours. The mean current levels are shown with 95% confidence intervals (N = 3 separate pores). b, The I-V responses of ensembles of (E111C-pzMe) 7 recorded after irradiation at four wavelengths (365 nm, 405 nm, 455 nm and 530 nm) and normalized according to the number of pores. Each pore was assumed to contribute +64 pA at +100 mV after 365 nm irradiation. The number of pores in each experiment ranged from 60 to 904 (N = 7 experiments). The mean current levels are shown with 95% confidence intervals. c, Voltage and wavelength dependences of the per cent gated current (I gate% = (1 - I OFF /I ON ) × 100%), where I ON is the current after 365 nm irradiation and I OFF is the current at the wavelength of interest. The error bands are 95% confidence intervals. The right schematic shows estimated distributions of</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | Light-to-current signal conversion. a, An overview of the process.Image or text data were encoded as light sequences that produced ionic current responses from (E111C-pzMe) 7 . By using pre-determined keys to assign the current levels, the ionic currents were deciphered to reconstruct the original data. b, Transmission of a binary pixel pattern with monochromic 365 nm and 455 nm irradiation. c, Transmission of a three-state pixel art in a light sequence. The image of the αHL pore was generated from PDB 7AHL and converted to three-colour pixel art. Each pixel was assigned to 0, 1 or 2 based on the colour. The matrix of pixels was flattened to 1D to produce the light sequence.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons. org/licenses/by/4.0/.</figDesc><table><row><cell>https://doi.org/10.1038/s41565-024-01823-x https://doi.org/10.1038/s41565-024-01823-x</cell></row><row><cell>© The Author(s) 2025</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This research was supported by a <rs type="funder">European Research Council</rs> <rs type="grantName">Advanced grant</rs> (<rs type="projectName">SYNTISU</rs>) and a <rs type="grantName">University of Oxford John Fell Fund</rs> (<rs type="grantNumber">0013248</rs>). A.K. acknowledges the <rs type="affiliation">EPSRC Centre for Doctoral Training in Synthesis for Biology and Medicine</rs> for a studentship (<rs type="grantNumber">EP/ L015838/1</rs>). J.R. is supported by the <rs type="funder">Friedrich Naumann Foundation for Freedom</rs>, which is supported by the <rs type="funder">German Federal Ministry of Education and Research</rs>. M.J.L. is a <rs type="institution">Royal Society University Research Fellow</rs>. Y.Q. was supported by a <rs type="grantName">Glasstone Research Fellowship</rs> and a Fellowship by <rs type="funder">Examination</rs>, <rs type="person">Magdalen College</rs>, Oxford. We thank <rs type="person">H. Lambourne</rs> at the <rs type="affiliation">Physical and Theoretical Chemistry Laboratory, University of Oxford</rs> for fabricating the recording chamber.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_Ea9YJG4">
+					<orgName type="grant-name">Advanced grant</orgName>
+					<orgName type="project" subtype="full">SYNTISU</orgName>
+				</org>
+				<org type="funding" xml:id="_F25yMmu">
+					<idno type="grant-number">0013248</idno>
+					<orgName type="grant-name">University of Oxford John Fell Fund</orgName>
+				</org>
+				<org type="funding" xml:id="_udJWaXM">
+					<idno type="grant-number">EP/ L015838/1</idno>
+				</org>
+				<org type="funding" xml:id="_2P2ATet">
+					<orgName type="grant-name">Glasstone Research Fellowship</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Online content</head><p>Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at <ref type="url" target="https://doi.org/10.1038/s41565-024-01823-x">https://doi.org/10.1038/s41565-024-01823-x</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Electrical recording source data are available from the corresponding authors upon request. Source data are provided with this paper.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>X.W., M.J.L., H.B. and Y.Q. designed the study. X.W. performed the photopore experiments. A.K. performed the synthesis and the UV-vis and NMR characterization. J.R. and M.C. contributed to the optimization of experimental conditions. All authors were involved in writing the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>X.W., Y.Q. and H.B. are named inventors of a patent application</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Using azobenzene photocontrol to set proteins in motion</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bozovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jankovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hamm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Chem</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="112" to="124" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Optogenetics for light control of biological systems</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Emiliani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Methods Primers</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">55</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Photochemical tools for remote control of ion channels in excitable cells</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Kramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trauner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="360" to="365" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Chemistry: a light-actuated nanovalve derived from a channel protein</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koçer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Meijberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Feringa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="page" from="755" to="758" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Light-activated ion channels for remote control of neuronal firing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Banghart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Isacoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Trauner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Kramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1381" to="1386" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Peripheral thermosensation in mammals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vriens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nilius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Voets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="573" to="589" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Remote control of ion channels and neurons through magnetic-field heating of nanoparticles</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Delikanli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Ferkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pralle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="602" to="606" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ion channel voltage sensors: structure, function, and pathophysiology</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Catterall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuron</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="915" to="928" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Synthetic biology: bottom-up assembly of molecular systems</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hirschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fotiadis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="16294" to="16328" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Optochemical control of biological processes in cells and animals</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ankenbruck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Courtney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Deiters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="2768" to="2798" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Bright ion channels and lipid bilayers</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Szymański</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koçer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Feringa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="2910" to="2923" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Microbial rhodopsins: diversity, mechanisms, and optogenetic applications</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Govorunova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Sineshchekov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Spudich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Biochem</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="845" to="872" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The microbial opsin family of optogenetic tools</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="1446" to="1457" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Deciphering molecular mechanisms and intervening in physiological and pathophysiological processes of Ca 2+ signaling mechanisms using optogenetic tools</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maltan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Najjar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tiffner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Derler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cells</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">3340</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">CRAC channel-based optogenetics</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Nguyen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell Calcium</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="79" to="88" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Shedding light on neurons: optical approaches for neuromodulation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Rommelfanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natl Sci. Rev</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">7</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">New era of optogenetics: from the central to peripheral nervous system</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Jia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crit. Rev. Biochem. Mol. Biol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">An automated hybrid bioelectronic system for autogenous restoration of sinus rhythm in atrial fibrillation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C A</forename><surname>Nyns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Transl. Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">How azobenzene photoswitches restore visual responses to the blind retina</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tochitsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuron</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="100" to="113" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Allosteric control of an ionotropic glutamate receptor with an optical switch</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Volgraf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="47" to="52" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">TRPswitch-a step-function chemo-optogenetic ligand for the vertebrate trpa1 channel</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Lam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="17457" to="17468" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Optical control of L-type Ca 2+ channels using a diltiazem photoswitch</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fehrentz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="764" to="767" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A light-triggered synthetic nanopore for controlling molecular transport across biological membranes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Offenbartl-Stiegert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rottensteiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dorey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Howorka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">202210886</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Red-shifted tetra-ortho-halo-azobenzenes for photo-regulated transmembrane anion transport</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kerckhoffs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Penty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Langton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Org. Biomol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="9058" to="9067" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A photo-responsive transmembrane anion transporter relay</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sadeghi-Kelishadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Langton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="10455" to="10461" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Reversible photocontrolled nanopore assembly</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Mutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Volarić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Szymanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Feringa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Maglia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="14356" to="14363" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A photogenerated pore-forming protein</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Niblack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bayley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="391" to="400" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Fluoroazobenzenes as readily synthesized photoswitches offering nearly quantitative two-way isomerization with visible light</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bléger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schwarz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Brouwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="20597" to="20600" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Tuning azoheteroarene photoswitch performance through heteroaryl design</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Calbo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="1261" to="1274" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Arylazopyrazoles: azoheteroarene photoswitches offering quantitative isomerization and long thermal half-lives</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Weston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Haycock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J P</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Fuchter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="11878" to="11881" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Key residues for membrane binding, oligomerization, and pore forming activity of staphylococcal α-hemolysin identified by cysteine scanning mutagenesis and targeted chemical modification</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bayley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biol. Chem</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="23065" to="23071" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Designed protein pores as components for biosensors</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Braha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Biol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="497" to="505" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Droplet networks with incorporated protein diodes show collective properties</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Maglia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="437" to="440" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Photoisomerization of an individual azobenzene molecule in water: an on-off switch triggered by light at a fixed wavelength</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Loudwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bayley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="12404" to="12405" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Photoswitchable fatty acids enable optical control of TRPV1</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Frank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">7118</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Light-patterned current generation in a droplet bilayer array</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R</forename><surname>Schild</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">46585</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A tissue-like printed material</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Villar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bayley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">340</biblScope>
+			<biblScope unit="page" from="48" to="52" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Light-patterning of synthetic tissues with single droplet resolution</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Restrepo Schild</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Box</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bayley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">9315</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Metal-organic frameworks as micromotors with tunable engines and brakes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="611" to="614" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

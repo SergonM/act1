@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Lipoic acid-boronophenylalanine-derived multifunctional vesicles for cancer chemoradiotherapy</title>
+				<funder ref="#_KtUS4MR">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+				<funder ref="#_gq2Kb63">
+					<orgName type="full">West China Hospital, Sichuan University</orgName>
+				</funder>
+				<funder ref="#_9rcaCzn">
+					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
+				</funder>
+				<funder ref="#_ag2QVdA">
+					<orgName type="full">Sichuan Science and Technology Program</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Liqun</forename><surname>Dai</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jie</forename><surname>Liu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tingyu</forename><surname>Yang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yu</forename><surname>Xiaorui</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Neuboron Medtech Ltd</orgName>
+								<address>
+									<settlement>Nanjing Jiangsu Province</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yi</forename><surname>Lu</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lili</forename><surname>Pan</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Nuclear Medicine</orgName>
+								<orgName type="laboratory">Laboratory of Clinical Nuclear Medicine</orgName>
+								<orgName type="institution">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu Sichuan</settlement>
+									<region>West China Hospital</region>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Siming</forename><surname>Zhou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Diyun</forename><surname>Shu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Neuboron Medtech Ltd</orgName>
+								<address>
+									<settlement>Nanjing Jiangsu Province</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yuanhao</forename><surname>Liu</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Neuboron Medtech Ltd</orgName>
+								<address>
+									<settlement>Nanjing Jiangsu Province</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Nanjing University of Aeronautics and Astronautics</orgName>
+								<address>
+									<settlement>Nanjing Jiangsu Province</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wuyu</forename><surname>Mao</surname></persName>
+							<email>wuyanmao1@sina.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Respiratory and Critical Care Medicine</orgName>
+								<orgName type="laboratory">Targeted Tracer Research and Development Laboratory</orgName>
+								<orgName type="institution" key="instit1">Institute of Respiratory Health</orgName>
+								<orgName type="institution" key="instit2">State Key Laboratory of Respiratory Health and Multimorbidity</orgName>
+								<orgName type="institution" key="instit3">West China Hospital</orgName>
+								<orgName type="institution" key="instit4">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zhiyong</forename><surname>Qian</surname></persName>
+							<email>zhiyongqian@scu.edu.cn</email>
+							<idno type="ORCID">0000-0003-2992-6424</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Biotherapy</orgName>
+								<orgName type="laboratory">Cancer Center and State Key Laboratory of Biotherapy</orgName>
+								<orgName type="institution" key="instit1">West China Hospital</orgName>
+								<orgName type="institution" key="instit2">Sichuan University</orgName>
+								<address>
+									<postCode>610041</postCode>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Lipoic acid-boronophenylalanine-derived multifunctional vesicles for cancer chemoradiotherapy</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A198E909BBD49283168843DC4AD89C87</idno>
+					<idno type="DOI">10.1038/s41467-025-56507-4</idno>
+					<note type="submission">Received: 6 June 2024 Accepted: 17 January 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Cancer remains a major health challenge, with the effectiveness of chemotherapy often limited by its lack of specificity and systemic toxicity. Nanotechnology, particularly in targeted drug delivery, has emerged as a key innovation to address these limitations. This study introduces lipoic acidboronophenylalanine (LA-BPA) derivatives that incorporate short-chain polyethylene glycol (PEG) as a spacer. These derivatives distinctively self-assemble into vesicles under specific pH conditions, exhibiting a pH-dependent reversible assembly characteristic. Notably, these vesicles target cancer cells by binding to sialic acid via phenylboronic acid groups, subsequently depleting cellular glutathione and elevating reactive oxygen species, thereby inducing apoptosis via mitochondrial dysfunction and mitophagy. The vesicles demonstrate high efficiency in encapsulating doxorubicin, featuring a glutathione-responsive release mechanism, which present a promising option for tumor therapy. Additionally, the derivatives of the B-10 isotope, containing up to 1.6% boron, are engineered for incorporation into L P B-3-based vesicles. This design facilitates their application in boron neutron capture therapy (BNCT) alongside chemotherapy for the treatment of pancreatic cancer. Our findings highlight the potential of LA-BPA derivatives in developing more precise, effective, and less detrimental chemoradiotherapy approaches, marking an advancement in nanomedicine for cancer treatment.</p><p>Cancer remains a formidable challenge to public health, with chemotherapy serving as the most commonly used treatment. Currently, more than fifty FDA-approved antitumor agents are in clinical use 1,2 . However, these chemotherapeutic agents generally suffer from a lack of selectivity and optimal pharmacokinetics, and their broad mechanisms of action often lead to severe systemic toxicity 3 . The emergence of nanotechnology has redirected the focus toward drug delivery methods that aim to mitigate the adverse side effects of chemotherapy, showing promising results in both clinical trials and practical applications. Various nanocarriers, including inorganic nanoparticles, polymers, and lipid-based systems, have been effectively employed to target and deliver antitumor drugs directly to tumor sites. These nanocarriers are capable of transporting diverse drugs, thereby enhancing their efficacy while reducing systemic</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>toxicity. This approach is further supported by the enhanced permeability and retention (EPR) effect <ref type="bibr" target="#b3">4</ref> , highlighting the potential for nanomedicines to accumulate more extensively in tumors by extravasating through their fenestrated vessels.</p><p>Despite these advancements, only a few nanocarriers have advanced to clinical use for tumor diagnosis and therapy <ref type="bibr" target="#b4">5</ref> . Ideally, newly developed nanocarriers should deliver drugs specifically to tumor sites while minimizing off-target delivery. Notably, hypersialylation plays a crucial role in tumor growth, invasion, migration, and chemoresistance. Therefore, targeting sialylation regulators such as sialic acid and neuraminidase offers a promising strategy for drug delivery <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> . For example, phenylboronic acid-functionalized nanomaterials have been engineered to enhance tumor targeting and transcellular transfer. This enhancement results from the rapid reaction between the phenylboronic acid group and sialic acid on cancer cells <ref type="bibr" target="#b7">8</ref> . Moreover, the disulfide bond represents a dynamic, highly controllable, and reversible covalent bond type <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> . Previous work has demonstrated that disulfide bonds can act as proton acceptors, being protonated by acids to form sulfonium cations <ref type="bibr" target="#b14">15</ref> . This reaction efficiently initiates the ring-opening polymerization (ROP) of 1,2-dithiolanes, involving repeated breaking and forming of disulfide bonds until a thermodynamically stable product forms. Disulfide linkers have thus been widely explored in gels <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> , elastomers <ref type="bibr" target="#b16">17</ref> , vesicles <ref type="bibr" target="#b17">18</ref> , and recyclable materials <ref type="bibr" target="#b18">19</ref> .</p><p>In this work, we describe the design and synthesis of lipoic acidboronophenylalanine (LA-BPA) derivatives linked by short-chain PEG spacers. These derivatives can reversibly self-assemble to form versatile vesicles under specific pH conditions, making them suitable for applications in cancer therapy (Fig. <ref type="figure" target="#fig_0">1</ref>). As known and understood, the nanoparticles would reach the tumor site via EPR effect and accumulated in tumor tissue. To increase the tumor-targeting efficiency, various modifications to nanoparticle have proven to be effective. Based on the affinity of phenyboronic acid group to the sialic acids on the tumor cells, the cell-vesicles interactions were greatly increased, and more vesicles were associated with the cell's surface, which would facilitate the entrance of the L P B-3 vesicles into cells. Under acidic conditions, the LA-BPA derivatives undergo rapid polymerization into vesicles through ROP. This reaction is highly efficient, occurs under open-air conditions, and completes swiftly. In contrast, under slightly basic conditions, the vesicles quickly revert to monomers through a rapid depolymerization process. These LA-BPA derivatives are demonstrated pH-dependent reversible assembly into synthetic vesicles. By incorporating phenylboronic acid groups, these vesicles selectively target sialic acid on tumor cells, offering a promising approach for tumor-specific drug delivery. Our studies further reveal that these vesicles can reduce cellular levels of glutathione (GSH) and promote an increase in reactive oxygen species (ROS). This shift disrupts mitochondrial membrane potential and triggers mitophagyinduced apoptosis. In addition, we have enhanced these vesicles by introducing a BPA group, which leverages the advantageous properties of boron-based compounds. This modification has proven effective in the context of BNCT for treating pancreatic cancer. Our findings indicate that these engineered LA-BPA derivatives not only selfassemble into vesicles but also effectively combine chemotherapy with BNCT, demonstrating therapeutic efficacy in mouse models of pancreatic cancer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and discussion</head><p>Preparation and characterization of LA-BPA derivatives Eight lipoic acid-boronophenylalanine (LA-BPA) derivatives (L P B1-4 and L m B1-4) were synthesized by coupling lipoic acid (the head) with the amino group of BPA (the tail) via a short-chain PEG linker (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>, Note 1 and Fig. <ref type="figure" target="#fig_1">2a-c</ref>). In this design, lipoic acid serves as the cross-linking unit, BPA at the tail functions as the targeting moiety, and the short-chain PEG acts as a hydrophilic spacer. LA-BPA derivatives without PEG spacer did not stabilize the forming vesicles (Supplementary Fig. <ref type="figure" target="#fig_1">2</ref>). The synthesis and characterization of these LA-BPA derivatives were confirmed by nuclear magnetic resonance spectroscopy (Supplementary Note 2). The vesicles' self-assembly from LA-BPA derivatives was performed under acidic conditions, as depicted in Fig. <ref type="figure" target="#fig_1">2d</ref>. The critical aggregation concentrations (CAC) of these compounds were determined to be below 0.3 mM (Fig. <ref type="figure" target="#fig_1">2e</ref> and Supplementary Fig. <ref type="figure" target="#fig_2">3a</ref>). Figure <ref type="figure" target="#fig_1">2e</ref> and Supplementary Fig. <ref type="figure" target="#fig_2">3b</ref> showed that the eight LA-BPA derivatives readily self-assembled into nanoparticles above their respective CACs, displaying zeta potential values of -28 to -35 mV and polymer dispersity indices below 0.3 for all samples. The dynamic light scattering data revealed that the particle size distributions broadened toward larger average sizes with increasing PEG chain length. Transmission electron microscopy (TEM) images confirmed that the nanoparticles exhibited a spherical coreshell vesicular nanostructure with high monodispersity (Fig. <ref type="figure" target="#fig_1">2f</ref>). L P B-3 was synthesized with a high overall yield (Supplementary Table <ref type="table">1</ref>) using less expensive raw materials. The vesicles formed from L P B-3 featured a moderate particle size, leading to the selection of L P B-3 for further investigations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Controllable assembly of L P B-3-based vesicles and mechanisms</head><p>We then systematically analyzed the efficacy of both organic and inorganic acids in the L P B-3 ROP. The results, depicted in Fig. <ref type="figure" target="#fig_2">3a</ref>, highlighted that the top four commonly used acids effectively catalyzed this ROP reaction. Interestingly, an unexpected outcome emerged when hydrochloric acid (HCl) was used as the catalyst: the pH dropped to 1.0, which was far lower than in vivo context. Simultaneously, we assessed the relationship between particle size and pH variation. As shown in Fig. <ref type="figure" target="#fig_2">3b</ref> and Supplementary Fig. <ref type="figure" target="#fig_3">4</ref>, the diameter of the vesicles decreased as the pH increased, whereas the zeta potential of the vesicles rose with the pH level. To alter the pH of the suspension, NaOH (2.5 M stock) was utilized for adjustments, with continuous monitoring using a pH meter. As the pH shifted from 1.0 to 8.0, the solution transitioned from a white turbid appearance to a clear solution (see in Supplementary Movie 1), indicating the depolymerization of the vesicles back into their original small-molecular compounds as confirmed by liquid chromatography-tandem mass spectrometry and 1 H NMR (Supplementary Fig. <ref type="figure" target="#fig_4">5</ref>). Following this observation, HCl was incrementally added to the solution. Upon reaching a pH of 7.2, the clear solution instantaneously transformed back to a white suspension, indicative of vesicle formation. This finding demonstrates that the morphological alterations of the vesicles can be repeatedly reversed through a polymerization-depolymerization cycle.</p><p>Building on these experimental findings, we aimed to create reversible compound vesicles by alternately introducing a base (2.5 M NaOH) and an acid (1 M HCl) into a water-mediated system (Fig. <ref type="figure" target="#fig_2">3c</ref>). To achieve this, L P B-3 underwent three additional cycles of polymerization and depolymerization. This process was continually monitored using ultraviolet-visible spectroscopy. As showcased in Fig. <ref type="figure" target="#fig_2">3d</ref> and Supplementary Movie 1, the distinctive absorption band at 330 nm, characteristic of L P B-3 monomers, emerged upon vesicle depolymerization. This observation suggests an ultrafast transition between the polymerization and depolymerization states. The vesicles experienced base-induced depolymerization without any impact on the molecular structure, and this polymerization-depolymerization cycle was found to be reversible on multiple occasions. In addition, the average size of the vesicles during this reversible formation process was determined using a nanoparticle tracking analyzer (Fig. <ref type="figure" target="#fig_2">3e-g</ref>). These measurements revealed that repeated assembly led to the formation of smaller vesicles, characterized by a narrower and more uniform particle size distribution.</p><p>We conducted coarse-graining simulations to explore the aggregation and disaggregation processes of 35,000 L P B-3 molecules in water under both acidic and alkaline conditions. In an acidic environment, the L P B-3 molecules quickly self-aggregated into a nanoparticle within 1 μs. Subsequently, the hydrophobic parts, colored yellow, and the hydrophilic parts, colored blue, continued to self-aggregate, resulting in a stable vesicle structure with distinct hydrophobic and hydrophilic sectors by 4 μs (Fig. <ref type="figure" target="#fig_2">3h</ref>, j and Supplementary Movie 2). Intriguingly, substituting the L P B-3 molecules in an acidic environment with those in an alkaline environment initially led the vesicle structure to transition to a disordered aggregation state, where the hydrophobic and hydrophilic areas mixed within 2 μs. This structure then disaggregated, releasing the L P B-3 molecules from the disordered aggregation within 13 μs, and eventually stabilizing into a dispersed structure with randomly distributed L P B-3 molecules in the solvent (Fig. <ref type="figure" target="#fig_2">3i</ref>, k and Supplementary Movie 3). In contrast to the ROP, depolymerization of the disulfide bonds required harsher conditions and more time <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b18">19</ref> . In our experiments, we observed the recycled L P B-3 monomer when the pH of the water-mediated solution was increased from 7.2 to 8.0 over a prolonged period, achieving a 100% recovery rate (Supplementary Fig. <ref type="figure" target="#fig_4">5</ref> and Supplementary Movie 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Specificity of L P B-3 vesicles for sialic acid</head><p>To reliably quantify vesicle trafficking, we employed the lipophilic fluorescent probe Cy5.5 to label the vesicles. Initially, Cy5.5@vesicles were detected through the emission of the fluorescein tag (Supplementary Fig. <ref type="figure">6a</ref>). Confocal fluorescence imaging of these probelabeled vesicles confirmed their characteristic annular shape and demonstrated the localization of red fluorescence to the vesicles (Supplementary Fig. <ref type="figure">6b</ref>). Moreover, the efficiency of this labeling approach was quantified using flow cytometry, with results indicating a labeling efficiency exceeding 97% (Supplementary Fig. <ref type="figure">6c</ref>). Collectively, these findings suggest that the lipophilic fluorophore is highly effective and specific in labeling L P B-3 vesicles.</p><p>Cytoplasmic uptake of Cy5.5@vesicles was observed (Fig. <ref type="figure" target="#fig_3">4a</ref>). To further explore the vesicles' specificity for sialic acid, we assessed their uptake in PANC-1 cells, a sialic acid-expressive cell line <ref type="bibr" target="#b19">20</ref> . We also conducted a parallel experiment involving these cells and a subset treated with 0.5 U of neuraminidase to remove sialic acid residues from the glycoproteins on their membrane surfaces <ref type="bibr" target="#b20">21</ref> . Stronger fluorescence signals compared to those treated with neuraminidase (Fig. <ref type="figure" target="#fig_3">4c</ref>). When Cy5.5@vesicles were pre-incubated with N-acetylneuraminic acid, whose diol group would mask phenyboronic acid, the cell uptake also was reduced (Supplemental Fig. <ref type="figure">6g</ref>). Fluorescence intensity was quantified for individual cells, the average intensity from the normally cultured group was ~2.4 times higher than that of the neuraminidase-treated group, and about 3 times higher than that of Cy5.5@vesicles pre-treated with N-acetylneuraminic acid (Fig. <ref type="figure" target="#fig_3">4d</ref>). The unspecific uptake of nanoparticles by cancer cells is known but not as effect as with phenyboronic acid-sialic acid binding <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> . The phenyboronic acid group could be fabricated for cell e Physicochemical properties of the self-assembled vesicles. f Representative TEM images of the vesicles. Scale bar is 100 nm. TEM measurement of vesicles solution at 1.0 mg/mL concentration were repeated 3 times independently with similar results, and one representative image from each LA-BPA derivative was shown. adhesion, especially those cancer cells with overexpression of sialic acid <ref type="bibr" target="#b6">7</ref> . The binding of the receptors targeted vesicles to tumor cells would likely lead to receptors-mediated internalization of the vesiclessialic acid complexes, the vesicles also would be translocated to intracellular through endosomes and phagosomes pathway <ref type="bibr" target="#b21">22</ref> . Moreover, in vitro cell uptake of the Cy5.5@vesicles against sialic acid was further investigated by MCF-10A and human primary pancreatic acinar cells, both showed much less expression levels of sialic acid. As expected, in vitro experiments using MCF-10A and human primary pancreatic acinar cells showed that Cy5.5@vesicles uptake decreased than that of PANC-1 cells. As shown in Supplemental Fig. <ref type="figure">6h,</ref><ref type="figure">i</ref>, the cellular uptake study of Cy5.5@vesicles showed that more internalized Cy5.5@vesicles in cancer cells than that of in normal cells. This demonstrated that the cellular uptake level of L P B-3 vesicles had a clear dependence on targeting sialic acid, and the phenylboronic acid on the vesicles' surfaces facilitated targeted delivery to sialic acid-expressive cells (Fig. <ref type="figure" target="#fig_3">4b</ref>). Based on these results we continued to address the degradation of intracellular L P B-3 vesicles. When the PANC-1 cells were treated with Cy5.5@vesicles for over 36 h, the majority of fluorescence signal redistributed from cytosol to the mitochondrial, a subcellular co-localization assay showed that Pearson coefficient was 0.793, which demonstrated the high correlation of intensity distribution between the two channels (Supplemental Fig. <ref type="figure">6l</ref>). This change might be explained by the free Cy5.5 released from vesicles. After that  d normalized statistics of cell uptake of Cy5.5@vesicles.Cy5.5@vesicles uptake in PANC-1 cells without neuraminidase (G1) and with neuraminidase (G2), G3: cellular uptake of N-acetylneuraminic acid-treated Cy5.5@vesicles (n = 3 independent experiments). e Intracellular GSH and f ROS levels in PANC-1 cells after 24 h incubation with various concentrations of L P B-3 vesicles (n = 3 independent experiments). g Statistical analysis for JC-1 green fluorescence (n = 3 independent experiments). h Representative microscopic images showing co-localization of Cy5.5@vesicles (red) and LysoTracker (green) in PANC-1 cells. i, j Analysis of the colocalization between Cy5.5@vesicles and LysoTracker performed using Leica Colocalization Viewer Software. A Pearson coefficient value greater than 0.5 indicates co-localization between the two signals. Scale bar is 50 µm in (a, c, h). Data are displayed as mean ± SD of n &gt; 10 independent measurements in (d-g). Each experiment was repeated 3 times independently with similar results in (a, c, h). P values in (d-g) were determined by One-way ANOVA analysis followed by Tukey's multiple comparisons test. ****p &lt; 0.0001. positively charged Cy5.5 probe was further adsorbed to the negatively charged mitochondrial membrane.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adjuvant properties of L P B-3 vesicles for antitumor in vitro</head><p>Disulfide-assisted nanomaterials and probes have emerged as effective strategies for drug delivery, not only in anticancer therapy but also for depleting glutathione (GSH) <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> . The intracellular GSH levels in cells exposed to varying concentrations of vesicles for 24 h. The GSH assay results showed that intracellular GSH levels decreased as the vesicle concentration increased (Supplementary Fig. <ref type="figure" target="#fig_5">7a</ref>). Specifically, the average fluorescence indicating GSH levels was ~33 times lower at a vesicle concentration of 0.5 mg/mL compared to the control group (Fig. <ref type="figure" target="#fig_3">4e</ref>), which was consistent with our hypotheses. Considering GSH's role as a primary cellular antioxidant, its substantial reduction can enhance reactive oxygen species (ROS) levels, leading to decreased mitochondrial membrane potential and compromised mitochondrial integrity. We measured intracellular ROS levels using HDCF-DA and observed that the ROS levels were inversely related to GSH levels. Higher ROS levels corresponded with diminished GSH levels and increased with the vesicle concentration (Fig. <ref type="figure" target="#fig_3">4f</ref> and Supplementary Fig. <ref type="figure" target="#fig_5">7b</ref>). This inverse correlation was confirmed by further tests, indicating that GSH depletion within cells led to an accumulation of ROS. Considering the high sensitivity of intracellular mitochondria to ROS, we induced JC-1 to evaluate the cellular mitochondria status. Aggregates of JC-1 indicate healthy polarized mitochondria (red), whereas monomers of JC-1 indicate unhealthy depolarized mitochondria (green). The mitochondrial membrane potential was assessed using MitoProbe JC-1 and imaged with confocal laser microscopy (Fig. <ref type="figure" target="#fig_3">4g</ref> and Supplementary Fig. <ref type="figure" target="#fig_5">7c</ref>). Untreated PANC-1 cells displayed abundant JC-1 aggregates, indicative of healthy mitochondria, whereas treatment with vesicles resulted in predominantly JC-1 monomers, suggesting a loss of mitochondrial potential. Overall, the disulfide bond cleavage in L P B-3 vesicles effectively depleted GSH, disturbing the balance between intracellular GSH and ROS and leading to increased ROS production. This elevated ROS level within the cancer cells consequently induced mitochondrial damage, thereby inhibiting cell proliferation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The phenylboronic acid-mediated lysosome escape of L P B-3 vesicles</head><p>Lysosomal entrapment impedes the effective subcellular delivery of anti-tumor therapeutic agents. Timely lysosomal escape is crucial for nanomedicine to avoid premature degradation in the acidic lysosomal environment. Previous studies have demonstrated that incorporating phenylboronic acid into nanomaterials enhances cellular uptake and facilitates lysosomal escape <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b24">25</ref> . In our study, we examined the lysosomal escape behaviors of Cy5.5@vesicles, using colocalization with LysoTracker Green (Fig. <ref type="figure" target="#fig_3">4h</ref>). For this analysis, we used the red fluorescence of Cy5.5@vesicles and the green fluorescence of lysosomes, with results presented in Fig. <ref type="figure" target="#fig_3">4i</ref>, j. Pearson's coefficient was calculated to assess colocalization; however, the fluorescence overlap between the two channels was minimal, resulting in a low Pearson's colocalization coefficient of 0.305. Notably, colocalization is defined as having a coefficient of 0.5 or higher <ref type="bibr" target="#b25">26</ref> . To test this, we investigated the Cy5.5@vesicles distribution using chloroquine (40 μM, 1 h) to inhibit lysosomal function before adding Cy5.5@vesicles. As shown in Supplementary Fig. <ref type="figure">6j</ref>, there were no change in the amount and distribution of Cy5.5@vesicles. for colocalization, the Pearson coefficient was 0.341, which denoted no co-localization. But when phenylboronic of vesicles acid was blocked with N-acetylneuraminic acid, the colocalization coefficient with the lysosome increased up to 0.857 (Supplementary Fig. <ref type="figure">6k</ref>). This observation suggested that blocking phenylboronic acid would enhance Cy5.5@vesicles' interaction with lysosome. These findings validate our hypothesis that L P B-3 vesicles provide a platform to aid lysosomal escape, thereby circumventing premature degradation in the acidic conditions of lysosomes. These findings validate our hypothesis that L P B-3 vesicles provide a platform to aid lysosomal escape, thereby circumventing premature degradation in the acidic conditions of lysosomes. This attribute positions L P B-3 vesicles as an ideal nanocarrier for drug delivery in tumortargeted therapy, by reducing lysosomal degradation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drug loading and release in the L P B-3 vesicles</head><p>Similar to liposomes, L P B-3 vesicles show promise in drug delivery, characterized by their aqueous core which is capable of encapsulating hydrophilic agents. Doxorubicin hydrochloride (Dox), illustrated in Supplementary Fig. <ref type="figure">8a</ref>, was used as a model drug in our nanomedicine preparation. To establish a correlation between the peak area of HPLC and Dox concentration, we plotted a calibration curve, as shown in Supplementary Fig. <ref type="figure">8b</ref>. This curve demonstrated a strong linear relationship, with an R 2 value of 0.99. Using this standard curve, outlined in Supplementary Fig. <ref type="figure">8c</ref>, we calculated the total Dox content and the entrapment efficiency within L P B-3 vesicles. The experimental data revealed that the encapsulation efficiency diminished as the Dox amount increased, likely due to the vesicles' finite drug loading capacity. Optimal encapsulation was observed at a drug-to-vesicle mass ratio of 1:10, achieving an 81% encapsulation efficiency and a drug loading of 7.8%. The average particle size and zeta potential of Dox@vesicles were measured at 160.5 nm and -27.85 mV, respectively (Supplementary Fig. <ref type="figure">8d,</ref><ref type="figure">e</ref>). There was no notable difference in particle size between the drug-loaded and unloaded vesicles, suggesting that the drug, confined within their cores, minimally influenced the hydrodynamic size. We assessed the in vitro stability of Dox@vesicles by dispersion in PBS for 24 h, and as anticipated, there was no alteration in particle size during this period, as reported in Supplementary Fig. <ref type="figure">8f</ref>. Morphological evaluations of Dox@vesicles under various conditions were documented in Supplementary Fig. <ref type="figure">8g</ref>. The vesicles retained their morphology in both water and culture medium; however, exposure to 5 mM or 10 mM GSH led to disorganized surfaces and visible edge breakage, facilitating on-demand Dox release (Supplemental Fig. <ref type="figure">8h</ref>).</p><p>We also investigated the in vitro release of Dox from L P B-3 vesicles induced by GSH in various simulated environments, including PBS (pH = 7.2) with or without GSH (5 mM). As shown in Supplementary Fig. <ref type="figure">8h</ref>, Dox@vesicles exhibited limited release of Dox in PBS, with only 32.2% released over 48 h, indicating minimal drug leakage under physiological conditions. However, the presence of 5 mM GSH accelerated drug release, with a cumulative release of 93.8% over the same period, demonstrating the vesicles' responsiveness to GSH. Given that GSH, a hydrophilic molecule, is prevalent in tumor cells, it serves as an intracellular trigger for drug release specifically at tumor sites. This is beneficial for minimizing potential side effects and enhancing therapeutic efficacy, as it restricts Dox release primarily to tumor cells, limiting exposure in the circulatory system.</p><p>Pancreatic cancer, a highly lethal cancer, is regarded as the second highest cause of cancer-related deaths by 2030 <ref type="bibr" target="#b26">27</ref> , and breast cancer is the malignant tumor with the highest incidence among women in the world <ref type="bibr" target="#b27">28</ref> . We subsequently assessed the cytotoxic effects of Dox@vesicles compared to free Dox in the normal cells (human primary pancreatic acinar cells and MCF-10A cells) and cancer cells (human pancreatic cancer cell line PANC-1 and the human breast cancer cell line MDA-MB-231) (Supplementary Fig. <ref type="figure">8i,</ref><ref type="figure">j</ref>). The IC 50 for free Dox was determined to be 32.24 nM, while the Dox@vesicles exhibited a slightly higher IC 50 of 43.19 nM in PANC-1 cells. whereas in human primary pancreatic acinar cells, the IC 50 values of free Dox and Dox@vesicles were 31.00 nM and 149.30 nM. Similarly, the IC 50 values for Dox and Dox@vesicles against MDA-MB-231 cells were 55.03 nM and 38.83 nM. In MCF-10A cells, IC 50 values were 33.40 nM and 120.60 nM, respectively. These results indicated that the Dox@vesicles exhibited much more cytotoxicity in cancer cells than that of in normal cells, which might be attributed to the sialic acid targeting of vesicles. The IC 50 values of Dox against cancer cells were lower than that of Dox@vesicles. This diminished cytotoxicity of the Dox@vesicles can be ascribed to their sustained release properties. Moreover, the cellular GSH content in cancer cells is much higher than that in normal cells, which is furthermore favorable to specifically releasing the Dox in cancer cells rather than in normal cells to avoid side effects. Dox@vesicles for antitumor chemotherapy L P B-3 vesicles have demonstrated notable potential in cellular uptake, lysosome escape, drug loading, and on-demand release. By employing a design strategy that leverages phenylboronic acid-sialic acid interactions in tumor tissues, these vesicles exhibit minimized non-specific interactions with normal tissues, thus enhancing tumor selectivity. To further investigate the properties of L P B-3 vesicles as tumor suppressors in vivo, we monitored the antitumor efficacy of Dox@vesicles and free Dox. Both were administered at a dose of 4 mg/kg (Dox equivalent) to subcutaneous MDA-MB-231 and PANC-1 tumor-bearing mice, as delineated in our experimental flow chart (Fig. <ref type="figure" target="#fig_4">5a</ref>) and the experimental groups (Fig. <ref type="figure" target="#fig_4">5b</ref>). The volumes of tumors in both models were recorded over time (Fig. <ref type="figure" target="#fig_4">5c,</ref><ref type="figure">d,</ref><ref type="figure">h,</ref><ref type="figure">i</ref>). During the study, the control and saline groups' tumor volumes increased most rapidly, exceeding 1500 mm³. In contrast, the vesicles exhibited tumor-suppressing activity, especially at the initial stages of the experiment, although this rate of suppression decreased as the experiment progressed. Both Dox formulations showed antitumor efficacy, with Dox@vesicles outperforming free Dox. Tumor weights for each group are presented in Fig. <ref type="figure" target="#fig_4">5e,</ref><ref type="figure">j</ref>, correlating with the tumor volume data. Body weight changes over time for all experimental groups are shown in Fig. <ref type="figure" target="#fig_4">5f,</ref><ref type="figure">k</ref>. Both the Dox@vesicles formulation and the blank vesicles demonstrated minimal toxicity (Supplementary Fig. <ref type="figure">9</ref>), suggesting good biocompatibility of L P B-3 vesicles and a well-tolerated dose level of Dox@vesicles. Notably, the body weight of the free Dox group decreased compared to other groups, indicating that L P B-3 vesicles might reduce the side effects of free drugs. The overall survival rate of all groups in the MDA-MB-231 model was assessed and illustrated in Fig. <ref type="figure" target="#fig_4">5g</ref>. The control and saline groups succumbed within 32 days, while therapies with free Dox led to a survival advantage, totaling 60 days. The Dox@vesicles groups exhibited a median survival exceeding 60 days. These findings are supported by immunofluorescence staining of Ki67 and TUNEL on tumor tissue sections (Supplementary Fig. <ref type="figure" target="#fig_0">10a</ref>). Ki67 staining indicated high tumor cell proliferation in the control, saline, and vesicle groups, with no signs of apoptosis. Conversely, both Dox treatment groups showed reduced Ki67 staining, indicating reduced proliferation. TUNEL staining revealed widespread apoptosis in tumor tissues from these treatment groups. Histological analysis of major organs (heart, liver, spleen, lung, and kidney) was conducted to assess potential organ toxicity (Supplementary Fig. <ref type="figure" target="#fig_0">10b</ref>). In addition, the overall survival of PANC-1 bearing mice was under 25 days. All Dox treatments improved survival compared to the control group, but efficacy was higher in the Dox@vesicles than in free Dox (Fig. <ref type="figure" target="#fig_4">5l</ref>). The immunofluorescence staining of Ki67 and TUNEL on frozen mouse tumor tissue sections further confirmed these results (Supplementary Fig. <ref type="figure" target="#fig_0">11a</ref>). There were no abnormalities in the heart, spleen, lung, and kidney (Supplementary Fig. <ref type="figure" target="#fig_0">11b</ref>), except in the liver (Fig. <ref type="figure" target="#fig_4">5m</ref>). Hematoxylin and eosin (H&amp;E) staining revealed notable tumor metastases in the liver from the control, saline, and vesicle groups, but not in the Dox and Dox@vesicles treatment groups. The staining of Ki67 in these lesions indicated high cellular proliferation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Application of vesicles in pancreatic cancer boron neutron capture therapy</head><p>Encouraged by the medicinal role of boron-containing compounds, especially as agents for BNCT <ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref> , we synthesized the L 10 B-3 derivative, which contains the boron isotope B-10, using this approach (Supplementary Fig. <ref type="figure" target="#fig_1">12</ref>). We conducted isotopomer analysis of L 10 B-3 using a high-resolution mass spectrometer (Supplementary Fig. <ref type="figure" target="#fig_2">13a</ref>) and <ref type="bibr" target="#b0">1</ref> H NMR (Supplementary Fig. <ref type="figure" target="#fig_2">13b</ref>). Given the high mortality rates due to metastasis in pancreatic cancer models, we assessed the in vitro BNCT efficacy against PANC-1 cells (Supplementary Fig. <ref type="figure" target="#fig_3">14</ref>) and in vivo BNCT efficacy of L 10 B-3 vesicles using a xenograft pancreatic cancer model.</p><p>Before assessing in vivo efficacy, insights into nano-bio interactions in PANC-1-bearing mice were obtained by tracing the behaviors of Cy5.5@vesicles and free fluorophores through near-infrared fluorescence imaging. As depicted in Fig. <ref type="figure">6a</ref>, the fluorescence signal from Cy5.5@vesicles was detectable in the tumors, livers, and kidneys from 1 to 6 h post-injection (p.i.), with the strongest signal observed at 6 h p.i. In comparison, the free fluorescent probe group displayed prominent signals in the abdomen rather than at the tumor sites, demonstrating the superior tumor-targeting efficacy of L 10 B-3 vesicles. In line with the in vivo imaging results, the ex vivo imaging of the excised tissues from Cy5.5@vesicles at 6 h p.i. (Fig. <ref type="figure">6b,</ref><ref type="figure">c</ref>) indicated that the tumor exhibited the most intense fluorescent signal relative to other organs. This observation suggests that 6 h p.i. could represent the optimal timing for neutron irradiation of the L 10 B-3 vesicles. To study the invasion of Cy5.5@vesicles in tumor site, living confocal imaging was used to investigate the intracellular distribution of Cy5.5@vesicles at 6 h post injection. As shown in Supplementary Fig. <ref type="figure" target="#fig_4">15</ref>, although the tumor vessels were labeled with dextran-FITC and cell nuclei were tagged with Hoechst 33342 in the two groups, no obvious fluorescent signal was observed in the vicinity of cell nuclei in the group of free Cy5.5; but the fluorescent signal emitted by Cy5.5 was predominantly on the side of the cell nuclei. As shown, red fluorescent signal was observed in tumor cells of Cy5.5@vesicles, while that of the free Cy5.5 group showed no signal. This result also indicated that the vesicles were enough stable in circulation, which made it conductive to delivering drug over a long period. These results supported that the L P B-3 vesicles were stable enough to delivery small molecular compounds to tumor site and a promising tumor-target nanocarrier.</p><p>Before neutron irradiation, we assessed the distribution of B-10 across major organs in two dosage groups: low (250 mg/kg) and high (350 mg/kg). The distribution patterns of B-10, as depicted in Fig. <ref type="figure">6d,</ref><ref type="figure">e</ref>, aligned with those observed in ex vivo imaging. In each group, tumor tissues exhibited the highest content of B-10, with notably higher accumulation observed in the high-dose group. Specifically, B-10 concentrations were measured at 23.35 ppm in the high-dose group and 15.48 ppm in the low-dose group. In the group receiving the higher dose, the B-10 concentration in the tumor was 5.0 times that of the blood, compared to 4.6 times in the low-dose group, as indicated in Fig. <ref type="figure">6f</ref>. Furthermore, the tumor-to-normal tissue ratio was 7.7 in the high-dose group and 6.9 in the low-dose group. These findings suggest that L 10 B-3 vesicles can prolong circulation time in vivo and enhance the accumulation of B-10 at the tumor site, ultimately improving the tumor-to-blood and tumor-to-normal tissue ratios compared to free BPA.</p><p>To further assess the antitumor efficacy of L 10 B-3 vesicles in BNCT, we conducted an in vivo study using PANC-1 tumor-bearing mice. The evaluation workflow is depicted in Fig. <ref type="figure">6g</ref>. Female mice bearing PANC-1 tumors received injections of saline (200 µL), highdose L 10 B-3 vesicles (350 mg/kg, BNCT H), or low-dose L 10 B-3 vesicles (250 mg/kg, BNCT L), 6 h before neutron irradiation. Both the BNCT H and BNCT L were injected vesicles through the tail vein, respectively, 6 h latter received neutron irradiation. The control and neutron irradiation groups were injected with an identical volume of saline, the neutron irradiation group received neutron irradiation, whereas the control group received no irradiation. Dosimetric assessment of photon and proton exposure was performed using Monte Carlo simulations. As shown in Fig. <ref type="figure">6h</ref>, the resulting radiation doses to the tumor tissues were 1.50 Gy for BNCT H group, 1.19 Gy for Tumor volume and mouse survival were monitored following therapy. Mice injected with saline and subjected to neutron irradiation exhibited the fastest tumor growth (Fig. <ref type="figure">6i,</ref><ref type="figure">k</ref>), indicating that neutron irradiation alone did not suppress tumor development. In contrast, tumors treated with vesicles demonstrated slower growth. In the BNCT L group, treated with low-dose vesicles and subjected to neutron irradiation, tumor volume initially decreased but later recurred, indicating partial efficacy but insufficient for treating mice bearing PANC-1 tumors. Conversely, in the BNCT H group, tumor growth was completely inhibited 15 days after neutron irradiation, with no signs of tumor recurrence by day 30. This indicates that L 10 B-3 vesicles in BNCT effectively eradicated PANC-1 growth at a dose of 350 mg/kg. Further, the survival rate was 100% in both BNCT groups on day 35, higher than in other groups (Fig. <ref type="figure">6j</ref>), underscoring the therapeutic efficacy of our designed vesicles as boron-containing agents in BNCT. Body weight measurements during treatment, shown in Fig. <ref type="figure">6i</ref>, revealed a gradual increase in all mice, suggesting that the treatment was free from systemic toxic effects. Overall, these results suggest that using L 10 B-3 vesicles in BNCT could be a promising strategy to enhance therapeutic efficacy against pancreatic cancer by inhibiting tumor growth.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dox@vesicles as a supplement for tumor recurrence of BNCT L</head><p>In clinical practice, single-treatment approaches often fall short in achieving satisfactory therapeutic outcomes, thus making combination treatments a preferred method for enhancing therapeutic benefits. Considering the L P B-3 vesicles for targeted Dox delivery, we further explored the therapeutic efficacy of Dox@vesicles in treating tumor recurrences in BNCT L. Animals in the BNCT L group were randomly divided into two groups: one treated with Dox@vesicles and the other left untreated. Measurements of tumor volume, as shown in Fig. <ref type="figure">6m</ref>, indicated that the untreated mice exhibited rapid tumor growth, with an increase of approximately 7.5-fold over 15 days. In contrast, this increase was reduced by half in the BNCT L group treated with Dox@vesicles. Throughout the treatment period, there was no reduction in body weight among the animals, as depicted in Fig. <ref type="figure">6n</ref>. In addition, the median survival time for the BNCT L/Dox@vesicles group was 60 days, compared to overall survival of 57 days for the untreated group (Fig. <ref type="figure">6o</ref>). These results demonstrate that Dox@vesicles, either as a standalone treatment or in conjunction with BNCT.</p><p>At the conclusion of the experiment, a pathological analysis was performed. H&amp;E staining showed no necrosis and edema in most organs, except for the kidney and spleen accompanied by relatively mild inflammatory in BNCT H and BNCT L groups (Supplementary Fig. <ref type="figure" target="#fig_0">16a</ref>). Notably, multiple tumor lesions were identified throughout the livers of the control, neutron irradiation, and vesicles groups (Supplementary Fig. <ref type="figure" target="#fig_0">16b</ref>). In addition, sections of the liver were stained for Ki67, a marker indicative of tumor cell proliferation. These sections showed high proliferative activity within the lesions. Immunofluorescence staining indicated that Ki67 expression was reduced in the BNCT L group and was lowest in the BNCT L/Dox@vesicles and BNCT H groups, in comparison to the control group. The expression levels in the neutron and vesicles groups were comparable to that of the control (Supplementary Fig. <ref type="figure" target="#fig_5">17</ref>). This observation was supported by TUNEL staining, which demonstrated a more extensive area of apoptosis in the BNCT H and BNCT L/Dox@vesicles groups than in the control group, with the BNCT L group also showing apoptosis. Similar to the control, the neutron irradiation and vesicles groups exhibited almost no signs of apoptosis. These findings suggest that supplementing radiotherapy with Dox@vesicles could potentially enhance the efficacy of standalone BNCT in inhibiting tumor growth and extending survival.</p><p>Undoubtedly, this exploratory study inevitably has certain shortcomings. One drawback of L P B-3 vesicles is the potential mechanism instability of these nanocarriers, which result in the storage difficulties. Another obvious disadvantage of L P B-3 vesicles is that the phenylboronic acid inevitably leads to non-specific interactions with endogenous polyhydroxy compounds such as glucose, which possess a degree of risk when the vesicles regarded as drug delivery carriers. Thus, the delivery method for chemotherapeutic agent must be taken into account and optimized, and this could be a challenging process. When applied to BNCT, the B-10 content is reduced compared to the active pharmaceutical ingredient BPA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>L 10 B-3 vesicles as BNCT agents for melanoma treatment</head><p>Melanoma is one of the deadliest forms of skin cancers and lacks effective treatments. It is well-known that BNCT provides a binary therapeutic technique by eliminating tumor cells and sparing normal cells for melanoma. To better understand the role of L 10 B-3 vesicles in BNCT, we further explored the vesicles applied in BNCT for melanoma treatment. For monitoring the vesicles distribution in vivo, fluorescence imaging was performed by IVIS spectrum (Fig. <ref type="figure" target="#fig_5">7a</ref>), which showed vesicles were enriched at tumor sites to reach the maximum amount at 6 h post injection, and then decreased. A biopsy was performed to allow for ex vivo IVIS imaging of the tumor tissues and major organs at 6 h post injections. As shown in Fig. <ref type="figure" target="#fig_5">7b</ref>, fluorescence distribution also appeared in liver, kidney, and spleen, but the strongest signal was detected in tumor site. L 10 B-3 vesicles was given in a single dose at a dose rate of 350 mg/kg. Then, we tested the B-10 concentrations of different organs by ICP-MS at the same time point. The highest B-10 content in tumor sites was observed, followed by liver and kidney (Fig. <ref type="figure" target="#fig_5">7c,</ref><ref type="figure">d</ref>). By contrast, L 10 B-3 vesicles generated more B-10 distribution on tumor sites than in normal tissues and blood, with T/N ratio of 6.7 and T/B ratio of 4.1, respectively. As shown in Fig. <ref type="figure" target="#fig_5">7e</ref>, f, a rapid tumor volume growth of B16F10 tumor was observed in control, vesicles, and neutron irradiation groups, which was decreased in BNCT group. Meanwhile, the animals of all experimental groups showed a slow increase in body weight (Fig. <ref type="figure" target="#fig_5">7g</ref>), indicating no systemic side effects during the experiment period. The curves results showed that BNCT group had the longest survival time than the other groups (Fig. <ref type="figure" target="#fig_5">7h</ref>). The overall survivals were 18, 19, 20, and more than 35 for the control, neutron irradiation, vesicles and BNCT group, respectively. The overall survival of the BNCT group compared with controls was increased. The HE staining results showed no obvious abnormal lesions in the major organs of the other groups compared with control group (Supplementary Fig. <ref type="figure" target="#fig_0">18</ref>). The HE staining of tissue sections indicated the nuclei presented in cancer cells after BNCT treated became fragmentized and disappeared, suggested cell apoptosis and necrosis (Fig. <ref type="figure" target="#fig_5">7i</ref>). In contrast, nuclei of the other groups' cells were intact and appeared normal morphology as visualized by HE staining. This result was further evidenced by the Ki67 and TUNEL staining (Fig. <ref type="figure" target="#fig_5">7j</ref>), the TUNEL staining revealed notably apoptotic signal in tumor tissues and fewer proliferating tumor cells after BNCT treatment compared to other groups. Taken together, these results showed that L 10 B-3 vesicles as a promising boron nanomedicine was a promising option for the BNCT of melanoma.</p><p>In summary, we synthesized LA-BPA derivatives and developed a simple method for creating multifunctional vesicles in an acidic environment. These vesicles dissociate completely into monomers Fig. <ref type="figure">6</ref> | L 10 B-3 vesicles as targeted B-10 agents for BNCT combined Dox@vehicles in PANC-1 models radiochemotherapy. a The biodistribution of Cy5.5@vesicles was monitored using the IVIS imaging system. b Following the intravenous injection of Cy5.5@vesicles, the biodistribution was assessed in major organs at 6 h. c Corresponding fluorescence intensities in major organs at 6 h postintravenous injection. d B-10 content in the major organs for the group receiving vesicle doses of 350 mg/kg. e B-10 content in the major organs for the group receiving vesicle doses of 250 mg/kg. f The tumor/normal tissue ratio and tumor/ blood ratio of B-10 content in the two dosage groups. g Schematic illustration of the experimental flow. h Quantification of incorporated radioactivity. i Subcutaneous tumor volume growth curves. j Overall survival estimated by Kaplan-Meier curves. k Tumor growth curves for individual mice. l Body weight curves of PANC-1 bearing mice in each experimental group. m Tumor growth curves after Dox@vesicles injection indicating recurrence. n Statistical analysis of body weight and o overall survival between BNCT alone and BNCT combined with Dox@vesicles over 15 days post-Dox@vesicles injection. Data are displayed as mean ± SD of n = 3 independent measurements in (c-f), n = 8 independent measurements in (h-l), and n = 5 independent measurements in (m-o). P values in (h) were determined by One-way ANOVA analysis followed by Tukey's multiple comparisons test. n.s., not significant, *P &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001, ****p &lt; 0.0001. under basic conditions. A primary potential application for these vesicles is their hollow aqueous core, which can carry and distribute Dox by encapsulation, achieving a drug loading capacity of 7.8% with a drug-to-vesicles mass ratio of 1:10. Importantly, the presence of phenylboronic acid on the vesicle surface facilitates lysosome escape and targets sialic acid, enhancing tumor targeting while reducing off-target selectivity, thereby improving anti-tumor efficacy. In addition, we synthesized a B-10 isotope derivative using the same strategy, and used it to prepare vesicles containing 1.6% B-10 element. These B-10 enriched vesicles showed strong anti-tumor effects when used in conjunction with neutron irradiation. The anti-tumor efficacy of L 10 B-3 vesicles as BNCT nanomedicine was validated by using PANC-1 and B16F10 bearing animal. Moreover, administering Dox@vesicles following this treatment helped eradicate recurrent PANC-1 tumors. Therefore, we believe that these LA-BPA derivatives represent innovative monomers for vesicle fabrication, promising as sialic acidtargeting nanoplatforms for chemoradiotherapy with potential for clinical application.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical statement</head><p>All animal experiments were performed following the protocols approved by the Ethics Committee of the Animal Experimental Center of State Key Laboratory of Biotherapy of Sichuan University (Checking number: 20210409028). The ethics committees allowed a maximum tumor size of 20 mm, and this study did not exceed during the course of the experiment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reagents and apparatus</head><p>All reagents and chemicals were purchased from Sigma-Aldrich, J&amp;K Scientific, Energy Chemical, and Bide Pharm. Additional cell culture reagents were obtained from Gibco and HyClone. Cell fluorescence imaging was captured using a Zeiss LSM880 single-confocal laser imaging system (Germany), while animal fluorescence imaging was conducted with IVIS spectrum. Transmission electron microscopy (TEM) analyses were performed using a Thermo Scientific Talos F200S, and further material sample characterizations were carried out at the Analysis and Testing Center of Sichuan University. Particle size, polydispersity index (PDI), and surface zeta potential were measured using dynamic light scattering (DLS, Malvern Zetasizer Nano Pro). Neutron irradiation experiments were facilitated by Neuboron Medtech Ltd. (Nanjing, China).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cells and animals</head><p>MDA-MB-231 (ATCC HTB-26), B16-F10 (ATCC CRL-6475) MCF-10A (ATCC CRL-10317), and PANC-1 cells (ATCC CRL-1469) were purchased from the American Type Culture Collection (ATCC, Rockville, USA), which were cultured in RPMI 1640 or DMEM complete medium (supplemented with 10% FBS, 1% penicillin, and 1% streptomycin) and maintained at 37 °C with humidified 5% CO 2 . No authentication of these cells has been used and neither of cell lines applied in this study tested positive for Mycoplasma.</p><p>Specific pathogen-free (SPF) female nude mice (6-8 weeks) were purchased from Beijing Vital River Laboratory Animal Technologies Co., Ltd (Beijing, China). All animals were maintained at 22-23 °C, 45-55% relative humidity with a 12-12 h light-dark cycle with free food and water supplies. Findings do not apply to only one sex. Female mice were chosen due to males are aggressive to fight and usually get injured, which influences the data collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HPLC-MS/MS</head><p>High-performance liquid chromatography-mass spectrometry (HPLC-MS) was performed on an Agilent 1260 Infinity HPLC system equipped with a G7129A 1260 autosampler, a G7111B 1260 Quat Pump, and a G7155A 1260 DAD detector connected to a G6125B single-quadrupole LC/MS system. H 2 O (solvent A) and MeCN (solvent C), each containing 0.1% formic acid, were used as the mobile phase, and the solvent composition was controlled by a gradient program. Low-resolution mass spectra were obtained in positive ESI mode in the range 200-2000 m/z. HPLC traces were obtained on Agilent Eclipse plus C18 column (3 × 100 mm, 3.5 μm).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Critical aggregation concentration determination</head><p>A mixture containing Nile Red (final concentration of 1.0 μM) and a series of LA-BPA derivatives (ranging from 0 to 20 mM in final concentration) was prepared in distilled water and agitated at room temperature overnight. The fluorescence emission intensity of Nile Red at 525 nm (λ ex = 485 nm) was recorded using a FluoroMax-4 fluorometer (Horiba, Kyoto, Japan). The critical aggregation concentrations of the LA-BPA derivatives in aqueous solutions were determined by identifying the intersection of two linear regressions applied to the fluorescence data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vesicles assembly</head><p>Prior to formation of vesicles, the pH of the LA-BPA solution was adjusted to below 7.0 using 1 M HCl, prompting the monomer to selfassemble into vesicles. Following this, the solution was titrated with 2.5 M NaOH to achieve an alkaline pH, which led to the depolymerization of the vesicles. Notably, under these conditions, the assemblydisassembly process was reversible and could be repeated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DLS characterization</head><p>2 mg of LA-BPA derivatives were initially added to 2 mL of deionized water and sonicated for 30 s. Subsequently, an appropriate volume of 2.5 M NaOH aqueous solution was added to the mixture until the compounds completely dissolved, resulting in a fully transparent solution with a pale green color. Then, the pH of the solution was adjusted to ≤ 7.2 by the gradual addition of 1 M HCl. As the HCl was added, an emulsion formed and the color of the solution shifted from clear to slightly white. Following this, the particle size and potential of the vesicle series were analyzed using a Malvern Zetasizer Nano Pro for DLS analysis. The morphologies of the vesicles were observed using TEM after staining with 2% (w/v) phosphotungstic acid.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coarse-graining model construction</head><p>The 3D all-atom configurations of small molecules identified as L P B-3 were initially constructed in both acidic and alkaline environments using the Molecular Operating Environment (MOE2020) software, and subsequently optimized at the B3LYP/6-311G* level with the Gaussian16 software to determine the stable 3D all-atom structures of the L P B-3 molecules in these environments. In comparison with the acidic environment, the disulfide bonds within the L P B-3 molecules were disrupted in the alkaline environment, accompanied by the deprotonation of the boric acid and carboxylic acid groups, as depicted in Supplementary Fig. <ref type="figure" target="#fig_0">19</ref>. Following this, the stable 3D all-atom conformations of L P B-3 in both environments were coarsely grained using the auto-martini software <ref type="bibr" target="#b31">32</ref> , resulting in the creation of stable 3D coarse-grained conformations as well as the corresponding coarsegraining force fields (bond parameters) for both environments, as illustrated in Supplementary Fig. <ref type="figure" target="#fig_0">19</ref>.</p><p>Two initial Coarse-Graining models were constructed as depicted in Supplementary Fig. <ref type="figure" target="#fig_1">20</ref>. One model was utilized for the aggregation simulation, while the other was applied to the deaggregation simulation. Specifically, for the aggregation simulation, the initial Coarse-Graining model was established by randomly distributing 35,000 Coarse-Graining L P B-3 molecules in an acidic environment and 189,000 Coarse-Graining water molecules within the simulation box. Following the aggregation simulation, this model was adapted to create the initial Coarse-Graining model for the deaggregation simulation. This adaptation involved replacing the L P B-3 molecules in the acidic environment with Coarse-Graining L P B-3 molecules in an alkaline environment. In addition, owing to the deprotonation of the boric acid and carboxylic acid groups in the L P B-3 molecule under alkaline conditions, 7000 Coarse-Graining Na + ions were also randomly introduced into the initial model for the deaggregation simulation to maintain electrical neutrality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Coarse-graining simulations (aggregation simulation and deaggregation simulation)</head><p>Both Coarse-Graining simulations were performed in GROMACS (version 2021.6) <ref type="bibr" target="#b31">32</ref> . The martini_v2.2P force field <ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34</ref> was used to describe the nonbond parameters of the Coarse-Graining L P B-3 molecules, Coarse-Graining water molecules and Coarse-Graining Na + ions. Thereafter, the above produced Coarse-Graining force field from the auto-martini package <ref type="bibr" target="#b34">35</ref> was used to describe the bond parameters of the Coarse-Graining L P B-3 molecules. During the MD simulations, for each Coarse-Graining model, we firstly performed a minimization step using steepest descent method to simply remove any unreasonable contacts between Coarse-Graining bends. Then, a short equilibration step was carried out for 100 ns in a time step of 5 fs under NPT ensemble. During the equilibration phase step, the temperature was controlled by the V-rescale thermostat algorithm <ref type="bibr" target="#b35">36</ref> with a time constant of 1.0 ps, and the pressure was controlled by the Berendsen coupling algorithm <ref type="bibr" target="#b36">37</ref> with a time constant of 5.0 ps. Finally, a long time production phase step (about 5 μs for the Coarse-Graining model for the aggregation simulation and about 15 μs for the Coarse-Graining model for the deaggregation simulation) was carried out in a time step of 20 fs under NPT ensemble. During the production phase step, the temperature was also controlled and kept at 300 K by the V-rescale thermostat algorithm <ref type="bibr" target="#b35">36</ref> and the pressure was also controlled and kept at 1.0 atm by the Berendsen coupling algorithm <ref type="bibr" target="#b36">37</ref> . In addition, during the whole MD simulations, the particle mesh Ewald (PME) <ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b38">39</ref> method was employed to control the long-range electrostatic interactions and the cutoff value of van der Waals interaction was set as 12 Å.</p><p>The preparation and characterization of Cy5.5@vesicles Fluorescence probe was encapsulated into vesicles following a modified solvent diffusion method, which enhances the entrapment of hydrophobic molecules within the hydrophobic layers of the vesicles. Typically, the vesicles were suspended in 5 mL of distilled water to achieve a final concentration of 5 mg/mL. The drug was diluted to a concentration of 50 mM in DMSO. Subsequently, 50 μL of the probe payload solution was added dropwise to the vesicle suspension at room temperature while vortexing, with no precipitation observed. The mixture was then transferred into a small-volume dialysis bag (MWCO = 3000 Da) and dialyzed against 1 X PBS for 24 h. The concentration of the probe in the release medium was measured by highperformance liquid chromatography (HPLC). In addition, the fluorescence emission and excitation spectra of the Cy5.5@vesicles were monitored using a HoribaMax-4 spectrofluorometer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cell uptake</head><p>Cellular uptake of Cy5.5@vesicles was evaluated by confocal imaging microscopy. PANC-1 cells were cultured overnight in confocal petri dishes. Subsequently, the supernatant was removed, and 2.5 mL of media containing Cy5.5@vesicles (at a final concentration of 20 µg/mL) was added to the cells, which were then incubated for 4 h at 37 °C. In the control group, the medium with Cy5.5@vesicles was replaced with fresh medium. Following the incubation period, the medium was removed, and the cells were treated with CellMask (200 nM) for 30 min, then washed three times with PBS, and finally subjected to confocal imaging.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Examination of sialic acid targeting</head><p>PANC-1 cells were plated at a density of 70-80% in 2.5-cm dishes and incubated for 24 h. Cy5.5@vesicles (200 μg mL -1 , with equivalent BPA at 65 μg mL -1 ) were administered to the cells and allowed to incubate for an additional 4 h. Concurrently, PANC-1 cells underwent pretreatment with 0.5 U of neuraminidase (to remove sialic acid residues from the surface of cancer cells) for 2 h at 37 °C before the introduction of Cy5.5@vesicles. Following a brief wash with PBS three times, the cellular uptake of Cy5.5@vesicles (200 μg mL -1 ) was captured using confocal imaging microscopy. The human primary pancreatic acinar cells were treated with Cy5.5@vesicles under the same conditions. Fluorescent imaging was performed to examine vesicles uptake by the normal cells. The phenyboronic acids groups of vesicles were blocked with N-acetylneuraminic acid (vesicles/N-acetylneuraminic acid molar ratio: 1:10) for 6 h. Fluorescence intensities were quantified using Image J and normalized against the average labeling fluorescence intensity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synergistic anti-cancer mechanisms of L P B-3 vesicles on PANC-1 cells</head><p>To detect intracellular GSH, PANC-1 cells were seeded at a density of 1 × 10 5 cells per well in 6-well plates containing confocal glass culture dishes and cultured overnight. The following day, the cells were exposed to various concentrations of L P B-3 vesicles (0, 0.1, 0.2, 0.5 mg/mL) at 37 °C under normoxic conditions (20% O 2 /5% CO 2 ) for 24 h. Subsequently, cellular GSH levels were determined using 5-chloromethylfluorescein diacetate (CMFDA, molecular probes), a membrane-permeable dye suitable for intracellular GSH detection. After treatment, the cells were washed three times with PBS and incubated with 5 μM CMFDA at 37 °C for 30 min. GSH depletion was further verified by confocal imaging microscopy (Excitation/Emission, 488 nm/520 nm). The fluorescence images were quantitatively analyzed using ImageJ software.</p><p>To quantify ROS in the PANC-1 cells, the cells were seeded into 6-well glass-bottom imaging plates and stimulated as previously described. Following stimulation, intracellular ROS levels were analyzed by staining the cells with 2,7-dichlorofluorescein diacetate (DCFH-DA) for 30 min in an incubator. After staining, the cells were washed with PBS and subsequently imaged using fluorescence microscopy.</p><p>To detect mitochondrial membrane potential, PANC-1 cells were treated with various concentrations of vesicles as previously described. Subsequently, the cells were incubated with a JC-1 probe (10 μg mL -1 ) for 30 min, followed by three washes with PBS. Finally, the cells were imaged using confocal microscopy.</p><p>The preparation and characterization of Dox@vesicles Dox was encapsulated into vesicles using a modified solvent diffusion method, designed to enhance the entrapment of hydrophobic molecules within the hydrophobic layers of the vesicles. Initially, the vesicles were suspended in 5 mL of distilled water to achieve a final concentration of 5 mg/mL. Concurrently, the Dox was diluted to a concentration of 50 mM in DMSO. A 50 µL solution containing the Dox payload was then added dropwise to the vesicle suspension at room temperature while vortexing, with no precipitation observed. Following this, the mixture was transferred into a dialysis bag (MWCO = 3000 kDa) and dialyzed against PBS for 24 h. The Dox content in the release medium was subsequently measured using high-performance liquid chromatography (HPLC).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In vitro Dox release detection</head><p>For the drug release study, 1 mL of Dox@vesicles solution at a concentration of 1 mg/mL was enclosed within a dialysis bag (MWCO: 8000-12000 Da). The encapsulated vesicles underwent dialysis against a release medium, consisting of pH 7.2 PBS and pH 7.2 PBS supplemented with 1, 2, 5, and 10 mM GSH. Sample aliquots were collected from the release medium at predetermined intervals of 0, 1, 2, 4, 6, 12, 18, 24, 36, and 48 h. Each sample withdrawn was immediately replaced with an equal volume of pre-warmed fresh medium to maintain the volume constant throughout the experiment. The concentration of Dox in the release medium was quantitatively determined using high-performance liquid chromatography (HPLC), employing an HPLC system from Waters, America.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy assessments of Dox@vesicles in vivo</head><p>MDA-MB-231 and PANC-1 tumor-bearing nude mice were used, each bearing tumors with an average volume of ~150 mm³ for antitumor experiments. The mice received injections via the tail vein with either free Dox or Dox@vesicles at a dose of 4 mg/kg. The saline control group was administered a comparable volume of saline, while the vesicles group received an equivalent mass of L P B-3 vesicles. No treatment was given to the control group. Each experimental group consisted of 5 mice. Tumor volumes and body weights were measured every three days, and the time-to-death for each mouse was diligently recorded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Vesicles distribution in vivo</head><p>For the pharmacokinetic study, one group of mice (n = 3 per group) received an injection of Cy5.5@vesicles nanoparticles (350 mg kg -1 , equivalent BPA 113.75 mg kg -1 ) via the tail vein. Another group was similarly administered an equivalent dose of free fluorescent dye via the tail vein. Imaging was performed using an IVIS Spectrum in Vivo Imaging System at 1, 4, 6, and 8 h post-injection. The peak intensity distribution for the Cy5.5@vesicles at each time point was determined. Post-imaging, mice were euthanized at predetermined time points, and major organs (heart, liver, spleen, lung, kidneys) and tumors were harvested for immediate measurement of fluorescence intensity using the IVIS Spectrum. Concurrently, the boron content in these organs and tissues was quantitatively analyzed using ICP-MS. For ICP-MS analysis, the organs were digested in 5 mL of 60% nitric acid at 90 °C for 12 h, then diluted to 30 mL with deionized water and processed. Furthermore, to abtain the detailed information about the distribution of Cy5.5@vesicles within the tumor site, the mice were injected with Hoechst 33342 (5 mg kg -1 ) and dextran-FITC (Mw: 170 kDa, 5 mg kg -1 ) via the tail vein 6 h after Cy5.5@vesicles injection. For live-imaging experiments, the mice were anesthetized, and the tumor was exposed by a skin incision. The tumor tissues were visualized by upright singlephoton confocal microscopy (Nikon A1R + MP, Japan).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Efficacy assessments of BNCT on PANC-1 cells</head><p>All cell or animal irradiation experiments were conducted at the Xiamen Humanity Hospital-Neuboron BNCT Center, utilizing the Neu-PexTM Block-I AB-BNCT system. Initially, 5 × 10 6 PANC-1 cells were seeded into 10-cm dishes, allowed to adhere over 24 h, and subsequently incubated with varying concentrations (0, 500, 1000 μg mL -1 ) of vesicles for 6 h at 37 °C. For groups receiving combined BNCT and chemotherapy, post-neutron irradiation, cells were treated with Dox@vesicles for an additional 6 h. Cells were then rinsed with PBS, harvested via trypsinization, and washed thrice using RPMI 1640 supplemented with 10% FBS. Prior to neutron irradiation, cells treated with different vesicle dosages were resuspended in 1 mL of culture medium and transferred to 1.5 mL Eppendorf tubes, which were then secured in the designated holder. The holder was placed in the irradiation port for neutron exposure for 10 min, with an epithermal neutron flux of 8.015 × 10 8 n/cm 2 /s. Post-irradiation, cells were cultured for secondary evaluation of efficacy. To assess apoptosis on the second day, apoptotic cells were identified using a TUNEL assay (per manufacturer's instructions) and quantified via flow cytometry. Concurrently, for the calcein-AM/propidium iodide (calcein-AM/PI) assay, cells were processed as previously described, with calcein-AM/PI stock solutions prepared in culture medium to final concentrations of 2 μM calcein-AM and 4.5 μM PI, followed by observation using confocal fluorescence microscopy.</p><p>For γ-H2AX staining, cells were first washed with PBS three times and then fixed with 4% paraformaldehyde for 10 min at room temperature. Following another PBS wash, the cells were incubated with 5% FBS for 30 min and treated with 0.3% Triton X-100 in PBS for 10 min at room temperature. After aspirating the supernatant, the rabbit antirat γ-H2AX primary antibody (CST, 50 μL, 1:200) was added, and the cells were incubated for 2 h at 37 °C. Subsequently, the cells were washed with PBS and incubated with goat anti-rabbit Alexa Fluor 647 secondary antibody (CST, 50 μL, 1:1000) for 1 h at 37 °C. Nuclei were stained with Hoechst 33342 (5 μM), followed by a brief wash with PBS. Finally, images were captured using a Zeiss 880 laser scanning microscope.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evaluation of antitumor efficiency on subcutaneous PANC-1 tumor bearing mice</head><p>To assess tumor growth in vivo, subcutaneous pancreatic cancer models were established using PANC-1 cells. Nude mice were inoculated with 1 × 10 6 PANC-1 cells per mouse, suspended in a PBS and Matrigel solution at a 1:1 volume ratio. Once the tumor volume reached ~120 mm <ref type="bibr" target="#b2">3</ref> . The nude tumor-bearing mice were randomly divided into six groups, with eight mice per group. Tumor volume (mm 3 ) was calculated according to the following formula: tumor volume = 0.5 × length × width 2 . Animals were grouped as following: normal control group, a neutron irradiated control group, a low-dose L 10 B-3 vesicles group with neutron irradiation (250 mg/kg), a low-dose Dox@vesicles group with neutron irradiation (250 mg/kg L 10 B-3 vesicles and 5 mg/kg Dox), a low-dose Dox@vesicles group without irradiation, a high-dose vesicles group with neutron irradiation (350 mg/kg), and a high-dose vesicles group without irradiation. In the control groups, mice were injected with an equivalent volume of saline. Six hours post-neutron irradiation, the animals were lightly anesthetized with isoflurane, followed by deep anesthesia using intraperitoneal sodium pentobarbital. Mice were then secured in a holder, which was placed into the irradiation port for a duration of 9 to 14 min. After irradiation, mice were returned to their home cages and allowed to recover, with free access to water and food. Throughout the four-week treatment period, tumor volume was measured every other day using digital vernier calipers, and body weight was monitored for potential changes. Natural survival rates were documented. At the end of the experiment, major organs (the heart, liver, spleen, lung, and kidney) were collected for pathological analysis. These organs were embedded in paraffin, sectioned into approximately 5-μm slices, and stained with hematoxylin and eosin (H&amp;E) for histological examination under light microscopy. Tumor tissues were also processed for H&amp;E, TUNEL, and Ki67 staining, with eight randomly selected sections quantified per animal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The in vivo antitumor efficacy evaluated on melanoma models</head><p>To evaluate the efficacy of L 10 B-3 vesicles as BNCT agents against tumor, we used an orthotopic B16F010 melanoma model, an immune model. C57 mice were inoculated with 1 × 10 6 B16F10 cells per mouse, suspended in a PBS. Once the tumor volume reached ~100 mm 3 . The melanoma tumor bearing mice were randomly divided into four groups, with eight mice per group. Tumor volume (mm 3 ) was calculated according to the following formula: tumor volume = 0.5 × length × width 2 . Animals were grouped as following: normal control group, a neutron irradiated control group, L 10 B-3 vesicles group (350 mg/kg) with neutron irradiation and L 10 B-3 vesicles group (350 mg/kg) without neutron irradiation. Throughout the experimental period, tumor volume was measured every other day using digital vernier calipers, and body weight was monitored for potential changes. Natural survival rates were documented. At the end of the experiment, major organs (the heart, liver, spleen, lung, and kidney) and tumor tissues were collected for pathological analysis.</p><p>Radiation dose calculation for the in vitro and in vivo experiments involved irradiating cells and mice using the accelerator-based BNCT system, NeuPex, developed by Neuboron Therapy System Ltd., Xiamen, China (<ref type="url" target="https://en.neuboron.com/products">https://en.neuboron.com/products</ref>). This system operates at a neutron accelerator voltage of 2.3 MeV and a current of 7 mA. During irradiation, the cells or mice were securely placed in their respective holders, which were then positioned within the irradiation port. Both the cell holder and the mouse holding device were meticulously engineered to ensure a uniform, low-contamination, and high-intensity thermal neutron field reached the targets.</p><p>To accurately estimate the received dose, the experiments involving mice and cells were meticulously modeled and computed using the Monte Carlo method. Radiation doses were determined utilizing the Monte Carlo toolkit PHITS (ver. 3.16) in conjunction with the ENDF/ B-VIII.0 cross-section library. The computational model encompassed the neutron source, beam shaping assembly, irradiation port, and the device subjecting the cells/mice to irradiation. The neutron beam model was crafted according to an elaborate geometric description of the NeuPex AB-BNCT system. A cell model consisted of a uniform layer measuring 10 μm in thickness. The mouse model was developed using a voxel model paired with the lattice tally method, incorporating organ at risk (OAR) data derived from actual CT images. Information on elemental composition and density from ICRU 46 was also incorporated. The treatment planning system NeuMANTA (Neuboron Multifunctional Arithmetic for Neutron Transportation Analysis) was employed for ROI contouring. The boron dose was computed based on boron concentration measurements from biological samples, as detailed in other sections. Based on this, the physical dose components for the cells or mice were calculated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All slices were analyzed using ImageJ, and all data are expressed as the mean ± standard deviation. For two groups, a Student's t-test was conducted, while an analysis of variance (ANOVA) was utilized for multiple groups. Differences were considered significant if the p-value was less than 0.05. The statistical analyses were carried out using GraphPad Prism 7.0.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Schematic illustration of lipoic acid-boronophenylalanine derivatives reversibly self-assembled to form multifunctional vesicles and applicated in pancreatic cancer chemoradiotherapy. a Schematic representation of the derivatives' reversible self-assembly into vesicles. b The mechanism of chemoradiotherapy in antitumor activity. c Synergistic tumor resistance mechanism of vesicles.</figDesc><graphic coords="2,126.48,262.94,347.98,434.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | Preparation and characterization of LA-BPA vesicles. a Schematic view of LA-BPA derivatives, where three functional fragments are connected via amide bonds. b Structural formula of the targeting moiety. c Chemical structures of eight LA-BPA candidates. d Schematic representation of the vesicle production process.</figDesc><graphic coords="4,90.48,48.76,419.98,562.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | The mechanism of L P B-3 vesicles pH-mediated reversible self-assembly. a Different acids used to investigate the self-assembly of L P B-3 vesicles. b Trends in particle size and zeta potential of L P B-3 vesicles under various pH conditions. Data are displayed as mean ± SD of n = 3 independent measurements. c Schematic representation of the acid-base mediated reversible assembly of vesicles. d Realtime detection of the UV-vis spectra of the aqueous solution of vesicles during the polymerization-depolymerization process. e-g Particle size changes in L P B-3 vesicles during repeated depolymerization and reassembly. h Coarse-graining simulation of the aggregation process involving 35,000 L P B-3 molecules in an acidic environment; coarse-graining water molecules are not shown. i Coarsegraining simulation of the deaggregation process involving the same aggregation structure of 35,000 L P B-3 molecules in an alkaline environment; coarse-graining water molecules are not shown. Relative concentration profiles of the hydrophilic part (dotted lines) and the hydrophobic part (solid lines) in the SSB molecules along the X-axis (red lines), Y-axis (blue lines) and Z-axis (magenta lines) during the last 1 μs Coarse-Graining simulations of the model for j the aggregation simulation and the model for k the deaggregation simulation.</figDesc><graphic coords="6,60.49,168.32,480.02,406.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 |</head><label>4</label><figDesc>Fig. 4 | The biological effects of L P B-3 vesicles. a Uptake of Cy5.5@vesicles by PANC-1 cells. b Sialic acid targeting mechanism of L P B-3 vesicles. c Images and d normalized statistics of cell uptake of Cy5.5@vesicles.Cy5.5@vesicles uptake in PANC-1 cells without neuraminidase (G1) and with neuraminidase (G2), G3: cellular uptake of N-acetylneuraminic acid-treated Cy5.5@vesicles (n = 3 independent experiments). e Intracellular GSH and f ROS levels in PANC-1 cells after 24 h incubation with various concentrations of L P B-3 vesicles (n = 3 independent experiments). g Statistical analysis for JC-1 green fluorescence (n = 3 independent experiments). h Representative microscopic images showing co-localization of</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | Dox@vesicles for enhanced antitumor effect. a Schematic illustration of the experimental flow. b Animals were randomized before treatment (n = 5 mice per group). c Tumor volume of MDA-MB-231 bearing mice growth curves. d Tumor growth curves for individual MDA-MB-231 model mice. Mice were monitored for e tumor weight and f body weight. g Kaplan-Meier curves for overall survival. h Tumor growth curves of PANC-1 bearing mice treated with different regimens. i Individual tumor growth curves. j Tumor weights and k body weights of mice over time. l Kaplan-Meier curves for overall survival. m The HE and Ki67 staining of liver tissues. Each experiment was repeated 3 times independently with similar results in 5 m. Scale bar is 200 µm. Data are displayed as mean ± SD of n = 5 independent measurements in (c, e, f, h, j, k). P values in (e) and (j) were determined by One-way ANOVA analysis followed by Tukey's multiple comparisons test. n.s., not significant (ANOVA), **p &lt; 0.01, ****p &lt; 0.0001.</figDesc><graphic coords="9,118.60,48.76,363.86,599.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 |</head><label>7</label><figDesc>Fig. 7 | Antitumor effect in B16F10 tumor model. a Representative images of Cy5.5@vesicles recruitment in B16F10 tumor-bearing mice. b Ex vivo live imaging of dissected organs and tumor tissues from mice as performed 6 h after intravenous of Cy5.5@vesicles, H: heart, L1: lung, K: kidney, S: spleen, L2: liver, T: tumor. c Quantification of B-10 content in major organs and tumor tissue. d The B-10 ratios of target/nontarget organs at 6 h post intravenous. e Growth curves of individual tumor. f Mean tumor growth curves of mice in each group. g The body weight of animals in each group. h Survival curves of the mice in different groups. i HE staining and j Ki67 immunohistochemical staining and apoptosis testing of tumor tissue sections from experimental groups. Data are displayed as mean ± SD of n = 3 independent measurements in (c) and (d), n = 7 independent measurements in (f) and (g). n.s., not significant, *P &lt; 0.05, **p &lt; 0.01, ****p &lt; 0.0001.</figDesc><graphic coords="12,86.57,48.76,427.93,599.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>Article https://doi.org/10.1038/s41467-025-56507-4 Nature | (2025) 16:1329</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="5,126.77,48.76,347.53,599.98" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>https://doi.org/10.1038/s41467-025-56507-4 Nature Communications | (2025) 16:1329</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_1"><p>m. Scale bar is 200 µm. Data are displayed as mean ± SD of n = 5 independent measurements in (c, e, f, h, j, k). P values in (e) and (j) were determined by One-way</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Nature Communications | (2025) 16:1329</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank <rs type="person">Feijing Su Core Facilities</rs> of <rs type="institution">West China Hospital</rs> for NMR tests. We also greatly appreciate the help of <rs type="person">Dr. Shanling Wang</rs> from the <rs type="affiliation">Analytical &amp; Testing Center at Sichuan University</rs> for the TEM analysis of our nanoparticles. This work was financially supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">U21A20417</rs>), the <rs type="funder">Sichuan Science and Technology Program</rs> (<rs type="grantNumber">2022YFS0333</rs>), the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (<rs type="grantNumber">20826041F4138</rs>) and 1•3•5 project for disciplines of excellence, <rs type="funder">West China Hospital, Sichuan University</rs> (<rs type="grantNumber">ZYGD18002</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_KtUS4MR">
+					<idno type="grant-number">U21A20417</idno>
+				</org>
+				<org type="funding" xml:id="_ag2QVdA">
+					<idno type="grant-number">2022YFS0333</idno>
+				</org>
+				<org type="funding" xml:id="_9rcaCzn">
+					<idno type="grant-number">20826041F4138</idno>
+				</org>
+				<org type="funding" xml:id="_gq2Kb63">
+					<idno type="grant-number">ZYGD18002</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>General synthesis procedure of LA-BPA derivatives as well as the NMR analysis characterizing LA-BPA derivatives are summarized in Supplementary Note 2 of Supplementary information file. Mass spectrometry data of L P B-3 is included in Supplementary Fig. <ref type="figure">5a</ref> and source data file. All other data supporting the findings in this study are available in the main text, supplementary information or source data file. Source data are provided with this paper.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>L.D. conceived the work, performed the experiments, analyzed the data, and wrote the paper. J.L., X.Y., and L.P. contributed to the L P B-3 vesicles characterization and flow cytometry assays. T.Y., Y.L., S.Z., D.S., and Y.L. contributed to the animal experiments. W.M. and Z.Q. conceived and supervised the project and wrote the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41467-025-56507-4">https://doi.org/10.1038/s41467-025-56507-4</ref>.</p><p>Correspondence and requests for materials should be addressed to Wuyu Mao or Zhiyong Qian.</p><p>Peer review information Nature Communications thanks Ferdinando Pucci, and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. A peer review file is available.</p><p>Reprints and permissions information is available at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref> Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ref type="url" target="http://creativecommons.org/licenses/by-nc-nd/4.0/">http:// creativecommons.org/licenses/by-nc-nd/4.0/</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Engineering precision nanoparticles for drug delivery</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Drug Discov</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="101" to="124" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The use of alternative strategies for enhanced nanoparticle delivery to solid tumors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Izci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Maksoudian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Manshian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Soenen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="1746" to="1803" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Nucleoside analogue-based supramolecular nanodrugs driven by molecular recognition for synergistic cancer therapy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="8797" to="8806" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A new concept for macromolecular therapeutics in cancer chemotherapy: mechanism of tumoritropic accumulation of proteins and the antitumor agent smancs</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maeda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Res</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="6387" to="6392" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Nanoparticles in the clinic: an update</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Anselmo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mitragotri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioeng. Transl. Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">10143</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Tailoring renal-clearable zwitterionic cyclodextrin for colorectal cancer-selective drug delivery</title>
+		<author>
+			<persName><forename type="first">M.-J</forename><surname>Baek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="945" to="956" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Dual-responsive surfaces modified with phenylboronic acid-containing polymer brush to reversibly capture and release cancer cells</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="7603" to="7609" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The chemistry of boronic acids in nanomaterials for drug delivery</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stubelius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Almutairi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acc. Chem. Res</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="3108" to="3119" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Phenylboronic acid modification augments the lysosome escape and antitumor efficacy of a cylindrical polymer brush-based prodrug</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="20927" to="20938" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Architecture-controlled ringopening polymerization for dynamic covalent poly(disulfide)s</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="17075" to="17080" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">1,2-dithiolane-derived dynamic, covalent materials: cooperative self-assembly and reversible crosslinking</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Waymouth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="3822" to="3833" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Acylhydrazine-based reticular hydrogen bonds enable robust, tough, and dynamic supramolecular materials</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Deng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">3286</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Acid-catalyzed disulfide-mediated reversible polymerization for recyclable dynamic covalent materials</title>
+		<author>
+			<persName><forename type="first">B.-S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem., Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page">202215329</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Disulfide-mediated reversible polymerization toward intrinsically dynamic smart materials</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-H</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Feringa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="2022" to="2033" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Disulfide-and multisulfide-containing metabolites from marine organisms</title>
+		<author>
+			<persName><forename type="first">C.-S</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E G</forename><surname>Mueller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-W</forename><surname>Guo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="2179" to="2207" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Self-healing polymeric materials</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Urban</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="7446" to="7467" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Structurally dynamic hydrogels derived from 1,2-dithiolanes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Barcan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Waymouth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page" from="5650" to="5653" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Rational design of nanocarriers for intracellular protein delivery</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Qin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">1902791</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Dual closed-loop chemical recycling of synthetic polymers by intrinsically reconfigurable poly(disulfides)</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Matter</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1352" to="1364" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A hierarchical coding strategy for live cell imaging of protein-specific glycoform</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem., Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="12007" to="12011" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sequentially triggered delivery system of black phosphorus quantum dots with surface charge-switching ability for precise tumor radiosensitization</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS NANO</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="12401" to="12415" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Targeting strategies for tissue-specific drug delivery</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">M</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ukidve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mitragotri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="151" to="167" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Gallium triggers ferroptosis through a synergistic mechanism</title>
+		<author>
+			<persName><forename type="first">X.-X</forename><surname>Peng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem., Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page">202307838</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A biodegradable iridium(III) coordination polymer for enhanced two-photon photodynamic therapy using an apoptosisferroptosis hybrid pathway</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem., Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">202205429</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Spatiotemporally programmable cascade hybridization of hairpin DNA in polymeric nanoframework for precise sirna delivery</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">1138</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Fluorescent false neurotransmitter reveals functionally silent dopamine vesicle clusters in the striatum</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Pereira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="578" to="586" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Tracing boron with fluorescence and positron emission tomography imaging of boronated porphyrin nanocomplex for imaging-guided boron neutron capture therapy</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="43387" to="43395" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Tamoxifen-resistant breast cancer cells are resistant to DNA-damaging chemotherapy because of upregulated BARD1 and BRCA1</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1595</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Poly(vinyl alcohol) boosting therapeutic potential of p-boronophenylalanine in neutron capture therapy by modulating metabolism</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nomoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1722</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Boron encapsulated in a liposome can be used for combinational neutron capture therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">2143</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Engineering novel targeted boron-10-enriched theranostic nanomedicine to combat against murine brain tumors via MR imagingguided boron neutron capture therapy</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kuthala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vankayala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-N</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-S</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Hwang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1700850</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Gromacs: High performance molecular simulations through multi-level parallelism from laptops to supercomputers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Abraham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>SoftwareX 1-2, 19-25</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Improved parameters for the martini coarsegrained protein force field</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>De Jong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Theory Comput</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="687" to="697" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Role of lipids in spheroidal high density lipoproteins</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vuorela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Comput. Biol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1000964</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Automated parametrization of the coarsegrained martini force field for small organic molecules</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bereau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kremer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Theory Comput</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="2783" to="2791" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Canonical sampling through velocity rescaling</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bussi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Donadio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parrinello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page">14101</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Molecular-dynamics with coupling to an external bath</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J C</forename><surname>Berendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P M</forename><surname>Postma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Vangunsteren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dinola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Haak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="3684" to="3690" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Particle mesh Ewald-an n.Log(n) method for Ewald sums in large systems</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Darden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>York</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pedersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="10089" to="10092" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A smooth particle mesh Ewald method</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Essmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="8577" to="8593" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

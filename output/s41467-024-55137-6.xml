@@ -1,0 +1,2012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Branched endosomal disruptor (BEND) lipids mediate delivery of mRNA and CRISPR-Cas9 ribonucleoprotein complex for hepatic gene editing and T cell engineering</title>
+				<funder ref="#_JrGBSCe">
+					<orgName type="full">American Cancer Society</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Institute of Dental &amp; Craniofacial Research</orgName>
+					<orgName type="abbreviated">NIDCR</orgName>
+				</funder>
+				<funder ref="#_DzgmNZs">
+					<orgName type="full">Beckman Center for Cryo Electron Microscopy at the University of Pennsylvania Perelman School of Medicine</orgName>
+				</funder>
+				<funder ref="#_FZdcv9T">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_YJhFWqT #_4ktnYs4 #_HrSHMXJ">
+					<orgName type="full">National Institutes of Health</orgName>
+					<orgName type="abbreviated">NIH</orgName>
+				</funder>
+				<funder ref="#_4V9rpW7">
+					<orgName type="full">US National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_FEJqrKJ">
+					<orgName type="full">National Science Foundation</orgName>
+					<orgName type="abbreviated">NSF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Vagelos Institute for Energy Science and Technology</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Human Immunology Core and the Division of Transfusion Medicine and Therapeutic Pathology</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Marshall</forename><forename type="middle">S</forename><surname>Padilla</surname></persName>
+							<idno type="ORCID">0000-0003-3607-790X</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kaitlin</forename><surname>Mrksich</surname></persName>
+							<idno type="ORCID">0009-0008-7971-2129</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yiming</forename><surname>Wang</surname></persName>
+							<idno type="ORCID">0000-0003-3657-6100</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Penn Institute for Computational Science</orgName>
+								<orgName type="institution" key="instit2">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Chemical and Biomolecular Engineering</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rebecca</forename><forename type="middle">M</forename><surname>Haley</surname></persName>
+							<idno type="ORCID">0000-0001-7322-7829</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jacqueline</forename><forename type="middle">J</forename><surname>Li</surname></persName>
+							<idno type="ORCID">0000-0002-7849-5483</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Emily</forename><forename type="middle">L</forename><surname>Han</surname></persName>
+							<idno type="ORCID">0009-0008-6276-7502</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rakan</forename><surname>El-Mayta</surname></persName>
+							<idno type="ORCID">0000-0002-5855-233X</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Instituto de Investigação e Inovação em Saúde</orgName>
+								<orgName type="institution" key="instit2">Universidade do Porto</orgName>
+								<address>
+									<postCode>4200-135</postCode>
+									<settlement>Porto</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Emily</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sofia</forename><surname>Dias</surname></persName>
+							<idno type="ORCID">0000-0001-8275-7880</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Instituto de Investigação e Inovação em Saúde</orgName>
+								<orgName type="institution" key="instit2">Universidade do Porto</orgName>
+								<address>
+									<postCode>4200-135</postCode>
+									<settlement>Porto</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="institution" key="instit1">Instituto de Ciências Biomédicas Abel Salazar</orgName>
+								<orgName type="institution" key="instit2">Universidade do Porto</orgName>
+								<address>
+									<postCode>4050-313</postCode>
+									<settlement>Porto</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="institution" key="instit1">Instituto de Engenharia Biomédica</orgName>
+								<orgName type="institution" key="instit2">Universidade do Porto</orgName>
+								<address>
+									<postCode>4200- 135</postCode>
+									<settlement>Porto</settlement>
+									<country key="PT">Portugal</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ningqiang</forename><surname>Gong</surname></persName>
+							<idno type="ORCID">0000-0002-9444-8505</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sridatta</forename><forename type="middle">V</forename><surname>Teerdhala</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xuexiang</forename><surname>Han</surname></persName>
+							<idno type="ORCID">0000-0003-0011-5222</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Vivek</forename><surname>Chowdhary</surname></persName>
+							<idno type="ORCID">0000-0003-1277-0128</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Gene Therapy Program</orgName>
+								<orgName type="department" key="dep2">Perelman School of Medicine</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lulu</forename><surname>Xue</surname></persName>
+							<idno type="ORCID">0000-0001-5719-1336</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Zain</forename><surname>Siddiqui</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hannah</forename><forename type="middle">M</forename><surname>Yamagata</surname></persName>
+							<idno type="ORCID">0000-0002-9525-7102</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Dongyoon</forename><surname>Kim</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Il-Chul</forename><surname>Yoon</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">James</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+							<idno type="ORCID">0000-0002-9630-3131</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department" key="dep1">Gene Therapy Program</orgName>
+								<orgName type="department" key="dep2">Perelman School of Medicine</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ravi</forename><surname>Radhakrishnan</surname></persName>
+							<idno type="ORCID">0000-0003-0686-2851</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution" key="instit1">Penn Institute for Computational Science</orgName>
+								<orgName type="institution" key="instit2">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Chemical and Biomolecular Engineering</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+							<idno type="ORCID">0000-0002-3628-2244</idno>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Bioengineering</orgName>
+								<orgName type="department" key="dep2">School of Engineering and Applied Science</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>9,10 11,12</addrLine>
+									<postCode>13</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="department">Perelman School of Medicine</orgName>
+								<orgName type="laboratory">Abramson Cancer Center</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department" key="dep1">Center for Cellular Immunotherapies</orgName>
+								<orgName type="department" key="dep2">Perelman School of Medicine</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<orgName type="department">Perelman School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Penn Institute for RNA Innovation</orgName>
+								<orgName type="institution" key="instit2">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Institute for Immunology</orgName>
+								<orgName type="department" key="dep2">Perelman School of Medicine</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="department">Perelman School of Medicine</orgName>
+								<orgName type="institution" key="instit1">Cardio- vascular Institute</orgName>
+								<orgName type="institution" key="instit2">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff13">
+								<orgName type="department" key="dep1">Institute for Regenerative Medicine</orgName>
+								<orgName type="department" key="dep2">Perelman School of Medicine</orgName>
+								<orgName type="institution">University of Pennsylvania</orgName>
+								<address>
+									<postCode>19104</postCode>
+									<settlement>Philadelphia</settlement>
+									<region>PA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Branched endosomal disruptor (BEND) lipids mediate delivery of mRNA and CRISPR-Cas9 ribonucleoprotein complex for hepatic gene editing and T cell engineering</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8346B958CE77E87A3BDD6F12F1193580</idno>
+					<idno type="DOI">10.1038/s41467-024-55137-6</idno>
+					<note type="submission">Received: 14 February 2024 Accepted: 27 November 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Lipid nanoparticles (LNPs) are the preeminent non-viral drug delivery vehicle for mRNA-based therapies. Immense effort has been placed on optimizing the ionizable lipid (IL) structure, which contains an amine core conjugated to lipid tails, as small molecular adjustments can result in substantial changes in the overall efficacy of the resulting LNPs. However, despite some advancements, a major barrier for LNP delivery is endosomal escape. Here, we develop a platform for synthesizing a class of branched ILs that improve endosomal escape. These compounds incorporate terminally branched groups that increase hepatic mRNA and ribonucleoprotein complex delivery and gene editing efficiency as well as T cell transfection compared to non-branched lipids. Through an array of complementary experiments, we determine that our lipid architecture induces greater endosomal penetration and disruption. This work provides a scheme to generate a class of ILs for both mRNA and protein delivery.</p><p>Since the discovery of mRNA in 1961 1 , there has been a push to develop mRNA-based medicines for protein replacement therapy 2 and vaccines 3 due to the numerous advantages that mRNA has over traditional therapeutics. This includes the ability to encode any protein by designing a corresponding mRNA sequence, lower dosage as a single strand can be translated into many copies of the therapeutic protein, and inability for mRNA to integrate into the genome 4 . Still, despite these advantages, the first FDA approval of an mRNA drug was in 2020</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>as vaccines for COVID-19almost sixty years after the initial discovery <ref type="bibr" target="#b4">5</ref> . The lag in clinical success is due to the difficulty in delivering mRNA as it rapidly degrades in the bloodstream, is unable to cross plasma membranes unaided due to the inherent negative charge, and can trigger unwanted immune responses <ref type="bibr" target="#b5">6</ref> . While advances in nucleic acid modification <ref type="bibr" target="#b6">7</ref> and purification <ref type="bibr" target="#b7">8</ref> have produced less immunogenic RNAs, the clinical translation of mRNA is also a result of synergy with nanotechnology, particularly lipid nanoparticles (LNPs), which are the most clinically advanced non-viral drug carrier for nucleic acids <ref type="bibr" target="#b8">9</ref> . LNPs protect mRNAs from degradation and immune recognition by enshrouding them in a lipid shell and can help guide mRNAs to specific locations. The safety and efficacy of LNPs has been previously validated as they are utilized in both the Moderna (Spikevax) and Pfizer/BioNTech (Comirnaty) mRNA COVID-19 vaccines <ref type="bibr" target="#b9">10</ref> . LNPs have also advanced the field of gene editing through the delivery of mRNAs encoding for Cas9 <ref type="bibr" target="#b10">11</ref> and base editors <ref type="bibr" target="#b11">12</ref> . While previous drug delivery vehicles have had limited success in inducing efficacious and safe editing, LNPs have mediated gene editing for hemophilia <ref type="bibr" target="#b12">13</ref> , hypercholesterolemia <ref type="bibr" target="#b13">14</ref> , and glioblastoma <ref type="bibr" target="#b14">15</ref> .</p><p>The canonical LNP is composed of cholesterol, a PEGylated lipid, a phospholipid, and an ionizable lipid (IL), with the latter being the most essential component for mRNA delivery. ILs strike a delicate balance between ionization <ref type="bibr" target="#b15">16</ref> , which facilitates the encapsulation of mRNA into the LNP, and hydrophobicity <ref type="bibr" target="#b16">17</ref> , which allows the lipid to be imbedded into the particle. Additionally, ILs influence LNP tropism as they facilitate the formation of a protein corona in vivo, where these proteins assist in guiding the LNP to its destination <ref type="bibr" target="#b17">18</ref> . Moreover, ILs expedite endosomal escape, or the process of mRNAs breaking through the endosome and entering the cytosol to be translated into functional protein <ref type="bibr" target="#b18">19</ref> . Endosomal escape is one of the most significant barriers in nucleic acid drug delivery, as recent studies have shown that while many nanoparticles can enter cells, only a few individual particles can escape the lysosomal degradation pathway <ref type="bibr" target="#b19">20</ref> .</p><p>There are no formal criteria for designing effective ILs, although the majority contain at least one amine and several lipid tails. Most of the research on IL structure has been dedicated to investigating different amine cores <ref type="bibr" target="#b20">21</ref> , lipid tail lengths <ref type="bibr" target="#b21">22</ref> , and lipid unsaturation <ref type="bibr" target="#b22">23</ref> . These optimized ILs are often designed for specific applications, such as liver delivery <ref type="bibr" target="#b23">24</ref> , intramuscular delivery <ref type="bibr" target="#b24">25</ref> , targeting specific immune cell populations <ref type="bibr" target="#b25">26</ref> , and ocular delivery <ref type="bibr" target="#b26">27</ref> , and thus the generalizability of these trends have not been robustly evaluated. One structural factor that is found among many of the top-performing ILs, including all of the FDA-approved ILs, is the role of lipid branching <ref type="bibr" target="#b27">28</ref> . Lipid chains near the amine core that branch into smaller lipid chains are hypothesized to enhance endosomal escape by forming a cone-shaped structure upon binding to the endosomal phospholipids <ref type="bibr" target="#b28">29</ref> . These cone shapes reorganize the lipid bilayers, allowing the nucleic acid cargo to escape <ref type="bibr" target="#b29">30</ref> . More recently, it was found that installing branched groups at the termini of the lipid chains, rather than near the amine, can greatly enhance mRNA transfection <ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b31">32</ref> . These studies suggest that lipid architecture can enhance mRNA delivery; however, a significant barrier that has prevented further exploration and structure-function analysis of IL architecture, especially for lipids with terminal-branched groups, is the lack of structurally diverse lipid starting materials. As a result, only a handful of branched lipids are available to test. Additionally, while there are synthetic methods available to access newer lipids, they are tedious, often requiring expensive reagents and extensive multi-step reactions, and are only applicable for a subset of amine cores.</p><p>To explore the phenomenon of terminally branched lipid architecture more intently, we develop a facile, affordable, and modular synthetic approach to generate lipids of various lengths with different forms of terminal branching. We demonstrate that these ILs can enhance mRNA transfection and Cas9-mediated gene editing. Through an array of assays, we show that terminal branching enhances the ability of the ILs to undergo endosomal escape. Finally, we determine that these ILs can also improve hepatic Cas9 ribonucleoprotein (RNP) complex delivery as well as enhance T cell transfection, showcasing the versatility of these lipids. The compounds, which are named Branched ENdosomal Disruptor (BEND) ILs, represent a potential advancement in the field of LNP-mediated drug delivery and gene editing, as they provide a lipid design criterium that is based on robust mechanistic studies and can be utilized for both mRNA and protein cargo delivery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis of BEND ILs and formulation into LNPs</head><p>ILs can be generated in one step by reacting a monoamine or polyamine with lipids containing electrophilic handles such as epoxides <ref type="bibr" target="#b32">33</ref> . This allows for the rapid production of libraries of ILs by simply mixing different amine cores with epoxides of various lengths <ref type="bibr" target="#b33">34</ref> . Therefore, we developed a scheme to synthesize epoxides with any desired length and terminal branching that could then be further reacted with polyamine or monoamine reagents to produce ILs with greater structural variability. To achieve this, we first coupled primary bromoalkenes with branched caps via copper-catalyzed Grignard C-C coupling to produce branched alkenes (Fig. <ref type="figure" target="#fig_1">1a</ref>) <ref type="bibr" target="#b34">35</ref> . Primary bromoalkenes are common reagents and are used to establish the different lengths of the epoxides; however, they become more expensive as the chain length increases. Longer bromoalkenes can be generated by reacting the less expensive terminal dibromoalkanes in a mono E2 reaction with tertbutoxide, which we demonstrated by synthesizing 12-bromododec-1ene in moderate yield. Numerous Grignard caps are commercially available due to their wide use in other synthetic avenues and are utilized in this scheme to establish the branched group. Following this step, the branched alkenes were converted into the corresponding branched epoxides via mCBPA-mediated epoxidation. The C-C coupling and epoxidation steps can be completed together in less than 24 h, demonstrating the ease of this method. In this study, twelve branched epoxides were synthesized, which consisted of isopropyl, tert-butyl, and sec-butyl branching groups at four different lipid lengths.</p><p>To form ILs, epoxides underwent an S N 2 reaction with 2-(2-aminoethoxy)-N-(2-(4-(2-(2-aminoethoxy)ethyl)piperazin-1-yl)ethyl)ethan-1-amine (494) (Fig. <ref type="figure" target="#fig_1">1b</ref>). We have employed the 494 polyamine core to generate ILs and the corresponding LNPs for CAR T-cell therapy <ref type="bibr" target="#b35">36</ref> , in utero mRNA delivery <ref type="bibr" target="#b36">37</ref> , and delivery to the placenta <ref type="bibr" target="#b37">38</ref> , and thus this core represents an interesting structural motif. Overall, twelve BEND ILs were synthesized in only three days. As controls, four linear ILs of the same relative lipid length as the branched library were also synthesized using the same S N 2 reaction. In total, sixteen ILs were synthesized. The nomenclature of the BEND ILs is based on "AXb-C", where "A" is the electrophilic moiety of the lipid tail, "b" is the branching type, "C" is the lipid core number, and "X" is the linker length or number of methylene units between A and B (Fig. <ref type="figure" target="#fig_1">1c</ref>). The branching abbreviations are "i" for isopropyl, "t" for tert-butyl, and "s" for sec-butyl, whereas for the reactive electrophile, "E" refers to epoxide. Non-branched ILs utilize their historical name.</p><p>ILs were formulated into LNPs utilizing herringbone microfluidic devices <ref type="bibr" target="#b38">39</ref> , using a standard molar ratio of 35:16:46.5:2.5 of the IL, 18:1 Δ9-cis phosphoethanolamine (DOPE), cholesterol, and 14:0 PEG2000 phosphoethanolamine (C14-PEG 2000 ), respectively (Fig. <ref type="figure" target="#fig_1">1d</ref>) <ref type="bibr" target="#b39">40</ref> . Since all LNPs were constructed using the same excipient molar ratio as well as cholesterol and the same phospholipid and PEGylated lipid, the only difference between each LNP formulation is the structure of the IL. Thus, we hypothesized that any increase in efficacy of the BEND system is due to the propensity of these ILs to increase endosomal escape compared to linear ILs (Fig. <ref type="figure" target="#fig_1">1e</ref>). For consistency, each LNP was named after the corresponding IL. The LNPs encapsulated firefly luciferase (FLuc) mRNA at a 10:1 weight ratio of IL and mRNA, and were characterized for encapsulation efficiency, size, ζ-potential, and pK a      (Fig. <ref type="figure" target="#fig_2">2a-d</ref>, Supplementary Table <ref type="table">1</ref>, Supplementary Fig. <ref type="figure" target="#fig_1">1</ref>). Although multiple parameters were evaluated, there were no noticeable differences between the LNPs with linear, isopropyl, tert-butyl, and sec-butyl ILs. All LNPs have &gt;80% encapsulation efficiency and sizes ranging from 70-160 nm with average polydispersity indexes (PDIs) of 0.2. The ζ-potentials of the LNPs ranged from 5.57 to -28.1, indicating that most have neutral or a slightly negative charge. Lastly, the majority of the LNPs have a pK a around 6.0. mRNA delivery is enhanced in vivo by BEND ILs LNP efficacy was evaluated in both in vitro and in vivo models. Each LNP was evaluated for transfection in HeLa cells by incubating the LNPs at a dose of 20 ng of FLuc mRNA per 20,000 cells for 24 h. The luminescence results indicated that BEND ILs enhanced LNP transfection at the shortest and longest lipid lengths by as much as 10-fold, whereas in the middle lengths, branching induced either no significant change or decreased transfection (Supplementary Fig. <ref type="figure" target="#fig_2">2a</ref>). When examined for toxicity, none of the LNP-treated groups had less than 80% cell viability (Supplementary Fig. <ref type="figure" target="#fig_2">2b</ref>). LNPs were then administered intravenously into C57BL/6J mice at a dose of 0.1 mg/kg. C12-200, a gold standard and potent liver-tropic IL with a structurally similar polyamine core as 494, was formulated into LNPs and injected to serve as a positive control <ref type="bibr" target="#b39">40</ref> . After 12 h, full body and organ luminescence were obtained. LNPs with BEND 494-core ILs performed as well as or better than the corresponding LNPs with linear ILs for lipid lengths of C8, C10, and C12, whereas C14 BEND ILs performed slightly worse. For full body delivery, six LNPs with BEND 494-core ILs and only one LNP with a linear 494-core IL induced comparable total flux to C12-200, whereas E4t-494 and E6t-494, and no linear LNPs, outperformed C12-200 (Fig. <ref type="figure" target="#fig_2">2e,</ref><ref type="figure">f</ref>). All LNPs transfected the liver preferentially over other organs (Supplementary Fig. <ref type="figure" target="#fig_4">3</ref>), and in terms of liver total flux, six LNPs with BEND 494-core ILs performed similarly or better than C12-200, with E4i-494 facilitating 1.5-fold greater total flux (Fig. <ref type="figure" target="#fig_2">2g,</ref><ref type="figure">h</ref>). Notably, no LNPs with linear 494-core ILs achieved equal or greater liver luminescence than C12-200.</p><p>We then investigated whether installing branched epoxides on the N 1 -(2-(4-(2-aminoethyl)piperazin-1-yl)ethyl)ethane-1,2-diamine (200) polyamine core could achieve superior liver delivery, as this core is more liver-tropic than the 494 core. As such, six of the branched epoxides were coupled with the 200 core to form six BEND ILs (Fig. <ref type="figure" target="#fig_4">3a</ref>). The successful synthesis of the branched 200-core ILs underscores the robust nature of the initial epoxide design as it can be applied to other amine cores. The isopropyl, tert-butyl, and sec-butyl groups were each evaluated at relative lipid lengths of eight carbons and twelve carbons, and the corresponding linear versions, C8-200 and C12-200, were utilized as controls. While the C12-200 is the aforementioned gold standard IL, C8-200 has reduced mRNA delivery and thus represents an important test as to whether branching can also convert this IL into a potent liver-tropic LNP. These eight ILs were then formulated into LNPs with FLuc mRNA and characterized using the same methodology as described above. No notable differences in the physicochemical parameters were observed between LNPs with BEND 200-core ILs and LNPs with linear 200-core ILs, which is consistent with the characterization data for the LNPs with 494-core ILs (Supplementary Table <ref type="table">2</ref>, Supplementary Fig. <ref type="figure" target="#fig_5">4</ref>). Testing in HeLa cells showed conflicting trends, as C8-200 performed better or the same as the BEND equivalents while E8i-200 and E8s-200 LNPs outperformed C12-200 2-3-fold (Supplementary Fig. <ref type="figure" target="#fig_6">5a</ref>). Similar to the 494-core LNPs, none of the LNPs demonstrated toxicity in vitro (Supplementary Fig. <ref type="figure" target="#fig_6">5b</ref>). Afterwards, the 200-core LNPs were intravenously injected into C57BL/6J mice at a dose of 0.1 mg/kg of FLuc mRNA. As controls, the Moderna SM-102 and Pfizer/BioNTech ALC-0315 vaccine formulations were also evaluated. All BEND 200-core LNPs achieved greater full body total flux (Supplementary Fig. <ref type="figure" target="#fig_7">6a,</ref><ref type="figure">b</ref>) and liver total flux (Fig. <ref type="figure" target="#fig_4">3b,</ref><ref type="figure">c</ref>, Supplementary Fig. <ref type="figure" target="#fig_7">6c</ref>) than C12-200, SM-102, and ALC-0315, with E4s-200 inducing five-fold greater liver signal. Additionally, to probe kinetics, C12-200 and E8i-200 were injected into C57BL/6J mice and liver luminescence was analyzed after 6 h. Similar to the 12 h timepoint, the BEND LNP had higher mRNA expression (Supplementary Fig. <ref type="figure" target="#fig_8">7</ref>). While branching seems to enhance liver delivery in general, lipid length also plays an important role. For example, while E4s-200 is the most potent IL in this library, E8s-200 has only a 3-fold increase in liver total flux compared to C12-200. However, isopropyl groups achieve more consistent gains in delivery than tert-butyl and sec-butyl groups, with both E4i-200 and E8i-200 outperforming C12-200 by 4-fold.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BEND LNPs induce potent gene editing</head><p>Next, we evaluated BEND LNP gene editing in a murine model for transthyretin (TTR)-mediated amyloidosis. TTR is a protein that when overexpressed in the liver, will develop into amyloid fibrils that can induce restrictive cardiomyopathy and heart failure. LNP-based siRNA therapies such as ONPATTRO® have been utilized to silence TTR translation in the liver; however, this can require multiple transfusions as siRNA has a limited therapeutic window <ref type="bibr" target="#b40">41</ref> . Instead, delivering gene editing machinery can offer a single dose therapy that permanently reduces TTR to safe levels <ref type="bibr" target="#b41">42</ref> . To test this, the eight LNPs with 200-core ILs were reformulated to encapsulate Cas9 mRNA and single guide RNA (sgRNA) targeting TTR. C57BL/6J mice were then intravenously injected at a dose of 1.0 mg/kg of combined Cas9 and TTR sgRNA. After seven days, blood was removed, serum was isolated, and the levels of TTR protein were evaluated compared to serum isolated from the same mice 24 h before the injections (Fig. <ref type="figure" target="#fig_4">3d</ref>). Mice were sacrificed following blood withdrawal, and the livers were removed, underwent DNA isolation, and were analyzed for genomic insertions or deletions (indels) using next-generation sequencing (NGS). While C12-200 reduced TTR levels by 80%, four of the LNPs with BEND ILs reduced TTR levels by 80-90% (Fig. <ref type="figure" target="#fig_4">3e</ref>). These latter LNPs induced 60-70% indels, while C12-200 only induced 55% indels (Fig. <ref type="figure" target="#fig_4">3f</ref>). It is notable that C8-200 induced TTR reduction below 10%, whereas the LNPs with BEND C8 ILs facilitated significant TTR reduction and indels, signifying that small molecular alterations in lipid structure can lead to substantial changes in LNP efficacy. The correlation between gene editing levels and TTR reduction cannot solely be ascribed to the IL alone as there are downstream biochemical pathways that also impact the secretion of hepatic proteins, and those may be affected due to LNP delivery. Still, the important therapeutic factor is TTR reduction and thus the LNPs with 200-core BEND ILs induce an enhanced effect compared to the linear versions. These results demonstrate that BEND ILs can enhance delivery of multiple types of mRNAs, highlighting the potential universality of this design. To probe the potential harmful effects of BEND LNPs, the liver toxicity markers AST (Fig. <ref type="figure" target="#fig_4">3g</ref>) and ALT (Fig. <ref type="figure" target="#fig_4">3h</ref>) were examined 12 h after the Cas9/sgRNA injections. Interestingly, the LNPs exhibited different degrees of toxicity that depended on the branched group and lipid length. For example, E4s-200 and E8t-200 had lower AST levels than C12-200 but higher ALT values, whereas E8s-200 had the opposite effect. However, the LNPs with isopropyl ILs, E4i-200 and E8i-200, exhibited much lower AST and ALT levels than C12-200, suggesting that these LNPs could have translational potential due to their high efficacy and low toxicity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LNP physicochemical characteristics and liver targeting are minimally altered by BEND ILs</head><p>To understand the mechanism of the increased efficacy of BEND ILs, we evaluated several factors that influence LNP trafficking to the liver. Initially, we determined whether lipid branching results in LNPs with optimal physicochemical parameters by correlating the liver total flux of each LNP, from the studies with FLuc mRNA, with particle size, PDI, ζ-potential, pK a , encapsulation efficiency, and performance in vitro (Fig. <ref type="figure" target="#fig_5">4a-g</ref>). None of these parameters were predictive of successful liver delivery, with size and PDI having the highest Pearson correlation coefficients of -0.516 and -0.465, respectively. The lowest predictor was ζ-potential with a correlation coefficient of 0.0651, likely because the LNPs all have a relatively neutral surface charge. HeLa cell transfection was also a poor predictor of in vivo delivery, having a correlation coefficient of -0.0725, which is consistent with other studies demonstrating poor correlation between in vitro and in vivo data for systemic delivery <ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref><ref type="bibr" target="#b45">[46]</ref> . This is likely due to the differences in biological environments, where in vivo factors such as the circulatory system, immune system, and unique proteins within blood, combined with the physical forces within the bloodstream, can cause LNPs to have altered efficacy compared to their in vitro trends. Following this study, we assessed whether the morphology of BEND LNPs differed from linear LNPs; however, upon analyzing the structures via cryogenic transmission electron microscopy (cryo-TEM), C8-200 and BEND versions had a similar egg-shaped morphology (Fig. <ref type="figure" target="#fig_5">4h</ref>), whereas the C12-200 and BEND versions had a rounder structure with multiple lipid layers, likely due to the longer lipid chains (Supplementary Fig. <ref type="figure">8</ref>). This suggests that these BEND ILs have minimal impact on the global arrangement of LNPs, although this does not exclude the possibility of finer changes in bilayer and mesophase arrangement. We then investigated LNP stability by incubation in PBS and Dulbecco's Modified Eagle Medium (DMEM) supplemented with 10% fetal bovine serum (FBS) at 37 °C. LNP size (Fig. <ref type="figure" target="#fig_5">4i-j</ref>) and PDI (Supplementary Fig. <ref type="figure">9</ref>) was measured every hour for 24 h by dynamic light scattering immediately after incubation. No instability was measured in either PBS or DMEM, and in the latter, all LNPs formed a similar sized protein corona with a total diameter of approximately 170 nm. This suggests that both BEND LNPs and linear LNPs behave similarly in physiologically relevant conditions.</p><p>Since particle physicochemical characteristics, morphology, and stability seemed to be unaffected by terminal lipid branching, we then investigated the role of liver trafficking and uptake. Protein corona formation was further investigated by injecting E4i-200, E4t-200, E4s-200, and C12-200 FLuc LNPs into apolipoprotein E (ApoE) knockout mice at a dose of 0.1 mg/kg. Upon measuring liver total flux after 12 h, all four LNPs had decreases in total flux of 100-1000-fold compared to wildtype mice (Fig. <ref type="figure" target="#fig_5">4k</ref>). Therefore, mRNA LNPs with both BEND and linear ILs target the liver via an ApoE-mediated mechanism, as has been demonstrated with other liver-tropic LNPs <ref type="bibr" target="#b46">47</ref> . Studies have suggested that IL structure can also impact the specific liver cells that uptake LNPs <ref type="bibr" target="#b47">48</ref> . For example, Kupffer cells are liver macrophages that more favorably phagocytose certain types of LNPs 49 . To investigate the role of Kupffer cells, we injected C57BL/6J mice with clodronate liposomes, which deplete macrophages. After 24 h, the mice were injected with the eight LNPs with 200-core ILs encapsulating FLuc mRNA (Fig. <ref type="figure" target="#fig_5">4l</ref>). Liver luminescence was measured 12 h later, showing that all LNPs except for C8-200 had decreased luminescence resulting from the lack of LNP uptake and transfection in Kupffer cells (Fig. <ref type="figure" target="#fig_5">4m</ref>). This suggests that branching is not a major factor in the ability of macrophages to uptake LNPs. More likely, it is possible that lipid length is more of a determinant as C8-200 and E4i-200, the two LNPs with ILs containing the fewest number of carbon atoms, had the smallest changes in liver total flux; although, a larger library would need to be screened to validate this trend. Finally, we analyzed particle accumulation in the liver to study the influence of LNPs without factoring mRNA translation. LNPs containing FLuc mRNA were reformulated with 1 mol% DiR, a lipophilic carbocyanine near IR fluorescent dye. Fluorescent LNPs were injected into C57BL/6J mice at a dose of 0.1 mg/kg of FLuc mRNA, and the major organs were dissected and imaged for fluorescence after 12 h. Here, fluorescence is a marker of LNP accumulation. While mRNA transfection and translation had occurred primarily in the liver, LNP fluorescence was observed in the liver and spleen (Fig. <ref type="figure" target="#fig_5">4n,</ref><ref type="figure">o</ref>). More interestingly, the linear and BEND LNPs showed no significant difference in liver fluorescence, suggesting that regardless of IL structure, these LNPs accumulate in the liver at roughly the same levels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BEND ILs facilitate greater endosomal escape</head><p>Since the eight LNPs with 200-core ILs accumulate in the liver at relatively the same amounts, but the LNPs with BEND ILs induce greater mRNA translation, we hypothesized that this result is due to the BEND ILs enhancing endosomal escape. To verify this, we studied the interactions of the eight LNPs with 200-core ILs with artificial endosomes, a previously validated strategy to study the role of endosomal escape <ref type="bibr" target="#b49">50,</ref><ref type="bibr" target="#b50">51</ref> . Artificial endosomes were formulated via thin film hydration of DOPE, 18:1 Δ9-cis phosphocholine (DOPC), 18:1 phospho-L-serine (DOPS), NBD-conjugated 18:1 phosphoethanolamine (NBD-PE), and Lissamine-Rhodamine-B-conjugated 18:1 phosphoethanolamine (Liss-Rhod-PE) at a molar ratio of 48:25:25:1:1, respectively. The latter two lipids are a FRET pair that were used to monitor the integrity of the endosomes. Increases in the fluorescence of the donor fluorophore corresponds to endosomal disruption due to the separation of the FRET pair. In this study, each LNP was diluted 6X in pH 5.5 buffer to represent endosomal conditions and mixed with the artificial endosomes. At various timepoints, fluorescence of the donor fluorophore was measured. For these experiments, we separated the LNPs to factor out the influence of lipid length and examine the role of terminal branching. LNPs with BEND ILs induced 2-to-3-fold greater fluorescence than the LNPs with linear ILs for the C8-200, E4i-200, E4t-200, and E4s-200 (C8/E4x 200-core) LNPs (Fig. <ref type="figure" target="#fig_6">5a</ref>) as well as the C12-200, E8i-200, E8t-200, and E8s-200 (C12/E8x 200-core) LNPs (Fig. <ref type="figure" target="#fig_6">5b</ref>) groups, supporting the idea that lipid branching, in general, can enhance endosomal disruption. Similar trends were also observed for the C8-494, E4i-494, E4t-494, and E4s-494 (C8/E4x 494-core) LNPs (Supplementary Fig. <ref type="figure" target="#fig_1">10a</ref>).</p><p>To gain molecular level insight into this phenomenon, we also performed atomistic molecular dynamic (MD) simulations to model IL penetration into a bilayer with similar composition to the model endosomal bilayer. Whereas the FRET experiments measured rupturing via the LNPs, here, we examined how a single IL molecule interacts with the lipid bilayer for each of the eight 200-core ILs. Initially placed 4 nm above the bilayers, ILs quickly become inserted into the membrane within the first 200-500 ns. The mean vertical distance between the center of mass of the bilayer and that of the IL was measured after 0.5 µs of the trajectory. As shown in Fig. <ref type="figure" target="#fig_6">5c,</ref><ref type="figure">d</ref>, the E4x-200 BEND ILs all showed substantial increases in bilayer penetration in comparison to C8-200, with E4t-200 and E4s-200 having &gt;0.2 nm decrease in the distance to the bilayer center, which is a substantial distance considering the lipid bilayer itself is ~5 nm. For the C12/E8x-200 ILs, both E8t-200 and E8s-200 penetrated the lipid bilayer by 0.1 nm more than C12-200, whereas E8i-200 showed an equivalent distance. When plotted against each other, the artificial endosomal rupturing and IL penetration data align (Fig. <ref type="figure" target="#fig_6">5e,</ref><ref type="figure">f</ref>), showcasing that these are complementary studies that can investigate both LNPs and the corresponding ILs. Snapshots of the atomistic MD simulations show that BEND IL lipid tails are more able to fully extend into the bilayer, whereas the linear IL tails reside closer to the phospholipid surface (Fig. <ref type="figure" target="#fig_6">5g,</ref><ref type="figure">h</ref>). E4x-494 BEND ILs also demonstrated greater penetration than C8-494 (Supplementary Fig. <ref type="figure" target="#fig_1">10b-d</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BEND ILs enable liver-tropic CRISPR-Cas9 RNP delivery</head><p>LNPs have had tremendous success advancing RNA therapeutics, whereas the efficacy of protein delivery with LNPs is substantially lower. Thus, we assessed whether the properties of BEND ILs can enhance LNP-mediated RNP complex gene editing in the liver, as endosomal escape is also a major barrier for protein delivery. While proteins are more difficult to encapsulate due to their sensitive tertiary structure, there is also a lack of advancement in developing ILs that increase protein delivery. As such, we took the top three performing BEND ILs, E4i-200, E4s-200, and E8i-200, and tested their ability to edit Ai9 mice in comparison to C12-200, using Cas9 RNP complexes. These LNPs were prepared in 1X PBS for the aqueous phase and using DOTAP to facilitate encapsulation of the negatively charged RNP complex into the particles, as using low pH citrate buffer can denature proteins <ref type="bibr" target="#b51">52</ref> . Utilizing herringbone microfluidic devices, Cas9 RNP LNPs were formulated with the corresponding IL, DOPE, cholesterol, C14-PEG 2000 , and DOTAP at a molar ratio of 10:11.5:30:1:16, respectively (Fig. <ref type="figure" target="#fig_7">6a</ref>). The aqueous phase consisted of a 1:1 molar ratio of Cas9 and sgRNA in 1X PBS at an overall weight ratio of 1:15 of the RNP complex and total lipid amount.</p><p>To reduce DOTAP-associated toxicity, Ai9 mice were injected at a dose of 0.15 mg/kg of sgRNA consecutively each day for three days (Fig. <ref type="figure" target="#fig_7">6b</ref>). After seven days from the last injection, the mice were sacrificed and the lungs, liver, and spleen were imaged. All three BEND The schematic is shown in l. Mice were sacrificed and dissected after 36 h post injection of clondronate liposomes and m liver total flux was measured via IVIS. Total flux is reported as mean + SD of n = 3. C57BL/6J mice were injected with the eight LNPs with the 200-core ILs containing 1 mol% DiR and after 12 h, mice were sacrificed and liver n fluorescence and o images were collected. Total radiant efficiency is reported as mean + SD of n = 3 for E4i-200, E4t-200, E4s-200, and C12-200, and n = 6 for all other LNPs. k, m Two-sided multiple unpaired t tests with post hoc Holm-Šídák correction for multiple comparisons were used to compare the total flux of control groups with treatment groups across each LNP. n One-way ANOVA with post hoc Student's t tests using the Holm-Šídák correction for multiple comparisons was used to compare total radiant efficiency across treatment groups to C12-200. For k, m, liver luciferase data is used from Fig. <ref type="figure" target="#fig_4">3</ref>. l was created in BioRender. Hamilton, A. (2024) <ref type="url" target="https://BioRender.com/i16k223">https://BioRender.com/i16k223</ref>. Source data are provided as a Source Data file.</p><p>LNPs showed an increase in liver fluorescence, with E4s-200 facilitating 1.5X greater signal than C12-200 (Fig. <ref type="figure" target="#fig_7">6c</ref>). In contrast, C12-200 induced 1.5X greater lung fluorescence than any of the BEND LNPs (Fig. <ref type="figure" target="#fig_7">6d</ref>). Minimal spleen editing was observed, with E4s-200 exhibiting some spleen fluorescence (Supplementary Fig. <ref type="figure" target="#fig_1">11</ref>). We then measured the liver:lung ratio for each of the four LNPs and found that all BEND LNPs had higher liver editing compared to lung editing, suggesting that the BEND ILs alter the tropism of LNPs encapsulating Cas9 RNP complexes (Fig. <ref type="figure" target="#fig_7">6e,</ref><ref type="figure">f</ref>). This is in contrast with the mRNA LNPs that selectively target the liver, showing that the inclusion of DOTAP and the Cas9 RNP complex increase lung delivery for LNPs with linear ILs but not for LNPs with BEND ILs. After processing and analyzing the liver for editing (Supplementary Fig. <ref type="figure" target="#fig_2">12</ref>), cell-specific tropism was also identified. E4s-200 induced &gt;10% hepatocyte editing, twice as much as C12-200 (Fig. <ref type="figure" target="#fig_7">6g,</ref><ref type="figure">h</ref>). Additionally, E8i-200 facilitated 40% editing of CD326+ epithelial cells (Fig. <ref type="figure" target="#fig_7">6i,</ref><ref type="figure">j</ref>), twice as much as the other LNPs, but had 5% editing in CD45+ immune cells, which was half the editing of the other three LNPs (Supplementary Fig. <ref type="figure" target="#fig_4">13</ref>). Meanwhile, all LNPs had around 15% editing for CD31+ endothelial cells (Fig. <ref type="figure" target="#fig_7">6k</ref>). Lastly, we characterized the RNP LNPs for size, PDI, ζ-potential, Cas9 encapsulation, and sgRNA encapsulation (Fig. <ref type="figure" target="#fig_7">6l</ref>). There were no major differences between the four LNPs. While Cas9 protein encapsulation (37-42%) was much lower than RNA encapsulation (100%), this is due to differences in the assay measurements. The micro-BCA kit measures total encapsulation, factoring in the original amount of protein lost during formulation. Instead, RiboGreen assays measure relative encapsulation and does not factor in RNA loss during formulation.</p><p>While we have demonstrated that BEND ILs can enhance hepatic endosomal escape and thus could increase liver gene editing using RNPs, there are other mechanisms we have not explored that could also aid in reduced lung and enhanced liver editing. This includes the role of the RNPs themselves, as cargo has been found to influence tropism and efficacy <ref type="bibr" target="#b52">[53]</ref><ref type="bibr" target="#b53">[54]</ref><ref type="bibr" target="#b54">[55]</ref> , as well as the potential for different protein corona binding due to the presence of the BEND ILs <ref type="bibr" target="#b55">56,</ref><ref type="bibr" target="#b56">57</ref> . For the latter, we incubated the four RNP LNPs with human vitronectin, a protein found in lungs during inflammation, conditions consistent with DOTAP-mediated lung accumulation <ref type="bibr" target="#b57">58,</ref><ref type="bibr" target="#b58">59</ref> . We found that only E8i-200 had significant increases in size when mixed with the protein, indicating IL hydrophobicity, rather than IL branching, may play a role in vitronectin binding as this IL has the most number of carbon atoms out of the four ILs tested (Supplementary Fig. <ref type="figure" target="#fig_5">14</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BEND platform boosts T cell transfection</head><p>To demonstrate the potential of this platform for non-liver related applications, we evaluated the ability of LNPs with BEND ILs to transfect T cells. As our lab has previously demonstrated that LNPs containing ILs with the 494 polyamine core can potently deliver mRNA to T cells, we endeavored to evaluate our LNPs with BEND 494-core ILs in a similar manner <ref type="bibr" target="#b25">26</ref> . We incubated the twelve LNPs with BEND 494-core ILs and the corresponding four LNPs with linear 494-core ILs containing FLuc mRNA in activated 1:1 CD4+ and CD8+ human primary T cells obtained from healthy adult donors. Similar to the hepatic delivery results, all BEND LNPs performed as well as or better than their linear versions, while simultaneously inducing similar or lower toxicity (Fig. <ref type="figure" target="#fig_8">7a,</ref><ref type="figure">b</ref>). While C8-494 induced substantial toxicity, the LNPs with BEND variants had little toxicity, while facilitating significantly higher luminescence. Notably, E4t-494 and E4s-494 were among the top performers, and a higher luminescence compared to C10-494, despite having the same number of atoms, further validating the necessity of evaluating lipid architecture. Overall, isopropyl structures, except for those with C6 linkers, increased luminescence by 3-10 fold compared to the linear versions. Excluding the shortest C4 linker, none of the tert-butyl and sec-butyl moieties induced greater luminescence than the linear controls. Still, the top five LNPs all incorporated BEND ILs. As our lab has also created an optimized LNP formulation for T cell transfection, we tested whether producing BEND LNPs with altered lipid ratios would also increase LNP efficacy <ref type="bibr" target="#b35">36</ref> . This formulation, B10, which utilizes less cholesterol and more DOPE, was found to be optimal when incorporating C14-494 as the IL (Fig. <ref type="figure" target="#fig_8">7c</ref>). We reformulated the top performers from the FLuc mRNA screen utilizing the B10 ratio with mCherry mRNA and examined the percentage of transfected T cells via flow cytometry. Two LNPs with BEND ILs, E4s-494 B10 and E8i-494 B10 , performed as well as C14-494 B10 by transfecting ~70% of cells. Additionally, the E4t-494 B10 LNP had markedly lower mRNA transfection of 30%. We theorize that since the B10 recipe is specifically optimized for the C14-494 IL, these ratios of excipients may not enhance, and possibly decrease the potency of, other ILs. This also means that the BEND ILs can benefit from further optimization. E10i-494 B10 emerged as a top performer, transfecting over 80% of T cells (Fig. <ref type="figure" target="#fig_8">7d,</ref><ref type="figure">e</ref>; Supplementary Fig. <ref type="figure" target="#fig_6">15</ref>). Intriguingly, the E10i-494 IL has the same lipid length as C14-494 but has isopropyl groups instead of a linear chain (Fig. <ref type="figure" target="#fig_8">7f</ref>).</p><p>We probed whether these results are due to increased endosomal escape, as we had demonstrated with hepatic LNP delivery. We reformulated the top performing LNPs using the B10 ratios encapsulating Cy3-labeled EGFP mRNA and included SM-102 as a positive control. Flow cytometry was used to assess GFP expression and Cy3 uptake at 24 h after LNP incubation in human primary activated T cells. We found that after 24 h, almost 100% of T cells were Cy3+, indicating that LNPs are entering almost every cell (Fig. <ref type="figure" target="#fig_8">7g</ref>; Supplementary Fig. <ref type="figure" target="#fig_7">16</ref>). Moreover, the E8i-494 B10 and E10i-494 B10 LNPs facilitated two-fold and fourfold greater GFP translation than the C14-494 B10 LNP, respectively, whereas E8s-494 B10 performed similarly and E4t-494 B10 had the lowest transfection of ~4%, on par with SM-102. The differences in mRNA translation from the GFP and mCherry experiments are likely due to the addition of the Cy3 tag on the GFP mRNA strand, which can lower transfection efficiency. Due to the difference in E10i-494 and C14-494 ILs being a single methyl group on each lipid chain, we further investigated the corresponding LNPs via confocal microscopy. Both LNPs were reformulated with Cy3-GFP mRNA and 1 mol% DiR and incubated in activated primary human T cells for 4 h. Then, we analyzed colocalization of the Cy3-labeled mRNA in endosomes, with the latter visualized via LysoTracker Deep Red. We found that E10i-494 B10 induced around 20% less colocalization than C14-494 B10 (Fig. <ref type="figure" target="#fig_8">7h-i</ref>). DiR colocalization was not evaluated due to its tendency to stay within phospholipid membranes. While increased endosomal escape is likely a dominant factor in BEND ILs inducing greater mRNA signal, it is possible that the BEND ILs and LNPs have enhanced ionization at endosomal pH as has been demonstrated with other branched-like lipids <ref type="bibr" target="#b30">31</ref> . However, there is only a small difference in the pK a of each LNP. Additionally, using MolGpka, we calculated the pK a of the conjugate acid of the C14-494 and E10i-494 ILs, and they both were 8.4-9.0 depending on the specific nitrogen <ref type="bibr" target="#b59">60</ref> . More experiments will be needed to determine the role of ionization in the BEND platform.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>LNP efficacy is directly related to the chemical structures of the lipid excipients, especially the IL, which facilitates cargo encapsulation, organ tracking, cellular tropisms, and endosomal escape. Most studies investigating IL structure are restricted to commercially available lipids. Unfortunately, most of these lipids are linear, and while some branched lipids are available, they are restricted to specific groups and lipid lengths. Additionally, efforts to generate lipids with structural variety are often expensive and synthetically laborious. Thus, we introduced a method using inexpensive and widely available reagents to rapidly generate lipids with greater architectural diversity that can be produced at most lipid lengths. By utilizing this scheme, we incorporated different terminal branching groups onto the lipids to probe the structure-function relationships of linear and non-linear ILs in LNP delivery. In general, these BEND ILs can enhance LNP-mediated transfection for both mRNA and protein delivery in the liver. Moreover, when applied to gene editing cargo and T cell delivery, the BEND LNPs improved hepatic editing with Cas9 mRNA and Cas9 RNP complex as well as total T cell transfection.</p><p>Mechanistic understanding of IL structures is essential to advance the LNP field. However, due to the complexity of LNPs, it is important to perform a wide array of studies to probe different explanations. We underwent thorough testing and determined that BEND ILs minimally impact LNP physicochemical characteristics and structure, whereas liver trafficking depends on the cargo. Instead, we demonstrated that lipid branching more likely enhances endosomal escape through a combination of artificial endosome studies and MD simulations. Specifically, the MD simulations showcase, with increased resolution, how BEND ILs penetrate membranes more deeply than linear ILs. It is important to note that the endosomal escape studies are limited by the simplicity of the models, as biological endosomes are composed of a complex milieu of lipids and proteins that undergo a dynamic endosomal maturation process. Thus, our results aim to establish coarse endosomal escape trends based on branching, which is why it is necessary to separate the E4x and E8x lipids so that the role of lipid length does not confound the analyses. While these data do not perfectly represent the in vivo liver delivery results, they do demonstrate the broader trend of terminal branching in enhancing mRNA transfection. The optimal branching moiety depended on the biological application, lipid length, and polyamine core, although the aggregated results showcase that terminal branching facilitates similar or better LNP transfection regardless of the moiety. For example, for the 200core LNPs, all three forms of branching induced higher FLuc mRNA transfection, whereas for the 494-core, ILs with smaller lipid lengths benefited more from the three branched groups. To identify structure-activity relationships it will be necessary to expand the range of terminal branched structures as well as develop more complex endosomal models. We envision that this synthetic methodology and mechanistic characterization regime can be utilized as a template to generate the next-generation of ILs for more efficacious LNP-mediated delivery of biotherapeutics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>All animal use was in accordance with the guidelines and approval from the University of Pennsylvania's Institutional Animal Care and Use Committee (IACUC; protocol #806540).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials</head><p>All non-IL LNP lipid excipients as well as lipids to make the artificial endosomes were purchased from Avanti Polar Lipids (Alabaster, AL, USA). Cas9, firefly luciferase, and mCherry mRNA were purchased from TriLink Biotechnologies (San Diego, CA, USA) with 5-methoxyuridine substitutions for Cas9 and firefly luciferase and N1methylpseudouridine substitutions for mCherry. Cy3 EGFP mRNA with 5-methoxyuridine substitutions was purchased from APExBIO (Houston, TX, USA). LoxP sgRNA was synthesized by Synthego (Redwood City, CA, USA) using the following sequences: upstream LoxP -AAA-GAAUUGAUUUGAUACCG; downstream LoxP -GUAUGCUAUACGAA-GUUAUU. TTR sgRNA was synthesized by Axolabs (Kulmbach, Germany), using the following sequence: 5'-ususasCAGCCAC GUCUA-CAGCAGUUUUAGA gcuagaaauagc AAGUUAAAAU AAGGCUAGUC CGUUAUCA acuugaaaaagu ggcaccgagu cggugcusususu-3', where "N" refers to RNA residues, "n" are 2'-O-methyl residues, and "s" are phosphorothioate backbone modifications.</p><p>The chemicals 1,2-epoxyoctane, 1,2-epoxydecane, 1,2-epoxydodecane, 1,2-epoxytetradecane, and 8-bromo-1-octene were purchased from TCI (Montgomeryville, PA, USA); Triton X-100 was purchased from Alfa Aesar (Haverhill, MA, USA), 1,12-dibromododecane and N 1 -(2-(4-(2-aminoethyl)piperazin-1-yl)ethyl)ethane-1,2-diamine were purchased from AmBeed (Arlington Heights, IL, USA); anhydrous 1-methyl-2-pyrrolidinone and chloroform-d were purchased from Acros Organics (Geel, Belgium); all non-anhydrous solvents as well as anhydrous magnesium sulfate, and 1N hydrochloric acid were purchased from Fisher Scientific (Waltham, MA, USA); 10bromo-1-decene was purchased from Oakwood Chemicals (Estill, SC, USA); 6-bromo-1-hexene was purchased from Asta Tech (Bristol, PA, USA); 2-{2-[4-(2-{[2-(2-aminoethoxy)ethyl]amino}ethyl)piperazin-1-yl] ethoxy}ethan-1-amine was purchased from Enamine (Kiev, Ukraine). All other chemical reagents were purchased from MilliporeSigma (St. Louis, MO, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Synthesis</head><p>All flash chromatography was performed on a Teledyne Isco (Lincoln, NE, USA) CombiFlash NextGen 300+ equipped with evaporative light scattering detection using RediSep Gold® silica gel disposable flash columns. Solvent evaporation was performed using a Büchi (New Castle, DE, USA) Rotavapor® R-300 System Professional. <ref type="bibr" target="#b0">1</ref> H and <ref type="bibr" target="#b12">13</ref> C NMR spectra were acquired in chloroform-d using an Avance Neo 400 MHz spectrometer (Bruker, Billerica, MA, USA). NMR spectra were analyzed on MestReNova 14.2.3. Nominal mass accuracy LC-MS data were obtained by use of a Waters (Milford, MA, USA) Acquity UPLC system equipped with a Waters TUV detector (254 nm) and a Waters SQD single quadrupole mass analyzer with electrospray ionization. Samples were prepared in 200 proof ethanol and injected into an Acquity UPLC BEH C8 1.7 µm, 2.1 ×50 mm column with a 2 min wash followed by a gradient mobile phase from 50% water (1% trifluoroacetic acid) and 50% acetonitrile (1% trifluoroacetic acid) to 100% acetonitrile (1% trifluoroacetic acid) over 8 min. LC-MS chromatograms and spectra were analyzed on MestReNova 14.2.3.</p><p>12-bromododec-1-ene. To a 250 mL round bottom flask was added 1,12-dibromododecane (8.00 g, 24.4 mmol, 2.0 equiv.) and anhydrous tetrahydrofuran (20 mL). Then, potassium tert-butoxide (2.74 g, 24.4 mmol, 1.0 equiv.) in anhydrous THF (50 mL) was added dropwise. The reaction stirred at 70 °C for 16 h. The reaction was then quenched with deionized water (40 mL) and was extracted with hexanes (3 × 35 mL). The organic fractions were combined, dried with magnesium sulfate, filtered, and concentrated in vacuo. The crude product was further purified via flash chromatography assisted by a Combi-Flash using a liquid injection into an 80 g column. The mobile phase was isocratic hexanes for 10 min using a 20 mL/min flow. The product was isolated as a clear oil at a 25.8% yield. <ref type="bibr" target="#b0">1</ref> H NMR (400 MHz, CDCl 3 ) δ 5.82 (ddt, J = 16.9, 10.1, 6.7 Hz, 1H), 5.18 -4.81 (m, 2H), 3.41 (td, J = 6.8, 1.0 Hz, 2H), 2.25-1.96 (m, 2H), 1.87 (dt, J = 14.5, 7.0 Hz, 2H), 1.64 -1.01 (m, 14H). <ref type="bibr" target="#b12">13</ref>  General procedure "A": branched alkene synthesis. This step utilized a modified procedure from Cahiez et al. <ref type="bibr" target="#b34">35</ref> . A 100 mL Schlenk flask was purged with nitrogen. To the flask was added anhydrous tetrahydrofuran (5 or 10 mL), N-methylpyrrolidone (4.0 equiv.), dilithium tetrachlorocuprate (0.1 M tetrahydrofuran; 0.03 equiv.), and the corresponding bromoalkene (1.0 equiv.). The solution stirred at room temperature and under nitrogen for 5 min. Then, the flask was put on a water bath at room temperature. The corresponding Grignard reagent (1.1 equiv.) was added dropwise. After 5 min, the flask was removed from the water bath and then stirred at room temperature for 1 h. The flask was subsequently cooled to 0 °C and then slowly quenched with hydrochloric acid (1 M; 40 mL). The aqueous phase was extracted with hexanes (3 × 20 mL), and the organic layers were combined, washed with hydrochloric acid (1 M; 1 × 40 mL), washed with brine (2 × 40 mL), dried with magnesium sulfate, filtered, and concentrated in vacuo. The crude product was further purified via flash chromatography assisted by a CombiFlash using a liquid injection into a 40 g column. The mobile phase was isocratic hexanes using a flow rate of 7 mL/min. The products were isolated as clear oils. See the Supplementary Information for the specific conditions for each reaction.</p><p>General procedure "B": branched epoxide synthesis. This step utilized a modified procedure from Villo et al. <ref type="bibr" target="#b60">61</ref> . To a 100 mL round bottom flask was added the corresponding branched alkene (1.0 equiv.) and dichloromethane (5 mL). The flask was mixed for 1 min and then cooled to 0 °C. Then, to the flask was added dropwise half of a solution of meta-chloroperoxybenzoic acid (70% pure; 2.0 equiv.) dissolved in dichloromethane (30 mL). The mixture stirred for 1 h after which the other half of the meta-chloroperoxybenzoic acid solution in dichloromethane was added dropwise. After 1 h, the reaction flask was removed from the 0 °C bath and stirred at room temperature for 14 h. The reaction was quenched by adding 20 mL of a 1:1 solution of sat. sodium bicarbonate and sat. sodium thiosulfate. The layers were separated, and the organic layer was washed with brine (1 × 30 mL).</p><p>(3 × 15 mL). The organic layers were combined, dried with magnesium sulfate, filtered, and concentrated in vacuo. The crude product was further purified via flash chromatography assisted by a CombiFlash using a liquid injection into a 24 g column. The mobile phase had a gradient of 100% hexanes to 90% hexanes and 10% ethyl acetate over 15 min using a flow rate of 20 mL/min. The products were isolated as clear oils. See the Supplementary Information for the specific conditions for each reaction.</p><p>General procedure "C": ionizable lipid synthesis. This step utilized a modified procedure from Love et al. <ref type="bibr" target="#b32">33</ref> . To a 1-dram vial was added the corresponding polyamine core (1.0 equiv.), the corresponding epoxide (6.0 or 7.0 equiv.), and ethanol (0.3 mL). The reaction stirred at 80 °C for 48 h. Afterwards, the solution was diluted with dichloromethane (0.7 mL). The solution was purified via flash chromatography assisted by a CombiFlash using a liquid injection into a 4 g column. The mobile phase had a gradient of 95% dichloromethane and 5% Ultra solution (75% dichloromethane, 22% methanol, and 3% aqueous ammonium hydroxide) to 80% dichloromethane and 20% Ultra solution over 35 min using a flow rate of 7 mL/min. The products were isolated as yellow to clear viscous oils. See the Supplementary Information for the specific conditions for each reaction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lipid nanoparticle formulation</head><p>The corresponding IL, 18:1 Δ9-cis phosphoethanolamine (DOPE), cholesterol, and 14:0 PEG2000 phosphoethanolamine (C14-PEG 2000 ) were dissolved in ethanol at a molar ratio of 35:16:46.5:2.5, respectively, to form the organic phase of the formulation. For the B10 formulation, a molar ratio of 40:30:25:2.5 was used. The SM-102 LNP was prepared using SM-102, 1,2-distearoyl-sn-glycero-3-phosphocholine (DSPC), cholesterol, and 1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000 (DMG-PEG 2000 ) at a molar ratio of 50:10:38.5:1.5, respectively. The ALC-0315 LNP was formulated via ALC-0315, DSPC, cholesterol, and ALC-0159 at a molar ratio of 46.3:9.4:42.7:1.6, respectively. The aqueous phase was prepared by dissolving the corresponding mRNA in a 10 mM citrate buffer at pH 3 (Teknova, Hollister, CA, USA). For each mRNA LNP, the weight ratio of the mRNA to IL was 1:10, and the volume ratio of the organic phase to aqueous phase was 1:3. Each phase was loaded in separate glass syringes (Hamilton Company, Reno, NV) and connected to a Pump 33 DDS syringe pump (Harvard Apparatus, MA, USA) attached to a microfluidic device with a staggered herringbone micromixer design. The microfluidic devices were fabricated in polydimethylsiloxane utilizing standard soft lithographic procedures <ref type="bibr" target="#b38">39</ref> . A two-step exposure process was used to create the SU-8 master with positive channel features on a silicon wafer, where each mixing channel is 4 cm in length. The syringes were injected at a flow rate of 0.6 mL/min and 1.8 mL/min for the organic phase and aqueous phase, respectively.</p><p>For LNPs encapsulating RNP complex, the aqueous phase contained a solution of pH 7.4 1X PBS (Thermo Fisher Scientific) and the RNP cargo. RNPs were formed by adding TrueCut Cas9 protein (Thermo Fisher Scientific) and sgRNA in a 1:1 molar ratio, where the sgRNA targeted both the upstream and downstream LoxP sites in the Ai9 cassette. Cas9 and sgRNA were allowed to sit at room temperature for 20 min to allow time for the RNP complexes to form, before microfluidic mixing of the two phases. The ethanol phase consisted of the corresponding IL, DOPE, cholesterol, C14-PEG 2000 , and 1,2-dioleoyl-3-trimethylammonium-propane (DOTAP) at a molar ratio of 10.0:11.5:30.0:1.00:16.0, respectively. RNP loading is based on a weight ratio of 15:1 corresponding to the ratio of total lipids and the amount of RNP, respectively.</p><p>LNPs for TTR gene editing were prepared using a NanoAssemblr Ignite (Precision Nanosystems, Vancouver, BC, Canada) using the excipient and buffer conditions described above. Here, Becton Dickinson (Franklin Lakes, NJ, USA) conventional Leur-Lok syringes were used at a flow rate of 12 mL/min into an Ignite NxGen cartridge (Precision Nanosystems).</p><p>All LNPs dialyzed against pH 7.4 1X PBS in 20 kDa MWCO cassettes (Thermo Fisher Scientific) for at least 2 h, were passed through 0.22 µm syringe filters (Genesee Scientific, El Cajon, CA, USA), and stored at 4 °C until further use. For the TTR gene editing studies, LNPs were concentrated by transferring them to Amicon 50k regenerated cellulose centrifugal filters (Millipore Sigma) and centrifuging at 700 × g until the desired volume was reached.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lipid nanoparticle characterization</head><p>Encapsulation efficiency and encapsulated mRNA concentration for each LNP was measured by a Quant-iT RiboGreen assay (Thermo Fisher Scientific). Each LNP sample was diluted 100-fold in two microcentrifuge tubes containing either 1X tris-EDTA (TE) buffer or 1X TE buffer supplemented with 1% (v/v) Triton X-100. The Triton X-100 samples were mixed thoroughly and allowed to incubate for 5 min to achieve lysis of LNPs. For RNP LNPs, Proteinase K was added to all samples. A standard curve was generated by diluting the corresponding mRNA used in the LNPs to concentrations ranging from 2.00 µg/mL to 31.3 ng/mL in 1X TE buffer. LNPs in TE buffer and LNPs in Triton X-100 were plated in quadruplicate, while the mRNA standards were plated in duplicate in black 96-well plates. Afterwards, the RiboGreen fluorescent detection reagent was added per the manufacturer's instructions. The plate was then wrapped in aluminum foil and shook on a plate shaker at 200 rpm for 5 min. Afterwards, fluorescence intensity was read on an Infinite 200 Pro plate reader (Tecan, Morrisville, NC) using the Tecan i-control 3.9.1.0 software at an excitation wavelength of 490 nm and an emission wavelength of 530 nm. RNA content was ascertained utilizing a standard curve estimated from a univariate least squares linear regression (LSLR). Encapsulation efficiency was calculated as EE = BÀA B *100%, where A is the measured RNA content in TE buffer (i.e., free/unencapsulated RNA) and B is the measured RNA content in Triton X-100 (i.e., total RNA). The encapsulated mRNA concentration was calculated by conc ½ = B À A. Encapsulation efficiencies are reported as mean ± standard deviation.</p><p>For the RNP LNPs, to determine Cas9 protein concentration, LNP samples were measured using a micro-BCA protein assay as per manufacturer instructions (Thermo Fisher Scientific). LNPs were diluted in PBS with 2% SDS to accommodate the presence of lipids in the sample. BCA working reagent was added to each sample, and samples were incubated for 2 h at 37 °C. To evaluate the percentage of protein protected by the LNP, a measurement of encapsulation, samples were incubated in static conditions to measure free or surface-anchored protein only and under sonication to allow for quantification of encapsulated as well as free or surface-anchored protein. Samples were added in triplicate to 96-well plates, and the resulting absorbance was measured on a plate reader alongside a standard curve to quantify protein concentration.</p><p>The hydrodynamic diameters and polydispersity indexes (PDIs) of the LNPs were measured using a DynaPro Plate Reader III (Wyatt Technology, Santa Barbara, CA). The LNPs were diluted 10-fold in 1X PBS, and 30 µL were loaded onto a 384-well Aurora plate (Wyatt). The plate was centrifuged for 5 min at 300 g before being loaded onto the plate reader. Sizes are reported as intensity-weighted averages with n = 3 measurements. Data is expressed as mean ± standard deviation, where the standard deviation was calculated by STD = ffiffiffiffiffiffiffiffi PDI p × diameter. PDI is reported as mean ± standard deviation of the measurements. Data were analyzed using Dynamics 8.1.2.144. The ζ-potential was measured by a Zetasizer Nano (Malvern Instruments, Malvern, UK) by diluting the LNPs 5-fold in deionized water and transferring 1 mL into a DTS1070 capillary sample cell (Malvern).</p><p>The pK a of the LNPs was measured by evaluating the surface ionization of the particle via a 6-(p-toluidinyl)naphthalene-2-sulfonic acid (TNS) assay. LNPs were diluted 3-fold in pH 7.4 1X PBS. Buffered solutions containing 150 mM sodium chloride, 20 mM sodium phosphate, 20 mM ammonium acetate, and 25 mM ammonium citrate were adjusted to pH 2 to pH 11 in increments of 0.5 pH units. The TNS solution was prepared by dissolving TNS to a concentration of 160 µM in deionized water. In a black 96-well plate was added 125 µL of each pH-adjusted solution, 2.5 µL of each LNP formulation, and 5 µL of the TNS solution. All measurements were performed in triplicate. The plate was then wrapped in aluminum foil and then shook on a plate shaker at 200 rpm for 5 min. Afterwards, fluorescence was measured on an Infinite 200 Pro plate reader (Tecan) at an excitation wavelength of 322 nm and an emission wavelength of 431 nm. Using univariate LSLR, the pK a was determined as the pH corresponding to the halfmaximum fluorescence intensity, which corresponds to 50% protonation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In vitro studies</head><p>HeLa cells were purchased from ATCC (cat. CCL-2, Manassas, VA) and maintained in Dulbecco's modified Eagle medium with L-glutamine (DMEM; Gibco, Dublin, Ireland) supplemented with 10% fetal bovine serum (FBS; Gibco) and 1% penicillin-streptomycin (Gibco) at 37 °C in a humidified incubator with 5% CO 2 , and routinely tested for mycoplasma contamination. The cells were counted using a Countess 3 automated cell counter (Thermo Fisher Scientific) using 1:1 Trypan Blue Stain (Thermo Fisher Scientific). Cells were plated at 20,000 cells per well in 100 µL of media in tissue culture treated white 96-well plates and were left to adhere overnight. To evaluate in vitro luciferase expression, the media was removed and replaced with the corresponding LNPs encapsulating FLuc mRNA at a concentration of 20 ng of mRNA per well in 100 µL of media. Media alone was used as a negative control and C12-200 was employed as a positive control. The cells incubated with the LNPs for 24 h. Luciferase expression was measured by removing the media, adding 50 µL 1X reporter lysis buffer (Promega, Madison, WI), followed by 100 µL of luciferase assay substrate (Promega). The plate was then wrapped in aluminum foil and then shook on a plate shaker at 200 rpm for 10 min. Luminescence intensity was quantified using an Infinite 200 Pro plate reader (Tecan) and normalized based on the average intensity of the C12-200 LNP. Normalized luminescence is reported as mean ± standard deviation of the mean (SD) of n = 3 biological replicates, each averaged from n = 4 technical replicates. Cellular toxicity of the LNPs were measured using the same HeLa cell setup and LNP dosing scheme as described above. After 24 h, 100 µL of CellTiter-Glo (Promega) was added to each well, and then the plate was wrapped in aluminum foil and shook on a plate shaker at 200 rpm for 10 min. The luminescence corresponding to ATP concentration was quantified using an Infinite 200 Pro plate reader (Tecan) and normalized by dividing the luminescence from each group by the average luminescence signal of the untreated group. Cell viability percentage was reported as mean ± SD of n = 3 biological replicates, each averaged from n = 3 technical replicates.</p><p>In vivo biodistribution studies C57BL/6J female mice of 6-8 weeks old with an average weight of 20 g were purchased from Jackson Laboratory (Bar Harbor, ME). Animals were housed in a barrier facility with air humidity 40-70%, ambient temperature (22 ± 2 °C), and 12 h dark/12 h light cycle.</p><p>Mice were injected with LNPs encapsulating FLuc mRNA via the lateral tail vein at a dose of 0.1 mg of mRNA per kg of body mass (mg/ kg). After 12 h, the hair on the ventral side of the mice was removed with Veet Gel Cream Hair Remover (Reckitt Benckiser, Slough, UK). The mice were then administered with an intraperitoneal injection of D-luciferin (0.2 mL, 15 mg/mL; Biotium, Fremont, CA). After 5 min, full body luminescence images were obtained using an In Vivo Imaging System (IVIS; PerkinElmer, Waltham, MA). Afterwards. The mice were euthanized, and the heart, lungs, liver, kidneys, and spleen were removed and imaged for luminescence using IVIS. Total flux was quantified by the Living Image Software (PerkinElmer) by placing rectangular region of interests (ROIs) around the full body or organ images, keeping the same ROI sizes among each body or organ. Total flux was reported as mean ± SD of n = 3 biological replicates. Data were analyzed by Living Image 4.7.3.</p><p>For APOE knockout studies, liver luminescence was determined as described above using B6.129P2-Apoetm1Unc/J female mice, 6 weeks old, purchased from Jackson Laboratory.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TTR gene editing</head><p>One day prior to injections, blood was collected from C57BL/6J female mice of 6-8 weeks old via retro-orbital bleeding. Serum was isolated by centrifuging the blood in Microtainer blood collection tubes containing serum separator gel (BD, Franklin Lakes, NJ, USA) for 15 min at 2000 rcf. Mice were injected with LNPs encapsulating Cas9 mRNA and TTR sgRNA at a 4:1 mass ratio via the lateral tail vein at a combined RNA dose of 1.0 mg/kg. After 7 days, serum was isolated as described previously, the mice were euthanized, and the livers were removed. Serum TTR levels were measured using a mouse Prealbumin ELISA Kit (Aviva Systems Biology, San Diego, CA, USA) according to the manufacturer's instructions.</p><p>For indel analysis, DNA was extracted from the livers using a DNeasy Blood &amp; Tissue Kit (Qiagen, Hilden, Germany) and quantified using a nanodrop plate attachment on an Infinite 200 Pro plate reader (Tecan). PCR amplification of the TTR target site was conducted using Q5 High-Fidelity DNA Polymerase (New England Biolabs, Ipswich, MA, USA) and the following primer sequences: mTTR-exon2-F, 5'-CGG TTTACTCTGACCCATTTC-3' and mTTR-exon2-R, 5'-GGGCTTTCTAC AAGCTTACC-3'. Deep sequencing of the TTR amplicons and determination of the on-target indel frequency was performed as described except that 150 bp pair end reads were produced <ref type="bibr" target="#b61">62</ref> .</p><p>Aspartate aminotransferase and alanine transaminase levels were measured by colorimetric activity assay kits (Cayman Chemical Company, Ann Arbor, MI, USA). Serum was isolated 24 h after TTR-LNP injections and analyzed according to the manufacturer's instructions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LNP physicochemical correlations</head><p>The measurements for size, PDI, ζ-potential, pK a , encapsulation efficiency, and HeLa cell luminescence for each LNP were plotted against the liver total flux of the corresponding LNP. Pearson correlation coefficients were calculated by the equation r = P ðx i À xÞðy i À yÞ ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi P</p><formula xml:id="formula_0">x i À x ð Þ 2 P y i À y ð Þ 2 q ,</formula><p>where r is the correlation coefficient, x i is the liver total flux value for the given LNP, x is the mean liver total flux for all LNPs, y i is the characterization variable value for the given LNP, and y is the mean characterization variable value for all LNPs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cryogenic transmission electron microscopy</head><p>Morphology and size were analyzed by cryo-TEM by adding 3 μL of the LNPs at an mRNA concentration of 50 ng/μL to a Quantifoil (Jena, Germany) holey carbon grid that had been glow discharged. Grids were blotted and frozen in liquid ethane using a Vitrobot Mark IV (Thermo Fisher Scientific). Imaging was performed at the Beckman Center for cryo-EM on a Titan Krios equipped with a K3 Bioquantum (Thermo Fisher Scientific).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LNP stability analysis</head><p>LNPs were diluted 10-fold in either pH 7.4 1X PBS or supplemented DMEM (Gibco). The hydrodynamic diameter and PDI of the LNPs were measured every hour at 37 °C for 24 h using a DynaPro Plate Reader III (Wyatt Technology), as described above. All samples were run in duplicate. For the studies with vitronectin, RNP LNPs were mixed with human vitronectin (Thermo Fisher Scientific) at mass ratios of 3:1, 2:1, 1:1, 1:2, and 1:3, respectively. The mass of the LNPs corresponds to the sgRNA. Size was analyzed at 37 °C every hour for 9 h and is plotted as relative size compared to the corresponding RNP LNPs without vitronectin.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Kupffer cell knockdown</head><p>Kupffer cells from C57BL/6J female mice, 6-8 weeks old, were depleted by administering 0.2 mL of clodronate liposomes (Liposoma, Amsterdam, Netherlands) at a dose of 5 mg/mL via the lateral tail vein. After 24 h, the mice were reinjected via the lateral tail vein with LNPs encapsulated FLuc at a dose of 0.1 mg/kg. After 12 h, liver luminescence was quantified as described above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LNP accumulation</head><p>LNPs were formulated with FLuc mRNA as described above. Afterwards, the LNPs were mixed with 1,1'-dioctadecyl-3,3,3',3'-tetramethylindotricarbocyanine iodide (DiR; 5 µM in DMSO; Thermo Fisher Scientific) at a volume ratio of 50:1, respectively. The solution was placed on a plate shaker at 200 rpm for 25 min at room temperature. Then, the LNPs were administered into C57BL/6J mice and dissected as described above. fluorescence was obtained using the specific "DiR" setting on Living Image. ROIs were obtained as described above. Total radiant efficiency was reported as mean ± SD of n = 3 biological replicates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Artificial endosome disruption assay</head><p>Artificial endosomes were generated via a lipid film hydration method. To a 1-dram vial was added DOPS, DOPC, DOPE, NBD-PE, and Rho-PE (Avanti Polar Lipids) at a molar ratio of 25:25:48:1:1. The lipids were concentrated in vacuo with aluminum foil wrapped around the rotary evaporator to prevent photobleaching. After 2 h of concentrating, the samples were rehydrated with pH 7.4 1X PBS at a final concentration of 1 mM using a Branson 3800 Ultrasonic Cleaner (Brookfield, CT, USA) at room temperature for 20 min.</p><p>The assays were performed in black bottom 96-well plates. To each well was added 0.1 mL PBS (pH 5.5, 0.1 M), 1 µL of the artificial endosome, and an amount of LNP corresponding to 400 ng of mRNA. As a negative control, LNP was substituted with more PBS, and as a positive control, the LNP was replaced with 2% Triton-X100. The plate was wrapped in aluminum foil and incubated at 37 °C. Fluorescence was measured at an excitation wavelength of 465 nm and an emission wavelength of 520 nm at various timepoints over the course of 24 h. Endosomal disruption was calculated by FÀF min F max ÀF min × 100%, where F is the fluorescence of the LNP, F min is the fluorescence of the PBS control, and F max is the fluorescence the Triton-X100 positive control. All measurements were performed in quadruplicate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Atomistic molecular dynamics simulations</head><p>Molecular dynamic (MD) simulations were performed with the 2020.6 version of the GROMACS package using Nvidia A100 GPU workstations. Phospholipids are modeled using the CHARMM36m force field <ref type="bibr" target="#b62">63</ref> . The initial structure and topological files of the ILs were obtained from the CHARMM-GUI Ligand Reader &amp; Modeler <ref type="bibr" target="#b63">64</ref> . The initial configurations of IL-membrane systems were prepared using the CHARMM-GUI Multicomponent Assembler with ILs initially placed at 4 nm away from the membrane surface <ref type="bibr" target="#b64">65</ref> . A heterogeneous membrane bilayer consisting of DOPE, DOPC and DOPS was employed using a molar ratio of 2:1:1, with each leaflet containing a total of 64 lipids. The lipid composition was chosen to mimic the artificial endosomal membrane. The simulation box size was 6.5 × 6.5 × 8 nm 3 , with periodic boundary conditions applied in all three directions. Tip3p water model was utilized for modeling water <ref type="bibr" target="#b65">66</ref> . The cutoff distances for both van der Waal and columbic potential were 1.2 nm. The particle mesh Ewald (PME) summation method was applied for considering long-range electrostatic interactions <ref type="bibr" target="#b66">67</ref> . Sodium cations and chloride anions were used to neutralize the system using a salt concentration of 0.15 M. First, a steepest descent method was applied for energy minimization of the initial configuration, which was subsequently equilibrated by a short isothermal-isobaric (NPT) simulation at 1 bar via the Berendsen thermostat <ref type="bibr" target="#b67">68</ref> . For the production stage, the pressure was maintained at a constant 1 bar using the Parrinello-Rahman barostat <ref type="bibr" target="#b68">69</ref> . The temperature was maintained at 310 K using the Nosé-Hoover thermostat <ref type="bibr" target="#b69">70</ref> . Bonds with hydrogen atoms were constrained using the LINCS algorithm <ref type="bibr" target="#b70">71</ref> . A time step of 2 fs was employed, and simulation trajectories were saved every 100 ps. The total simulation time for each system was 1 μs. Analyses of these studies were performed on the last 0.5 μs of the production trajectories from two or three independent runs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ai9 knock-out in vivo model</head><p>Female Ai9 mice (B6.Cg-Gt(ROSA)26Sor tm9(CAG-tdTomato)Hze /J, Jackson Labs), 6 weeks old, were injected via the lateral tail vein with 0.15 mg sgRNA/ kg of LNPs encapsulating Cas9 ribonucleoprotein (RNP) complex every day for three days. After seven days from the last injection, mice were sacrificed and organs were harvested for IVIS imaging and flow cytometry. Livers were minced using a sterile blade and transferred to digestion medium containing DNase (New England Biolabs; Ipswich, MA), collagenase II and IV, and dispase II (Fisher Scientific) for 1 h at 37 °C. Afterwards, the livers were treated with ACK Lysis Buffer (Thermo Fisher Scientific) and processed to a single cell suspension in 1X PBS + 0.1% BSA + 2 mM EDTA. Lastly, livers were stained for CD31-BV421 (1:20 dilution) and CD326-FITC (1:200 dilution) (BioLegend; San Diego, CA, Fisher Scientific), CD45-BV786 (1:100 dilution) (Becton Dickinson), and ASGR1-CL488 (1:500 dilution) (Thermo Fisher Scientific) to isolate endothelial cells, epithelial cells, immune cells, and hepatocytes, respectively. tdTomato positivity was used to identify cells with successful LoxP stop cassette editing in the Ai9 cassette in the bulk organs (singlets) as well as the identified cell type populations. Flow cytometry was performed on a BD LSR II (Becton Dickinson) and analyzed via Flowjo V10.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>T cell transfection</head><p>Primary human T cells were obtained from healthy donors via the Perelman School of Medicine Human Immunology Core at a 1:1 ratio of CD4 + and CD8 + cells. The cells were activated with Human CD3/CD28 Dynabeads (Thermo Fisher Scientific) at a 1:1 bead and cell ratio for 24 h. Afterwards, the activated T cells were treated with LNPs encapsulating FLuc mRNA at a dose of 300 ng of mRNA per 60,000 cells. After 24 h, luciferase and viability assays were performed as described above. Normalized luminescence is reported as mean ± standard deviation of n = 3 different human donors, each averaged from n = 4 technical replicates. Cell viability percentage is reported as mean ± standard deviation of n = 3 different human donors, each averaged from n = 3 technical replicates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Endosomal escape analysis in T cells</head><p>Activated human primary T cells were plated in 24-well plates and dosed with LNPs encapsulating Cy3-tagged EGFP mRNA (APExBIO) at a dose of 625 ng of mRNA per 250,000 cells. After 24 h, Cy3 accumulation and EGFP expression were quantified using flow cytometry, via a BD LSR II (Becton Dickinson).</p><p>Additionally, LNPs were reformulated with 1 mol% 1,1'-dioctadecyl-3,3,3',3'-tetramethylindotricarbocyanine iodide (DiR; Thermo Fisher Scientific) and encapsulating Cy3-tagged EGFP mRNA. Activated human primary T cells were prepared as described above and plated on Nunc™ Lab-Tek™ II 4 Well Chamber Slides. The T cells were treated at a dose of 625 ng of mRNA per 250,000 cells. After 4 h, the T cells were treated with LysoTracker Deep Red (Thermo Fisher Scientific) according to the manufacturer's instructions. After 1 h, the cells were treated with Hoechst 33342 (Thermo Fisher Scientific) at a concentration of 1 µg/mL for 15 min. The slides were imaged on a Leica Stellaris 5 confocal microscope at 40× and 63× magnifications. Fiji/ ImageJ was utilized to process the images and colocalization was calculated via the BIOP JACoP plugin on Fiji/ImageJ v1.54j.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics &amp; reproducibility</head><p>All statistical analysis was performed in GraphPad Prism Version 10.0.2 (GraphPad Software, Inc, La Jolla, USA). All tests of significance were performed at a significance level of α = 0.05. For experiments with one variable where multiple technical or biological replicates were performed, one-way analyses of variance (ANOVAs) with post hoc Holm-Šídák correction for multiple comparisons were used to compare responses across treatment groups. For experiments that measured two variables with more than two treatment groups, a two-way ANOVA with post hoc Holm-Šídák correction for multiple comparisons were used to compare responses across treatment groups. For experiments that measured two variables with two treatment groups in each variable, multiple unpaired t tests with Holm-Šídák correction for multiple comparisons were used to compare responses across treatment groups. All data are presented as mean ± standard deviation unless otherwise reported. No statistical method was used to predetermine sample size. No data were excluded from the analyses. The experiments were not randomized. The investigators were not blinded to allocation during experiments and outcome assessment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reporting summary</head><p>Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 |</head><label>1</label><figDesc>Fig. 1 | Synthetic methodology of Branched ENdosomal Disruptor (BEND) ionizable lipid platform. a Synthetic scheme to generate terminally branched epoxides of various lengths. Bromoalkenes undergo Cu-catalyzed C-C coupling with branched Grignard caps to form branched alkenes. The bromoalkene can be generated by a mono E2 reaction with a dibromoalkane and tert-butoxide. The terminally branched alkenes then undergo mCPBA-mediated epoxidation to form the terminally branched epoxides. b S N 2 reaction with the 494 core and the linear or terminally branched epoxides to form the linear or BEND 494-core ILs (right). c Abbreviation scheme for the ILs. d Schematic of microfluidic formulation of linear or BEND LNPs. e BEND ILs facilitate greater endosomal disruption leading to increased hepatic mRNA translation. d, e were created in BioRender. Hamilton, A. (2024) https://BioRender.com/a46b016.</figDesc><graphic coords="3,140.62,408.95,319.00,237.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 |</head><label>2</label><figDesc>Fig. 2 | BEND 494-core LNPs increase mRNA liver transfection compared to linear 494-core LNPs. a-d Characterization of linear and BEND 494-core LNPs. Each LNP was analyzed for a mRNA encapsulation efficiency, b hydrodynamic diameter, c relative acidity, and d ζ-potential. For a, b data is represented as mean + SD of n = 3 technical replicates. e-h C57BL/6J mice were intravenously injected with LNPs at a dose of 0.1 mg/kg of FLuc mRNA. After 12 h, full body e total flux and f images were obtained via IVIS. The mice were then sacrificed and organ g total flux and h images were collected via IVIS. Organs imaged were heart (H), lungs (Lu), liver (Li), kidneys (K), and spleen (S). Total flux is reported as mean + SD of n = 3 for all LNPs except for C12-200 which has n = 6. e, g One-way ANOVA with post hoc Holm-Šídák correction for multiple comparisons were used to compare total flux across treatment groups to C12-200. Source data are provided as a Source Data file.</figDesc><graphic coords="4,97.17,48.76,406.55,599.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Article https://doi.org/10.1038/s41467-024-55137-6 Nature Communications | (2025) 16:996</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | BEND 200-core LNPs enhance mRNA delivery and Cas9-mediated gene editing. a S N 2 reaction with the 200 core and the linear or terminally branched epoxides to form the linear or BEND 200-core ILs. b, c C57BL/6J mice were intravenously injected with LNPs encapsulating FLuc mRNA at a dose of 0.1 mg/kg. After 12 h, the mice were sacrificed and organ b total flux and c images were collected via IVIS. Total flux is reported as mean ±+SD of n = 3 for all LNPs except for E4s-200 and C12-200 which has n = 6. C12-200 data is used from Fig. 2. d-h LNPs were reformulated with Cas9 mRNA and TTR sgRNA and d administered into C57BL/6J mice at a dose of 1 mg/kg of combined RNA. After day 7, e TTR serum levels and f liver TTR indels were analyzed. TTR reduction and indels are reported as mean + SD of n = 3. Serum g AST and h ALT levels were measured 24 h after LNP administration. AST and ALT levels are reported as min to max of n = 9. b One-way ANOVA with Holm-Šídák correction for multiple comparisons were used to compare the BEND LNPs against C12-200, SM-102, and ALC-0315, with the asterisks representing the least significant p value across all three comparisons. One-way ANOVA with Holm-Šídák correction for multiple comparisons were used to compare e TTR knockdown, f indel percentage, g AST levels, or h ALT levels across treatment groups to C12-200. d was created in BioRender. Hamilton, A. (2024) https:// BioRender.com/z78j857. Source data are provided as a Source Data file.</figDesc><graphic coords="6,60.49,48.76,480.02,420.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 |</head><label>4</label><figDesc>Fig.4| BEND and linear LNPs exhibit similar physiochemical characteristics, protein corona formation, and in vivo liver accumulation. Correlations between liver total flux and LNP a size, b PDI, c ζ-potential, d pK a , e mRNA encapsulation efficiency, and f relative HeLa flux. All 24 LNPs were evaluated. g Summary of Pearson correlation coefficients. h Cryo-TEM images of C8-200 and corresponding LNPs with BEND ILs. The eight LNPs with 200-core ILs were incubated in i PBS and j supplemented DMEM at 37 °C, and size was measured via dynamic light scattering. Size is reported as mean ± SD of n = 3. k ApoE knockout mice were injected with LNPs with four 200-core ILs. After 12 h, total flux was measured via IVIS. Total flux is reported as mean + SD of n = 2 for E4i-200 APOE KO, n = 6 for E4s-200 and C12-200 control, and n = 3 for all other groups. l, m C57BL/6J mice were injected intravenously with 1.0 mg of clodronate liposomes. After 24 h, the mice were injected intravenously with the eight LNPs with 200-core ILs containing FLuc mRNA at a dose of 0.1 mg/kg.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | BEND ILs enhance LNP delivery via increased endosomal disruption. a, b Artificial endosomes were constructed via thin film hydration of DOPE, DOPC, DOPS, NBD-PE, and Liss-Rhod-PE at a molar ratio of 48:25:25:1:1, respectively. Endosomes were mixed with a C8-200, E4i-200, E4t-200, and E4s-200 (C8/E4x 200core) LNPs or b C12-200, E8i-200, E8t-200, and E8s-200 (C12/E8x 200-core) LNPs, and fluorescence was measured at 465/520 nm at several timepoints over 24 h. Relative fluorescence is reported as mean ± SD of n = 3 technical replicates. Atomistic MD simulations were performed by modeling the insertion of a single IL into a lipid bilayer membrane with a mixture of DOPE, DOPC, and DOPS at a molar ratio of 2:1:1, respectively for c C8/E4x 200-core ILs and d C12/E8x 200-core ILs. The vertical distance of the center of mass of the IL to the bilayer center is reported as mean ± SD of n = 3 technical replicates. Correlation between artificial endosomal rupturing and bilayer penetration experiments for e C8/E4x 200-core LNPs/ILs and f C12/E8x 200-core LNPs/ILs. Data is represented as mean ± SD of bilayer penetration (horizontal) and endosomal disruption (vertical) of n = 3 technical replicates. Snapshots during the simulations of g C8/E4x 200-core ILs and h C12/E8x 200-core ILs. The IL is colored magenta and the nitrogen, oxygen, carbon, and hydrogen atoms in the lipid bilayer are colored blue, red, white, and white, respectively. Two-way ANOVA with Holm-Šídák correction for multiple comparisons were used to compare relative fluorescence across timepoints and LNPs to a C8-200 and b C12-200. The least significant adjusted p value out of the three branching groups is shown above each timepoint. One-way ANOVA with Holm--Šídák correction for multiple comparisons were used to compare distance to bilayer center across treatment groups to c C8-200 and d C12-200. Source data are provided as a Source Data file.</figDesc><graphic coords="9,62.74,305.90,477.88,225.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 6 |</head><label>6</label><figDesc>Fig. 6 | BEND ILs enable modular CRISPR-Cas9 ribonucleoprotein complex gene editing. a Schematic of LNP formulation with Cas9 RNP complex. b Ai9 mice were intravenously injected with LNPs encapsulating Cas9 RNP complex at a dose of 0.15 mg of sgRNA per kg of mouse body weight every day for three days. After a total of nine days, mice were sacrificed and c liver fluorescence, d lung fluorescence, e liver:lung fluorescence ratios, and f images were collected via IVIS. Total radiant efficiency is reported as mean + SD of n = 2 for E4s-200 and n = 3 for all other LNPs. After imaging, livers were processed into single cell suspensions and analyzed by flow cytometry for %tdTomato editing in g, h ASGR1+ hepatocytes, i, j CD326+ epithelial cells, and k CD31+ endothelial cells. Edited liver cells are reported as mean + SD of n = 2 biological replicates for E4s-200 and n = 3 biological replicates for all other LNPs. l physicochemical characteristics of the RNP LNPs. Parameters are reported as mean + SD of n = 3 technical replicates. c-e, g, h One-way ANOVA with Holm-Šídák correction for multiple comparisons were used to compare c, d total radiant efficiency to PBS, e liver:lung ratio across treatment groups to C12-200, and g ASGR1+ hepatocyte editing, i CD326+ epithelial editing, and k CD31+ endothelial editing to PBS. a, b were created in BioRender. Hamilton, A. (2024) https:// BioRender.com/g55t307. Source data are provided as a Source Data file.</figDesc><graphic coords="10,60.49,104.60,480.02,536.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 7 |</head><label>7</label><figDesc>Fig. 7 | BEND LNPs mediate potent T cell transfection via endosomal escape. a, b BEND or linear LNPs encapsulating FLuc mRNA were incubated in activated 1:1 CD4+ and CD8+ primary human T cells. After 24 h, a luminescence and b viability were assessed. Relative flux and viability are reported as mean + SD of n = 12 technical replicates. c Lipid ratio and components for the B10 formulation. d, eThe top LNP performers from the luciferase assay and C14-494 were reformulated with mCherry mRNA using the B10 formulation and incubated in activated human T cells. After 24 h, the percentage of mCherry positive cells was ascertained using flow cytometry. %mCherry+ is reported as mean + SD of n = 8 technical replicates. f Structures of the C14-494 and E10i-494. g LNPs, along with SM-102, were reformulated with Cy3-GFP mRNA and incubated in T cells at the same concentration and analyzed after 24 h using flow cytometry to determine LNP accumulation and GFP expression. Percent positivity is reported as mean + SD of n = 3 technical replicates. h-i C14-494 B10 and E10i-494 B10 LNPs were reformulated with Cy3labeled GFP mRNA and 1 mol% DiR and then incubated in activated primary human T cells at a dose of 625 ng mRNA per 250,000 cells. After 4 h, LysoTracker Deep Red and Hoechst 33342 were added to stain the lysosome and nuclei, respectively. Then, h images were obtained by confocal microscopy and i colocalization of Cy3 (mRNA) and lysotracker signal was determined using the BIOP JACoP plugin on Fiji. d One-way ANOVA with Holm-Šídák correction for multiple comparisons were used to compare %mCherry transfection to C12-200. a, b, g Two-way ANOVA with Holm-Šídák correction for multiple comparisons were used to compare a relative T cell flux or b viability to the linear LNPs across all lipid lengths as well as g the percentage of GFP+ and Cy3+ cells across LNPs. i Two-tail unpaired t test was used to compare correlation coefficients between LNPs. Source data are provided as a Source Data file.</figDesc><graphic coords="12,60.49,48.76,480.02,526.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>C NMR (101 MHz, CDCl 3 ) δ 139.06, 114.12, 33.83, 33.77, 32.89, 29.52, 29.48, 29.46, 29.15, 28.96, 28.80, 28.21.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Nature Communications | (2025) 16:996</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements M.S.P. acknowledges support from the <rs type="funder">National Institute of Dental &amp; Craniofacial Research (NIDCR)</rs> of the <rs type="funder">National Institutes of Health (NIH)</rs> under Award Number <rs type="grantNumber">T90DE030854</rs> and the <rs type="institution">Center for Innovation &amp; Precision Dentistry (CiPD)</rs> at the <rs type="institution">University of Pennsylvania</rs>. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. M.J.M. acknowledges support from an <rs type="funder">NIH</rs> <rs type="grantName">Director's New Innovator Award</rs> (no. <rs type="grantNumber">DP2TR002776</rs>), a <rs type="grantName">Burroughs Wellcome Fund Career Award</rs> at the <rs type="institution">Scientific Interface (CASI)</rs>, an <rs type="funder">American Cancer Society</rs> <rs type="grantName">Research Scholar Grant</rs> (<rs type="grantNumber">RSG-22-122-01-ET</rs>), and a <rs type="funder">US National Science Foundation</rs> iECURE. The authors also acknowledge the <rs type="programName">NSF Major Research Instrumentation Program</rs> (award <rs type="funder">NSF</rs> <rs type="grantNumber">CHE-1827457</rs>) and <rs type="funder">Vagelos Institute for Energy Science and Technology</rs> for supporting the purchase of the NMR used in this study. Cryo-EM imaging was provided by the <rs type="funder">Beckman Center for Cryo Electron Microscopy at the University of Pennsylvania Perelman School of Medicine</rs> (RRID: <rs type="grantNumber">SCR_022375</rs>). The authors thank <rs type="person">Emily Cento</rs>, <rs type="person">Zhilin Chen</rs>, <rs type="person">Max A. Eldabbas</rs>, and <rs type="person">Emileigh Maddox</rs> of the <rs type="funder">Human Immunology Core and the Division of Transfusion Medicine and Therapeutic Pathology</rs> at the <rs type="affiliation">Perelman School of Medicine at the University of Pennsylvania</rs> for providing de-identified T cells that were purified from healthy donor apheresis using StemCell RosetteSep™ kits. The HIC is supported in part by <rs type="funder">NIH</rs> <rs type="grantNumber">P30 AI045008</rs> and <rs type="grantNumber">P30 CA016520. HIC RRID: SCR_022380</rs>. Figure schematics were created with BioRender. The authors also thank the <rs type="institution">Cesar de la Fuente Lab at University of Pennsylvania Perelman School of Medicine</rs> for providing GPU computational resources.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_YJhFWqT">
+					<idno type="grant-number">T90DE030854</idno>
+				</org>
+				<org type="funding" xml:id="_4ktnYs4">
+					<idno type="grant-number">DP2TR002776</idno>
+					<orgName type="grant-name">Director&apos;s New Innovator Award</orgName>
+				</org>
+				<org type="funding" xml:id="_JrGBSCe">
+					<orgName type="grant-name">Burroughs Wellcome Fund Career Award</orgName>
+				</org>
+				<org type="funding" xml:id="_4V9rpW7">
+					<idno type="grant-number">RSG-22-122-01-ET</idno>
+					<orgName type="grant-name">Research Scholar Grant</orgName>
+					<orgName type="program" subtype="full">NSF Major Research Instrumentation Program</orgName>
+				</org>
+				<org type="funding" xml:id="_FEJqrKJ">
+					<idno type="grant-number">CHE-1827457</idno>
+				</org>
+				<org type="funding" xml:id="_DzgmNZs">
+					<idno type="grant-number">SCR_022375</idno>
+				</org>
+				<org type="funding" xml:id="_HrSHMXJ">
+					<idno type="grant-number">P30 AI045008</idno>
+				</org>
+				<org type="funding" xml:id="_FZdcv9T">
+					<idno type="grant-number">P30 CA016520. HIC RRID: SCR_022380</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>All relevant data supporting the findings of this study are available within the paper and Supplementary Information. Source data are provided with this paper.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>M.S.P. and M.J.M. conceived and designed the experiments. M.S.P., K.M., Y.W., S.D., R.M.H., J.J.L., E.L.H., R.E-M., E.H.K., N.G., S.V.T., X.H., V.C., L.X., Z.S., H.M.Y., D.K., and I-C.Y. performed the experiments. M.S.P., R.M.H., and Y.M. analyzed the data. M.S.P. and M.J.M. wrote the manuscript. Y.W., R.M.H., X.H., V.C., J.M.W., R.R., and M.J.M. edited the manuscript. All authors discussed the results and commented on the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>M.S.P. and M.J.M. have filed a patent application related to the structure of the BEND lipids and biological applications (U.S. Provisional Patent Appl. No. 63/373,793, filed August 29, 2022). J.M.W. is a paid advisor to and holds equity in iECURE, Passage Bio, and the Center for Breakthrough Medicines (CBM). He also holds equity in the former G2 Bio asset companies and Ceva Santé Animale. He has sponsored research agreements with Alexion Pharmaceuticals, Amicus Therapeutics, CBM, Ceva Santé Animale, Elaaj Bio, FA212, Foundation for Angelman Syndrome Therapeutics, former G2 Bio asset companies, iECURE, and Passage Bio, which are licensees of Penn technology. JMW is an inventor on patents that have been licensed to various biopharmaceutical companies and for which he may receive payments. The remaining authors declare no competing interests</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary information The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41467-024-55137-6">https://doi.org/10.1038/s41467-024-55137-6</ref>.</p><p>Correspondence and requests for materials should be addressed to Michael J. Mitchell.</p><p>Peer review information Nature Communications thanks the anonymous reviewers for their contribution to the peer review of this work. A peer review file is available.</p><p>Reprints and permissions information is available at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref> Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ref type="url" target="http://creativecommons.org/licenses/by-nc-nd/4.0/">http:// creativecommons.org/licenses/by-nc-nd/4.0/</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">An Unstable Intermediate Carrying Information from Genes to Ribosomes for Protein Synthesis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jacob</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meselson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="576" to="581" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Systemic delivery of factor IX messenger RNA for protein replacement therapy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramaswamy</surname></persName>
+		</author>
+		<idno>1941-E1950</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Personalized RNA neoantigen vaccines stimulate T cells in pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Rojas</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41586-023-06063-y</idno>
+		<ptr target="https://doi.org/10.1038/s41586-023-06063-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Expression kinetics of nucleoside-modified mRNA delivered in lipid nanoparticles to mice by various routes</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Rel</title>
+		<imprint>
+			<biblScope unit="volume">217</biblScope>
+			<biblScope unit="page" from="345" to="351" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The dawn of mRNA vaccines: The COVID-19 case</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Verbeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lentacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>De Smedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Dewitte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Rel</title>
+		<imprint>
+			<biblScope unit="volume">333</biblScope>
+			<biblScope unit="page" from="511" to="520" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Delivering the Messenger: Advances in Technologies for Therapeutic mRNA Delivery</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Kowalski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rudra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ther</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="710" to="728" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Incorporation of Pseudouridine Into mRNA Yields Superior Nonimmunogenic Vector With Increased Translational Capacity and Biological Stability</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Karikó</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ther</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1833" to="1840" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Generating the optimal mRNA for therapy: HPLC purification eliminates immune activation and improves translation of nucleoside-modified, protein-encoding mRNA</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Karikó</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Muramatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ludwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weissman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">142</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticles for mRNA delivery</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Zaks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Langer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Dong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Mater</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1078" to="1094" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Surveillance for Adverse Events After COVID-19 mRNA Vaccination</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">326</biblScope>
+			<biblScope unit="page" from="1390" to="1399" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Selective organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery and CRISPR-Cas gene editing</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="313" to="320" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ionizable Lipid Nanoparticles for Therapeutic Base Editing of Congenital Brain Disease</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Palanki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="13594" to="13610" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">In vivo delivery of CRISPR-Cas9 using lipid nanoparticles enables antithrombin gene editing for sustainable hemophilia A and B therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">6901</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single-guide RNA achieves liver-specific in vivo genome editing of Angptl3</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page">2020401118</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">CRISPR-Cas9 genome editing using targeted lipid nanoparticles for cancer therapy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rosenblum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">9450</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Importance of Apparent pKa in the Development of Nanoparticles Encapsulating siRNA and mRNA</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Ibrahim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Pharmacol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="448" to="460" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">On the Formation and Morphology of Lipid Nanoparticles Containing Ionizable Cationic Lipids and siRNA</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kulkarni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="4787" to="4795" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The role of surface chemistry in serum protein corona-mediated cellular delivery and gene silencing with lipid nanoparticles</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ganesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amiji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanoscale</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="8760" to="8775" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A Novel Amino Lipid Series for mRNA Delivery: Improved Endosomal Escape and Sustained Pharmacology and Safety in Non-human Primates</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sabnis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ther</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1509" to="1519" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Linkage between endosomal escape of LNP-mRNA and loading into EVs for transport to other cells</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maugeri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">4333</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Degradable lipid nanoparticles with predictable in vivo siRNA delivery activity</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Whitehead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">4277</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Customizable Lipid Nanoparticle Materials for the Delivery of siRNAs and mRNAs</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Fenton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="13582" to="13586" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Unsaturated, Trialkyl Ionizable Lipids are Versatile Lipid-Nanoparticle Components for Therapeutic and Vaccine Applications</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">2209624</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticle technology for therapeutic gene regulation in the liver</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Witzigmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Drug Deliv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="344" to="363" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Iterative Design of Ionizable Lipids for Intramuscular mRNA Delivery</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tilstra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="2294" to="2304" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Ionizable Lipid Nanoparticle-Mediated mRNA Delivery for Human CAR T Cell Engineering</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Billingsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1578" to="1589" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticles for delivery of messenger RNA to the back of the eye</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Ryals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Weller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Pennesi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sahay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Rel</title>
+		<imprint>
+			<biblScope unit="volume">303</biblScope>
+			<biblScope unit="page" from="91" to="100" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Functionalized lipid-like nanoparticles for in vivo mRNA delivery and base editing</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">2315</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The role of lipid components in lipid nanoparticles for vaccines and gene therapy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hald Albertsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Drug Deliv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<biblScope unit="page">114416</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Atomistic Insights into Organization of RNA-Loaded Lipid Nanoparticles</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Paloncýová</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.jpcb.2c07671</idno>
+		<ptr target="https://doi.org/10.1021/acs.jpcb.2c" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. B</title>
+		<imprint>
+			<biblScope unit="page">7671</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Branched-Tail Lipid Nanoparticles Potently Deliver mRNA In Vivo due to Enhanced Ionization at Endosomal pH</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Hajj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">1805097</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A Potent Branched-Tail Lipid Nanoparticle Enables Multiplexed mRNA Delivery and Gene Editing In Vivo</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Hajj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="5167" to="5175" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Lipid-like materials for low-dose, in vivo gene silencing</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Love</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="1864" to="1869" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A Combinatorial Library of Lipid Nanoparticles for RNA Delivery to Leukocytes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramishetti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">1906128</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Cu-Catalyzed Alkylation of Grignard Reagents: A New Efficient Procedure</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cahiez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chaboche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jézéquel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="2733" to="2737" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Orthogonal Design of Experiments for Optimization of Lipid Nanoparticles for mRNA Engineering of CAR T Cells</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Billingsley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="533" to="542" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Ionizable lipid nanoparticles for in utero mRNA delivery</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Riley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1028</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Ionizable Lipid Nanoparticles for In Vivo mRNA Delivery to the Placenta during Pregnancy</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Swingle</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/jacs.2c12893</idno>
+		<ptr target="https://doi.org/10.1021/jacs.2c12893" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Scalable mRNA and siRNA Lipid Nanoparticle Production Using a Parallelized Microfluidic Device</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Shepherd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="5671" to="5680" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Optimization of Lipid Nanoparticle Formulations for mRNA Delivery in Vivo with Fractional Factorial and Definitive Screening Designs</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Kauffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="7300" to="7306" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The Onpattro story and the clinical translation of nanomedicines containing nucleic acid-based drugs</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akinc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Nanotechnol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1084" to="1087" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">A Single Administration of CRISPR/Cas9 Lipid Nanoparticles Achieves Robust and Persistent In Vivo</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Finn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Editing. Cell Rep</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2227" to="2235" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">In vitro and in vivo evaluation of clinicallyapproved ionizable cationic lipids shows divergent results between mRNA transfection and vaccine efficacy</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Escalona-Rayo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomed. Pharmacother</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page">115065</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Ionization and structural properties of mRNA lipid nanoparticles influence expression in intramuscular and intravascular administration</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Carrasco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Biol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A Direct Comparison of in Vitro and in Vivo Nucleic Acid Delivery Mediated by Hundreds of Nanoparticles Reveals a Weak Correlation</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Paunovska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="2148" to="2157" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">In situ combinatorial synthesis of degradable branched lipidoids for systemic delivery of mRNA therapeutics and gene editors</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">1762</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Helper lipid structure influences protein adsorption and delivery of lipid nanoparticles to spleen and liver</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomater. Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1449" to="1463" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Engineered ionizable lipid nanoparticles for targeted delivery of RNA therapeutics into different types of cells in the liver</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">4398</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Lipid Nanoparticle (LNP) Chemistry Can Endow Unique In Vivo RNA Delivery Fates within the Liver That Alter Therapeutic Outcomes in a Cancer Model</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Pharmaceutics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3973" to="3986" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Membrane-destabilizing ionizable phospholipids for organ-selective mRNA delivery and CRISPR-Cas gene editing</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="701" to="710" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">A Systematic Study of Unsaturation in Lipid Nanoparticles Leads to Improved mRNA Transfection In Vivo</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="5912" to="5917" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Systemic nanoparticle delivery of CRISPR-Cas9 ribonucleoproteins for effective tissue specific genome editing</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-L</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Siegwart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">3232</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Lipid Nanoparticle Delivery of Small Proteins for Potent In Vivo RAS Inhibition</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Haley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Appl. Mater. Interfaces</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="21877" to="21892" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Lipid nanoparticle chemistry determines how nucleoside base modifications alter mRNA delivery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Melamed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Controlled Rel</title>
+		<imprint>
+			<biblScope unit="volume">341</biblScope>
+			<biblScope unit="page" from="206" to="214" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Influence of ionizable lipid tail length on lipid nanoparticle delivery of mRNA of varying length</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mrksich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biomed. Mater. Res. Part A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="1494" to="1505" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page">2116271119</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Combination of Physicochemical Tropism and Affinity Moiety Targeting of Lipid Nanoparticles Enhances Organ Targeting</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Zamora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano Lett</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="4774" to="4784" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Involvement of Vitronectin in Lipopolysaccaride-Induced Acute Lung Injury1</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tsuruta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Siegal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Abraham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Immunol</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="7079" to="7086" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Physicochemical Targeting of Lipid Nanoparticles to the Lungs Induces Clotting: Mechanisms and Solutions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Omo-Lamai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">2312026</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">MolGpka: A Web Server for Small Molecule pKa Prediction Using a Graph-Convolutional Neural Network</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Inf. Model</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="3159" to="3165" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Synthesis of Linear Aza and Thio Analogues of Acetogenins and Evaluation of Their Cytotoxicity</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Villo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Toom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eriste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Org. Chem</title>
+		<imprint>
+			<biblScope unit="page" from="6886" to="6899" />
+			<date type="published" when="2013">2013. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Meganuclease targeting of PCSK9 in macaque liver leads to stable reduction in serum cholesterol</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Biotechnol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="717" to="725" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Optimization of the Additive CHARMM All-Atom Protein Force Field Targeting Improved Sampling of the Backbone ϕ, ψ and Side-Chain χ1 and χ2 Dihedral Angles</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Best</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Theory Comput</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="3257" to="3273" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">CHARMM-GUI ligand reader and modeler for CHARMM force field generation of small molecules</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Computational Chem</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1879" to="1886" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">CHARMM-GUI: A web-based graphical user interface for CHARMM</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Iyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Im</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Computational Chem</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1859" to="1865" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Comparison of simple potential functions for simulating liquid water</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Jorgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chandrasekhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Madura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Impey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="926" to="935" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">A smooth particle mesh Ewald method</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Essmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="8577" to="8593" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Molecular dynamics with coupling to an external bath</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J C</forename><surname>Berendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P M</forename><surname>Postma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Van Gunsteren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dinola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Haak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="3684" to="3690" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Polymorphic transitions in single crystals: A new molecular dynamics method</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="7182" to="7190" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Canonical dynamics: Equilibrium phase-space distributions</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Hoover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1695" to="1697" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">LINCS: A linear constraint solver for molecular simulations</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J C</forename><surname>Berendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G E</forename><surname>Fraaije</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Computational Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1463" to="1472" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

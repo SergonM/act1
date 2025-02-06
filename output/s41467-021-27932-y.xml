@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A bioactivated in vivo assembly nanotechnology fabricated NIR probe for small pancreatic tumor intraoperative imaging</title>
+				<funder ref="#_f6hGWSX">
+					<orgName type="full">CAS Interdisciplinary Innovation Team and Youth Innovation Promotion</orgName>
+				</funder>
+				<funder ref="#_vfCWKGv">
+					<orgName type="full">National Key R&amp;D Program of China</orgName>
+				</funder>
+				<funder ref="#_kpUfq6S">
+					<orgName type="full">National Natural Science Foundation of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Han</forename><surname>Ren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">CAS Center for Excellence in Nanoscience</orgName>
+								<orgName type="department" key="dep2">National Center for Nanoscience and Technology (NCNST)</orgName>
+								<orgName type="laboratory">CAS Key Laboratory for Biological Effects of Nanomaterials and Nanosafety</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiang-Zhong</forename><surname>Zeng</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">CAS Center for Excellence in Nanoscience</orgName>
+								<orgName type="department" key="dep2">National Center for Nanoscience and Technology (NCNST)</orgName>
+								<orgName type="laboratory">CAS Key Laboratory for Biological Effects of Nanomaterials and Nanosafety</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Center of Materials Science and Optoelectronics Engineering</orgName>
+								<orgName type="institution">University of Chinese Academy of Sciences (UCAS)</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Academy for Advanced Interdisciplinary Studies</orgName>
+								<orgName type="institution">Peking University</orgName>
+								<address>
+									<postCode>100871</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xiao-Xiao</forename><surname>Zhao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">CAS Center for Excellence in Nanoscience</orgName>
+								<orgName type="department" key="dep2">National Center for Nanoscience and Technology (NCNST)</orgName>
+								<orgName type="laboratory">CAS Key Laboratory for Biological Effects of Nanomaterials and Nanosafety</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Da-Yong</forename><surname>Hou</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">CAS Center for Excellence in Nanoscience</orgName>
+								<orgName type="department" key="dep2">National Center for Nanoscience and Technology (NCNST)</orgName>
+								<orgName type="laboratory">CAS Key Laboratory for Biological Effects of Nanomaterials and Nanosafety</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Urology</orgName>
+								<orgName type="institution">The Fourth Hospital of Harbin Medical University</orgName>
+								<address>
+									<settlement>Heilongjiang</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="laboratory">NHC Key Laboratory of Molecular Probes and Targeted Diagnosis and Therapy</orgName>
+								<orgName type="institution">Key Laboratory of Scientific Research in Urology</orgName>
+								<address>
+									<postCode>150001</postCode>
+									<settlement>Harbin</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Haodong</forename><surname>Yao</surname></persName>
+							<idno type="ORCID">0000-0001-5959-8594</idno>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of High Energy Physics</orgName>
+								<orgName type="institution">Harbin Medical University</orgName>
+								<address>
+									<postCode>150001</postCode>
+									<settlement>Harbin</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Muhammad</forename><surname>Yaseen</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Institute of Chemical Sciences</orgName>
+								<orgName type="institution">Chinese Academy of Sciences (CAS)</orgName>
+								<address>
+									<postCode>100049</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lina</forename><surname>Zhao</surname></persName>
+							<idno type="ORCID">0000-0002-9796-0221</idno>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of High Energy Physics</orgName>
+								<orgName type="institution">Harbin Medical University</orgName>
+								<address>
+									<postCode>150001</postCode>
+									<settlement>Harbin</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wan-Hai</forename><surname>Xu</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Urology</orgName>
+								<orgName type="institution">The Fourth Hospital of Harbin Medical University</orgName>
+								<address>
+									<settlement>Heilongjiang</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="laboratory">NHC Key Laboratory of Molecular Probes and Targeted Diagnosis and Therapy</orgName>
+								<orgName type="institution">Key Laboratory of Scientific Research in Urology</orgName>
+								<address>
+									<postCode>150001</postCode>
+									<settlement>Harbin</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hao</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">CAS Center for Excellence in Nanoscience</orgName>
+								<orgName type="department" key="dep2">National Center for Nanoscience and Technology (NCNST)</orgName>
+								<orgName type="laboratory">CAS Key Laboratory for Biological Effects of Nanomaterials and Nanosafety</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Li-Li</forename><surname>Li</surname></persName>
+							<email>lill@nanoctr.cn</email>
+							<idno type="ORCID">0000-0002-9793-3995</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">CAS Center for Excellence in Nanoscience</orgName>
+								<orgName type="department" key="dep2">National Center for Nanoscience and Technology (NCNST)</orgName>
+								<orgName type="laboratory">CAS Key Laboratory for Biological Effects of Nanomaterials and Nanosafety</orgName>
+								<address>
+									<postCode>100190</postCode>
+									<settlement>Beijing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">University of Peshawar</orgName>
+								<address>
+									<postCode>25120</postCode>
+									<settlement>Peshawar</settlement>
+									<country key="PK">Pakistan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A bioactivated in vivo assembly nanotechnology fabricated NIR probe for small pancreatic tumor intraoperative imaging</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D3F93BDF7A170C54B2A16B0598752706</idno>
+					<idno type="DOI">10.1038/s41467-021-27932-y</idno>
+					<note type="submission">Received: 20 April 2021; Accepted: 3 December 2021;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Real-time imaging of the tumour boundary is important during surgery to ensure that sufficient tumour tissue has been removed. However, the current fluorescence probes for bioimaging suffer from poor tumour specificity and narrow application of the imaging window used. Here, we report a bioactivated in vivo assembly (BIVA) nanotechnology, demonstrating a general optical probe with enhanced tumour accumulation and prolonged imaging window. The BIVA probe exhibits active targeting and assembly induced retention effect, which improves selectivity to tumours. The surface specific nanofiber assembly on the tumour surface increases the accumulation of probe at the boundary of the tumor. The blood circulation time of the BIVA probe is prolonged by 110 min compared to idocyanine green. The assembly induced metabolic stability broaden the difference between the tumor and background, obtaining a delayed imaging window between 8-96 h with better signal-tobackground contrast (&gt;9 folds). The fabricated BIVA probe permits precise imaging of small sized (&lt;2 mm) orthotopic pancreatic tumors in vivo. The high specificity and sensitivity of the BIVA probe may further benefit the intraoperative imaging in a clinical setting.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S</head><p>urgical resection remains the mainstay of treatment for patients with tumor of any grade, including pancreatic cancer, which is known as the "king of cancer" <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> . However, for small lesions or small metastases in pancreatic cancer (tumor diameter &lt;2.0 cm), and the tumor boundaries, which could be hardly identified currently, are truly dependent on the experience and expertise of the surgeon <ref type="bibr" target="#b2">3</ref> . Otherwise, according to the diagnosis of the cutting edge made by intraoperative frozen pathological section, the accuracy rate is only about 50%, which dramatically increased the risk of recurrence and metastasis <ref type="bibr" target="#b3">4</ref> . It can be found that pancreatic cancer, which is not yet metastasized and whose tumor diameter is less than 2.0 cm will increase the 5-year survival rate to 19-41% after surgical resection <ref type="bibr" target="#b4">5</ref> . Meantime, the risk of perioperative morbidity can be minimized through the combined use of MIR/CT imaging before operation and fluorescence-based intraoperation imaging <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> .</p><p>As a real-time tumor imaging molecule, fluorescent probe has been widely used in clinical practice to provide information on tumor diagnosis and drug development <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref> . The most famous probe is indocyanine green (ICG), which is a Food and Drug Administration (FDA)-approved near-infrared fluorescent dye, has been used in clinical intraoperative navigation <ref type="bibr" target="#b12">13</ref> . These small molecules lack of active targeting and showing poor retention in tumor, which narrowed the detection window for complicated surgery <ref type="bibr" target="#b10">11</ref> . For a better specificity, researchers developed tumor microenvironment turn-on probe to response ROS, lack of oxygen, pH etc <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref> . However, traditional small molecule fluorescent dyes metabolize quickly and easily cleared by the liver and kidney, which shorted the imaging detection time <ref type="bibr" target="#b16">17</ref> . Secondly, the aggregation-caused quenching (ACQ) effect of such fluorescence dyes limited the molecular accumulation in tumor and the photobleaching behavior also confused the imaging. Another way in recent years, the delivery of fluorescent probes in vivo has attracted much attention <ref type="bibr" target="#b17">18</ref> . Like drug delivery <ref type="bibr" target="#b18">19</ref> , fluorescent probes need to be transmitted through blood to the tumor site for better osmotic enrichment at the tumor site to generate fluorescence in a stable and long-term manner <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b20">21</ref> . In our previous work, we have demonstrated that the enzyme triggered in situ nanofibers assembly exhibited typical aggregation/assembly induced retention (AIR) effect to allow the fluorescent probes to accumulate near the tumor for a long time, extending the imaging time <ref type="bibr" target="#b19">20</ref> . However, the imaging specificity still a great concern for challenging the small sized orthotopic tumor.</p><p>Herein, we reported a bioactivated in vivo assembly (BIVA) probe (named M1) for specific and sensitive pancreatic tumor imaging (Fig. <ref type="figure" target="#fig_0">1</ref>). The BIVA probe was modular designed with five modules, including long-term circulation motif (mPEG 2000 ), response tailoring motif (Gly-Pro-Ala) <ref type="bibr" target="#b21">22</ref> , self-assembly motif (Lys-Leu-Val-Phe-Phe-Gly-Cys-Gly), targeting motif (Arg-Gly-Asp), and imaging motif (IR 783 ). Firstly, the probe enabled longterm blood circulation consequently enhanced the probability to reach its target <ref type="bibr" target="#b22">23</ref> . Next, the targeting motif (RGD) specifically recognized and bonded onto the receptor αvβ3 integrin <ref type="bibr" target="#b23">24</ref> . The over expressed fibroblast activation protein-α (FAP-α) on the membrane of MIA PaCa-2 tailored the molecules to induce in situ assembly with typical β-sheet structure <ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26</ref> . Finally, the assembled nanofibers located around the membrane of MIA PaCa-2 in the tumor microenvironment and well labeled the tumor. Based on in vivo self-assembly nanotechnology, the BIVA probe gave optimized biodistribution half-life (long blood circulation) and elimination half-life (AIR effect), resulting in significant enhancement of area under the curve (AUC), thus increasing drug availability. In addition, the targeting and tailoring induced assembly on the membrane of MIA PaCa-2 had a spatial controlled specificity, which also contributed to enhance tumor imaging sensitivity. The introduction of mPEG module reduces the capacity of molecular assembly of M1 from the spatial structure and optimizes the molecular properties. Compared with previous work, we provided an optimized imaging probe delivery system based on BIVA effect, which exhibited a synergetic and enhanced new targeting mechanism: active targeting plus AIR effect <ref type="bibr" target="#b26">27</ref> . We believed that such a BIVA effect and modular designed BIVA probe will offer us a tool for different imaging molecule delivery. It also has the potential to be used in intraoperative navigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Molecular design, assembled behavior and conformation. In order to study the molecular design and their assembly behavior, we modular designed and synthesized seven molecules (Table <ref type="table" target="#tab_0">1</ref>), which respectively were BIVA probe: M1 (mPEG-GPAKLVFFG-C(IR783)GRGD); the non-FAP-α tailoring molecule: M2 (mPEG-AGGKLVFFGC(IR783)GRGD) scrambled response tailoring motif of Gly-Pro-Ala with Ala-Gly-Gly; the non-labeling molecule of M1: M3 (mPEG-GPAKLVFFGCGRGD) removed IR 783 labeling; FAP-α tailoring residue of M1: R-M1 (AKLVFFGC(IR783) GRGD); the non-targeting molecule: M4 (mPEG-GPAKLVFFG-C(IR783)GDTG) scrambled targeting tailoring motif of Arg-Gly-Asp with Asp-Thr-Gly; the non-labeling molecule of M2: M5 (mPEG-AGGKLVFFGCGRGD) removed IR 783 labeling; FAP-α tailoring residue of M3: R-M3 (AKLVFFGCGRGD). All the synthesized procedure (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>) and characterizations of these seven molecules can be found in SI (Supplementary Figs. <ref type="figure" target="#fig_1">2</ref><ref type="figure" target="#fig_2">3</ref><ref type="figure" target="#fig_3">4</ref><ref type="figure" target="#fig_4">5</ref><ref type="figure" target="#fig_5">6</ref><ref type="figure" target="#fig_6">7</ref><ref type="figure" target="#fig_7">8</ref>). As seen in Table <ref type="table" target="#tab_0">1</ref>, although scrambled the tailoring motif of M2 and targeting motif of M4, the critical assembly concentration (CAC) of these two molecules in aqueous solution was like that of M1, both of which were above 500 μM. Without IR 783 labeling, molecules of M3 and M5 decreased the CAC value in solution relative to M1 and M2, which could be attributed to the proximity of the steric hindrance of hydrophilic IR 783 to the self-assembly motif (Supplementary Fig. <ref type="figure">9</ref>). When we removed the long-term circulation motif of mPEG 2000 tail of M1 and M3, the CAC of the truncated residues of R-M1 and R-M3 dramatically decreased by more than two orders of magnitude (Supplementary Fig. <ref type="figure" target="#fig_0">10</ref>). The CAC was quantitatively calculated by fluorescence probe of pyrene. All the results indicated that both hydrophilic mPEG tail and IR 783 labeling contributed to the solubility of molecules in aqueous solution.</p><p>From the molecular dynamics (MD) simulation calculations, we observed that both the backbones of M1 and the residual R-M1 of M1 were β-hairpin conformations (Fig. <ref type="figure" target="#fig_1">2</ref> and Supplementary Fig. <ref type="figure" target="#fig_0">11</ref>). The mPEG tail was close to the self-assembly motif through multiple hydrophobic interactions to stabilize its conformation, including hydrogen bonds VAL4:CYS8, ARG10:ALA1, ARG10: IR 783 , ARG10:ASP12, ARG10:ASP12, and salt-bridge ARG10:ASP12 on both sides of the hairpin. Interestingly, the labeling of IR 783 was perpendicular to the β-hairpin backbone and mPEG tail, which formed a significant steric hindrance preventing the further intermolecular assembly. When the mPEG motif was tailored, the backbone of R-M1 remained its β-hairpin structures by hydrophobic interactions, hydrogen bonds GLY9:PHE6, LYS2:CASP12, ARG10:CASP12, LYS2:CASP12, ARG10:CASP12 and salt-bridges LYS2:CASP12, ARG10:CASP12 on both sides of hairpin, while the IR 783 showed an obvious intramolecular rearrangement, resulting in its alignment parallel to the backbone. When the mPEG motif was tailored <ref type="bibr" target="#b27">28</ref> , the IR 783 was arranged parallel to the backbone, the hydrophilicity of molecule decreased and the hydrogen bonds on the self-assembled surface were exposed. The decrease of hydrophilicity of molecule and the exposure of hydrogen bonding surface of self-assembled motif were conducive for the occurrence of intermolecular dynamic assembly. So that the tailoring of the mPEG motif promotes the occurrence of intermolecular dynamic assembly.</p><p>To further evaluate the assembled structures, the corresponding circular dichroism (CD), Fourier transform infrared (FTIR) spectroscopy, and wide-angle X-ray scattering (WAXS) spectroscopy were applied. As shown in Fig. <ref type="figure" target="#fig_2">3a</ref> and Supplementary Table <ref type="table" target="#tab_0">1</ref>, CD spectrum of M3 assemblies had a positive band at λ = 193 nm and two negative bands at λ = 208 nm, and λ = 225 nm respectively, which implied a β-sheet and α-helix hybrid structure. In contrast, under the same concentration, M1 molecules had a random coil secondary structure in CD spectrum as monomers which the concentration is lower than CAC. The FITR spectra of M1 and M3 in Fig. <ref type="figure" target="#fig_2">3b</ref> observed the intermolecular interactions. The peaks at 1629 cm -1 , 1675 cm -1 , and 1698 cm -1 of M3 indicated anti-parallel β-sheet structure (represent by green arrow heads), peaks at 1648 cm -1 and 1663 cm -1 indicated parallel beta sheet structure (represent by blue arrow heads), the existence of 1654 cm -1 indicate α-Helix structure in M1 which verified the results deduced by CD in Fig. <ref type="figure" target="#fig_2">3a</ref>  <ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> . The evidence indicated that without IR 783 labeling, the M3 molecule was easier to assemble than the M1 in the absence of IR 783 , and the driving forces of assembly depend on the multiple hydrogen bonds and other weak interactions of the self-assembly motif. After tailoring the hydrophilic balance of mPEG, the R-M1 exhibited a well-ordered β-sheet assembled secondary structures with a typical strong positive band at 196 nm and a wide negative band at 216 nm (Fig. <ref type="figure" target="#fig_2">3c</ref>). The R-M1 molecules had a rapid dynamic assembly (within few minutes), and the assemblies in aqueous solution had an obvious Tyndall phenomenon. As a homologous sequence with amyloid β-protein (Aβ), the self-assembly motif with peptide sequence of KLVFFGCG had similar aggregation kinetics to (Aβ)42 peptide, which occurred via dynamic growth from oligomers to amyloid fibrils <ref type="bibr" target="#b30">31</ref> . The aggregation started from the freshly isolated monomers of R-M1, and precipitates were separated in 1 min and 1 h, respectively. The FTIR spectra of these two samples (Fig. <ref type="figure" target="#fig_2">3d</ref>) exhibited completely different spectral features. The one separated rapidly showed a broad peak at 1634 cm -1 , which was identified as oligomer; while the one with extended aggregated time had three peaks at 1698 cm -1 , 1688 cm -1 , and 1629 cm -1 , which were ascribed to the as anti-parallel β-sheet fibrils <ref type="bibr" target="#b31">32,</ref><ref type="bibr" target="#b32">33</ref> . After analyzed the CD spectra of M1, M3, and R-M1 (Fig. <ref type="figure" target="#fig_2">3e</ref>), it can be clearly seen that the main secondary conformation of M1 was Random, the M3 was hybrid of Helix and Beta, and the R-M1 was Beta (Supplementary Table <ref type="table" target="#tab_0">1</ref>). All the results confirmed the conclusion from FTIR spectra. Characteristic of nucleated growth procedure (Fig. <ref type="figure" target="#fig_2">3f</ref>), the aggregation curves with ThT trace had a growth phase for primary process from the initial 17 min, an elongation phase for surface-catalyzed secondary process between 17 and 30 min, and a final plain phase after 30 min. The dynamic growth procedure was like the 8-anilino-1-naphthalenesulfonic acid (ANS) stained curve (Supplementary Fig. <ref type="figure" target="#fig_1">12</ref>). As known, ANS was sensitive to hydrophobic interaction <ref type="bibr" target="#b33">34</ref> . When R-M1 were in the initial oligomer, the fluorescence intensity of ANS increased due to the enhanced hydrophobicity. When the molecules were elongated and stacked in higher ordered nanofibrils, the blue shift of ANS in the β-sheet structures reduced the fluorescence. The molecular packing mode of wellordered fibrils of R-M1 in Fig. <ref type="figure" target="#fig_2">3g</ref> observed a weak reflection at 4.9 Å as laminates space and a strong broad reflection at 10.3 Å as sheet space, which was illustrated in the inserted figure. The fibril morphology was characterized by transmission electron  microscopy (TEM) imaging (Fig. <ref type="figure" target="#fig_2">3f</ref>). The statistical calculation of the fiber diameter in TEM images was 5.0 ± 0.4 nm (Supplementary Fig. <ref type="figure" target="#fig_2">13</ref>), which was corresponded to the theoretical calculated two molecules length of R-M1. We assumed that the nanofibers were assembled by twisted R-M1 molecules centered on selfassembly motif.</p><formula xml:id="formula_0">)GRGD &gt;500 αvβ3 FAP-α M2 mPEG-AGGKLVFFGC(IR 783 )GRGD &gt;500 αvβ3 - M3 mPEG-GPAKLVFFGCGRGD &gt;303.7 αvβ3 FAP-α R-M1 AKLVFFGC(IR 783 )GRGD 37.2 αvβ3 - M4 mPEG-GPAKLVFFGC(IR 783 )GDTG &gt;500 - FAP-α M5 mPEG-AGGKLVFFGCGRGD &gt;332.7 αvβ3 - R-M3 AKLVFFGCGRGD 19.2<label>αvβ3</label></formula><p>Specific enzyme tailoring induced nanofibril assembly. To further investigate the FAP-α specific tailoring and BIVA probe assembly in situ simultaneously (Fig. <ref type="figure" target="#fig_3">4a</ref>), the high-performance liquid chromatography (HPLC), TEM, and matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) mass spectrometry were applied for the characterizations purpose. To specify the cutting of the response tailoring motif (Gly-Pro-Ala), pre-synthesized molecules of R-M3, M3 and M5 were set as controls. After incubation with FAP-α for 12 h, M3 molecules were totally cleaved by the enzyme (Fig. <ref type="figure" target="#fig_3">4b</ref>), resulting in truncated residues with different retention times compared to M3 (29.5 min). Comparing the residues peaks with R-M3, the primary sharp peak at 27.4 min can be identified by the R-M3 control (27.6 min). In the meantime, the wide peak at 14.6 min might be the remaining PEG residue. In sharp contrast, after incubation of FAP-α with M5, there was no change of the retention peak, which double confirmed that the GPA was the FAP-α specific recognized sequence and the molecule was cut between the amino acid of Pro and Ala. The retention time of M1 after co-incubation with inactivated FAP-α was similar to that of M3 (Supplementary Fig. <ref type="figure" target="#fig_3">14</ref>). After hydrolyzed by FAP-α, the residues of M1 in situ assembled into nanofibers structures under the complex buffer (Fig. <ref type="figure" target="#fig_3">4c</ref> and Supplementary Fig. <ref type="figure" target="#fig_4">15</ref>). M1 could not be assembled after co-incubation with the inactivated FAP-α, which further indicated that the assembly of M1 could be ascribed to the FAP-α tailoring (Supplementary Fig. <ref type="figure" target="#fig_5">16</ref>). The tailored residues were identified by MALDI-TOF (Fig. <ref type="figure" target="#fig_3">4d</ref>), which revealed that M1 was cut into two parts of R-M1 and PEG residue. Additionally, when the molecules of M1 were incubated with MIA PaCa-2 cells for 2 h, the cell lysis was observed to split into layers. MALDI-TOF confirmed that R-M1 in the precipitate might be the assembly induced precipitate, and the supernatant obviously contained the PEG residues (Supplementary Fig. <ref type="figure" target="#fig_6">17</ref>). In order to further evaluate the specificity of M1 for different enzymes, including FAP-α, pepsin, pancreatin, lipase, and BSA, we used ThT (Thioflavin T) as a detection probe (Fig. <ref type="figure" target="#fig_3">4e</ref>). After co-incubation with M1 for 12 h, only FAP-α group strikingly enhanced the fluorescence intensity, which indicated that M1 molecule had specificity for FAP-α induced in situ assembly.</p><p>Enhanced targeting and in situ high efficiency nanofiber formation located cell outline. As designed, the bioactivated in vivo assembly (BIVA) was a triggered and synchronous dynamic assembly system with active targeting cooperative aggregation/ assembly induced retention (AIR) effect. Compared with active targeting mechanism dependent on binding constant Kd, BIVA effect showed an amplified mechanism based on primary binding constant Kd and secondary assembly rate constant Ka (Fig. <ref type="figure" target="#fig_4">5a</ref>).</p><p>To further confirm this hypothesis, the M1 and M2 were equally labeled by FITC for cell imaging (Fig. <ref type="figure" target="#fig_4">5b</ref>). To simulate the dynamic physiological condition, the cell culture medium was replaced every 15 min. After 1 h of incubation with M1 and M2 at the same molecule molar concentration, there occurred significant differences between the two molecules (Fig. <ref type="figure" target="#fig_4">5c</ref>). The M1 with BIVA effect had a higher fluorescence retention rate on the cell membrane, while the M2 with active targeting mechanism significantly reduced the fluorescence signal during the dynamic incubation. The huge difference can be explained by the fact that the secondary assembly rate broke the balance between the targeted ligand and receptor, and thus tended to a stable assembly interaction. The retention efficiency depended on the assembly rate constant Ka. Meanwhile, the rapid dynamic assembly of BIVA probe in situ around the cell membrane, and contributed to the efficient formation and retention of nanofibers on the cell profile. When the incubation time was delayed up to 2 h, some components could be endocytosed into the cells, but most of them were found on the membranes (Supplementary Fig. <ref type="figure" target="#fig_7">18</ref>). As shown in Fig. <ref type="figure" target="#fig_4">5d</ref>, most molecules of M1 were assembled and located on the cell membrane within 1 h of incubation. Then, the isolated cells were collected and lysed, the extracted cell membrane fragments were stained with ThT. Interestingly, the nanofibers on the membrane were all stained by ThT, and the correlation coefficient between ThT and FITC fluorescence was high up to 0.83 (Fig. <ref type="figure" target="#fig_4">5e</ref>). In order to verify the influence of the addition of the targeting module of the probe molecules, we explored the imaging of R-M1 and M4 on cells. After coincubation with R-M1, which was an insoluble suspended mixture, the fluorescence signal could be observed both in medium and on the cell membrane (Supplementary Fig. <ref type="figure" target="#fig_0">19d</ref>). While the cells were treated by M4, only a small amount of fluorescence signal could be observed on cell membrane (Supplementary Fig. <ref type="figure" target="#fig_0">19e</ref>). The phenomenon observed by R-M1 indicated that with RGD motif, the assembled R-M1 still remain the specific bonding capability to cell membrane. Without RGD bonding, the M4 molecules could also be tailored by FAP-α and the assembled nanofibers exhibited non-specific interaction on the membranes. Moreover, once pre-treated the cells with RGD peptides (Supplementary Fig. <ref type="figure" target="#fig_0">19b</ref>) or FAP-α inhibitors (Supplementary Fig. <ref type="figure" target="#fig_0">19e</ref>), the cell membrane bonding and retention of the M1 signals were significantly reduced, which validated that the RGD recognition and FAP-α induced nanofibers formation both contributed to the attach on the membranes. In order to further understand the contribution of the active targeting and AIR effect during locating of the cells, the cell transwell experiment was used to quantitively evaluate interference of the cell migration based on M1, M2, and M4 (Fig. <ref type="figure" target="#fig_4">5f</ref>). As expected, untreated cells were easy to migrate to the lower chamber, while the cells treated with active targeting molecule M2 and assembled molecule M4, the migration of cell were reduced. Under the same molar concentration, the M1 treatment group had the most inference on cell migration (Fig. <ref type="figure" target="#fig_4">5g</ref>). According to the quantitative statistical calculation of the number of cells (Fig. <ref type="figure" target="#fig_4">5h</ref> and Supplementary Fig. <ref type="figure" target="#fig_1">20</ref>), the results clearly verified that the BIVA effect indeed had a high trapping and localization efficiency around cells. Based on those results, we speculate M1 can be more enriched in the tumor site and form fibers through assembly to inhibit tumor cell migration compared to M2 and M4 which have no ability to target and adhere on the cell membrane. Although the targeting group of M2 and BIVA group of M1 had significant interaction with cells, there was no obvious cytotoxicity at high concentration of 300 μM (Supplementary Fig. <ref type="figure" target="#fig_1">21</ref>).</p><p>Metabolic difference and optimized biodistribution enhanced imaging. In order to reduce systemic error and individual difference, we constructed the subcutaneous pancreatic cancer model in mice for quantitatively calculating of the metabolic data. First, the subcutaneous tumor model of the right hind leg had no overlap with other organs, and it reduce the organs depth difference caused system error. Secondly, compared with the orthotopic tumor, the size of the subcutaneous tumor was more controllable, reducing the individual difference between the experimental groups, and making the experimental data more reliable. According to the time-dependent in vivo NIR images, there were significant differences in the fluorescence distribution among ICG, M2, and M1 mice (Fig. <ref type="figure" target="#fig_5">6a</ref>). The representative small molecule probe was ICG, which showed rapid distribution and elimination all over the mice body with no obviously specific targeting effect on tumor tissue. The results of near infrared (NIR) imaging showed that ICG completed its metabolic clearance within 8 h. Moreover, the M2 probe with active targeting capability was distributed and accumulated in the tumor area within 0.1-24 h. The metabolized rate from tumor and other tissues seemed no obvious difference. However, the M1 probe based on the BIVA effect optimized the biodistribution, which accumulated more signal in the tumor area and enhanced retention in tumor long lasted up to 96 h. Meantime, the nontumor tissues showed lower signal distribution resulting a short elimination time. Based on NIR imaging, the M1 with higher imaging contrast enable to have a stable detection window within 8 h-96 h attributing to the enhanced targeting and metabolic difference of the BIVA probe. Meanwhile, the photoacoustic imaging after i.v. injection of M1 and M2 for 12 h clearly show the big difference on the tumor signal and the surrounding tissues, the M1 had more accumulation in tumor than that of M2 (Supplementary Fig. <ref type="figure" target="#fig_1">22</ref>). Otherwise, the molecules of M1 and M2 with a mPEG tail, both had long-time circulation half-life (t 1/2 ), which were 110 ± 3 min and 102 ± 4 min, respectively (Fig. <ref type="figure" target="#fig_5">6b</ref>). The blood circulation half-life (t 1/ 2 ) of ICG was 2.5 ± 0.5 min. The short t 1/2 was related to the rapid distribution and elimination behavior in vivo. In order understand the contribution of these elements to effective availability of imaging probe. The significant parameter of pharmacokinetic: area under the curve (AUC) in tumor tissue was obtained according to the quantitative calculation from fluorescence signal. After quantitative calculation the concentration of probe in tumor area without background signal subtracted, the time-dependent curve of M1 and M2 were carried out (Fig. <ref type="figure" target="#fig_5">6c</ref>). The area under the curve ranges from 0 h to 120 h (AUC 0-120 h) of M1 was 3.6 times more than that of M2, which mean that with a single dose administration, the average fluorescence intensity distribution per unit area of M1 in tumor tissue was 3.6-fold higher than that of M2. The time to peak of M1 was 4 h later than M2, about at 12 h. The highest signal on tumor of M1 was 1.8 times higher than M2. In addition, the signal elimination of M1 from tumor was quite slow, only 27.6% was reduced between 12 h and 120 h, while the fluorescence signal of M2 was disappeared completely in the same time interval. Finally, we obtained a stable intraoperative navigation window between 8 h and 96 h for our BIVA probe (M1). In conclusion, both the long-term blood circulation and the dynamic enzyme tailoring helped the continuous accumulation in tumor area. The in-situ assembly in tumor tissues slowed down the dynamic elimination and prolong the elimination time, which contributed to maintaining the imaging signal during surgery operation. The FAP-α specific tailoring and assembling of M1 differed the tumor from the other tissues, which offered better contrast and biodistribution. To evaluate the imaging property of BIVA probe, the orthotopic pancreatic tumor mice model was built. After intravenous injected M1 and M2 molecules with a dose of 16 mg/kg for 12 h, the mice were sacrificed. When dissected the spleen, the high contrast signal was clearly observed on the orthotopic tumor area (Fig. <ref type="figure" target="#fig_6">7a</ref>, Supplementary Fig. <ref type="figure" target="#fig_2">23</ref>). Then, all the important organs were dissected for ex vivo imaging. The significant difference between M1 and M2 on the tissue biodistribution. For BIVA probe M1, the distribution on tumor had obviously selectivity, and the molecules had part retention in the metabolic organs (e.g., liver and kidney). Whereas, the M2 exhibited no significant difference in the biodistribution of lung, kidney, and tumor, but most of the molecules were stuck in liver. The huge difference between the two molecules can be explained by the high specific recognition of FAP-α to M1, which was conducive to efficient molecular tailoring and assembly in tumor, while the M2 was non-specific cleavage and accumulation in liver during metabolism. The quantitative analysis results also confirmed the conclusion (Fig. <ref type="figure" target="#fig_6">7b</ref>). The signal accumulation of FAP-α specific BIVA probe M1 was twice as much as that of M2. Under the same blood circulation time, organ selectivity depended on the specificity of substrate to target enzyme. Its accumulation amount relied on the cleavage rate of enzyme and aggregation efficiency of molecular residues. The primary nucleation of assembly can induce long lasting growth of the fibril in tumor, reduce the metabolic rate, and achieve the retention and accumulation of tumor. When pre-treated the mice with M1 and M2 with the same dose for 48 h (Supplementary Fig. <ref type="figure" target="#fig_3">24</ref>), the signal in liver were reduced, which could be explained as the dynamic metabolism by the liver. The signal on orthotopic tumor or small tumor still clearly observed after 48 h M1 treatment. Upon the individual differences, we validated 6 mice under surgery to induce orthotopic tumor in pancreatic head. All the positive results were obtained including the small sized tumor around 2 mm in the diameter (Fig. <ref type="figure" target="#fig_6">7c</ref>). The ex vivo dissection in Fig. <ref type="figure" target="#fig_6">7d</ref> provided a fantastic imaging contrast on tumor and the around the spleen tissue, which visualized and identified the small tumor (~2 mm) both on 2D and 3D images (Supplementary Fig. <ref type="figure" target="#fig_4">25</ref>). The statistical results of fluorescence signal on tumor were over 9 folds higher than the surrounding spleen tissue (Fig. <ref type="figure" target="#fig_6">7e</ref>). The whole tumor histologic section in Supplementary Fig. <ref type="figure" target="#fig_5">26</ref> by Congo Red fully viewed the fibril distribution the tumor after 12 h M1 treatment. As known, the FAP-α was a membrane located protein, overexpressed on tumor associate fibroblast cell and pancreatic cell surface. The FAP-α specific BIVA probe M1 were well depicted the tumor margin and interstitial space, which concentrated the signal in tumor for better bioimaging, but the M2 has no obvious Congo Red, which means there was no assembly inside tumor. In order to validate the M1 deep penetration in tumor after 48 h M1 administration, we merged the tumor histochemical staining with Hochest3342 (blue), CD31 (green) and M1 (red). As seen in Fig. <ref type="figure" target="#fig_6">7f</ref>, most of the M1 were far away from the green colored blood vessels and the signals were uniform distributed in tumor. The whole tumor section both confirmed the conclusion above (Supplementary Fig. <ref type="figure" target="#fig_6">27</ref>). Once stained by Congo Red (Supplementary Fig. <ref type="figure" target="#fig_7">28</ref>), the tumor slices were easily observed the red distribution, which mean that the deep penetrated M1 were transformed to nanofibers. Acute toxicity evaluation to organs. The acute toxicity evaluation of M1 to mice were verified by blood biochemistry, hemograms, and histological analysis. The representative biomarkers of liver function included alanine aminotransferase (ALT), alkaline phosphatase (ALP), aspartate aminotransferase (AST), total protein (TP), and albumin concentration (ALB). Compared to the healthy group (PBS), there was no obvious hepatic toxicity after i.v. injection of 16 mg/kg of M1 for 24 h (Fig. <ref type="figure" target="#fig_7">8a</ref>). In addition, the hematological assessment results including creatinine (CREA), white blood cells (WBC), red blood cells (RBC), hematocrit (HCT), mean corpuscular volume (WCV), mean corpuscular hemoglobin concentration (MCH), mean corpuscular hemoglobin concentration (MCHC), red cell volume distribution width-coefficient of variation (RDW-CV), platelet (PLT) and mean platelet volume (MPV) were carried out (Fig. <ref type="figure" target="#fig_7">8b</ref>). All the above indicators in PBS group and M1 group appeared normal, which was basically consistent with the normal range reported in the literature. Then the mice from PBS group and M1 group were sacrificed for the further histological section analysis of the significant organs. After Hematoxylin and Eosin (H&amp;E) staining, the slices of heart, liver, spleen, lung, kidney, and pancreas were compared and evaluated (Fig. <ref type="figure" target="#fig_7">8c</ref>). There was no noticeable organ damage and tissue injury of the two groups. All the evidence revealed that under the imaging dose, the BIVA probe had no acute toxicity performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Although the optical probes had great potential in the further clinical trials, the drug-ability still a bid issue. As a great improvement, the targeting ligand covalent coupling such as antibody, peptide and etc., significantly increased the targeting property of the probes. However, the optical probes based on active targeting mechanism were always in a narrow imaging window, which cannot meet the need of stable imaging for intraoperative navigation. Thus, we proposed a bioactivated in vivo assembly (BIVA) nanotechnology to fabricate NIR probe, which offered a new targeting mechanism based on synergy of active targeting and AIR effect. The existence of mPEG tail of the probe stabilized the molecular conformation with better hydrophilicity for receptor recognition and long blood circulation halflife (t 1/2 ) up to 110 min. Then, such modular designed BIVA probe highly enriched on tumor cell membrane through a dynamic ligand-receptor binding and sequently FAP-α triggered self-assembly process, resulting in a high contrast imaging with a signal-to-background ratio SBR over 9 folds. The site-specific assembly contributed to great difference in metabolized time between tumor cells and surround healthy cells, further optimizing the organ distribution. Finally, the in situ assembled fibrils located in tumor region reduced the degradation and metabolism of the probe, which broadened the imaging window to 8 h~96 h.</p><p>All the efforts realized a highly sensitive small (&lt;2 mm) orthotopic pancreatic tumor imaging in vivo. We believed that the BIVA nanotechnology would upgrade the imaging probe into clinical drug. The dynamic assembled property and assembled conformation modulation would be optimized according to the surgical imaging needs. Such a delivery system can further be expanded to carry different fluorescent molecules, the resulted BIVA probes will benefit future precision medicine. Molecule synthesis and characterization. The peptides were synthesized according to the standard solid phase synthesis method <ref type="bibr" target="#b34">35</ref> . The loading value of Wang resin was 0.349 mmol/g, where the de-protective agent was a mixture of anhydrous dimethylformamide (DMF) and piperidine with a volume ratio of 4/1. The coupling agent was composed of 5% NMM and 95% anhydrous DMF (V/V).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The cleavage agent was a mixture of 92.5% TFA, 2.5% TIPS, 2.5% 1,2-ethanedithiol, 2.5% H 2 O (V/V/V/V) solution. mPEG 2000 -NHS was linked to the N terminal of peptide similar with other amino acid but the reaction time lasted up to 24 h. The IR 783 (1.1 mol equivalent) was coupled onto peptide (cleaved from the resin) after reacting in Tris buffer at pH = 8.5 for 12 h, washed the unreacted dye in ice bath with DCM, and dialyzed on MWCO 2000 Da dialysis membrane for 24 h. Finally, all the molecules were characterized by MALDI-TOF-MS (Matrix: saturated DHB in TA30) and HPLC having a C18 column and a linear gradient of acetonitrile/water with 0.1% TFA from 10%/90% to 50%/ 50% and a flow speed of 1 mL/min at 25 °C.</p><p>MD simulation. The GROMACS software package (version 5.1.4) was used to perform energy minimization and molecular dynamics simulations using the AMBER99SB-ILDN force field. The topology and force field parameters files for the PEG and the rest of the molecule were generated with AmberTools and Acpype Antechamber. All the structures were solvated in a box of TIP3P water model, and then ionized and neutralized with Na + and Cl -ions as 0.15 mol/L. The periodic boundary conditions (PBC) were set for all directions. The NPT ensemble was applied. After energy minimization, each structure underwent NVT equilibration and NPT production. The Nose-Hoover thermostat <ref type="bibr" target="#b35">36</ref> was used to maintain the temperature of system as 300 K. The pressure was maintained as 1 atm by coupling the semi-isotropic (X + Y, Z) directions of the system using the Parrinello -Rahman algorithm <ref type="bibr" target="#b36">37</ref> . The van der Waals (vdWs) interactions were computed with a cutoff distance as 12 Å, while long-range electrostatic interactions were handled with the particle mesh Ewald (PME) method <ref type="bibr" target="#b37">38</ref> . The water molecules were constrained by the SETTLE algorithm <ref type="bibr" target="#b38">39</ref> , and the hydrogen bonds were constrained to their equilibrium values employing the LINCS algorithm <ref type="bibr" target="#b39">40</ref> . The time-step was 2 fs in production runs, and the coordinates were saved every 100 ps. Total time of each system was 200 ns. The VMD software was used to observe and draw the image of all systems.</p><p>CD spectroscopy. The secondary structures of M1, M3 and R-M1 were verified by CD spectroscopy (JASCO Corporation, JC-1500) at room temperature with a cell path length of 1 cm. M1, M2 and R-M1 were diluted to 100 μM with deionized water at 25 o C and allowed to stand for 12 h for complete assembly. Detail parameter setting were CD scale:200 mdeg/1.0Dod, measure range: 260~190 nm, scanning speed: 500 nm/min, bandwidth: 1.00 nm, and data pitch: 0.5 nm. All spectra were the average of three measurements.</p><p>Fourier transform infrared spectroscopy (FTIR). FTIR was used to analyze the secondary structures and intermolecular interactions of M1, M3 and R-M1. M1, M3 and R-M1 were dispersed in distilled water to 100 μM, and the samples were obtained by standing for 12 h. The liquid sample was freeze-dried where the spectrum range was between 4000 and 450 cm -1 . All the results were averaged among 16 measurements and ATR was used to collect the spectrum.</p><p>TEM analysis. TEM was used to characterize the morphology of the assemblies of R-M1 and M1 after enzyme cleavage using TECNAI G2 20 s-twin electron microscope. The sample (20 μL, 100 μM, made of deionized water) after standing for 12 h was dropped onto the copper mesh. After allowing static for 10 min, the upper liquid was removed and the copper mesh was dyed with 2% uranyl acetate for 1 min. Finally, the surface of the copper mesh was washed with distilled water. The copper mesh was placed overnight at room temperature and then observed.</p><p>Nanofiber dynamic growth. ThT solution (1.75 mM) was used to detect the amyloid fibers formed by R-M1 with emission spectrum shift from 440 nm to 490 nm.</p><p>Cytotoxicity assay. The cytotoxicity of M1 and M2 was evaluated using CCK-8 assay in MIA PaCa-2 cells. Cells were seeded into 96-well plates at a density of 5 × 10 4 cells per well and placed in an incubator for 14 h. Subsequently, the sample was diluted into a series of different concentrations (0, 50, 100, 150, 200, 250, 300, and 350 μM) and incubated with cells for 24 h. After that, 10 μL of CCK-8 solution was added to each well and incubated for 2 h. The absorbance of blank wells (Ab), sample wells (As) and control wells (Ac) were measured with a microplate reader at a test wavelength of 450 nm and a reference wavelength of 690 nm. The cell viability rate (%) is equal to (A s -A b ) / (A c -A b ) ×100%. All experiments were repeated in triplicate.</p><p>Cellular imaging experiment. MIA PaCa-2 cells were digested with trypsin, counted with cell counting plate, diluted to 1 × 10 4 with DMEM medium, and 1 mL to 1 cm diameter confocal microscope dish was taken. The cells were incubated in 37% CO 2 atmosphere for 24 h. The medium containing M1 and M2 (50 μM) was replaced and incubated with the cells for 2 h. The cells were washed with PBS for 3 times. CLSM (Zeiss 710) was used to image cells under 40 × objective, excitation = 488 nm, and emission &gt;520 nm.</p><p>Tanswell test. Transwell migration assay occurred in chemotaxis chambers containing 24 wells. We inoculated cells into the upper chamber in 200 µl DMEM without serum that contained or did not contain ivosidenib. Bottom chambers contained DMEM medium containing 10% FBS. After 24 h of treatment with M1, M2, and M4 (150 μM), we fixed cells using 4% paraformaldehyde and stained with 0.25% crystal violet solution. The stained cells were counted using a microscope.</p><p>In Vivo and ex vivo fluorescence imaging. All the animal experiments were performed in accordance with the Guide for the Care and Use of Laboratory Animals approved by the Committee for Animal Research of the National Center for Nanoscience and Technology. The MIA PaCa-2 tumor-bearing mice were intravenously injected with ICG, M1 and M2 (16 mg/kg), respectively for in vivo fluorescence imaging with in vivo spectrum imaging system. Finally, mice were sacrificed to collect the major organs and tumors for ex vivo fluorescence imaging.</p><p>In vivo photoacoustic imaging. The MIA PaCa-2 tumor-bearing mice were constructed for in vivo photoacoustic imaging of M1. After intravenously injected with M1 (16 mg/kg) through tail vein, the PA images of mice were acquired with MOST (mode: MOST invision 128) at 12 h post injection.</p><p>Establishment of the orthotopic pancreatic cancer xenograft model. Female BALB/c nude mice (6-8 weeks, 16-18 g) were intraperitoneally anesthetized with Pentobarbital sodium (40 mg/kg body weight) and placed in a lateral position (right side down). After the pancreas was exposed under sterile conditions, MIA PaCa-2 cells resuspended in Matrigel were injected into the parenchyma of pancreas of mice. Subsequently, the body wall and skin incision were successively closed after the pancreas was returned into the peritoneal space. After confirming the tumor growth in pancreas, the tumor specific recognition of M1 and M2 were investigated with IVIS.</p><p>Tumor slices and staining. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Chemical structure of bioactivated in vivo assembly (BIVA) probe. The long-term circulation property of BIVA probe offered more opportunity for active targeting. Then, the enzyme (FAP-α) on the surface of tumor cell specifically tailored the probe and induced in situ nano-assemblies. The β-sheet assemblies exhibited a site-specific location around the tumor cell and a prolonged accumulation for better pancreatic tumor intraoperative navigation.</figDesc><graphic coords="3,57.61,91.85,480.04,517.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 The molecular dynamics (MD) simulation of M1 and R-M1. The molecular interaction details including hydrogen bond (blue dotted-line), salt-bridge (red dotted-line) and hydrophobic interaction. Red part: IR 783 ; Gray part: mPEG 2000 ; Green part: peptide.</figDesc><graphic coords="4,122.20,209.24,352.60,226.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Assembled structure conformations and self-assembly behavior in aqueous solution. a CD spectra of M1 and M3 in DI water under a concentration of 200 μM. b The FTIR spectra of M1 and M3, powder samples collected from freeze dried sample solutions. c The typical β-sheet CD spectra of R-M1 in DI water (insert figure: the Tyndall phenomenon) under a concentration of 100 μM. d The FTIR spectra of dynamic growth of R-M1, powder samples collected from freeze dried sample solutions in different period. e Analysis of secondary structure composition of M1, M3, and R-M1 based on CD spectra. f, Elongation-nucleation growth procedure with ThT staining. The mean of data of three samples with the same conditions is shown and data are presented as mean values ± SD (n = 3) g, The WAXS spectrum and illustration of the R-M1 fibrils, powder sample collected from freeze dried sample solution. h, The TEM images of nanofibers morphology of R-M1.</figDesc><graphic coords="5,140.56,83.09,332.20,281.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 The FAP-α specific molecule tailoring and inducing in situ assembly. a The illustration the working mechanism of BIVA probe based on FAP-α catalytic hydrolysis. b HPLC curves of M3 and M5 after incubation with FAP-α in buffer. R-M3, M3 and M5 were synthesized controls. The TEM image (c), and the MALDI-TOF (d), results of M1 after tailoring by FAP-α in buffer, the red arrows represent the assembled fibrils of M1 after incubation with FAP-α. e The enzyme specificity of M1 in buffer. Buffer: 50 mM Tris, 1 M NaCl, 1 mg/mL, BSA, pH 7.5; Concentration of M1 and M3: 100 μM; Concentration of FAPα: 50 μM; incubation time: 12 h. The mean of data of four samples with the same conditions is shown and data are presented as mean values ± SD (n = 4). p = 2.04E-22 &lt; 0.001, p values were performed with one-way ANOVA by post hoc Tukey's test for the indicated comparison.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5</head><label>5</label><figDesc>Fig. 5 The BIVA effect with enhanced targeting to pancreatic tumor cell for boundaries imaging. a Illustration of BIVA effect: active targeting and assembly/aggregate induced retention (AIR) effect. b Chemical structure of FITC labeling. c 2D and 3D confocal images of M2 with active targeting property and M1 with BIVA effect on MIA PaCa-2 cells after incubation for 1 h. d The distribution of M1 on MIA PaCa-2 cell. e ThT staining of the lysed cell membrane of MIA PaCa-2. f, Illustration of migration inhibition after treated by BIVA probe. g The image of the migrated cells after treatment of PBS (blank), M2, M4, and M1. Scale bar: 100 μm. h The pie diagram of quantitative statistical calculation of the migrated cells (blue) in different groups. The blank control was set as 100% migrated cells.</figDesc><graphic coords="7,150.31,51.14,303.40,429.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 6</head><label>6</label><figDesc>Fig. 6 The BIVA effect optimized the metabolism of the probe in vivo. a The time-dependent NIR fluorescence image of mice bearing MIA PaCa-2 cells after intravenous administration of ICG, M2 and M1 with a dose of 16 mg/kg. The images acquired at time intervals from 0.1 h to 120 h are managed with the same procedure (The circles represent the locations of the tumors). b The blood circulation curve of ICG, M2 and M1 based on exponential curve fitting. The t 1/2 value was the blood circulation half-life. c The time-dependent quantitative calculation of the average fluorescence intensity in tumor area and the area under the curve (AUC) of ICG, M2 and M1. The mean of three biological replicates is shown and data are presented as mean values ± SD (n = 3).</figDesc><graphic coords="8,160.15,64.64,293.80,267.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 7</head><label>7</label><figDesc>Fig. 7 The BIVA probe enhance orthotopic pancreatic tumor imaging in vivo. a The in vivo NIR images of small orthotopic pancreatic tumor by M1 and M2, and the ex vivo of organ biodistribution including heart, liver, spleen, lung, kidney, and tumor. The mean of three biological replicates is shown (n = 3). b The quantitative analysis of average intensity per organ area p = 0.000844 &lt; 0.001, (n = 3). c The in vivo NIR images of orthotopic pancreatic tumor with individual difference with the same i.v. dose administration for 12 h. The mean of five biological replicates is shown (n = 5). d The small size (~2 mm diameter) orthotopic pancreatic tumor images and its ex vivo signal distribution. e The quantitative calculation of the signal in tumor area and healthy spleen area. The mean of eight biological replicates is shown. (n = 10) f The tumor histochemical staining with Hochest3342 (blue), CD31 (green) and M1 (red) post i.v. injection of M1 for 48 h. The yellow arrows pointed at the blood vessels. Bars of the up layer: 200 μm; Bars of the bottom layer: 50 μm. Data: mean ± standard deviation. Injection dose (i.v. administration): 16 mg/kg. Statistical analysis: one-way t test followed by post hoc Tukey's test, ***p &lt; 0.001.</figDesc><graphic coords="9,142.09,50.78,312.04,390.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 8</head><label>8</label><figDesc>Fig. 8 Acute toxicity evaluation. a Liver function indicators: alanine aminotransferase (ALT), alkaline phosphatase (ALP), aspartate aminotransferase (AST), total protein (TP) and albumin concentration (ALB). The mean of four biological replicates is shown and data are presented as mean values ± SD (n = 4). b Blood biochemical indicators: creatinine (CREA), white blood cells (WBC), red blood cells (RBC), hematocrit (HCT), mean corpuscular volume (WCV), mean corpuscular haemoglobin concentration (MCH), mean corpuscular hemoglobin concentration (MCHC), red cell volume distribution widthcoefficient of variation (RDW-CV), platelet (PLT)and mean platelet volume (MPV). The mean of four biological replicates is shown and data are presented as mean values ± SD (n = 4). c Histologic sections of different organs: heart, liver, spleen, lung, kidney and pancreas compared with healthy group (PBS). Staining: H&amp;E; Injection dose of M1. (i.v. administration): 16 mg/kg; Administration time: 24 h. Scale bar 200 μm.</figDesc><graphic coords="10,154.69,351.47,305.08,121.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>The sequence, assembled behavior, targeting and tailoring capability of different designed molecules.</figDesc><table><row><cell>Name</cell><cell>Molecular sequence a</cell><cell>Critical assembly concentration (CAC) b (μM)</cell><cell>Targeting receptor</cell><cell>Tailoring enzyme</cell></row><row><cell>M1</cell><cell>mPEG-GPAKLVFFGC(IR 783</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Tumors were harvested and collected in 4% paraformaldehyde solution after tumor-bearing mice treated with M1 at a dose of 16 mg/kg for 12 h and 48 h. The Hematoxylin and Congo red staining procedure was performed by Google biotechnology (Wuhan) Co. LTD.Immunofluorescence and fluorescence imaging. Orthotopic tumors were dehydration and sliced to 8 μm by Leica 1950 under -22 o C after after treated with M1 at a dose of 16 mg/kg for 48 h. The histologic section was incubated with Anti-CD31 antibody (ab76533, abcam) at 4 o C overnight, then washed by TBST and incubated with Goat anti-Rabbit IgG F(ab')2 Secondary antibody, FITC (31573, Thermo Fisher) for 1 h and washed by TBST. The histologic section then treated by antifade mounting medium with Hoechst 33342 (P0133, Beyotime) and imaged by Perkin Elmer Operetta HCS under 20 x and 40 x with 0 or 2% overlaying.Toxicology evaluation. The female Balb/c nude mice (6-8 weeks, n = 3) were sacrificed for blood and major organs collection after treated with M1 at a dose of 16 mg/kg on the 24 h. The histology evaluation of major organs was performed by Google biotechnology (Wuhan) Co. LTD. The blood biochemistry and haematology analyses were carried out by Vital River Laboratory Animal Technology Co. Ltd.Statistical methods. Data are reported as mean ± standard deviation. Statistical analysis of the data was performed with t test followed by post hoc Tukey's test. Statistical significance was defined as *p &lt; 0.05, **p &lt; 0.01 and ***p &lt; 0.001.</figDesc><table /><note><p>Reporting summary. Further information on research design is available in the Nature Research Reporting Summary linked to this article.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | (2022) 13:418 | https://doi.org/10.1038/s41467-021-27932-y | www.nature.com/naturecommunications</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was supported by the <rs type="funder">National Key R&amp;D Program of China</rs> (<rs type="grantNumber">2018YFE0205400</rs>), <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51873045</rs>), <rs type="funder">CAS Interdisciplinary Innovation Team and Youth Innovation Promotion</rs> (<rs type="grantNumber">2017053</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_vfCWKGv">
+					<idno type="grant-number">2018YFE0205400</idno>
+				</org>
+				<org type="funding" xml:id="_kpUfq6S">
+					<idno type="grant-number">51873045</idno>
+				</org>
+				<org type="funding" xml:id="_f6hGWSX">
+					<idno type="grant-number">2017053</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Source data are provided with this paper. All data generated or analyzed during this study are included in this published article and its Supplementary information files. Source data are provided with this paper.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>L.-L. Li, H.R., and X.-X.Z. conceived and designed the project. H.R., X.-X.Z., and X.-Z.Z. carried out the synthesis and characterization of the BIVA probes. H.Y. and L.Z. contributed the molecular dynamics (MD) simulation calculations parts. H.R., X.-Z.Z., and D.-Y.H. performed the fluorescence imaging studies both in vitro and in vivo. L.-L.L., H.-W.X., and H.W. discussed the experimental design. M.Y. helped the revision of language. L.-L.L., H. R., X.-Z.Z., and D.-Y.H. co-wrote the manuscript. All authors interpreted data, provided critical insights, and edited the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Evolutionary routes and KRAS dosage define pancreatic cancer phenotypes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mueller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">554</biblScope>
+			<biblScope unit="page" from="62" to="68" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Cancer statistics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jemal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CA Cancer J. Clin</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="7" to="30" />
+			<date type="published" when="2020">2020. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Mizrahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Surana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Shroff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">395</biblScope>
+			<date type="published" when="2008">2008-2020 (2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Early detection of pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Pereira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Gastroenterol. Hepatol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="698" to="710" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Is surgery beneficial for MEN1 patients with small (&lt; or = 2 cm), nonfunctioning pancreaticoduodenal endocrine tumor? An analysis of 65 patients from the GTE</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Triponez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J. Surg</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="663" to="664" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A glimmer of hope for pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Kindler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page" from="2463" to="2464" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">New-onset diabetes: a potential clue to the early diagnosis of pancreatic cancer</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pannala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Basu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Chari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet. Oncology</title>
+		<imprint>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="88" to="95" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Molecular imaging and therapy in nuclear medicine</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bouziotis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Top Med. Chem</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">2641</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">NIR-II nanoprobes in-vivo assembly to improve image-guided surgery for metastatic ovarian cancer</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">2898</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Molecular imaging in nuclear cardiology: pathways to individual precision medicine</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Glasenapp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Thackeray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Nucl. Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2195" to="2201" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Image-guided cancer surgery using near-infrared fluorescence</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vahrmeijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hutteman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Van Der Vorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J H</forename><surname>Van De Velde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Frangioni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Clin. Oncol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="507" to="518" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Near-infrared oxidative phosphorylation inhibitor integrates acute myeloid leukemia-targeted imaging and therapy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">6104</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Sentinel lymph node biopsy in breast cancer guided by indocyanine green fluorescence</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Surg</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="455" to="455" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Activatable molecular probes for second near-infrared fluorescence, chemiluminescence, and photoacoustic imaging</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew Chem. Int. Ed</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="11717" to="11731" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Polymer-based activatable optical probes for tumor fluorescence and photoacoustic imaging</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wiley Interdiscip. Rev. Nanomed. Nanobiotechnol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">1593</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A tumor microenvironment-induced absorption red-shifted polymer nanoparticle for simultaneously activated photoacoustic imaging and photothermal therapy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">3588</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Clearance properties of nanosized particles and molecules as imaging agents: considerations and caveats</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Longmire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Choyke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kobayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nanomed</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="703" to="717" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Molecular optical imaging probes for early diagnosis of drug-induced acute kidney injury</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Miao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1133" to="1143" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Supramolecular &quot;Trojan Horse&quot; for nuclear delivery of dual anticancer drugs</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="2876" to="2879" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">In situ self-assembled nanofibers precisely target cancerassociated fibroblasts for improved tumor imaging</title>
+		<author>
+			<persName><forename type="first">X.-X</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ange Chem. Inter. Ed</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="15287" to="15294" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Cascade activatable self-detained system for drug delivery and cancer imaging</title>
+		<author>
+			<persName><forename type="first">H.-W</forename><surname>An</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">4861</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Fibroblast activation protein peptide substrates identified from human collagen I derived gelatin cleavage sites</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aggarwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1076" to="1086" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Visualization of in vitro protein-rejecting properties of PEGylated stealth (R) polycyanoacrylate nanoparticles</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Peracchia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomaterials</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1269" to="1275" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">RGD-based strategies for selective delivery of therapeutics and imaging agents to the tumour vasculature</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Temming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Schiffelers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Molema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Kok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Drug Resist Updat</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="381" to="402" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Expression of fibroblast activation protein in human pancreatic adenocarcinoma and its clinicopathological significance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World J. Gastroenterol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="840" to="846" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Nano-strategies targeting the integrin alphavbeta3 network for cancer therapy</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cells</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1684</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">In situ formation of nanofibers from purpurin18-peptide conjugates and the assembly induced retention effect in tumor sites</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="6125" to="6130" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Rationally designed modular drug delivery platform based on intracellular peptide self-assembly. Exploration. 1, 20210153</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>An</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Transformation of beta-sheet structures of the amyloid peptide induced by molecular modulators</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Niu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem Commun (Camb)</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="8923" to="8926" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The infrared spectra of polypeptides in various conformations: amide I and II bands</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyazawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Blout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="712" to="719" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Controlled supramolecular assembly inside living cells by sequential multistaged chemical reactions</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pieszka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="15780" to="15789" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Structural and conformational dynamics of self-assembling bioactive β-sheet peptide nanostructures decorated with multivalent RNAbinding peptides</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="16047" to="16053" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Reciprocal coupling in chemically fueled assembly: a reaction cycle regulates self-assembly and vice versa</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A K</forename><surname>Kriebisch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="20837" to="20844" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Interaction of the bacteriocin pediocin SJ-1 with the cytoplasmic membrane of sensitive bacterial cells as detected by ANS fluorescence</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schved</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lindner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Juven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Bacteriol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="30" to="35" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A near-infrared peptide probe with tumor-specific excretionretarded effect for image-guided surgery of renal cell carcinoma</title>
+		<author>
+			<persName><forename type="first">H.-W</forename><surname>An</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ACS Nano</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="927" to="936" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Canonical dynamics: equilibrium phase-space distributions</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Hoover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A Gen. Phys</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1695" to="1697" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Polymorphic transitions in single crystals: a new molecular dynamics method</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parrinello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="7182" to="7190" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Particle mesh ewald -an n.log(n) method for ewald sums in large systems</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Darden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>York</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pedersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="10089" to="10092" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Settle -an analytical version of the shake and rattle algorithm for rigid water models</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Miyamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Kollman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Chem</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="952" to="962" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">LINCS: a linear constraint solver for molecular simulations</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J C</forename><surname>Berendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G E</forename><surname>Fraaije</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Chem</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1463" to="1472" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
