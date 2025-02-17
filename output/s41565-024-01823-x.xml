@@ -7,19 +7,19 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">ON-OFF nanopores for optical control of transmembrane ionic communication</title>
-				<funder ref="#_Ea9YJG4">
-					<orgName type="full">European Research Council</orgName>
-				</funder>
-				<funder ref="#_F25yMmu">
+				<funder ref="#_RJaKuwy">
 					<orgName type="full">unknown</orgName>
 				</funder>
-				<funder ref="#_2P2ATet">
-					<orgName type="full">German Federal Ministry of Education and Research</orgName>
+				<funder ref="#_ABHCgVD">
+					<orgName type="full">European Research Council</orgName>
 				</funder>
 				<funder>
 					<orgName type="full">Examination</orgName>
 				</funder>
-				<funder ref="#_udJWaXM">
+				<funder ref="#_6Dn8wmS">
+					<orgName type="full">German Federal Ministry of Education and Research</orgName>
+				</funder>
+				<funder ref="#_qZzGVWj">
 					<orgName type="full">Friedrich Naumann Foundation for Freedom</orgName>
 				</funder>
 			</titleStmt>
@@ -94,7 +94,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:25+0000">
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T17:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -131,18 +131,18 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This research was supported by a <rs type="funder">European Research Council</rs> <rs type="grantName">Advanced grant</rs> (<rs type="projectName">SYNTISU</rs>) and a <rs type="grantName">University of Oxford John Fell Fund</rs> (<rs type="grantNumber">0013248</rs>). A.K. acknowledges the <rs type="affiliation">EPSRC Centre for Doctoral Training in Synthesis for Biology and Medicine</rs> for a studentship (<rs type="grantNumber">EP/ L015838/1</rs>). J.R. is supported by the <rs type="funder">Friedrich Naumann Foundation for Freedom</rs>, which is supported by the <rs type="funder">German Federal Ministry of Education and Research</rs>. M.J.L. is a <rs type="institution">Royal Society University Research Fellow</rs>. Y.Q. was supported by a <rs type="grantName">Glasstone Research Fellowship</rs> and a Fellowship by <rs type="funder">Examination</rs>, <rs type="person">Magdalen College</rs>, Oxford. We thank <rs type="person">H. Lambourne</rs> at the <rs type="affiliation">Physical and Theoretical Chemistry Laboratory, University of Oxford</rs> for fabricating the recording chamber.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_Ea9YJG4">
+				<org type="funded-project" xml:id="_ABHCgVD">
 					<orgName type="grant-name">Advanced grant</orgName>
 					<orgName type="project" subtype="full">SYNTISU</orgName>
 				</org>
-				<org type="funding" xml:id="_F25yMmu">
+				<org type="funding" xml:id="_RJaKuwy">
 					<idno type="grant-number">0013248</idno>
 					<orgName type="grant-name">University of Oxford John Fell Fund</orgName>
 				</org>
-				<org type="funding" xml:id="_udJWaXM">
+				<org type="funding" xml:id="_qZzGVWj">
 					<idno type="grant-number">EP/ L015838/1</idno>
 				</org>
-				<org type="funding" xml:id="_2P2ATet">
+				<org type="funding" xml:id="_6Dn8wmS">
 					<orgName type="grant-name">Glasstone Research Fellowship</orgName>
 				</org>
 			</listOrg>

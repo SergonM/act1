@@ -7,15 +7,15 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Nature-inspired platform nanotechnology for RNA delivery to myeloid cells and their bone marrow progenitors</title>
-				<funder ref="#_JDyqSwH">
+				<funder ref="#_aTv2g6A">
 					<orgName type="full">NWO</orgName>
 				</funder>
-				<funder ref="#_wnJSEJK">
-					<orgName type="full">Dutch Research Council (NWO)</orgName>
-				</funder>
-				<funder ref="#_ycbBUKs">
+				<funder ref="#_hrTyAvc">
 					<orgName type="full">European Research Council</orgName>
 					<orgName type="abbreviated">ERC</orgName>
+				</funder>
+				<funder ref="#_jwPFUSX">
+					<orgName type="full">Dutch Research Council (NWO)</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -594,7 +594,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:24+0000">
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T17:01+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -658,15 +658,15 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported by a <rs type="funder">Dutch Research Council (NWO)</rs> <rs type="grantName">Vidi grant</rs> (no. <rs type="grantNumber">19681</rs>) to R.v.d.M., and an <rs type="funder">NWO</rs> <rs type="grantName">Vici grant</rs> (no. <rs type="grantNumber">91818622</rs>) and <rs type="funder">ERC</rs> Advanced grant (no. <rs type="grantNumber">101019807</rs>) to W.J.M.M.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_wnJSEJK">
+				<org type="funding" xml:id="_jwPFUSX">
 					<idno type="grant-number">19681</idno>
 					<orgName type="grant-name">Vidi grant</orgName>
 				</org>
-				<org type="funding" xml:id="_JDyqSwH">
+				<org type="funding" xml:id="_aTv2g6A">
 					<idno type="grant-number">91818622</idno>
 					<orgName type="grant-name">Vici grant</orgName>
 				</org>
-				<org type="funding" xml:id="_ycbBUKs">
+				<org type="funding" xml:id="_hrTyAvc">
 					<idno type="grant-number">101019807</idno>
 				</org>
 			</listOrg>

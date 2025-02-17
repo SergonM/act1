@@ -7,16 +7,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Lipoic acid-boronophenylalanine-derived multifunctional vesicles for cancer chemoradiotherapy</title>
-				<funder ref="#_KtUS4MR">
+				<funder ref="#_bdsxEEx">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
-				<funder ref="#_gq2Kb63">
-					<orgName type="full">West China Hospital, Sichuan University</orgName>
-				</funder>
-				<funder ref="#_9rcaCzn">
+				<funder ref="#_QzF4eGf">
 					<orgName type="full">Fundamental Research Funds for the Central Universities</orgName>
 				</funder>
-				<funder ref="#_ag2QVdA">
+				<funder ref="#_BQ3Q5yW">
+					<orgName type="full">West China Hospital, Sichuan University</orgName>
+				</funder>
+				<funder ref="#_qAM36aP">
 					<orgName type="full">Sichuan Science and Technology Program</orgName>
 				</funder>
 			</titleStmt>
@@ -207,7 +207,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:26+0000">
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T17:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -268,16 +268,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The authors thank <rs type="person">Feijing Su Core Facilities</rs> of <rs type="institution">West China Hospital</rs> for NMR tests. We also greatly appreciate the help of <rs type="person">Dr. Shanling Wang</rs> from the <rs type="affiliation">Analytical &amp; Testing Center at Sichuan University</rs> for the TEM analysis of our nanoparticles. This work was financially supported by the <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">U21A20417</rs>), the <rs type="funder">Sichuan Science and Technology Program</rs> (<rs type="grantNumber">2022YFS0333</rs>), the <rs type="funder">Fundamental Research Funds for the Central Universities</rs> (<rs type="grantNumber">20826041F4138</rs>) and 1•3•5 project for disciplines of excellence, <rs type="funder">West China Hospital, Sichuan University</rs> (<rs type="grantNumber">ZYGD18002</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_KtUS4MR">
+				<org type="funding" xml:id="_bdsxEEx">
 					<idno type="grant-number">U21A20417</idno>
 				</org>
-				<org type="funding" xml:id="_ag2QVdA">
+				<org type="funding" xml:id="_qAM36aP">
 					<idno type="grant-number">2022YFS0333</idno>
 				</org>
-				<org type="funding" xml:id="_9rcaCzn">
+				<org type="funding" xml:id="_QzF4eGf">
 					<idno type="grant-number">20826041F4138</idno>
 				</org>
-				<org type="funding" xml:id="_gq2Kb63">
+				<org type="funding" xml:id="_BQ3Q5yW">
 					<idno type="grant-number">ZYGD18002</idno>
 				</org>
 			</listOrg>

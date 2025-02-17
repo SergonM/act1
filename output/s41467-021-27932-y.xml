@@ -7,13 +7,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">A bioactivated in vivo assembly nanotechnology fabricated NIR probe for small pancreatic tumor intraoperative imaging</title>
-				<funder ref="#_f6hGWSX">
+				<funder ref="#_ahzaCEf">
 					<orgName type="full">CAS Interdisciplinary Innovation Team and Youth Innovation Promotion</orgName>
 				</funder>
-				<funder ref="#_vfCWKGv">
+				<funder ref="#_YteYAXy">
 					<orgName type="full">National Key R&amp;D Program of China</orgName>
 				</funder>
-				<funder ref="#_kpUfq6S">
+				<funder ref="#_bmpv7NK">
 					<orgName type="full">National Natural Science Foundation of China</orgName>
 				</funder>
 			</titleStmt>
@@ -220,7 +220,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2025-02-06T16:26+0000">
+				<application version="0.8.1" ident="GROBID" when="2025-02-06T17:02+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -255,13 +255,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was supported by the <rs type="funder">National Key R&amp;D Program of China</rs> (<rs type="grantNumber">2018YFE0205400</rs>), <rs type="funder">National Natural Science Foundation of China</rs> (<rs type="grantNumber">51873045</rs>), <rs type="funder">CAS Interdisciplinary Innovation Team and Youth Innovation Promotion</rs> (<rs type="grantNumber">2017053</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_vfCWKGv">
+				<org type="funding" xml:id="_YteYAXy">
 					<idno type="grant-number">2018YFE0205400</idno>
 				</org>
-				<org type="funding" xml:id="_kpUfq6S">
+				<org type="funding" xml:id="_bmpv7NK">
 					<idno type="grant-number">51873045</idno>
 				</org>
-				<org type="funding" xml:id="_f6hGWSX">
+				<org type="funding" xml:id="_ahzaCEf">
 					<idno type="grant-number">2017053</idno>
 				</org>
 			</listOrg>
