@@ -17,6 +17,7 @@ def check_grobid_alive():
             else:
                 print("Grobid no está disponible. Esperando...")
         except requests.exceptions.RequestException:
+            print(GROBID_ALIVE)
             print("No se pudo conectar con Grobid. Reintentando en 5 segundos...")
         time.sleep(5)
 

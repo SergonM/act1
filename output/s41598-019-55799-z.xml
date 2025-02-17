@@ -7,17 +7,17 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">A new tool to determine the cellular metabolic landscape: nanotechnology to the study of friedreich&apos;s ataxia</title>
-				<funder ref="#_snrbQMx">
+				<funder>
+					<orgName type="full">Medical Research Council, Alzheimer&apos;s Society and Alzheimer&apos;s Research UK</orgName>
+				</funder>
+				<funder ref="#_VVf78Tg">
 					<orgName type="full">MRC</orgName>
 				</funder>
-				<funder>
-					<orgName type="full">MNDA</orgName>
-				</funder>
-				<funder ref="#_FbkCWms">
+				<funder ref="#_mQzWXGB">
 					<orgName type="full">Dementia Research UK</orgName>
 				</funder>
 				<funder>
-					<orgName type="full">Medical Research Council, Alzheimer&apos;s Society and Alzheimer&apos;s Research UK</orgName>
+					<orgName type="full">MNDA</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -118,7 +118,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2025-02-06T17:02+0000">
+				<application version="0.8.1" ident="GROBID" when="2025-02-17T22:15+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -150,10 +150,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>This work was funded by <rs type="funder">MNDA</rs>, <rs type="funder">MRC</rs> (<rs type="grantNumber">U117584256</rs>) and <rs type="funder">Dementia Research UK</rs> (<rs type="grantNumber">RE1 3556</rs>) which is funded by the <rs type="funder">Medical Research Council, Alzheimer's Society and Alzheimer's Research UK</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_snrbQMx">
+				<org type="funding" xml:id="_VVf78Tg">
 					<idno type="grant-number">U117584256</idno>
 				</org>
-				<org type="funding" xml:id="_FbkCWms">
+				<org type="funding" xml:id="_mQzWXGB">
 					<idno type="grant-number">RE1 3556</idno>
 				</org>
 			</listOrg>

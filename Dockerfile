@@ -1,39 +1,21 @@
-# Usar la imagen oficial de OpenJDK 17 como base
-FROM openjdk:11-slim
+# Usa una imagen oficial de Python
+FROM python:3.9
 
-# Instalar dependencias del sistema
-RUN apt-get update && apt-get install -y \
-    python3 \
-    python3-pip \
-    git \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
-
-# Definir variables de entorno
-ENV GROBID_HOME=/app/grobid-0.8.1
-ENV GROBID_PORT=8070
-
-# Copiar Grobid al contenedor
-COPY grobid-0.8.1 /app/grobid-0.8.1
-
-# Instalar dependencias de Python
+# Define el directorio de trabajo dentro del contenedor
 WORKDIR /app
+
+# Copia los archivos necesarios para la instalación de dependencias
 COPY requirements.txt .
+
+# Instala las dependencias
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Construir Grobid con Gradle
-#WORKDIR $GROBID_HOME
-#Sergio200SsRUN ./gradlew clean install
+# Copia solo las carpetas `src` y `data`
+COPY src/ src/
 
-# Copiar el código fuente de Python
-WORKDIR /app/src
-COPY src/ /app/src/
+# Expone el puerto en el que correrá la app
+EXPOSE 5000
 
-# Exponer el puerto de Grobid
-EXPOSE $GROBID_PORT
+# Comando para ejecutar la aplicación
+CMD ["python", "-u", "src/main.py"]
 
-# Iniciar Grobid y luego ejecutar el script de Python
-CMD java -Xms1G -Xmx4G -jar $GROBID_HOME/grobid-service/target/grobid-service-0.8.1.one-jar.jar & \
-    sleep 10 && \
-    python3 main.py && \
-    wait

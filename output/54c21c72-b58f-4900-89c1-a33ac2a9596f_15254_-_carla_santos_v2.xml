@@ -7,11 +7,11 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Nutritional and sensorial analysis of a lentil flour-based sweet pancake premix [version 2; peer review: 4 approved with reservations]</title>
-				<funder ref="#_nHY3dEk">
-					<orgName type="full">unknown</orgName>
-				</funder>
-				<funder ref="#_BdNgxwT #_eQJQ4FY">
+				<funder ref="#_HWxJ2F2 #_TJ5nWMd">
 					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_EXVmWVR">
+					<orgName type="full">unknown</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -120,7 +120,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.1" ident="GROBID" when="2025-02-06T17:02+0000">
+				<application version="0.8.1" ident="GROBID" when="2025-02-17T22:14+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -202,16 +202,16 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>This research was financially supported by the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation program</rs> under grant agreement No. <rs type="grantNumber">727973</rs> (<rs type="projectName">Transition paths to sustainable legume based systems in Europe [TRUE</rs>]).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_BdNgxwT">
+				<org type="funded-project" xml:id="_HWxJ2F2">
 					<idno type="grant-number">UIDB/50016/2020</idno>
 					<orgName type="project" subtype="full">FCT</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
 				</org>
-				<org type="funded-project" xml:id="_nHY3dEk">
+				<org type="funded-project" xml:id="_EXVmWVR">
 					<idno type="grant-number">101000622</idno>
 					<orgName type="project" subtype="full">RADIANT</orgName>
 				</org>
-				<org type="funded-project" xml:id="_eQJQ4FY">
+				<org type="funded-project" xml:id="_TJ5nWMd">
 					<idno type="grant-number">727973</idno>
 					<orgName type="project" subtype="full">Transition paths to sustainable legume based systems in Europe [TRUE</orgName>
 					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
@@ -1194,7 +1194,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 
 <biblStruct xml:id="b40">
 	<analytic>
-		<title level="a" type="main">Determination of total, soluble, and insoluble dietary fiber in foods-enzymatic-gravimetric method, MES-TRIS buffer: collaborative study</title>
+		<title level="a" type="main">Determination of total, soluble, and insoluble dietary fiber foods-enzymatic-gravimetric method, MES-TRIS buffer: collaborative study</title>
 		<author>
 			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
 		</author>
