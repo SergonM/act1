@@ -43,7 +43,12 @@ git clone https://github.com/SergonM/act1.git
 cd act1
 ```
 
-### 2️⃣ Iniciar los servicios con Docker Compose  
+### 2️⃣ Agregar los artículos en la carpeta data/
+
+    En la carpeta data/ se encuentran 10 artículos en formato PDF por defecto.
+    Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.
+
+### 3️⃣ Iniciar los servicios con Docker Compose
 ```sh
 docker-compose up -d
 ```
@@ -79,8 +84,8 @@ Para más detalles sobre la validación de los resultados, consulta el archivo [
 
 ---
 
-## 📜 Licencia  
-Este proyecto está bajo la licencia **MIT**.  
+## 📜 Licencia
+Este proyecto está bajo la licencia **GNU General Public License v3.0**.  
 
 ---
 
