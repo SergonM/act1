@@ -1,37 +1,37 @@
 # Configuration file for the Sphinx documentation builder.
-#
-# For the full list of built-in configuration values, see the documentation:
+# Para más detalles, consulta la documentación oficial:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
-
-# -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../src'))  # Asegura que Sphinx pueda documentar tu código en src/
 
-# Configurar el tema de Read the Docs
+# Agregar la ruta de src/ si es necesario para la documentación automática
+sys.path.insert(0, os.path.abspath('../src'))  # Ajusta si es necesario
 
-autoapi_dirs = ["../src"]  # Indica dónde está tu código
-
-
+# -- Información del proyecto -----------------------------------------------------
 project = 'Articles Analysis Grobid'
 copyright = '2025, Sergio Gonzalez'
 author = 'Sergio Gonzalez'
 release = '1.0.0'
 
-# -- General configuration ---------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
+# -- Extensiones de Sphinx ------------------------------------------------------
+extensions = [
+    "sphinx.ext.autodoc",       # Documentación automática de código Python
+    "sphinx.ext.napoleon",      # Soporte para docstrings estilo Google/Numpy
+    "sphinx.ext.viewcode",      # Añade enlaces al código fuente en la documentación
+    "autoapi.extension"         # Generación automática de documentación de src/
+]
 
-extensions = ["autoapi.extension"]
+# Configuración de autoapi para extraer documentación de src/
+autoapi_dirs = ["../src"]  # Asegúrate de que esta ruta es correcta
 
+# -- Configuración general ---------------------------------------------------
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+# Configurar idioma en español
 language = 'es'
 
-# -- Options for HTML output -------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-
+# -- Configuración para salida en HTML ----------------------------------------
 html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
