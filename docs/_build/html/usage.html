@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html lang="es" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Uso del Proyecto &#8212; documentación de Articles Analysis Grobid - 1.0.0</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/basic.css?v=686e5160" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=27fed22d" />
+    <script src="_static/documentation_options.js?v=36c4ab74"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/translations.js?v=f85f4cfb"></script>
+    <link rel="index" title="Índice" href="genindex.html" />
+    <link rel="search" title="Búsqueda" href="search.html" />
+    <link rel="next" title="Resultados Esperados" href="results.html" />
+    <link rel="prev" title="Instalación y Configuración" href="installation.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="uso-del-proyecto">
+<h1>Uso del Proyecto<a class="headerlink" href="#uso-del-proyecto" title="Link to this heading">¶</a></h1>
+<section id="estructura-del-proyecto">
+<h2>📁 <strong>Estructura del Proyecto</strong><a class="headerlink" href="#estructura-del-proyecto" title="Link to this heading">¶</a></h2>
+<p>La estructura de archivos del repositorio es la siguiente:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>├── data/                  # 📂 PDFs de entrada para su procesamiento
+├── output/                # 📂 Resultados generados (XMLs, gráficos, JSONs)
+│   ├── wordcloud.png      # 📊 Nube de palabras basada en los abstracts
+│   ├── figures_per_paper.png # 📈 Número de figuras por artículo
+│   ├── links_per_paper.json  # 🔗 Lista de enlaces extraídos
+├── src/                   # 📂 Código fuente del pipeline
+│   ├── config.py          # ⚙️ Configuración del entorno y rutas
+│   ├── extraction.py      # 🔍 Extracción de abstracts, figuras y enlaces
+│   ├── process.py         # 🛠️ Envío de PDFs a Grobid y procesamiento
+│   ├── visualization.py   # 📊 Generación de gráficos y visualizaciones
+│   ├── main.py            # 🚀 Script principal del programa
+├── Dockerfile             # 🐳 Configuración de contenedor para la aplicación
+├── docker-compose.yml     # 🐳 Configuración de servicios (Grobid + App)
+├── requirements.txt       # 📦 Dependencias necesarias
+├── rationale.md           # 📝 Validación de los resultados obtenidos
+├── LICENSE                # ⚖️ Licencia del proyecto
+└── README.md              # 📖 Documentación del repositorio
+</pre></div>
+</div>
+<p>Para ejecutar el análisis, sigue las instrucciones de instalación y configuración.</p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Articles Analysis Grobid</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Ir a" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navegación</h3>
+<p class="caption" role="heading"><span class="caption-text">Contenido:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">Introducción</a></li>
+<li class="toctree-l1"><a class="reference internal" href="installation.html">Instalación y Configuración</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Uso del Proyecto</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#estructura-del-proyecto">📁 <strong>Estructura del Proyecto</strong></a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="results.html">Resultados Esperados</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="installation.html" title="capítulo anterior">Instalación y Configuración</a></li>
+      <li>Next: <a href="results.html" title="próximo capítulo">Resultados Esperados</a></li>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2025, Sergio Gonzalez.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 8.2.0</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="_sources/usage.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
