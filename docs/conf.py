@@ -11,9 +11,7 @@ import sys
 sys.path.insert(0, os.path.abspath('../src'))  # Asegura que Sphinx pueda documentar tu código en src/
 
 # Configurar el tema de Read the Docs
-html_theme = "sphinx_rtd_theme"
 
-extensions = ["autoapi.extension"]
 autoapi_dirs = ["../src"]  # Indica dónde está tu código
 
 
@@ -25,7 +23,7 @@ release = '1.0.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ["autoapi.extension"]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -35,5 +33,5 @@ language = 'es'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
