@@ -5,12 +5,9 @@ build:
   tools:
     python: "3.9"
 
-# Configuración de Sphinx
 sphinx:
   configuration: docs/conf.py
 
-# Versión de Python y dependencias
 python:
-  version: 3.9
   install:
     - requirements: docs/requirements.txt
