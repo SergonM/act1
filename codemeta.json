@@ -13,7 +13,7 @@
     "programmingLanguage": {
       "@type": "ComputerLanguage",
       "name": "Python",
-      "version": "3.8+"
+      "version": "3.10+"
     },
     "license": "GPL-3.0",
     "codeRepository": "https://github.com/SergonM/ArticlesAnalysisGrobid",
