@@ -53,7 +53,7 @@ Este método inicia **Grobid y la aplicación** en contenedores separados, lo qu
 
 ### **Paso 1: Clonar el repositorio**
 ```bash
-git clone https://github.com/SergonM/act1.git
+git clone https://github.com/SergonM/ArticlesAnalysisGrobid.git
 cd act1
 ```
 
@@ -88,7 +88,7 @@ Este método usa **Python 3.10+** para ejecutar la aplicación y un contenedor *
 
 ### **Paso 1: Clonar el repositorio**
 ```bash
-git clone https://github.com/SergonM/act1.git
+git clone https://github.com/SergonM/ArticlesAnalysisGrobid.git
 cd act1
 ```
 
