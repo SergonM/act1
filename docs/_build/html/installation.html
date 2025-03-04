@@ -49,7 +49,16 @@
 <li class="toctree-l1"><a class="reference internal" href="introduction.html">Introducción</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Instalación y Configuración</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#metodo-1-usando-docker-compose-recomendado">1️⃣ <strong>Método 1: Usando Docker Compose (Recomendado)</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-1-clonar-el-repositorio"><strong>Paso 1: Clonar el repositorio</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-2-agregar-los-articulos-en-la-carpeta-data"><strong>Paso 2: Agregar los artículos en la carpeta `data/`</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-3-iniciar-los-servicios-con-docker-compose"><strong>Paso 3: Iniciar los servicios con Docker Compose</strong></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#metodo-2-usando-python-3-10-con-virtualenv-y-docker-para-grobid">2️⃣ <strong>Método 2: Usando Python 3.10+ con Virtualenv y Docker para Grobid</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id1"><strong>Paso 1: Clonar el repositorio</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-2-crear-y-activar-un-entorno-virtual"><strong>Paso 2: Crear y activar un entorno virtual</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-3-instalar-las-dependencias"><strong>Paso 3: Instalar las dependencias</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-4-agregar-los-articulos-en-la-carpeta-data"><strong>Paso 4: Agregar los artículos en la carpeta `data/`</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-5-iniciar-grobid-con-docker"><strong>Paso 5: Iniciar Grobid con Docker</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#paso-6-ejecutar-la-aplicacion-manualmente"><strong>Paso 6: Ejecutar la aplicación manualmente</strong></a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="usage.html">Uso del Proyecto</a></li>
@@ -92,17 +101,24 @@
 <section id="metodo-1-usando-docker-compose-recomendado">
 <h2>1️⃣ <strong>Método 1: Usando Docker Compose (Recomendado)</strong><a class="headerlink" href="#metodo-1-usando-docker-compose-recomendado" title="Link to this heading"></a></h2>
 <p>Este método inicia <strong>Grobid y la aplicación</strong> en contenedores separados, lo que facilita la ejecución sin instalar dependencias manualmente.</p>
-<p>### <strong>Paso 1: Clonar el repositorio</strong>
-.. code-block:: bash</p>
-<blockquote>
-<div><p>git clone <a class="reference external" href="https://github.com/SergonM/act1.git">https://github.com/SergonM/act1.git</a>
-cd act1</p>
-</div></blockquote>
-<p>### <strong>Paso 2: Agregar los artículos en la carpeta `data/`</strong>
-- En la carpeta <cite>data/</cite> hay <strong>2 artículos en PDF</strong> por defecto.
-- Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.</p>
-<p>### <strong>Paso 3: Iniciar los servicios con Docker Compose</strong>
-Ejecuta el siguiente comando para levantar los servicios:</p>
+</section>
+<section id="paso-1-clonar-el-repositorio">
+<h2><strong>Paso 1: Clonar el repositorio</strong><a class="headerlink" href="#paso-1-clonar-el-repositorio" title="Link to this heading"></a></h2>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/SergonM/act1.git
+<span class="nb">cd</span><span class="w"> </span>act1
+</pre></div>
+</div>
+</section>
+<section id="paso-2-agregar-los-articulos-en-la-carpeta-data">
+<h2><strong>Paso 2: Agregar los artículos en la carpeta `data/`</strong><a class="headerlink" href="#paso-2-agregar-los-articulos-en-la-carpeta-data" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>En la carpeta <cite>data/</cite> hay <strong>2 artículos en PDF</strong> por defecto.</p></li>
+<li><p>Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.</p></li>
+</ul>
+</section>
+<section id="paso-3-iniciar-los-servicios-con-docker-compose">
+<h2><strong>Paso 3: Iniciar los servicios con Docker Compose</strong><a class="headerlink" href="#paso-3-iniciar-los-servicios-con-docker-compose" title="Link to this heading"></a></h2>
+<p>Ejecuta el siguiente comando para levantar los servicios:</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>docker-compose<span class="w"> </span>up<span class="w"> </span>-d
 </pre></div>
 </div>
@@ -120,36 +136,48 @@ Ejecuta el siguiente comando para levantar los servicios:</p>
 <section id="metodo-2-usando-python-3-10-con-virtualenv-y-docker-para-grobid">
 <h2>2️⃣ <strong>Método 2: Usando Python 3.10+ con Virtualenv y Docker para Grobid</strong><a class="headerlink" href="#metodo-2-usando-python-3-10-con-virtualenv-y-docker-para-grobid" title="Link to this heading"></a></h2>
 <p>Este método usa <strong>Python 3.10+</strong> para ejecutar la aplicación y un contenedor <strong>Docker para Grobid</strong>.</p>
-<p>### <strong>Paso 1: Clonar el repositorio</strong>
-.. code-block:: bash</p>
-<blockquote>
-<div><p>git clone <a class="reference external" href="https://github.com/SergonM/act1.git">https://github.com/SergonM/act1.git</a>
-cd act1</p>
-</div></blockquote>
-<p>### <strong>Paso 2: Crear y activar un entorno virtual</strong>
-Ejecuta los siguientes comandos para crear un entorno virtual en Python:</p>
+</section>
+<section id="id1">
+<h2><strong>Paso 1: Clonar el repositorio</strong><a class="headerlink" href="#id1" title="Link to this heading"></a></h2>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/SergonM/act1.git
+<span class="nb">cd</span><span class="w"> </span>act1
+</pre></div>
+</div>
+</section>
+<section id="paso-2-crear-y-activar-un-entorno-virtual">
+<h2><strong>Paso 2: Crear y activar un entorno virtual</strong><a class="headerlink" href="#paso-2-crear-y-activar-un-entorno-virtual" title="Link to this heading"></a></h2>
+<p>Ejecuta los siguientes comandos para crear un entorno virtual en Python:</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python<span class="w"> </span>-m<span class="w"> </span>venv<span class="w"> </span>venv
 <span class="nb">source</span><span class="w"> </span>venv/bin/activate<span class="w">  </span><span class="c1"># En Linux/macOS</span>
 venv<span class="se">\S</span>cripts<span class="se">\a</span>ctivate<span class="w">     </span><span class="c1"># En Windows</span>
 </pre></div>
 </div>
-<p>### <strong>Paso 3: Instalar las dependencias</strong>
-.. code-block:: bash</p>
-<blockquote>
-<div><p>pip install -r requirements.txt</p>
-</div></blockquote>
-<p>### <strong>Paso 4: Agregar los artículos en la carpeta `data/`</strong>
-- En la carpeta <cite>data/</cite> hay <strong>2 artículos en PDF</strong> por defecto.
-- Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.</p>
-<p>### <strong>Paso 5: Iniciar Grobid con Docker</strong>
-Ejecuta el siguiente comando para iniciar <strong>Grobid</strong> en un contenedor <strong>Docker</strong>:</p>
+</section>
+<section id="paso-3-instalar-las-dependencias">
+<h2><strong>Paso 3: Instalar las dependencias</strong><a class="headerlink" href="#paso-3-instalar-las-dependencias" title="Link to this heading"></a></h2>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt
+</pre></div>
+</div>
+</section>
+<section id="paso-4-agregar-los-articulos-en-la-carpeta-data">
+<h2><strong>Paso 4: Agregar los artículos en la carpeta `data/`</strong><a class="headerlink" href="#paso-4-agregar-los-articulos-en-la-carpeta-data" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>En la carpeta <cite>data/</cite> hay <strong>2 artículos en PDF</strong> por defecto.</p></li>
+<li><p>Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.</p></li>
+</ul>
+</section>
+<section id="paso-5-iniciar-grobid-con-docker">
+<h2><strong>Paso 5: Iniciar Grobid con Docker</strong><a class="headerlink" href="#paso-5-iniciar-grobid-con-docker" title="Link to this heading"></a></h2>
+<p>Ejecuta el siguiente comando para iniciar <strong>Grobid</strong> en un contenedor <strong>Docker</strong>:</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>run<span class="w"> </span>-t<span class="w"> </span>--rm<span class="w"> </span>-p<span class="w"> </span><span class="m">8070</span>:8070<span class="w"> </span>-e<span class="w"> </span><span class="nv">JAVA_TOOL_OPTIONS</span><span class="o">=</span>-XX:-UseContainerSupport<span class="w"> </span>lfoppiano/grobid:0.8.1
 </pre></div>
 </div>
 <p>🔹 Esto iniciará <strong>Grobid en `http://localhost:8070`</strong>.
 🔹 Deja esta terminal abierta mientras se ejecuta Grobid.</p>
-<p>### <strong>Paso 6: Ejecutar la aplicación manualmente</strong>
-En otra terminal, asegúrate de que el entorno virtual sigue activado y ejecuta:</p>
+</section>
+<section id="paso-6-ejecutar-la-aplicacion-manualmente">
+<h2><strong>Paso 6: Ejecutar la aplicación manualmente</strong><a class="headerlink" href="#paso-6-ejecutar-la-aplicacion-manualmente" title="Link to this heading"></a></h2>
+<p>En otra terminal, asegúrate de que el entorno virtual sigue activado y ejecuta:</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python<span class="w"> </span>src/main.py
 </pre></div>
 </div>
