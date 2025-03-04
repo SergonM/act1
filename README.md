@@ -1,4 +1,7 @@
-# 📝 Análisis de Artículos Científicos con Grobid  
+# 📝 Análisis de Artículos Científicos con Grobid
+
+
+📖 **Documentación disponible en**: [ReadTheDocs](https://articlesanalysisgrobid.readthedocs.io/es/latest/)
 
 Este repositorio contiene un pipeline de procesamiento de artículos científicos en **PDF**, utilizando **Grobid** para la extracción de datos y herramientas de visualización en **Python**.  
 
