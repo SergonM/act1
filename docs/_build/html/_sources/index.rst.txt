@@ -13,6 +13,6 @@ Este repositorio contiene un pipeline para analizar artículos científicos en P
    installation
    usage
    results
-   validation
+   rationale
 
 ---
