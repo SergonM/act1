@@ -21,7 +21,7 @@ Este método inicia **Grobid y la aplicación** en contenedores separados, lo qu
 .. code-block:: bash
 
    git clone https://github.com/SergonM/ArticlesAnalysisGrobid.git
-   cd act1
+   cd ArticlesAnalysisGrobid
 
 **Paso 2: Agregar los artículos en la carpeta `data/`**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -60,7 +60,7 @@ Este método usa **Python 3.10+** para ejecutar la aplicación y un contenedor *
 .. code-block:: bash
 
    git clone https://github.com/SergonM/ArticlesAnalysisGrobid.git
-   cd act1
+   cd ArticlesAnalysisGrobid
 
 **Paso 2: Crear y activar un entorno virtual**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
