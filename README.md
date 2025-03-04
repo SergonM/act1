@@ -62,10 +62,10 @@ cd ArticlesAnalysisGrobid
 - Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.
 
 ### **Paso 3: Iniciar los servicios con Docker Compose**
-Ejecuta el siguiente comando para levantar los servicios:
+Ejecuta el siguiente comando para levantar los servicios (en versiones de Docker antiguas es docker-compose):
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 🔹 Esto iniciará:  
@@ -77,7 +77,7 @@ docker-compose up -d
 - Para detener los servicios:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 ---
