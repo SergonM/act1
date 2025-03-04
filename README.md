@@ -3,7 +3,7 @@
 Este repositorio contiene un pipeline de procesamiento de artículos científicos en **PDF**, utilizando **Grobid** para la extracción de datos y herramientas de visualización en **Python**.  
 
 ## 🚀 Objetivos del Proyecto  
-El programa realiza los siguientes análisis sobre **10 artículos de acceso abierto**:  
+El programa realiza los siguientes análisis sobre **artículos de acceso abierto**:  
 1. **📌 Nube de palabras** basada en los resúmenes (**abstracts**).  
 2. **📊 Gráfico** con el número de figuras por artículo.  
 3. **🔗 Lista de enlaces** extraídos de cada documento.  
@@ -45,7 +45,7 @@ cd act1
 
 ### 2️⃣ Agregar los artículos en la carpeta data/
 
-    En la carpeta data/ se encuentran 10 artículos en formato PDF por defecto.
+    En la carpeta data/ se encuentran 2 artículos en formato PDF por defecto.
     Puedes reemplazarlos o agregar nuevos documentos en esta carpeta.
 
 ### 3️⃣ Iniciar los servicios con Docker Compose
