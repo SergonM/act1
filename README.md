@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/927833777.svg)](https://doi.org/10.5281/zenodo.14968794)
 # 📝 Análisis de Artículos Científicos con Grobid
 
 
