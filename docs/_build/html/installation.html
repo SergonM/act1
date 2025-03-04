@@ -121,8 +121,8 @@
 </section>
 <section id="paso-3-iniciar-los-servicios-con-docker-compose">
 <h3><strong>Paso 3: Iniciar los servicios con Docker Compose</strong><a class="headerlink" href="#paso-3-iniciar-los-servicios-con-docker-compose" title="Link to this heading"></a></h3>
-<p>Ejecuta el siguiente comando para levantar los servicios:</p>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>docker-compose<span class="w"> </span>up<span class="w"> </span>-d
+<p>Ejecuta el siguiente comando para levantar los servicios (en versiones de Docker antiguas es docker-compose):</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>compose<span class="w"> </span>up<span class="w"> </span>-d
 </pre></div>
 </div>
 <p>🔹 Esto iniciará:
@@ -131,7 +131,7 @@
 <p>📌 <strong>Notas</strong>:
 - Si Grobid no responde, verifica que el servicio esté activo en <cite>http://localhost:8070/api/isalive</cite>.
 - Para detener los servicios:</p>
-<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>docker-compose<span class="w"> </span>down
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>docker<span class="w"> </span>compose<span class="w"> </span>down
 </pre></div>
 </div>
 </section>

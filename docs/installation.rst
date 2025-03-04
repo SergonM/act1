@@ -30,11 +30,11 @@ Este método inicia **Grobid y la aplicación** en contenedores separados, lo qu
 
 **Paso 3: Iniciar los servicios con Docker Compose**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Ejecuta el siguiente comando para levantar los servicios:
+Ejecuta el siguiente comando para levantar los servicios (en versiones de Docker antiguas es docker-compose):
 
 .. code-block:: bash
 
-   docker-compose up -d
+   docker compose up -d
 
 🔹 Esto iniciará:  
 - **Grobid** en `http://localhost:8070`  
@@ -46,7 +46,7 @@ Ejecuta el siguiente comando para levantar los servicios:
 
 .. code-block:: bash
 
-   docker-compose down
+   docker compose down
 
 -------------------------------------------------------------
 
