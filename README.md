@@ -55,7 +55,7 @@ Este método inicia **Grobid y la aplicación** en contenedores separados, lo qu
 ```bash
 git clone https://github.com/SergonM/ArticlesAnalysisGrobid.git
 cd ArticlesAnalysisGrobid
-```https://github.com/SergonM/act1.git
+```
 
 ### **Paso 2: Agregar los artículos en la carpeta `data/`**
 - En la carpeta `data/` hay **2 artículos en PDF** por defecto.
