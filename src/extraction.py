@@ -38,8 +38,7 @@ def extract_links():
             for ref in root.findall(".//tei:ref", NAMESPACE):
                 link = ref.get("target")
                 if link and not link.startswith("#"):
-                    context = ref.text if ref.text else "No contexto disponible"
-                    links_info.append({"link": link, "context": context})
+                    links_info.append(link)
             
             links_data[file.replace(".xml", "")] = links_info
     

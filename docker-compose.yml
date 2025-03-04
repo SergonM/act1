@@ -5,6 +5,8 @@ services:
     image: lfoppiano/grobid:0.8.1
     ports:
       - "8070:8070"
+    environment:
+      - JAVA_TOOL_OPTIONS=-XX:-UseContainerSupport
     restart: unless-stopped
 
   app:
