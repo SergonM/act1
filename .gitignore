@@ -1,0 +1,30 @@
+# Archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de entornos virtuales
+venv/
+env/
+*.env
+*.venv
+
+# Archivos de configuración y dependencias temporales
+*.log
+*.cache
+*.egg-info/
+.Python
+pip-log.txt
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos de Docker y entornos de despliegue
+docker-compose.override.yml
+.envrc
+secrets.json
+instance/
+.DS_Store
